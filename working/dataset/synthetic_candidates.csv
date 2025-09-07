@@ -1,0 +1,1001 @@
+candidate_id,age,10th_score,12th_score,12th_stream,grad_course,grad_stream,grad_score,languages_known,known_skills,additional_certifications,internship_experience,reservation_category,qualification_level,location_preference,applied_for_internship
+1,22,75,71,Arts,M.Tech,General,81.0,"Telugu,Marathi,English","Teamwork,Marketing,SQL",Research Cert,Cyber Security Intern,OBC,Postgraduate,Lucknow,True
+2,21,70,82,,,,,"Telugu,Tamil,Marathi","Finance,SQL",,,ST,10th,Pune,True
+3,25,93,73,Commerce,,,,"Urdu,Punjabi,Kannada","Finance,Java,Marketing,AI/ML",,,OBC,12th,Indore,True
+4,25,76,82,Commerce,B.Com,Electrical,78.0,Telugu,"React,Operations",,,OBC,Graduate,Delhi,True
+5,20,85,71,Science,B.A,Finance,85.0,Telugu,"Marketing,Cybersecurity,Teamwork,SQL",Finance Cert,Cyber Security Intern,ST,Graduate,Indore,True
+6,24,75,78,,,,,Gujarati,"Networking,SQL,Communication",,,ST,10th,Delhi,True
+7,24,80,79,Commerce,M.Sc,General,81.0,"Punjabi,Odia","Operations,Python",Cybersecurity Cert,Cyber Security Intern,OBC,Postgraduate,Ahmedabad,True
+8,23,94,81,Science,,,,"Assamese,English","Marketing,Lab Work,Teamwork",,,General,12th,Mumbai,True
+9,25,76,75,Science,M.Sc,General,88.0,"Hindi,Punjabi","SQL,Lab Work",Cybersecurity Cert,Mechanical Intern,ST,Postgraduate,Ahmedabad,True
+10,20,73,83,Arts,B.Com,General,77.0,"Gujarati,Marathi","React,Research,Java,Cybersecurity",Cybersecurity Cert,,General,Graduate,Chennai,True
+11,25,79,74,Arts,M.Tech,General,78.0,Hindi,"SQL,React",Food Safety Cert,,General,Postgraduate,Mumbai,True
+12,22,81,85,Arts,B.Sc,Electrical,66.0,"Bengali,Punjabi","Communication,Operations",,,OBC,Graduate,Lucknow,True
+13,21,77,86,Science,,,,"Telugu,Urdu","Cybersecurity,Teamwork,Marketing,SQL",,,ST,12th,Chandigarh,True
+14,23,90,74,,,,,English,"Marketing,Operations",,,ST,10th,Chandigarh,True
+15,22,77,75,Commerce,,,,"Urdu,Hindi","Teamwork,Finance,Java,Communication",,,SC,12th,Bangalore,True
+16,21,79,83,,,,,"Malayalam,Odia,Hindi","Cybersecurity,SQL",,,OBC,10th,Indore,True
+17,20,81,76,Science,B.Sc,Mechanical,71.0,Kannada,"Python,SQL,Operations",AI Cert,Cyber Security Intern,General,Graduate,Pune,True
+18,20,82,89,Arts,,,,Malayalam,"AI/ML,SQL,Finance",,,OBC,12th,Ahmedabad,True
+19,21,87,71,,,,,Odia,"React,Research",,,SC,10th,Hyderabad,True
+20,25,91,70,,,,,Marathi,"SQL,Lab Work,Teamwork",,,General,10th,Kolkata,True
+21,21,81,73,Commerce,,,,"English,Urdu,Punjabi","Cybersecurity,Lab Work",,,OBC,12th,Delhi,True
+22,22,80,80,,,,,"Assamese,Malayalam","Marketing,Communication,Networking",,,OBC,10th,Jaipur,True
+23,24,95,73,,,,,Gujarati,"AI/ML,Lab Work,Teamwork,Operations",,,General,10th,Hyderabad,True
+24,24,92,86,Science,B.A,Computer Science,68.0,Assamese,"Python,Communication",,Food Science Intern,SC,Graduate,Ahmedabad,True
+25,23,79,84,Arts,BE,HR,87.0,"Gujarati,Punjabi","Teamwork,Operations,Finance,React",,,OBC,Graduate,Bangalore,True
+26,25,78,79,Arts,,,,"Malayalam,Odia","Operations,React,Teamwork,Cybersecurity",,,OBC,12th,Ahmedabad,True
+27,21,80,74,Arts,B.A,HR,86.0,"Urdu,English,Bengali","Networking,Finance",Research Cert,,General,Graduate,Lucknow,True
+28,20,83,90,,,,,"Gujarati,Malayalam","Cybersecurity,React",,,SC,10th,Chennai,True
+29,24,83,88,Commerce,M.Tech,General,93.0,Malayalam,"Communication,Lab Work,AI/ML",AI Cert,,General,Postgraduate,Hyderabad,True
+30,22,94,71,Commerce,BE,Computer Science,88.0,"English,Odia","Java,Python",,HR Intern,General,Graduate,Mumbai,True
+31,23,74,85,Commerce,,,,"Assamese,Hindi","Research,Teamwork",,,OBC,12th,Lucknow,True
+32,25,75,87,Arts,,,,"Marathi,Tamil,Odia","Communication,Cybersecurity",,,OBC,12th,Chandigarh,True
+33,20,79,70,,,,,"Gujarati,Assamese","Java,Cybersecurity,Python,Research",,,OBC,10th,Lucknow,True
+34,24,71,85,,,,,"Gujarati,Urdu","Cybersecurity,Python,Operations",,,SC,10th,Indore,True
+35,23,93,90,,,,,"Bengali,Assamese","Java,Python,Networking,Marketing",,,OBC,10th,Indore,True
+36,22,87,70,,,,,"Telugu,Odia","AI/ML,Research,Cybersecurity,Networking",,,ST,10th,Chennai,True
+37,21,75,71,Science,BE,Computer Science,67.0,"Odia,Urdu","Operations,Marketing",,,ST,Graduate,Kolkata,True
+38,22,79,84,Commerce,M.Sc,General,89.0,"Urdu,Punjabi,Telugu","SQL,Marketing,Python",Cybersecurity Cert,Food Science Intern,OBC,Postgraduate,Hyderabad,True
+39,22,90,87,Commerce,,,,"Bengali,Tamil,Punjabi","Python,AI/ML,SQL,React",,,SC,12th,Ahmedabad,True
+40,22,78,75,Arts,MBA,General,85.0,"Odia,Urdu","AI/ML,Python,Research,Networking",Food Safety Cert,Cyber Security Intern,General,Postgraduate,Hyderabad,True
+41,25,76,76,Arts,BE,Mechanical,65.0,"Gujarati,Assamese","Finance,Operations,Marketing,Lab Work",Food Safety Cert,Mechanical Intern,SC,Graduate,Hyderabad,True
+42,21,88,70,Arts,B.Sc,HR,89.0,"Urdu,Kannada,Gujarati","Networking,Java,Teamwork",Cybersecurity Cert,Marketing Intern,General,Graduate,Mumbai,True
+43,24,87,85,Arts,,,,"Punjabi,Telugu","Java,Operations,Lab Work,Teamwork",,,ST,12th,Indore,True
+44,25,76,77,Arts,,,,"Assamese,Telugu","Communication,Python",,,ST,12th,Jaipur,True
+45,24,72,89,,,,,"English,Urdu,Gujarati","Research,Python,Marketing,Communication",,,ST,10th,Hyderabad,True
+46,22,73,70,Commerce,,,,Marathi,"Cybersecurity,Communication,Finance,AI/ML",,,ST,12th,Kolkata,True
+47,21,78,81,Science,BE,Computer Science,75.0,"Telugu,Hindi","Teamwork,Finance,Research,AI/ML",Cybersecurity Cert,Food Science Intern,ST,Graduate,Lucknow,True
+48,20,70,78,Science,B.Tech,HR,78.0,"Kannada,Odia,Malayalam","Finance,Communication",Cybersecurity Cert,Technical Intern,OBC,Graduate,Hyderabad,True
+49,23,84,83,Commerce,M.Tech,General,84.0,"Tamil,Odia,Hindi","Java,Cybersecurity",Food Safety Cert,Cyber Security Intern,OBC,Postgraduate,Jaipur,True
+50,23,87,84,Commerce,,,,"Punjabi,Marathi,Malayalam","React,Cybersecurity",,,OBC,12th,Indore,True
+51,21,83,70,Science,,,,Assamese,"Lab Work,Python,React,Networking",,,OBC,12th,Jaipur,True
+52,22,79,88,Commerce,MBA,General,85.0,"Odia,Malayalam,Assamese","SQL,Cybersecurity,Teamwork,Java",Finance Cert,Marketing Intern,SC,Postgraduate,Chandigarh,True
+53,20,71,73,Commerce,M.Sc,General,91.0,Urdu,"Lab Work,Marketing,Communication",AI Cert,Research Intern,SC,Postgraduate,Kolkata,True
+54,22,85,85,Science,,,,Malayalam,"Communication,Operations,AI/ML",,,SC,12th,Mumbai,True
+55,23,89,76,Arts,B.Com,Electrical,85.0,"Assamese,Marathi","Research,AI/ML",Cybersecurity Cert,Food Science Intern,General,Graduate,Hyderabad,True
+56,20,90,89,,,,,"Odia,Urdu,Hindi","React,Lab Work",,,General,10th,Chennai,True
+57,23,82,84,Science,,,,"Bengali,Tamil","Finance,SQL,Cybersecurity",,,ST,12th,Hyderabad,True
+58,24,85,79,Commerce,,,,"Odia,Telugu,Marathi","React,Finance,Teamwork,Operations",,,General,12th,Chennai,True
+59,25,88,81,Arts,M.Sc,General,88.0,Kannada,"SQL,Finance,Networking,Java",Finance Cert,,SC,Postgraduate,Mumbai,True
+60,23,84,79,Arts,M.Sc,General,76.0,Marathi,"Cybersecurity,Java",Cybersecurity Cert,Cyber Security Intern,SC,Postgraduate,Jaipur,True
+61,24,73,75,Arts,,,,"Kannada,Urdu","Networking,Marketing,AI/ML,SQL",,,OBC,12th,Delhi,True
+62,24,88,85,Arts,BE,Finance,66.0,"Bengali,Malayalam","React,Research",,Technical Intern,General,Graduate,Hyderabad,True
+63,23,83,72,Science,,,,"Assamese,Gujarati","React,Research,Communication",,,General,12th,Pune,True
+64,20,84,70,Arts,,,,"Gujarati,Telugu","Communication,Teamwork",,,OBC,12th,Hyderabad,True
+65,21,71,70,,,,,"Odia,Telugu","Communication,Teamwork",,,OBC,10th,Delhi,True
+66,22,86,72,,,,,"Tamil,Assamese","React,Cybersecurity,Networking",,,OBC,10th,Ahmedabad,True
+67,23,81,75,,,,,"Punjabi,Assamese","Cybersecurity,SQL",,,SC,10th,Mumbai,True
+68,24,87,83,Commerce,,,,"Kannada,Odia,Punjabi","Operations,Java,Python",,,OBC,12th,Delhi,True
+69,20,85,82,,,,,Punjabi,"Finance,Java",,,SC,10th,Delhi,True
+70,21,89,70,Science,M.Sc,General,84.0,"Urdu,Assamese,Marathi","Python,Communication",Food Safety Cert,Food Science Intern,General,Postgraduate,Delhi,True
+71,21,78,70,Arts,,,,Assamese,"Operations,React,SQL",,,ST,12th,Pune,True
+72,24,74,72,Science,,,,Bengali,"Teamwork,Java,SQL",,,ST,12th,Pune,True
+73,25,70,73,Science,MBA,General,95.0,"Marathi,Bengali,Tamil","AI/ML,SQL,Lab Work,Networking",MS Office Cert,HR Intern,SC,Postgraduate,Bangalore,True
+74,23,71,74,Commerce,BE,General,87.0,English,"Cybersecurity,Python,AI/ML,SQL",AI Cert,Cyber Security Intern,General,Graduate,Bangalore,True
+75,21,79,80,Commerce,,,,Assamese,"React,Cybersecurity",,,ST,12th,Kolkata,True
+76,22,76,72,Science,M.Tech,General,75.0,"Kannada,Telugu","Finance,React,AI/ML",AI Cert,HR Intern,ST,Postgraduate,Indore,True
+77,21,82,74,Commerce,MBA,General,77.0,"Odia,Assamese,Tamil","Operations,Lab Work,Research",Finance Cert,,OBC,Postgraduate,Bangalore,True
+78,24,81,76,Commerce,MBA,General,87.0,"Marathi,Bengali","Lab Work,Cybersecurity,Operations",Food Safety Cert,,General,Postgraduate,Mumbai,True
+79,23,70,79,Commerce,M.Sc,General,89.0,"Bengali,Hindi","Operations,Marketing",AI Cert,,SC,Postgraduate,Delhi,True
+80,23,88,74,Arts,,,,"Bengali,Punjabi,Malayalam","Teamwork,Python,Research,Operations",,,General,12th,Jaipur,True
+81,24,93,79,Science,B.A,General,70.0,"Kannada,English","Lab Work,Finance",,Food Science Intern,SC,Graduate,Mumbai,True
+82,22,86,83,Arts,,,,"Punjabi,Telugu","Java,Communication,AI/ML",,,ST,12th,Chennai,True
+83,21,79,80,Science,,,,"Urdu,Assamese","Operations,React",,,SC,12th,Indore,True
+84,25,76,73,,,,,"Assamese,Malayalam,Punjabi","Communication,Teamwork,Marketing,Java",,,OBC,10th,Pune,True
+85,24,80,76,Commerce,,,,"Kannada,Urdu,Bengali","SQL,Lab Work",,,ST,12th,Jaipur,True
+86,20,90,80,Commerce,,,,Gujarati,"Communication,Research",,,SC,12th,Lucknow,True
+87,21,91,75,Commerce,,,,Urdu,"AI/ML,Networking",,,ST,12th,Hyderabad,True
+88,25,78,74,Commerce,,,,"Bengali,Hindi","Java,Lab Work,Research,Communication",,,SC,12th,Mumbai,True
+89,23,88,71,Science,,,,"Urdu,Telugu,Bengali","Marketing,SQL,Communication,Finance",,,SC,12th,Ahmedabad,True
+90,22,86,86,,,,,"Urdu,Gujarati","Operations,Marketing,Networking",,,General,10th,Lucknow,True
+91,20,87,90,Commerce,M.Tech,General,86.0,"Odia,Kannada,Marathi","AI/ML,Python,Research",Finance Cert,Mechanical Intern,OBC,Postgraduate,Delhi,True
+92,20,86,90,Commerce,B.Tech,Mechanical,70.0,"English,Bengali,Assamese","Java,Python,Operations,Networking",,,SC,Graduate,Lucknow,True
+93,20,89,86,Arts,M.Sc,General,91.0,"Marathi,Malayalam,Urdu","SQL,Teamwork",Research Cert,,ST,Postgraduate,Mumbai,True
+94,23,80,87,,,,,"Telugu,Punjabi","Operations,Marketing,Networking,Cybersecurity",,,ST,10th,Delhi,True
+95,25,85,74,,,,,"Punjabi,Assamese,Hindi","Teamwork,Communication",,,General,10th,Hyderabad,True
+96,23,95,71,,,,,"Malayalam,Odia","Research,Finance",,,SC,10th,Delhi,True
+97,22,83,72,Arts,,,,Telugu,"Python,SQL,Communication",,,General,12th,Pune,True
+98,21,70,75,Arts,,,,Telugu,"Operations,Teamwork,React,Cybersecurity",,,OBC,12th,Mumbai,True
+99,23,86,86,Commerce,MBA,General,77.0,Telugu,"Teamwork,Marketing",AI Cert,Cyber Security Intern,General,Postgraduate,Indore,True
+100,23,88,75,Commerce,B.Sc,HR,78.0,"Telugu,Assamese,Urdu","Java,Research",AI Cert,Technical Intern,ST,Graduate,Jaipur,True
+101,21,88,88,Arts,B.A,HR,68.0,"Hindi,Urdu,Telugu","Finance,Lab Work",,,OBC,Graduate,Pune,True
+102,25,82,81,Science,,,,"Telugu,Odia","React,Teamwork",,,SC,12th,Ahmedabad,True
+103,24,91,84,Science,B.A,General,81.0,"Bengali,Punjabi","Networking,Python",Cybersecurity Cert,Food Science Intern,ST,Graduate,Indore,True
+104,25,74,85,Science,,,,Odia,"Finance,Lab Work,React,AI/ML",,,OBC,12th,Bangalore,True
+105,25,92,78,,,,,"Bengali,Marathi,Gujarati","Networking,Python,Research,Operations",,,ST,10th,Hyderabad,True
+106,23,91,84,Commerce,B.Com,Mechanical,89.0,"English,Telugu,Urdu","React,Operations,Lab Work,Java",Research Cert,Food Science Intern,General,Graduate,Indore,True
+107,21,89,88,Science,,,,"Odia,Marathi,Gujarati","Lab Work,AI/ML,Marketing,React",,,General,12th,Bangalore,True
+108,23,78,86,,,,,"Bengali,English","Lab Work,Research",,,SC,10th,Hyderabad,True
+109,25,72,75,,,,,"English,Telugu,Tamil","Operations,Communication,Research,Marketing",,,General,10th,Pune,True
+110,23,86,90,Science,B.Sc,Mechanical,76.0,"Kannada,Marathi","Networking,Lab Work",,HR Intern,ST,Graduate,Chennai,True
+111,22,92,90,Science,M.Tech,General,88.0,"Telugu,Odia,Punjabi","React,AI/ML,Marketing",Finance Cert,Food Science Intern,OBC,Postgraduate,Bangalore,True
+112,25,81,74,Science,,,,Urdu,"Networking,Cybersecurity,Teamwork,AI/ML",,,General,12th,Pune,True
+113,22,82,70,Commerce,B.A,Computer Science,77.0,"Marathi,English","Research,Cybersecurity",AI Cert,,OBC,Graduate,Kolkata,True
+114,24,70,83,,,,,"Odia,Urdu,Punjabi","React,Operations,Lab Work",,,SC,10th,Mumbai,True
+115,24,76,79,,,,,"English,Malayalam","React,Operations,Cybersecurity,Java",,,General,10th,Delhi,True
+116,21,83,87,Arts,,,,Hindi,"Teamwork,Marketing,Networking",,,OBC,12th,Chennai,True
+117,22,90,85,,,,,"Malayalam,Kannada,Urdu","Teamwork,Communication,Networking,React",,,OBC,10th,Hyderabad,True
+118,21,79,87,,,,,"Telugu,Assamese,Bengali","Networking,SQL,Marketing",,,General,10th,Delhi,True
+119,25,71,80,Commerce,,,,"Telugu,Assamese,Gujarati","Finance,SQL,Communication",,,General,12th,Mumbai,True
+120,24,88,74,Commerce,B.Tech,General,80.0,"Kannada,Punjabi","Teamwork,Communication",Finance Cert,HR Intern,SC,Graduate,Mumbai,True
+121,20,81,73,Commerce,B.Com,General,68.0,Urdu,"Java,React,Research",Research Cert,Food Science Intern,ST,Graduate,Lucknow,True
+122,25,77,75,Commerce,,,,Marathi,"Teamwork,Lab Work",,,SC,12th,Hyderabad,True
+123,25,78,82,Science,BE,General,90.0,"English,Assamese,Tamil","Python,Research,Lab Work",Research Cert,Technical Intern,ST,Graduate,Lucknow,True
+124,24,85,78,,,,,"Telugu,Tamil,Gujarati","Lab Work,Communication,Marketing",,,General,10th,Bangalore,True
+125,25,85,80,Arts,,,,"Bengali,Urdu","Lab Work,Java,React,Teamwork",,,SC,12th,Hyderabad,True
+126,21,77,85,Commerce,,,,Kannada,"Java,Networking,SQL",,,SC,12th,Mumbai,True
+127,23,72,86,Science,B.Com,General,78.0,"Bengali,Marathi,Gujarati","Java,Operations,React",,Mechanical Intern,OBC,Graduate,Pune,True
+128,22,83,84,Arts,,,,"Telugu,Bengali,Marathi","Cybersecurity,Operations",,,OBC,12th,Bangalore,True
+129,22,77,90,Arts,B.Tech,HR,86.0,Malayalam,"Research,Lab Work,Networking",MS Office Cert,,OBC,Graduate,Delhi,True
+130,23,95,78,Science,,,,"Bengali,Kannada,Marathi","Teamwork,Lab Work",,,OBC,12th,Delhi,True
+131,25,70,77,Science,B.Com,Finance,82.0,"Marathi,Kannada,Urdu","Communication,SQL,Cybersecurity,Python",MS Office Cert,Research Intern,OBC,Graduate,Indore,True
+132,23,73,71,Commerce,M.Sc,General,84.0,"Tamil,Gujarati,Telugu","Cybersecurity,Python,AI/ML,React",Cybersecurity Cert,Cyber Security Intern,SC,Postgraduate,Jaipur,True
+133,22,91,86,Arts,M.Tech,General,92.0,"Malayalam,Urdu","Lab Work,SQL",Finance Cert,,SC,Postgraduate,Indore,True
+134,25,94,75,Commerce,,,,"Malayalam,Kannada","React,AI/ML",,,SC,12th,Ahmedabad,True
+135,20,75,84,,,,,"Urdu,Gujarati","Lab Work,Cybersecurity,Marketing",,,OBC,10th,Mumbai,True
+136,25,77,86,Science,,,,"Odia,Malayalam","Teamwork,SQL",,,ST,12th,Pune,True
+137,20,73,90,Science,M.Tech,General,84.0,Kannada,"SQL,Lab Work,Networking,Finance",Finance Cert,Mechanical Intern,SC,Postgraduate,Kolkata,True
+138,24,73,76,Commerce,,,,"Tamil,Gujarati,Odia","Java,Finance,Cybersecurity",,,OBC,12th,Indore,True
+139,24,94,72,Commerce,,,,"English,Marathi","Research,Operations,Cybersecurity,AI/ML",,,ST,12th,Indore,True
+140,24,76,87,,,,,"Telugu,Punjabi","Operations,Lab Work,Python",,,SC,10th,Chennai,True
+141,25,82,82,Science,B.Tech,General,88.0,"Gujarati,Bengali","Cybersecurity,Operations,React,Java",MS Office Cert,Cyber Security Intern,OBC,Graduate,Chandigarh,True
+142,23,70,78,,,,,"Malayalam,English,Gujarati","Marketing,Communication,AI/ML",,,General,10th,Ahmedabad,True
+143,23,83,70,Arts,,,,"Urdu,English,Assamese","Finance,Python",,,ST,12th,Mumbai,True
+144,21,78,84,Arts,,,,"Kannada,Odia,Malayalam","Teamwork,Networking",,,OBC,12th,Chennai,True
+145,20,75,89,,,,,"Marathi,Bengali","Python,Communication,Marketing,Operations",,,OBC,10th,Indore,True
+146,22,78,70,Arts,M.Sc,General,77.0,"Hindi,Kannada","Communication,Python,Java",Research Cert,Cyber Security Intern,OBC,Postgraduate,Pune,True
+147,21,85,78,Arts,MBA,General,86.0,"Bengali,Telugu","Cybersecurity,Operations,Research,Networking",Cybersecurity Cert,,ST,Postgraduate,Jaipur,True
+148,20,76,82,,,,,"Assamese,Malayalam","Marketing,React,AI/ML,Cybersecurity",,,SC,10th,Bangalore,True
+149,23,83,80,,,,,"Gujarati,English","Lab Work,Cybersecurity,Teamwork",,,General,10th,Pune,True
+150,23,83,76,,,,,"Telugu,Hindi","Finance,AI/ML,Networking,Lab Work",,,ST,10th,Chandigarh,True
+151,24,75,85,Arts,B.Sc,HR,66.0,"Kannada,English,Hindi","Finance,Operations,Teamwork",,Marketing Intern,SC,Graduate,Bangalore,True
+152,24,75,76,Science,,,,"Punjabi,Kannada,Odia","React,Python,SQL",,,OBC,12th,Hyderabad,True
+153,24,84,81,Science,BE,Finance,75.0,"Gujarati,Urdu,Assamese","AI/ML,Communication,Python",,,SC,Graduate,Kolkata,True
+154,24,72,71,Arts,MBA,General,83.0,Malayalam,"Operations,Java,SQL,Finance",MS Office Cert,Mechanical Intern,OBC,Postgraduate,Chennai,True
+155,21,91,80,Science,B.Tech,HR,89.0,Assamese,"Finance,Research,Marketing,Communication",,Food Science Intern,OBC,Graduate,Ahmedabad,True
+156,22,88,74,Science,BE,HR,81.0,Gujarati,"Marketing,Lab Work,Research,Networking",Finance Cert,,OBC,Graduate,Hyderabad,True
+157,25,78,90,Commerce,M.Tech,General,83.0,"English,Punjabi,Marathi","Finance,Operations,React",MS Office Cert,Mechanical Intern,SC,Postgraduate,Chandigarh,True
+158,22,80,89,,,,,"Telugu,Punjabi","Finance,Research",,,ST,10th,Pune,True
+159,24,73,80,Arts,M.Tech,General,94.0,"Tamil,Punjabi,Odia","Research,Python,Cybersecurity",AI Cert,Marketing Intern,SC,Postgraduate,Bangalore,True
+160,22,91,82,Arts,,,,"Hindi,Telugu,Gujarati","Marketing,Research,Cybersecurity",,,ST,12th,Ahmedabad,True
+161,22,89,75,Arts,M.Sc,General,76.0,"Punjabi,Telugu","Networking,Python",Finance Cert,HR Intern,General,Postgraduate,Jaipur,True
+162,21,94,80,,,,,"Kannada,Tamil,Bengali","AI/ML,Networking,Communication,React",,,ST,10th,Delhi,True
+163,24,80,77,Science,,,,"Kannada,Malayalam","Communication,SQL,React",,,SC,12th,Delhi,True
+164,22,79,74,,,,,"Assamese,Odia","Java,Networking",,,OBC,10th,Hyderabad,True
+165,23,85,85,,,,,"Odia,Gujarati","React,Networking",,,OBC,10th,Kolkata,True
+166,25,87,78,Science,,,,"Gujarati,Bengali,Odia","Marketing,Communication,Teamwork,React",,,OBC,12th,Ahmedabad,True
+167,24,74,87,Arts,,,,"Hindi,Tamil","Networking,AI/ML,Operations",,,SC,12th,Chennai,True
+168,22,85,84,Commerce,B.A,General,90.0,"Punjabi,Malayalam,Odia","Research,Finance,Operations",,,ST,Graduate,Kolkata,True
+169,22,83,88,Arts,B.Com,General,71.0,"Punjabi,English","Cybersecurity,Python,Marketing,SQL",Finance Cert,Food Science Intern,ST,Graduate,Jaipur,True
+170,21,87,80,,,,,Tamil,"Research,Python",,,SC,10th,Delhi,True
+171,23,85,84,,,,,"Kannada,Tamil","Marketing,Cybersecurity,Lab Work,Python",,,ST,10th,Delhi,True
+172,22,76,82,Commerce,MBA,General,77.0,"Malayalam,Bengali,Telugu","Python,Teamwork,SQL",Food Safety Cert,HR Intern,General,Postgraduate,Hyderabad,True
+173,22,77,89,,,,,"English,Gujarati","Finance,Networking",,,General,10th,Chandigarh,True
+174,20,72,85,Arts,MBA,General,89.0,"Marathi,Odia,Malayalam","Cybersecurity,AI/ML,Python,Teamwork",Research Cert,HR Intern,General,Postgraduate,Jaipur,True
+175,24,87,70,Science,,,,"Odia,Tamil","Operations,Teamwork,React",,,General,12th,Chennai,True
+176,20,85,73,Commerce,,,,"Gujarati,Bengali,Telugu","Operations,Communication,React,Networking",,,ST,12th,Hyderabad,True
+177,22,85,71,Commerce,M.Tech,General,76.0,"Odia,Gujarati","Research,Teamwork,Java,AI/ML",Food Safety Cert,,ST,Postgraduate,Bangalore,True
+178,23,88,79,Arts,M.Sc,General,76.0,"Odia,Telugu","Java,AI/ML,Finance",Food Safety Cert,Cyber Security Intern,General,Postgraduate,Mumbai,True
+179,21,80,90,Arts,,,,Odia,"AI/ML,Lab Work,Communication,Finance",,,General,12th,Pune,True
+180,20,72,90,,,,,"Kannada,Punjabi","Networking,Marketing,Teamwork,Communication",,,General,10th,Bangalore,True
+181,25,89,80,Science,MBA,General,80.0,"Telugu,Tamil,Assamese","Research,Networking",AI Cert,Mechanical Intern,ST,Postgraduate,Mumbai,True
+182,23,73,71,Science,MBA,General,92.0,English,"Finance,Communication,Teamwork",Cybersecurity Cert,Food Science Intern,OBC,Postgraduate,Chennai,True
+183,23,81,82,Science,M.Tech,General,85.0,"Bengali,Urdu,English","Operations,Finance,AI/ML",MS Office Cert,Food Science Intern,SC,Postgraduate,Bangalore,True
+184,23,92,88,Science,,,,Odia,"Operations,SQL,React",,,ST,12th,Lucknow,True
+185,20,92,80,Commerce,B.Com,Finance,85.0,Gujarati,"React,Operations,Teamwork,Marketing",AI Cert,Cyber Security Intern,OBC,Graduate,Pune,True
+186,22,82,86,,,,,Marathi,"Operations,React,Marketing",,,ST,10th,Hyderabad,True
+187,25,85,78,,,,,"Bengali,Telugu","SQL,Lab Work,AI/ML",,,SC,10th,Kolkata,True
+188,23,74,77,Science,BE,HR,68.0,"Gujarati,Malayalam,English","Networking,Java",,,OBC,Graduate,Chandigarh,True
+189,20,78,85,,,,,"Tamil,Hindi","Research,Finance",,,OBC,10th,Chennai,True
+190,22,74,88,Commerce,BE,Mechanical,66.0,Gujarati,"SQL,Communication,Research",,,General,Graduate,Chennai,True
+191,23,74,77,Science,BE,Electrical,67.0,Hindi,"Java,React,Research",AI Cert,,ST,Graduate,Indore,True
+192,25,79,73,Arts,M.Sc,General,82.0,"Bengali,Tamil,Gujarati","Finance,AI/ML,Python,Networking",MS Office Cert,Marketing Intern,OBC,Postgraduate,Jaipur,True
+193,25,86,73,Commerce,,,,"Punjabi,Bengali,Tamil","Communication,Marketing,Java,Teamwork",,,SC,12th,Ahmedabad,True
+194,25,88,72,Arts,,,,"Assamese,English,Telugu","React,Operations",,,OBC,12th,Bangalore,True
+195,23,87,87,Commerce,,,,Telugu,"Finance,Operations",,,ST,12th,Indore,True
+196,24,86,78,Science,M.Sc,General,86.0,"Hindi,Punjabi,Tamil","Lab Work,Networking",Food Safety Cert,,ST,Postgraduate,Mumbai,True
+197,24,71,87,Commerce,M.Tech,General,95.0,"Punjabi,English","SQL,Finance,Teamwork",MS Office Cert,Marketing Intern,SC,Postgraduate,Bangalore,True
+198,22,75,71,Arts,,,,"Telugu,Malayalam,Tamil","Research,Networking,Lab Work",,,General,12th,Delhi,True
+199,24,73,81,,,,,Assamese,"Marketing,SQL,Research",,,ST,10th,Hyderabad,True
+200,24,85,89,,,,,Assamese,"Teamwork,Python,React",,,ST,10th,Kolkata,True
+201,21,91,83,Science,,,,"Kannada,Gujarati","SQL,Finance",,,SC,12th,Mumbai,True
+202,22,82,87,Science,B.Tech,Mechanical,81.0,Bengali,"Cybersecurity,Teamwork,Python,Research",,,SC,Graduate,Chandigarh,True
+203,20,91,77,Commerce,B.Tech,HR,90.0,"Tamil,Odia,Assamese","Teamwork,Research,Finance,Cybersecurity",Cybersecurity Cert,Mechanical Intern,SC,Graduate,Chennai,True
+204,20,71,72,Commerce,B.A,General,65.0,"Tamil,Urdu,Bengali","Operations,Cybersecurity,Lab Work,Marketing",AI Cert,,General,Graduate,Mumbai,True
+205,24,78,76,Science,,,,"Urdu,Punjabi,Assamese","Research,Cybersecurity,AI/ML,Finance",,,General,12th,Jaipur,True
+206,21,88,78,,,,,Kannada,"Java,Lab Work,SQL,Python",,,OBC,10th,Jaipur,True
+207,22,93,71,,,,,English,"AI/ML,Networking,Cybersecurity",,,General,10th,Pune,True
+208,25,95,81,Commerce,,,,"English,Bengali","Teamwork,Lab Work",,,ST,12th,Indore,True
+209,22,95,84,Commerce,B.Com,Mechanical,80.0,Urdu,"Marketing,Teamwork,Networking,React",AI Cert,Marketing Intern,ST,Graduate,Kolkata,True
+210,24,92,85,Commerce,M.Sc,General,85.0,Bengali,"Cybersecurity,Python,SQL,Networking",Research Cert,Marketing Intern,OBC,Postgraduate,Hyderabad,True
+211,23,72,89,Commerce,,,,"Urdu,Hindi,Telugu","Research,Communication,AI/ML,Cybersecurity",,,ST,12th,Jaipur,True
+212,24,73,83,Commerce,,,,"Kannada,Marathi","Communication,Networking",,,SC,12th,Pune,True
+213,21,72,83,Science,,,,"Gujarati,Marathi,Bengali","Lab Work,Networking,Marketing,Java",,,OBC,12th,Pune,True
+214,20,80,88,Commerce,BE,General,73.0,Odia,"Networking,Python",Research Cert,Marketing Intern,General,Graduate,Lucknow,True
+215,24,75,83,,,,,"Gujarati,English","Java,Lab Work",,,OBC,10th,Bangalore,True
+216,24,93,86,Arts,B.A,Electrical,82.0,Telugu,"Finance,Research",MS Office Cert,,General,Graduate,Jaipur,True
+217,23,74,78,,,,,Gujarati,"Python,Marketing,Teamwork,Research",,,General,10th,Lucknow,True
+218,20,82,83,Arts,B.Tech,HR,72.0,"Urdu,Bengali,Telugu","Python,Cybersecurity,SQL,Finance",,,OBC,Graduate,Kolkata,True
+219,20,71,71,Arts,,,,"Punjabi,Telugu,Gujarati","Lab Work,React,Research,Cybersecurity",,,ST,12th,Ahmedabad,True
+220,20,73,86,Commerce,B.Tech,HR,84.0,"Telugu,Tamil","Research,React,Finance,Marketing",AI Cert,,OBC,Graduate,Kolkata,True
+221,20,75,87,Science,,,,"Marathi,English","Networking,Research,Lab Work",,,ST,12th,Ahmedabad,True
+222,25,78,89,Commerce,B.A,General,74.0,"Urdu,Hindi","React,Finance",Finance Cert,,ST,Graduate,Jaipur,True
+223,24,82,73,,,,,"Odia,Marathi,Urdu","Lab Work,Marketing",,,General,10th,Chennai,True
+224,21,89,73,Commerce,,,,Punjabi,"Finance,Networking",,,General,12th,Lucknow,True
+225,23,78,87,Science,M.Tech,General,94.0,Urdu,"Marketing,AI/ML,Finance,Cybersecurity",Finance Cert,,OBC,Postgraduate,Lucknow,True
+226,22,89,79,Science,,,,Urdu,"SQL,Operations",,,OBC,12th,Hyderabad,True
+227,21,84,72,Commerce,BE,General,90.0,"Hindi,Bengali","Communication,Marketing",Cybersecurity Cert,,ST,Graduate,Pune,True
+228,25,76,88,,,,,Tamil,"Teamwork,React,Marketing",,,ST,10th,Ahmedabad,True
+229,24,93,90,Commerce,,,,"Gujarati,Marathi","SQL,Cybersecurity,AI/ML",,,OBC,12th,Mumbai,True
+230,25,82,88,Arts,B.Com,HR,71.0,Telugu,"Python,React,Communication",AI Cert,,General,Graduate,Delhi,True
+231,22,85,80,Arts,B.Com,Mechanical,76.0,"Malayalam,Odia,Assamese","Cybersecurity,Marketing,Operations",Food Safety Cert,,OBC,Graduate,Chennai,True
+232,20,77,80,Science,B.Com,Electrical,69.0,"Assamese,Marathi,Tamil","Teamwork,Python,AI/ML",,,General,Graduate,Delhi,True
+233,21,75,88,,,,,"Marathi,Hindi,English","Lab Work,Teamwork,Finance,Java",,,ST,10th,Lucknow,True
+234,21,73,75,,,,,"Bengali,Urdu","React,Research,Operations",,,ST,10th,Chennai,True
+235,25,72,87,,,,,"Tamil,Kannada,Urdu","Teamwork,Python,Networking,Java",,,OBC,10th,Ahmedabad,True
+236,22,75,79,Arts,B.Tech,General,83.0,"Kannada,Marathi","AI/ML,Communication",Research Cert,,General,Graduate,Pune,True
+237,22,88,78,Commerce,,,,"Gujarati,Odia","React,Research,Communication,AI/ML",,,OBC,12th,Bangalore,True
+238,21,91,83,Science,,,,"English,Malayalam","AI/ML,React",,,General,12th,Ahmedabad,True
+239,21,78,81,,,,,"Odia,Marathi","Python,Lab Work,Networking",,,ST,10th,Indore,True
+240,24,77,84,,,,,"Punjabi,Hindi,Tamil","React,Networking,Finance",,,OBC,10th,Hyderabad,True
+241,24,88,72,Science,,,,Kannada,"Networking,Python",,,SC,12th,Lucknow,True
+242,24,86,84,Science,M.Sc,General,83.0,"Punjabi,Telugu,Bengali","Cybersecurity,Research",MS Office Cert,HR Intern,ST,Postgraduate,Indore,True
+243,22,90,84,,,,,Marathi,"Python,Networking",,,General,10th,Kolkata,True
+244,24,77,74,Commerce,,,,"Urdu,Telugu,Hindi","Java,Cybersecurity,React",,,OBC,12th,Bangalore,True
+245,20,85,84,Commerce,MBA,General,94.0,Assamese,"Teamwork,Operations,Research",AI Cert,Cyber Security Intern,ST,Postgraduate,Hyderabad,True
+246,25,89,75,Arts,,,,Bengali,"Python,AI/ML,SQL,Cybersecurity",,,ST,12th,Chennai,True
+247,22,86,78,,,,,"Kannada,Punjabi","Finance,Java",,,OBC,10th,Mumbai,True
+248,20,92,76,Arts,M.Sc,General,89.0,"English,Bengali","Lab Work,AI/ML",Cybersecurity Cert,Research Intern,ST,Postgraduate,Bangalore,True
+249,22,95,70,,,,,Hindi,"Research,SQL,AI/ML",,,OBC,10th,Chandigarh,True
+250,21,72,80,Arts,,,,Punjabi,"React,Teamwork,Marketing,Finance",,,General,12th,Jaipur,True
+251,25,78,84,Arts,,,,"Urdu,Punjabi,Hindi","SQL,Finance",,,ST,12th,Delhi,True
+252,20,80,77,Arts,,,,Assamese,"Teamwork,SQL,Operations,Java",,,OBC,12th,Kolkata,True
+253,20,89,87,Commerce,,,,"Assamese,English,Marathi","Operations,Java",,,General,12th,Bangalore,True
+254,22,80,74,,,,,"Malayalam,English","Java,Teamwork,AI/ML",,,OBC,10th,Kolkata,True
+255,20,78,78,Arts,M.Sc,General,92.0,Assamese,"Communication,AI/ML,Networking,Lab Work",AI Cert,,General,Postgraduate,Delhi,True
+256,25,81,73,,,,,"Tamil,Gujarati,Hindi","Lab Work,Python,Java,Teamwork",,,ST,10th,Kolkata,True
+257,21,81,83,,,,,"Urdu,Hindi,Marathi","AI/ML,Python,Networking",,,ST,10th,Mumbai,True
+258,24,94,70,Arts,M.Sc,General,90.0,"Gujarati,Urdu,Kannada","Java,Cybersecurity,Lab Work",MS Office Cert,Mechanical Intern,General,Postgraduate,Kolkata,True
+259,20,90,82,,,,,"English,Gujarati","Teamwork,Lab Work",,,ST,10th,Delhi,True
+260,22,76,81,,,,,"English,Marathi","Research,React,Networking",,,OBC,10th,Jaipur,True
+261,25,94,88,Science,B.A,Finance,85.0,"Odia,Bengali,Punjabi","Communication,Teamwork,Networking",AI Cert,Marketing Intern,SC,Graduate,Hyderabad,True
+262,21,88,81,Arts,M.Tech,General,77.0,"Marathi,Telugu,English","Finance,Communication,AI/ML,Cybersecurity",MS Office Cert,Marketing Intern,General,Postgraduate,Jaipur,True
+263,24,90,80,Science,B.Tech,Electrical,83.0,"Hindi,Odia,Malayalam","Lab Work,SQL,AI/ML,Networking",MS Office Cert,,General,Graduate,Kolkata,True
+264,25,92,82,Science,M.Tech,General,83.0,"Odia,Malayalam","Python,Lab Work,React",MS Office Cert,,SC,Postgraduate,Bangalore,True
+265,24,93,73,Commerce,MBA,General,95.0,"Hindi,Telugu","Finance,Java",Cybersecurity Cert,Research Intern,OBC,Postgraduate,Lucknow,True
+266,21,93,74,,,,,Bengali,"Communication,Cybersecurity,Lab Work,SQL",,,SC,10th,Bangalore,True
+267,23,79,80,Science,,,,"Malayalam,Hindi","Research,SQL",,,SC,12th,Ahmedabad,True
+268,22,82,70,Commerce,,,,Assamese,"Finance,Lab Work,Python,Communication",,,General,12th,Chandigarh,True
+269,22,84,84,Commerce,BE,HR,80.0,Kannada,"Java,Networking,Operations",Research Cert,Marketing Intern,SC,Graduate,Kolkata,True
+270,22,73,75,,,,,"Marathi,Kannada","AI/ML,Communication,Marketing",,,ST,10th,Chennai,True
+271,21,94,90,Science,,,,"Tamil,Urdu","Marketing,Operations,Cybersecurity,React",,,OBC,12th,Hyderabad,True
+272,20,76,85,,,,,"Marathi,Gujarati","Research,Cybersecurity,Lab Work,Teamwork",,,OBC,10th,Pune,True
+273,23,84,87,Commerce,,,,English,"Communication,Networking,SQL,Finance",,,SC,12th,Chandigarh,True
+274,25,88,77,Arts,B.Tech,Electrical,79.0,"Urdu,Tamil,Punjabi","Lab Work,Python",,,ST,Graduate,Bangalore,True
+275,21,86,72,Science,B.Com,Finance,89.0,"Kannada,Bengali","SQL,Finance,Networking,Cybersecurity",,Mechanical Intern,OBC,Graduate,Delhi,True
+276,23,81,70,Commerce,,,,Bengali,"Research,Cybersecurity,Communication",,,General,12th,Chennai,True
+277,22,89,84,Arts,,,,"Urdu,English,Telugu","AI/ML,Research",,,OBC,12th,Pune,True
+278,23,83,83,Arts,,,,"Malayalam,Odia","Marketing,Communication,SQL,Finance",,,ST,12th,Pune,True
+279,24,85,84,Science,,,,"Odia,Bengali,Hindi","Operations,Teamwork,Networking",,,General,12th,Pune,True
+280,21,74,72,Science,B.Com,Finance,74.0,"Marathi,Gujarati,Odia","Networking,Research",Cybersecurity Cert,Technical Intern,OBC,Graduate,Chandigarh,True
+281,20,92,72,Arts,,,,"English,Punjabi,Gujarati","Communication,Lab Work,Networking,AI/ML",,,General,12th,Jaipur,True
+282,20,93,85,Arts,MBA,General,80.0,"Punjabi,Tamil,Assamese","Teamwork,Lab Work,React,AI/ML",AI Cert,Marketing Intern,General,Postgraduate,Pune,True
+283,25,81,74,Arts,MBA,General,89.0,"Kannada,English","Research,AI/ML",Food Safety Cert,Cyber Security Intern,General,Postgraduate,Indore,True
+284,25,79,74,Science,B.A,HR,69.0,"Marathi,Hindi,English","Networking,Lab Work,Teamwork,SQL",AI Cert,Food Science Intern,ST,Graduate,Kolkata,True
+285,20,94,87,Science,MBA,General,75.0,Telugu,"Lab Work,Networking,SQL",Cybersecurity Cert,Mechanical Intern,ST,Postgraduate,Mumbai,True
+286,23,84,82,,,,,Tamil,"Java,Operations,Networking",,,ST,10th,Lucknow,True
+287,23,80,81,Science,B.A,Electrical,73.0,"Tamil,Gujarati,Kannada","Teamwork,Python",,Food Science Intern,General,Graduate,Jaipur,True
+288,24,75,86,,,,,Gujarati,"Python,Finance",,,OBC,10th,Chandigarh,True
+289,20,85,76,Commerce,MBA,General,90.0,"English,Assamese,Marathi","Networking,Marketing",MS Office Cert,Cyber Security Intern,ST,Postgraduate,Bangalore,True
+290,24,73,73,Commerce,B.A,HR,65.0,"Punjabi,Odia","Java,Lab Work",AI Cert,Mechanical Intern,OBC,Graduate,Hyderabad,True
+291,22,94,88,,,,,Punjabi,"Operations,Marketing",,,SC,10th,Kolkata,True
+292,25,86,75,,,,,"Marathi,Gujarati","Java,Marketing,Operations,Finance",,,SC,10th,Mumbai,True
+293,20,73,76,Arts,M.Sc,General,75.0,"Bengali,Punjabi","SQL,React",Research Cert,Food Science Intern,General,Postgraduate,Ahmedabad,True
+294,23,91,70,Arts,M.Sc,General,89.0,"Urdu,Telugu,Punjabi","Marketing,Research,Communication",AI Cert,Technical Intern,ST,Postgraduate,Hyderabad,True
+295,22,78,83,Arts,B.A,Mechanical,80.0,"Assamese,Gujarati,Telugu","Networking,Java",Cybersecurity Cert,,SC,Graduate,Chandigarh,True
+296,22,92,88,Commerce,,,,"Marathi,Telugu,Gujarati","Operations,Java,Python",,,General,12th,Bangalore,True
+297,20,76,81,Arts,M.Tech,General,87.0,"Urdu,English","Lab Work,Finance,React,Operations",Finance Cert,,OBC,Postgraduate,Bangalore,True
+298,25,89,75,Commerce,,,,"Hindi,Bengali,English","Java,Lab Work,Teamwork,Operations",,,General,12th,Mumbai,True
+299,22,90,89,Science,,,,Telugu,"Python,Java,Communication",,,General,12th,Kolkata,True
+300,20,75,72,Commerce,B.Com,HR,79.0,"Malayalam,Assamese,Bengali","Research,SQL",,,General,Graduate,Mumbai,True
+301,23,86,84,Arts,M.Tech,General,94.0,"Odia,Malayalam,English","Communication,Marketing,AI/ML,Research",Food Safety Cert,,ST,Postgraduate,Delhi,True
+302,20,94,75,Commerce,BE,Finance,66.0,Gujarati,"Networking,Operations",,Marketing Intern,General,Graduate,Jaipur,True
+303,20,74,81,Arts,,,,Malayalam,"Research,Communication,Operations",,,SC,12th,Lucknow,True
+304,20,74,87,Arts,B.Sc,Electrical,76.0,"Odia,Telugu,Assamese","SQL,Teamwork",Cybersecurity Cert,Cyber Security Intern,SC,Graduate,Bangalore,True
+305,20,85,90,,,,,"Odia,Kannada,English","Java,React,SQL",,,SC,10th,Jaipur,True
+306,22,80,85,Commerce,MBA,General,88.0,Urdu,"Lab Work,AI/ML,SQL",MS Office Cert,Research Intern,OBC,Postgraduate,Indore,True
+307,21,77,73,,,,,Odia,"AI/ML,Lab Work,React",,,OBC,10th,Ahmedabad,True
+308,25,95,81,Science,B.Com,Electrical,72.0,Bengali,"React,AI/ML,Operations,Communication",Cybersecurity Cert,Research Intern,General,Graduate,Mumbai,True
+309,25,95,81,Commerce,B.Tech,Computer Science,82.0,Urdu,"Teamwork,Python",AI Cert,,General,Graduate,Kolkata,True
+310,22,71,90,,,,,"Tamil,Assamese","Finance,Lab Work,Marketing",,,OBC,10th,Bangalore,True
+311,25,70,70,Commerce,,,,"Marathi,Hindi","AI/ML,Marketing",,,General,12th,Chandigarh,True
+312,25,85,83,Arts,M.Sc,General,82.0,"Odia,Telugu","React,SQL,Cybersecurity,Operations",AI Cert,Technical Intern,ST,Postgraduate,Jaipur,True
+313,21,81,78,Arts,,,,"Bengali,Marathi,Punjabi","Networking,Cybersecurity,Teamwork",,,General,12th,Chandigarh,True
+314,23,91,82,Science,MBA,General,87.0,"Gujarati,Telugu,Punjabi","Communication,Teamwork,SQL,Research",Cybersecurity Cert,Cyber Security Intern,ST,Postgraduate,Pune,True
+315,24,78,74,Commerce,,,,"Odia,English","Communication,Finance",,,General,12th,Lucknow,True
+316,23,78,88,Science,BE,General,70.0,"Bengali,Tamil,Odia","Operations,Teamwork,Research,Marketing",Finance Cert,Food Science Intern,OBC,Graduate,Kolkata,True
+317,25,70,80,Science,M.Tech,General,95.0,Urdu,"Networking,Cybersecurity",Research Cert,HR Intern,OBC,Postgraduate,Chennai,True
+318,21,74,75,Science,,,,"Gujarati,Assamese,English","Cybersecurity,Lab Work,Teamwork",,,OBC,12th,Delhi,True
+319,24,71,87,Science,MBA,General,84.0,"Gujarati,Bengali","Lab Work,Operations,Teamwork,Marketing",MS Office Cert,Mechanical Intern,SC,Postgraduate,Jaipur,True
+320,25,87,71,Commerce,B.A,Computer Science,68.0,Marathi,"Teamwork,Operations,Networking,Marketing",,Food Science Intern,OBC,Graduate,Delhi,True
+321,20,90,71,Science,,,,Telugu,"Networking,Java,SQL,AI/ML",,,OBC,12th,Delhi,True
+322,25,80,89,,,,,"Bengali,Malayalam","Operations,SQL,React",,,OBC,10th,Bangalore,True
+323,22,79,71,,,,,"English,Hindi","SQL,Finance",,,OBC,10th,Pune,True
+324,21,91,78,Commerce,,,,"Urdu,Marathi","Lab Work,Cybersecurity",,,SC,12th,Delhi,True
+325,25,78,88,Commerce,M.Tech,General,90.0,Odia,"Research,Communication,Operations",Food Safety Cert,Mechanical Intern,ST,Postgraduate,Ahmedabad,True
+326,25,79,79,Science,,,,"Urdu,Assamese","Python,Cybersecurity,Communication",,,General,12th,Chandigarh,True
+327,24,78,82,Commerce,,,,"Marathi,Gujarati,Bengali","Marketing,AI/ML,React,Java",,,SC,12th,Chandigarh,True
+328,25,85,82,,,,,Odia,"AI/ML,Lab Work,React",,,ST,10th,Chandigarh,True
+329,25,80,70,Commerce,M.Tech,General,93.0,Tamil,"Lab Work,Marketing,Python",Food Safety Cert,Research Intern,OBC,Postgraduate,Chandigarh,True
+330,21,81,79,Commerce,MBA,General,84.0,"Punjabi,Marathi","AI/ML,React",Finance Cert,Cyber Security Intern,General,Postgraduate,Hyderabad,True
+331,23,71,70,Arts,M.Tech,General,84.0,Assamese,"Teamwork,Lab Work,Operations",Cybersecurity Cert,Marketing Intern,General,Postgraduate,Bangalore,True
+332,23,82,80,,,,,"Hindi,Odia","Finance,React",,,ST,10th,Chennai,True
+333,20,77,73,,,,,"Gujarati,Punjabi","Cybersecurity,Marketing,Java",,,General,10th,Chandigarh,True
+334,21,75,81,,,,,Odia,"Marketing,Cybersecurity,AI/ML,Java",,,SC,10th,Chennai,True
+335,21,79,83,Arts,,,,"Telugu,Marathi","Finance,Networking,Operations",,,ST,12th,Ahmedabad,True
+336,21,78,84,Arts,,,,"Assamese,Malayalam,Hindi","Communication,Cybersecurity,Java,Operations",,,ST,12th,Jaipur,True
+337,25,90,71,Commerce,M.Tech,General,75.0,"Odia,Bengali,English","Networking,Python,React,Marketing",AI Cert,HR Intern,ST,Postgraduate,Mumbai,True
+338,25,93,73,,,,,Punjabi,"Marketing,Python,Teamwork",,,General,10th,Lucknow,True
+339,21,84,90,Arts,B.Com,Electrical,68.0,"Punjabi,Telugu,Bengali","Marketing,AI/ML,React",Finance Cert,,OBC,Graduate,Hyderabad,True
+340,21,83,74,Science,B.Tech,Mechanical,85.0,"Assamese,Malayalam,Kannada","Python,Cybersecurity,Communication,Teamwork",AI Cert,Mechanical Intern,OBC,Graduate,Ahmedabad,True
+341,22,90,87,,,,,English,"Communication,Operations",,,OBC,10th,Hyderabad,True
+342,20,88,85,,,,,"Kannada,Tamil,English","Teamwork,Cybersecurity",,,ST,10th,Chandigarh,True
+343,23,91,75,,,,,"Hindi,Assamese","Finance,SQL,Python",,,General,10th,Pune,True
+344,20,90,89,Science,,,,"Bengali,Marathi,Hindi","Marketing,Communication,Java,Cybersecurity",,,SC,12th,Kolkata,True
+345,21,92,76,Arts,M.Sc,General,87.0,Malayalam,"React,AI/ML,SQL",Finance Cert,Cyber Security Intern,SC,Postgraduate,Lucknow,True
+346,25,74,89,Arts,,,,"Urdu,Kannada","Marketing,Communication,Java",,,OBC,12th,Ahmedabad,True
+347,24,79,71,Science,,,,"Urdu,Marathi,Malayalam","React,SQL",,,OBC,12th,Hyderabad,True
+348,22,93,70,,,,,Punjabi,"Networking,Java,React,Lab Work",,,ST,10th,Jaipur,True
+349,24,86,81,Science,B.Com,HR,66.0,"Hindi,Malayalam","SQL,Java",,,OBC,Graduate,Lucknow,True
+350,22,86,90,Science,M.Sc,General,88.0,Kannada,"SQL,Communication,AI/ML,React",Food Safety Cert,,ST,Postgraduate,Ahmedabad,True
+351,21,72,77,Commerce,,,,"English,Urdu","Operations,Finance,Teamwork",,,General,12th,Kolkata,True
+352,24,93,82,Commerce,,,,"Kannada,Marathi","AI/ML,Python,Finance",,,ST,12th,Hyderabad,True
+353,22,89,82,Commerce,B.A,Finance,77.0,Kannada,"SQL,Java,Research",AI Cert,,General,Graduate,Bangalore,True
+354,21,88,77,Commerce,BE,Electrical,65.0,Kannada,"Marketing,Operations",AI Cert,,OBC,Graduate,Lucknow,True
+355,23,86,72,,,,,Malayalam,"Marketing,Research,Communication,SQL",,,General,10th,Bangalore,True
+356,21,90,76,Commerce,M.Tech,General,89.0,Hindi,"Python,AI/ML,Java,SQL",Cybersecurity Cert,Cyber Security Intern,ST,Postgraduate,Chennai,True
+357,22,83,89,Arts,,,,"Bengali,Tamil,Gujarati","Operations,SQL,Marketing",,,SC,12th,Mumbai,True
+358,25,89,90,Arts,,,,"Urdu,Bengali","Teamwork,React",,,OBC,12th,Jaipur,True
+359,25,89,81,,,,,"Odia,Malayalam,Telugu","Finance,Cybersecurity,Teamwork,React",,,General,10th,Chennai,True
+360,21,70,89,,,,,Telugu,"Marketing,Research,Teamwork",,,OBC,10th,Lucknow,True
+361,25,92,74,Science,,,,Bengali,"Lab Work,Finance,Communication,Java",,,General,12th,Lucknow,True
+362,22,79,74,Science,,,,Gujarati,"AI/ML,Networking,Lab Work,Research",,,General,12th,Pune,True
+363,24,78,80,Commerce,B.A,General,76.0,Tamil,"AI/ML,Research,Marketing",,Marketing Intern,ST,Graduate,Bangalore,True
+364,24,92,72,Commerce,,,,Gujarati,"Finance,React",,,General,12th,Ahmedabad,True
+365,25,84,74,Science,,,,Kannada,"Java,SQL",,,ST,12th,Lucknow,True
+366,23,87,86,Science,,,,"Telugu,Bengali,Marathi","Marketing,Research,Python,AI/ML",,,ST,12th,Jaipur,True
+367,23,82,74,Commerce,B.Tech,General,86.0,Urdu,"Java,Lab Work,AI/ML",,Technical Intern,OBC,Graduate,Jaipur,True
+368,22,92,83,Arts,,,,English,"AI/ML,Communication,Marketing",,,ST,12th,Hyderabad,True
+369,25,91,88,Commerce,B.A,Finance,84.0,"Assamese,Tamil","Java,Communication",Cybersecurity Cert,,ST,Graduate,Kolkata,True
+370,24,89,70,,,,,"Punjabi,Marathi","Lab Work,AI/ML",,,OBC,10th,Hyderabad,True
+371,25,76,79,,,,,"Kannada,Urdu,Tamil","Teamwork,Python,React",,,General,10th,Ahmedabad,True
+372,24,73,89,Commerce,,,,"Assamese,Punjabi","Marketing,Communication,Java",,,OBC,12th,Pune,True
+373,21,94,78,Arts,B.Com,Mechanical,78.0,"Tamil,Telugu","Python,Lab Work,Finance,Operations",,Technical Intern,OBC,Graduate,Lucknow,True
+374,22,76,86,,,,,"Tamil,Punjabi","Research,Marketing,Lab Work",,,OBC,10th,Indore,True
+375,20,88,90,,,,,"Hindi,Bengali,Malayalam","Teamwork,AI/ML,Research",,,OBC,10th,Delhi,True
+376,22,80,81,Science,M.Tech,General,80.0,"Urdu,Assamese","Communication,SQL",MS Office Cert,,ST,Postgraduate,Chandigarh,True
+377,20,74,74,,,,,"Odia,Malayalam","Research,Marketing,SQL",,,SC,10th,Delhi,True
+378,21,95,83,,,,,"Gujarati,Malayalam","Communication,AI/ML,Teamwork",,,General,10th,Chandigarh,True
+379,23,86,82,Commerce,BE,Electrical,87.0,"Bengali,Punjabi","SQL,Teamwork,Finance",Cybersecurity Cert,Marketing Intern,SC,Graduate,Ahmedabad,True
+380,21,74,83,Arts,,,,"Tamil,Malayalam,English","Research,Networking",,,General,12th,Jaipur,True
+381,20,81,72,Commerce,,,,Hindi,"Communication,Operations",,,ST,12th,Mumbai,True
+382,21,86,84,,,,,Bengali,"AI/ML,Python,Research,Java",,,OBC,10th,Ahmedabad,True
+383,25,81,74,Arts,MBA,General,90.0,"Malayalam,Kannada,Punjabi","AI/ML,SQL,React,Python",Finance Cert,Food Science Intern,ST,Postgraduate,Chennai,True
+384,21,81,80,Commerce,,,,"Punjabi,Bengali","SQL,Cybersecurity,AI/ML",,,ST,12th,Kolkata,True
+385,23,92,73,Science,,,,"Hindi,Malayalam","Operations,SQL,Python",,,ST,12th,Lucknow,True
+386,25,87,81,Science,B.A,Finance,69.0,"Marathi,Urdu","Cybersecurity,Operations,Python",Finance Cert,,ST,Graduate,Kolkata,True
+387,20,85,82,Commerce,,,,"Tamil,Hindi","Marketing,Operations",,,SC,12th,Pune,True
+388,21,87,84,Science,,,,"Tamil,Telugu","SQL,Java",,,SC,12th,Jaipur,True
+389,20,74,72,Science,,,,"Assamese,Gujarati,Malayalam","Teamwork,SQL",,,SC,12th,Kolkata,True
+390,24,77,70,Commerce,M.Sc,General,91.0,"Tamil,Bengali","Teamwork,Cybersecurity,Communication,Lab Work",Finance Cert,HR Intern,General,Postgraduate,Kolkata,True
+391,22,71,76,Science,B.A,Computer Science,76.0,Bengali,"Lab Work,Research,Python",Finance Cert,,General,Graduate,Mumbai,True
+392,23,86,89,Arts,MBA,General,79.0,Malayalam,"Java,React,Finance,Lab Work",Finance Cert,,OBC,Postgraduate,Delhi,True
+393,20,93,74,Arts,M.Tech,General,75.0,"Tamil,Gujarati","Lab Work,Operations,Communication",Food Safety Cert,Mechanical Intern,OBC,Postgraduate,Chandigarh,True
+394,24,91,89,Arts,,,,"Odia,Kannada,Malayalam","Communication,Teamwork,Java,Research",,,ST,12th,Ahmedabad,True
+395,20,85,86,,,,,"Kannada,English","Finance,Networking,Cybersecurity",,,OBC,10th,Hyderabad,True
+396,23,93,79,Arts,,,,"Malayalam,Gujarati","Finance,React,Lab Work,Operations",,,OBC,12th,Ahmedabad,True
+397,23,74,85,Commerce,B.A,HR,74.0,"Hindi,Marathi,English","Finance,Java,Operations",Research Cert,Food Science Intern,SC,Graduate,Pune,True
+398,21,85,87,Commerce,,,,"Malayalam,Tamil","Python,Java,Operations,Communication",,,General,12th,Mumbai,True
+399,23,90,76,,,,,"Punjabi,Tamil","Operations,Communication,Python",,,OBC,10th,Kolkata,True
+400,23,90,72,Science,MBA,General,84.0,Marathi,"Lab Work,Marketing",Food Safety Cert,Research Intern,ST,Postgraduate,Mumbai,True
+401,20,72,75,Science,,,,"Kannada,Tamil,Urdu","Lab Work,React,Research",,,ST,12th,Chandigarh,True
+402,23,72,70,Commerce,B.Tech,HR,80.0,Hindi,"SQL,Operations,Finance,React",,Food Science Intern,ST,Graduate,Chandigarh,True
+403,25,84,86,Arts,MBA,General,90.0,"Kannada,Assamese","React,Marketing,Operations",Finance Cert,,OBC,Postgraduate,Hyderabad,True
+404,21,81,72,Commerce,M.Sc,General,95.0,"Gujarati,Assamese,English","React,SQL",Finance Cert,Cyber Security Intern,General,Postgraduate,Kolkata,True
+405,23,95,80,Arts,,,,"Bengali,Hindi","Research,AI/ML,Java",,,SC,12th,Hyderabad,True
+406,20,90,85,,,,,Telugu,"AI/ML,Cybersecurity,Python,Communication",,,SC,10th,Kolkata,True
+407,23,76,80,Arts,,,,"Kannada,Bengali","Operations,Marketing,React",,,OBC,12th,Jaipur,True
+408,22,92,90,,,,,"Assamese,Gujarati","Lab Work,Java",,,General,10th,Kolkata,True
+409,25,89,84,Arts,,,,Kannada,"React,AI/ML",,,OBC,12th,Lucknow,True
+410,21,84,84,Science,,,,"Odia,Assamese","React,Communication,AI/ML",,,ST,12th,Ahmedabad,True
+411,25,78,77,Commerce,B.Tech,General,79.0,"Tamil,Bengali","Marketing,Communication,React",,,General,Graduate,Mumbai,True
+412,20,95,86,Commerce,,,,"Tamil,Assamese","SQL,Research",,,ST,12th,Ahmedabad,True
+413,23,91,83,Arts,M.Tech,General,82.0,"Odia,English","Teamwork,SQL",Cybersecurity Cert,,ST,Postgraduate,Chandigarh,True
+414,21,73,72,Commerce,M.Tech,General,79.0,"Malayalam,Hindi","Networking,Python",Cybersecurity Cert,Cyber Security Intern,OBC,Postgraduate,Indore,True
+415,24,89,72,Arts,B.Sc,Electrical,74.0,Urdu,"Finance,Lab Work",,,General,Graduate,Chennai,True
+416,20,79,70,Arts,,,,Urdu,"Operations,Communication,Finance",,,OBC,12th,Jaipur,True
+417,23,93,80,,,,,"Marathi,English","SQL,Lab Work",,,OBC,10th,Indore,True
+418,20,72,90,Arts,M.Tech,General,79.0,Bengali,"Research,Finance,Networking",AI Cert,Cyber Security Intern,ST,Postgraduate,Chandigarh,True
+419,20,73,82,,,,,"Urdu,Malayalam","Cybersecurity,SQL",,,SC,10th,Ahmedabad,True
+420,22,89,75,,,,,"Malayalam,Bengali","Lab Work,Communication,Networking,React",,,ST,10th,Pune,True
+421,20,75,80,Commerce,,,,"Bengali,Odia,Telugu","Communication,Java,Finance,Operations",,,OBC,12th,Pune,True
+422,24,94,82,Commerce,B.Com,HR,65.0,Telugu,"Research,Communication,Python",,,SC,Graduate,Hyderabad,True
+423,20,81,79,Science,,,,"Assamese,Telugu","Communication,Lab Work,Operations,AI/ML",,,SC,12th,Pune,True
+424,21,81,75,Arts,,,,"English,Assamese","Cybersecurity,Marketing",,,ST,12th,Hyderabad,True
+425,23,91,79,Science,B.A,HR,75.0,"Gujarati,Telugu,Marathi","Cybersecurity,Python,Lab Work",AI Cert,,SC,Graduate,Indore,True
+426,22,94,73,Arts,BE,Finance,70.0,"Telugu,Punjabi,Bengali","AI/ML,Communication,Finance,Research",,Marketing Intern,SC,Graduate,Mumbai,True
+427,25,71,83,Science,,,,"Bengali,Telugu","React,Finance,Research,Cybersecurity",,,SC,12th,Delhi,True
+428,20,73,77,Arts,M.Sc,General,81.0,"Telugu,English","Marketing,AI/ML,Lab Work",Research Cert,Marketing Intern,General,Postgraduate,Bangalore,True
+429,25,92,84,,,,,"Gujarati,Kannada,Hindi","AI/ML,Java,SQL",,,ST,10th,Chennai,True
+430,21,73,82,Science,,,,"Assamese,Malayalam","Python,Communication",,,SC,12th,Bangalore,True
+431,23,79,74,Arts,B.Com,General,66.0,Telugu,"Finance,Operations,SQL,Communication",,,General,Graduate,Delhi,True
+432,21,79,72,,,,,Bengali,"Research,Lab Work,Finance,Communication",,,SC,10th,Ahmedabad,True
+433,21,80,88,Commerce,,,,"Assamese,Telugu,Kannada","React,Networking",,,OBC,12th,Chennai,True
+434,24,95,75,Arts,BE,Mechanical,70.0,Punjabi,"Networking,Cybersecurity",,,SC,Graduate,Bangalore,True
+435,25,94,86,Commerce,,,,"Telugu,Odia,Punjabi","AI/ML,Teamwork",,,SC,12th,Chennai,True
+436,24,79,81,Arts,M.Tech,General,85.0,"Punjabi,Urdu","Communication,Python,Research,React",AI Cert,Mechanical Intern,General,Postgraduate,Lucknow,True
+437,23,92,75,Science,MBA,General,91.0,"Hindi,Gujarati","Marketing,AI/ML,Operations,SQL",Cybersecurity Cert,Research Intern,ST,Postgraduate,Ahmedabad,True
+438,24,84,76,Arts,MBA,General,76.0,"Bengali,Malayalam,Urdu","Marketing,Java,Python,Lab Work",MS Office Cert,Mechanical Intern,OBC,Postgraduate,Lucknow,True
+439,24,85,78,Science,,,,"Assamese,English,Telugu","Communication,Lab Work,Operations,Cybersecurity",,,ST,12th,Bangalore,True
+440,21,73,86,Arts,,,,"Telugu,Odia","Finance,Java,Communication,Teamwork",,,OBC,12th,Bangalore,True
+441,24,74,73,Science,,,,"Punjabi,English","Cybersecurity,Networking,Teamwork,Research",,,ST,12th,Kolkata,True
+442,23,95,75,Commerce,B.Com,HR,72.0,Kannada,"React,Marketing,Cybersecurity,Lab Work",Finance Cert,Cyber Security Intern,General,Graduate,Pune,True
+443,21,73,83,Arts,,,,"Punjabi,Odia","AI/ML,Communication,Finance",,,SC,12th,Kolkata,True
+444,20,71,82,Arts,BE,General,78.0,"Punjabi,English","Marketing,Python,Lab Work,Communication",MS Office Cert,,SC,Graduate,Jaipur,True
+445,21,95,77,,,,,"Telugu,Punjabi","Networking,Communication,SQL",,,OBC,10th,Ahmedabad,True
+446,21,79,89,Commerce,B.Tech,General,68.0,"Odia,Assamese,Malayalam","Java,React",Finance Cert,Cyber Security Intern,ST,Graduate,Jaipur,True
+447,25,92,80,Arts,,,,"Urdu,Punjabi","Communication,Lab Work",,,General,12th,Jaipur,True
+448,21,85,86,Arts,,,,"Gujarati,Telugu,Malayalam","Java,Marketing",,,ST,12th,Hyderabad,True
+449,23,91,80,Arts,,,,"Punjabi,Urdu","Communication,Lab Work,Marketing",,,ST,12th,Jaipur,True
+450,25,84,80,,,,,"Tamil,Malayalam","Lab Work,Finance,Operations,Java",,,General,10th,Lucknow,True
+451,22,93,71,Commerce,,,,Bengali,"Operations,Communication,AI/ML",,,ST,12th,Indore,True
+452,22,87,83,Science,M.Tech,General,85.0,Tamil,"Operations,Marketing,SQL,Cybersecurity",AI Cert,Food Science Intern,SC,Postgraduate,Delhi,True
+453,20,76,88,Arts,,,,"Hindi,Kannada","AI/ML,Cybersecurity,Java,Networking",,,General,12th,Hyderabad,True
+454,23,91,85,,,,,"Tamil,Marathi,Assamese","Operations,Cybersecurity",,,ST,10th,Bangalore,True
+455,24,80,71,,,,,"Urdu,Kannada,Assamese","AI/ML,Cybersecurity,Networking,Lab Work",,,General,10th,Pune,True
+456,23,91,78,Commerce,M.Tech,General,86.0,"Punjabi,Kannada,Bengali","Finance,Communication,Research",Food Safety Cert,Marketing Intern,General,Postgraduate,Jaipur,True
+457,20,93,78,,,,,"Odia,Assamese,English","Operations,Communication,SQL,React",,,General,10th,Chandigarh,True
+458,24,87,82,Commerce,MBA,General,89.0,Marathi,"Operations,Teamwork,Marketing,Java",Cybersecurity Cert,,OBC,Postgraduate,Jaipur,True
+459,21,76,77,Commerce,,,,"Marathi,Assamese,Urdu","Python,Lab Work",,,OBC,12th,Kolkata,True
+460,23,72,83,Commerce,,,,"Kannada,Assamese","Communication,Teamwork,Python,Cybersecurity",,,SC,12th,Lucknow,True
+461,20,72,70,,,,,"Assamese,Tamil,Malayalam","Lab Work,Communication",,,ST,10th,Chennai,True
+462,25,77,72,Science,MBA,General,88.0,Gujarati,"AI/ML,React",Research Cert,Technical Intern,ST,Postgraduate,Kolkata,True
+463,25,87,90,Commerce,MBA,General,94.0,"Urdu,Marathi,Hindi","AI/ML,Marketing",MS Office Cert,Mechanical Intern,OBC,Postgraduate,Mumbai,True
+464,23,94,78,Arts,B.Com,Mechanical,89.0,"Kannada,Urdu","Networking,Cybersecurity,Operations",Finance Cert,Technical Intern,General,Graduate,Mumbai,True
+465,22,86,86,Commerce,MBA,General,76.0,"Marathi,Punjabi,Malayalam","Python,Research",MS Office Cert,,ST,Postgraduate,Hyderabad,True
+466,21,94,73,Arts,MBA,General,84.0,"Kannada,Malayalam","Finance,Lab Work",Research Cert,HR Intern,SC,Postgraduate,Chennai,True
+467,23,85,79,Commerce,,,,"Malayalam,Kannada","Cybersecurity,Operations,Teamwork",,,SC,12th,Chandigarh,True
+468,20,91,87,Commerce,,,,"Urdu,Marathi","AI/ML,Networking,Finance",,,General,12th,Chandigarh,True
+469,25,86,88,Commerce,,,,Assamese,"Lab Work,Cybersecurity,Networking",,,General,12th,Chandigarh,True
+470,23,81,82,,,,,Kannada,"Research,Python,Java,Teamwork",,,General,10th,Hyderabad,True
+471,22,84,83,Commerce,M.Sc,General,77.0,"Gujarati,Telugu","Operations,Marketing,Cybersecurity",AI Cert,Research Intern,SC,Postgraduate,Ahmedabad,True
+472,25,72,75,,,,,"Bengali,Telugu","Marketing,Java,Operations,Cybersecurity",,,General,10th,Indore,True
+473,21,91,84,Arts,B.A,Electrical,70.0,"Marathi,Odia,Bengali","Lab Work,Python,Operations",Cybersecurity Cert,,General,Graduate,Chennai,True
+474,21,94,74,Arts,M.Tech,General,90.0,"Bengali,Odia","AI/ML,Java,Communication,Networking",Finance Cert,,OBC,Postgraduate,Pune,True
+475,22,70,79,Science,B.Sc,General,68.0,Assamese,"Teamwork,Cybersecurity,React,Lab Work",AI Cert,,OBC,Graduate,Hyderabad,True
+476,21,85,87,Commerce,,,,"Marathi,Gujarati,Punjabi","Networking,React,Python,SQL",,,SC,12th,Indore,True
+477,22,94,86,Arts,M.Tech,General,93.0,"Telugu,Malayalam","Python,React,Operations,Marketing",Finance Cert,HR Intern,OBC,Postgraduate,Mumbai,True
+478,21,86,79,Commerce,,,,"Hindi,Bengali","SQL,Cybersecurity",,,SC,12th,Mumbai,True
+479,24,71,78,Science,M.Tech,General,93.0,Telugu,"AI/ML,Networking,Marketing",Finance Cert,Food Science Intern,ST,Postgraduate,Indore,True
+480,21,88,87,Commerce,,,,"Punjabi,Malayalam,Telugu","SQL,Marketing,Finance",,,SC,12th,Chandigarh,True
+481,23,77,81,Commerce,B.Sc,General,65.0,"English,Urdu","React,Communication,AI/ML,Cybersecurity",,,SC,Graduate,Indore,True
+482,23,84,89,,,,,"Gujarati,Tamil","Java,Cybersecurity,Finance,Operations",,,OBC,10th,Delhi,True
+483,24,90,72,Commerce,MBA,General,90.0,"Hindi,Punjabi","SQL,AI/ML,Operations,Finance",Cybersecurity Cert,Technical Intern,ST,Postgraduate,Delhi,True
+484,21,77,86,Commerce,B.Tech,Mechanical,70.0,"Bengali,Hindi","AI/ML,Research,Cybersecurity,Marketing",MS Office Cert,Mechanical Intern,OBC,Graduate,Indore,True
+485,20,75,76,,,,,"Odia,Assamese,Tamil","Operations,Finance",,,SC,10th,Pune,True
+486,20,81,75,Arts,,,,"Assamese,Punjabi,Hindi","Communication,Marketing,Python,Operations",,,ST,12th,Hyderabad,True
+487,23,93,79,,,,,"English,Marathi,Odia","Research,Java,AI/ML",,,OBC,10th,Hyderabad,True
+488,23,78,82,Science,B.A,Electrical,76.0,"Punjabi,English,Assamese","Teamwork,Operations,Java",,,General,Graduate,Ahmedabad,True
+489,22,79,79,Commerce,,,,Hindi,"Marketing,Operations",,,General,12th,Pune,True
+490,21,80,89,,,,,"Assamese,Odia","SQL,Marketing,React",,,ST,10th,Pune,True
+491,25,76,85,Science,,,,Marathi,"React,Marketing,Research",,,ST,12th,Indore,True
+492,25,90,76,Arts,,,,Tamil,"SQL,Operations",,,OBC,12th,Bangalore,True
+493,24,89,73,,,,,"Gujarati,Hindi,Tamil","AI/ML,Lab Work",,,General,10th,Chandigarh,True
+494,24,76,80,,,,,"Urdu,Tamil,Punjabi","Finance,Cybersecurity,SQL",,,General,10th,Delhi,True
+495,23,76,82,,,,,"Kannada,Tamil,Urdu","Finance,Communication,AI/ML",,,General,10th,Lucknow,True
+496,21,79,73,Arts,,,,"Telugu,Marathi,Gujarati","Finance,Networking,Research",,,General,12th,Bangalore,True
+497,23,82,90,Commerce,,,,"Telugu,English,Bengali","React,Finance,Operations",,,ST,12th,Bangalore,True
+498,24,93,81,Science,M.Tech,General,94.0,"Marathi,English,Tamil","Finance,Python,Networking,Lab Work",Cybersecurity Cert,Food Science Intern,General,Postgraduate,Hyderabad,True
+499,24,77,82,Arts,MBA,General,82.0,"Odia,Bengali","Lab Work,Finance,AI/ML",Finance Cert,Food Science Intern,General,Postgraduate,Chennai,True
+500,25,81,85,,,,,Marathi,"SQL,Networking",,,SC,10th,Ahmedabad,True
+501,22,91,81,Science,B.A,Mechanical,72.0,Telugu,"Python,React,Teamwork,Cybersecurity",,Food Science Intern,SC,Graduate,Ahmedabad,True
+502,25,82,74,Commerce,,,,"Odia,Kannada,Bengali","Cybersecurity,Python",,,OBC,12th,Mumbai,True
+503,21,90,84,,,,,"Hindi,Marathi,Malayalam","Networking,React,Communication,Finance",,,OBC,10th,Pune,True
+504,20,78,83,Arts,,,,Malayalam,"Teamwork,AI/ML,Communication",,,ST,12th,Hyderabad,True
+505,20,75,81,Arts,,,,Gujarati,"Communication,React",,,SC,12th,Chandigarh,True
+506,24,95,74,Arts,M.Tech,General,92.0,"Malayalam,Tamil","Networking,Teamwork,Communication,Java",AI Cert,,ST,Postgraduate,Pune,True
+507,20,86,82,,,,,"English,Marathi","Cybersecurity,Java,SQL",,,SC,10th,Pune,True
+508,21,81,72,Science,,,,Hindi,"Cybersecurity,Java",,,General,12th,Pune,True
+509,22,86,82,Science,,,,"Gujarati,Punjabi,Kannada","Teamwork,Research,Lab Work,Cybersecurity",,,ST,12th,Lucknow,True
+510,24,82,72,,,,,"Telugu,Urdu,Punjabi","Marketing,Operations,Cybersecurity,Java",,,OBC,10th,Delhi,True
+511,24,93,80,Science,M.Sc,General,94.0,"Marathi,Tamil","Operations,React,Cybersecurity",Cybersecurity Cert,Cyber Security Intern,ST,Postgraduate,Hyderabad,True
+512,22,95,83,Commerce,,,,"Bengali,Tamil,Marathi","Finance,Research,React",,,SC,12th,Hyderabad,True
+513,20,90,87,Science,B.Sc,Computer Science,87.0,Marathi,"Marketing,AI/ML,Python,Networking",Research Cert,HR Intern,General,Graduate,Indore,True
+514,22,78,71,Science,,,,"Assamese,English,Odia","Communication,Marketing,Finance",,,OBC,12th,Delhi,True
+515,23,73,82,,,,,"Marathi,Tamil","Lab Work,Teamwork,React,Cybersecurity",,,SC,10th,Ahmedabad,True
+516,24,70,89,Commerce,B.A,Finance,89.0,Odia,"Finance,Communication",,HR Intern,SC,Graduate,Hyderabad,True
+517,22,94,81,Commerce,,,,"Gujarati,Hindi,Assamese","React,SQL,Cybersecurity,Python",,,SC,12th,Mumbai,True
+518,25,93,88,Science,,,,"Hindi,Punjabi","Finance,Research,SQL",,,OBC,12th,Lucknow,True
+519,24,91,77,,,,,"Marathi,Tamil,Telugu","Java,Research",,,General,10th,Jaipur,True
+520,23,83,88,Science,,,,"Marathi,Tamil","Finance,Lab Work,Java,Communication",,,OBC,12th,Mumbai,True
+521,23,92,84,,,,,Odia,"Marketing,Operations,Research,Finance",,,OBC,10th,Ahmedabad,True
+522,21,84,88,Arts,,,,"Urdu,Odia,Telugu","SQL,AI/ML,React,Communication",,,OBC,12th,Chandigarh,True
+523,20,76,72,Commerce,MBA,General,88.0,"Gujarati,Kannada","Python,Marketing",AI Cert,,ST,Postgraduate,Ahmedabad,True
+524,22,92,73,,,,,"Gujarati,English","Java,Teamwork",,,SC,10th,Pune,True
+525,21,83,83,Science,M.Tech,General,95.0,"Punjabi,Urdu,Malayalam","Marketing,AI/ML,Operations,Java",MS Office Cert,Marketing Intern,OBC,Postgraduate,Delhi,True
+526,22,72,76,Arts,M.Tech,General,85.0,"Marathi,Kannada","Finance,Research,Lab Work",MS Office Cert,HR Intern,SC,Postgraduate,Hyderabad,True
+527,24,87,70,,,,,"Kannada,Marathi","Teamwork,Research,Python",,,ST,10th,Delhi,True
+528,22,83,73,Arts,B.Sc,Mechanical,88.0,"Hindi,English","Research,AI/ML",,Research Intern,ST,Graduate,Lucknow,True
+529,20,83,89,Arts,MBA,General,81.0,Assamese,"React,Cybersecurity",AI Cert,,OBC,Postgraduate,Chandigarh,True
+530,24,93,77,Commerce,B.A,Computer Science,66.0,"Hindi,Gujarati","Java,Marketing,Lab Work",,,ST,Graduate,Ahmedabad,True
+531,24,93,74,,,,,Urdu,"React,Lab Work",,,ST,10th,Kolkata,True
+532,20,92,73,Science,B.Sc,HR,80.0,"Bengali,Urdu","React,Cybersecurity",AI Cert,,General,Graduate,Lucknow,True
+533,24,71,86,Commerce,MBA,General,76.0,Hindi,"Finance,Operations,Cybersecurity,Marketing",MS Office Cert,Research Intern,SC,Postgraduate,Kolkata,True
+534,21,92,78,Arts,,,,"Hindi,Telugu","Communication,Cybersecurity,Lab Work,Teamwork",,,General,12th,Indore,True
+535,23,72,82,Commerce,B.Com,General,85.0,"English,Gujarati","Operations,Java",Cybersecurity Cert,,OBC,Graduate,Chandigarh,True
+536,22,83,80,Science,,,,"Hindi,Kannada","Lab Work,React,SQL,Cybersecurity",,,OBC,12th,Pune,True
+537,22,91,74,Commerce,B.A,HR,70.0,Punjabi,"Teamwork,Python,Java,AI/ML",MS Office Cert,,SC,Graduate,Bangalore,True
+538,23,71,71,Science,,,,"Kannada,Malayalam,Tamil","Cybersecurity,Java",,,SC,12th,Chandigarh,True
+539,24,71,86,Science,,,,"Bengali,Kannada","Cybersecurity,Research",,,OBC,12th,Hyderabad,True
+540,25,95,87,Commerce,,,,English,"AI/ML,Communication,Java,Teamwork",,,General,12th,Hyderabad,True
+541,22,92,78,Commerce,,,,"Malayalam,Odia","Networking,Cybersecurity",,,OBC,12th,Chennai,True
+542,22,85,75,,,,,"English,Odia","SQL,Teamwork,Finance",,,ST,10th,Indore,True
+543,20,87,90,Arts,,,,Bengali,"Networking,Python",,,ST,12th,Chandigarh,True
+544,21,78,84,Science,M.Tech,General,85.0,"Hindi,Malayalam,English","Teamwork,Marketing,Finance,Networking",Finance Cert,Research Intern,General,Postgraduate,Jaipur,True
+545,23,71,71,,,,,Telugu,"Java,Cybersecurity,React",,,General,10th,Lucknow,True
+546,23,93,71,Science,M.Sc,General,91.0,Tamil,"Finance,Communication,Research",Finance Cert,,OBC,Postgraduate,Hyderabad,True
+547,23,83,77,Science,M.Sc,General,85.0,Urdu,"AI/ML,Teamwork",MS Office Cert,Food Science Intern,General,Postgraduate,Chandigarh,True
+548,21,77,90,,,,,Malayalam,"Marketing,Finance,Cybersecurity",,,OBC,10th,Lucknow,True
+549,20,75,83,Commerce,B.Com,General,67.0,Kannada,"Communication,React,AI/ML",,,OBC,Graduate,Ahmedabad,True
+550,23,71,73,Science,M.Sc,General,80.0,"Gujarati,Odia","Communication,Operations,Java",Food Safety Cert,Cyber Security Intern,ST,Postgraduate,Pune,True
+551,23,83,78,Science,BE,Electrical,72.0,Odia,"AI/ML,Operations",AI Cert,Mechanical Intern,General,Graduate,Chennai,True
+552,20,82,78,Commerce,,,,"Telugu,Malayalam","Networking,Operations,React,Python",,,SC,12th,Mumbai,True
+553,21,80,76,Arts,MBA,General,77.0,Tamil,"Teamwork,Java,Marketing,AI/ML",AI Cert,HR Intern,ST,Postgraduate,Mumbai,True
+554,22,73,78,Science,BE,HR,79.0,"Odia,Urdu,Kannada","Networking,Finance,SQL",Finance Cert,Cyber Security Intern,General,Graduate,Lucknow,True
+555,25,94,90,Science,M.Tech,General,77.0,"Telugu,Bengali","Teamwork,Java,Communication,Cybersecurity",AI Cert,Mechanical Intern,ST,Postgraduate,Jaipur,True
+556,21,74,71,,,,,"Assamese,English,Odia","Networking,Research",,,General,10th,Lucknow,True
+557,23,90,87,Arts,B.Com,Computer Science,89.0,"Tamil,Telugu","Python,Cybersecurity",,Research Intern,OBC,Graduate,Kolkata,True
+558,24,80,71,,,,,"Malayalam,Urdu,Odia","Marketing,AI/ML,Operations,Cybersecurity",,,ST,10th,Hyderabad,True
+559,25,94,87,,,,,"Urdu,Tamil","Python,React,Cybersecurity,Finance",,,General,10th,Mumbai,True
+560,20,81,73,,,,,"Assamese,Punjabi,Bengali","Networking,Java",,,General,10th,Chandigarh,True
+561,25,82,79,,,,,"English,Bengali","Operations,Python",,,General,10th,Indore,True
+562,23,91,84,Science,,,,Malayalam,"Research,React,Cybersecurity,Finance",,,OBC,12th,Chandigarh,True
+563,21,94,71,Commerce,B.Sc,Computer Science,70.0,Gujarati,"Cybersecurity,Python",Research Cert,Technical Intern,SC,Graduate,Kolkata,True
+564,20,95,79,Arts,,,,Odia,"Cybersecurity,Research,Networking,Lab Work",,,OBC,12th,Bangalore,True
+565,21,89,75,Commerce,,,,"Odia,Kannada","AI/ML,Java",,,ST,12th,Mumbai,True
+566,21,83,73,Commerce,BE,HR,70.0,"Hindi,Odia,Punjabi","Marketing,Cybersecurity",Food Safety Cert,,SC,Graduate,Jaipur,True
+567,23,84,85,Arts,M.Tech,General,78.0,"Kannada,Marathi","Finance,Java",AI Cert,HR Intern,General,Postgraduate,Pune,True
+568,23,77,90,,,,,Gujarati,"Lab Work,Research,Cybersecurity,Python",,,ST,10th,Ahmedabad,True
+569,23,72,90,,,,,Gujarati,"AI/ML,Teamwork,Python,Java",,,OBC,10th,Jaipur,True
+570,24,71,83,,,,,Kannada,"Lab Work,Networking,Python",,,OBC,10th,Jaipur,True
+571,25,89,90,Commerce,M.Sc,General,80.0,Odia,"Communication,Networking,React",Cybersecurity Cert,Food Science Intern,ST,Postgraduate,Bangalore,True
+572,25,78,87,Commerce,,,,Tamil,"Marketing,Lab Work,Teamwork",,,General,12th,Delhi,True
+573,25,84,72,Commerce,B.A,Electrical,80.0,Gujarati,"Networking,Cybersecurity,Communication,React",MS Office Cert,,General,Graduate,Ahmedabad,True
+574,24,75,77,Science,B.Com,HR,84.0,"English,Malayalam,Punjabi","Networking,React,Marketing",MS Office Cert,,SC,Graduate,Delhi,True
+575,20,73,76,Commerce,,,,"Odia,Punjabi,Hindi","React,Finance",,,SC,12th,Ahmedabad,True
+576,25,75,71,Arts,MBA,General,80.0,Urdu,"Operations,Cybersecurity,Finance",Research Cert,HR Intern,General,Postgraduate,Lucknow,True
+577,21,92,73,,,,,Malayalam,"Operations,Python,SQL",,,OBC,10th,Pune,True
+578,21,81,80,Science,M.Sc,General,78.0,"Telugu,Tamil","Research,Python,Networking,Finance",Food Safety Cert,,General,Postgraduate,Bangalore,True
+579,24,86,85,Arts,B.Com,Mechanical,87.0,"Malayalam,Bengali,English","Teamwork,Operations",,,ST,Graduate,Hyderabad,True
+580,22,87,81,Science,,,,Odia,"Networking,Cybersecurity,Communication,Finance",,,OBC,12th,Jaipur,True
+581,21,93,90,Arts,,,,"Odia,Telugu","SQL,Operations",,,ST,12th,Hyderabad,True
+582,21,86,88,Commerce,M.Tech,General,78.0,"Tamil,Malayalam","Communication,Teamwork,Python,Java",Food Safety Cert,Marketing Intern,ST,Postgraduate,Pune,True
+583,22,76,75,Science,,,,Bengali,"Operations,Java,React,Finance",,,SC,12th,Kolkata,True
+584,21,88,77,Commerce,,,,Odia,"SQL,Research,Lab Work,Teamwork",,,SC,12th,Delhi,True
+585,20,95,78,Arts,,,,"Punjabi,Tamil","Operations,Finance",,,ST,12th,Indore,True
+586,24,90,75,,,,,"Bengali,English,Gujarati","Lab Work,Cybersecurity,Communication,Python",,,OBC,10th,Jaipur,True
+587,24,88,80,Arts,MBA,General,92.0,"Gujarati,Punjabi","Research,Finance,Cybersecurity,Operations",AI Cert,Research Intern,General,Postgraduate,Ahmedabad,True
+588,20,70,70,Commerce,BE,Finance,85.0,"Malayalam,English,Assamese","Finance,Networking",,,General,Graduate,Pune,True
+589,20,79,76,Arts,M.Tech,General,80.0,"Punjabi,Urdu,Kannada","Lab Work,Marketing,Finance",Cybersecurity Cert,,SC,Postgraduate,Lucknow,True
+590,25,70,82,,,,,"Marathi,Urdu,Punjabi","SQL,Communication,Operations,Research",,,General,10th,Bangalore,True
+591,20,74,86,Arts,B.A,Computer Science,67.0,"Bengali,English","Research,Lab Work",Research Cert,,ST,Graduate,Kolkata,True
+592,24,91,79,Arts,M.Sc,General,89.0,"Bengali,Assamese,Punjabi","Teamwork,AI/ML,Lab Work",AI Cert,Mechanical Intern,ST,Postgraduate,Chennai,True
+593,22,86,78,,,,,"Marathi,Malayalam","Finance,Teamwork,Networking",,,SC,10th,Jaipur,True
+594,22,83,82,Science,,,,"Bengali,Punjabi","AI/ML,Java,Communication",,,SC,12th,Delhi,True
+595,23,91,74,Arts,,,,"Bengali,Odia","Operations,Lab Work",,,ST,12th,Jaipur,True
+596,25,91,72,Science,,,,"Tamil,Kannada,English","Operations,Communication",,,ST,12th,Lucknow,True
+597,23,83,77,,,,,"Urdu,Assamese,Odia","Java,Networking",,,ST,10th,Bangalore,True
+598,20,78,87,,,,,"Odia,Tamil","Lab Work,Operations",,,SC,10th,Chennai,True
+599,21,91,84,Science,,,,Hindi,"SQL,Finance,Research,Networking",,,General,12th,Hyderabad,True
+600,21,72,75,,,,,Urdu,"Networking,Python",,,ST,10th,Bangalore,True
+601,20,92,83,Arts,B.Tech,Electrical,85.0,"Hindi,Tamil,Kannada","Java,Research",,HR Intern,ST,Graduate,Chandigarh,True
+602,21,85,84,Science,,,,"Tamil,Urdu,Malayalam","Cybersecurity,React,Networking",,,OBC,12th,Mumbai,True
+603,25,76,88,Commerce,M.Tech,General,77.0,Kannada,"AI/ML,Java,Marketing,Communication",MS Office Cert,,SC,Postgraduate,Chandigarh,True
+604,23,83,80,Science,B.Tech,HR,78.0,"Assamese,Malayalam","Finance,Research,Marketing,Cybersecurity",AI Cert,Marketing Intern,ST,Graduate,Jaipur,True
+605,24,72,77,Arts,B.Tech,Computer Science,68.0,"Tamil,Gujarati","Python,SQL",Finance Cert,Marketing Intern,General,Graduate,Ahmedabad,True
+606,20,83,90,Commerce,,,,"Hindi,Telugu,English","Communication,Python,Marketing",,,SC,12th,Jaipur,True
+607,23,74,84,Commerce,B.Com,Mechanical,72.0,"Marathi,Telugu","Lab Work,Finance,SQL",Finance Cert,,SC,Graduate,Jaipur,True
+608,25,77,88,,,,,Assamese,"Finance,Lab Work,Networking,Cybersecurity",,,SC,10th,Jaipur,True
+609,20,95,73,Commerce,,,,"Urdu,Assamese,Hindi","SQL,Teamwork,Communication,Marketing",,,OBC,12th,Ahmedabad,True
+610,21,87,87,Science,M.Sc,General,90.0,Malayalam,"Finance,SQL,Java",Cybersecurity Cert,,ST,Postgraduate,Kolkata,True
+611,23,83,74,Science,BE,General,86.0,"English,Odia","SQL,Operations,Teamwork,Networking",Research Cert,,ST,Graduate,Delhi,True
+612,22,76,86,Arts,,,,"Urdu,Telugu","AI/ML,React",,,SC,12th,Chandigarh,True
+613,20,85,77,Science,BE,Electrical,68.0,"English,Punjabi","Communication,Teamwork",,,ST,Graduate,Bangalore,True
+614,20,82,84,Science,,,,"Punjabi,Malayalam","SQL,Lab Work,Research",,,SC,12th,Chandigarh,True
+615,23,81,80,,,,,"Bengali,Telugu","Research,Teamwork",,,SC,10th,Kolkata,True
+616,24,83,86,Arts,,,,"Bengali,Kannada","Lab Work,React,Operations,AI/ML",,,OBC,12th,Ahmedabad,True
+617,20,87,89,Commerce,MBA,General,80.0,"Tamil,Marathi","Teamwork,Marketing,Finance",AI Cert,Mechanical Intern,OBC,Postgraduate,Ahmedabad,True
+618,25,80,85,Commerce,M.Sc,General,86.0,"Urdu,Odia,English","Lab Work,Operations,Marketing",Research Cert,Mechanical Intern,General,Postgraduate,Indore,True
+619,24,92,70,Commerce,,,,"Tamil,Assamese,Gujarati","Lab Work,Java,Operations",,,SC,12th,Chennai,True
+620,20,92,83,Arts,B.A,Computer Science,68.0,"Assamese,Marathi","Marketing,React",MS Office Cert,Mechanical Intern,SC,Graduate,Bangalore,True
+621,23,82,88,Arts,B.Tech,Mechanical,79.0,Gujarati,"AI/ML,Research",,,OBC,Graduate,Chennai,True
+622,22,90,83,Arts,BE,Electrical,70.0,"Punjabi,Telugu,Urdu","AI/ML,Python",Finance Cert,Food Science Intern,ST,Graduate,Pune,True
+623,25,70,82,Science,,,,Telugu,"Teamwork,Communication,Finance,Operations",,,ST,12th,Mumbai,True
+624,22,82,74,Arts,,,,"Hindi,Assamese,Tamil","Java,Cybersecurity,React,Finance",,,ST,12th,Lucknow,True
+625,24,89,74,Science,BE,Mechanical,71.0,"Tamil,Assamese,Telugu","Lab Work,Java",AI Cert,Marketing Intern,OBC,Graduate,Mumbai,True
+626,24,84,72,Arts,,,,Punjabi,"Operations,Python,SQL",,,SC,12th,Chennai,True
+627,20,90,82,,,,,"Odia,Tamil,Punjabi","Cybersecurity,React",,,SC,10th,Pune,True
+628,24,92,70,,,,,"Gujarati,Malayalam,Marathi","Java,SQL,Teamwork",,,SC,10th,Mumbai,True
+629,25,83,77,Commerce,,,,Odia,"Communication,Finance,AI/ML",,,SC,12th,Hyderabad,True
+630,20,70,85,Science,M.Tech,General,76.0,English,"Teamwork,Python",Finance Cert,Cyber Security Intern,General,Postgraduate,Jaipur,True
+631,21,86,89,Arts,M.Sc,General,89.0,Odia,"Python,React,Marketing",AI Cert,HR Intern,OBC,Postgraduate,Chandigarh,True
+632,24,74,87,,,,,"Bengali,Urdu","AI/ML,Networking,Python",,,SC,10th,Chennai,True
+633,20,78,85,Commerce,M.Tech,General,91.0,Telugu,"SQL,React,Teamwork",Cybersecurity Cert,Mechanical Intern,ST,Postgraduate,Kolkata,True
+634,25,91,82,Science,,,,"Odia,Bengali,Kannada","Lab Work,Finance",,,ST,12th,Delhi,True
+635,20,86,86,,,,,"Telugu,Tamil,Odia","Communication,SQL,Python,Networking",,,ST,10th,Jaipur,True
+636,23,82,85,Commerce,,,,Odia,"Marketing,Lab Work,SQL,Java",,,ST,12th,Indore,True
+637,20,84,82,Commerce,B.Sc,Finance,88.0,"Assamese,Bengali,Tamil","Networking,Operations,React,AI/ML",Finance Cert,,OBC,Graduate,Ahmedabad,True
+638,22,95,75,Arts,,,,Gujarati,"Java,Research,AI/ML",,,ST,12th,Jaipur,True
+639,22,70,80,Commerce,,,,Tamil,"Cybersecurity,Finance",,,SC,12th,Indore,True
+640,24,87,82,Arts,M.Sc,General,95.0,"Malayalam,Urdu","Operations,Research",Finance Cert,Food Science Intern,OBC,Postgraduate,Pune,True
+641,22,82,82,Commerce,MBA,General,90.0,"English,Tamil,Assamese","Operations,SQL,Cybersecurity,Java",MS Office Cert,Technical Intern,SC,Postgraduate,Lucknow,True
+642,22,89,84,Science,,,,"Punjabi,English","Cybersecurity,Finance",,,General,12th,Chandigarh,True
+643,24,85,88,,,,,"Telugu,Odia","Lab Work,SQL,Teamwork",,,OBC,10th,Lucknow,True
+644,25,87,88,,,,,"Malayalam,Hindi,Tamil","Python,SQL,Operations",,,ST,10th,Chandigarh,True
+645,21,72,70,Science,,,,"Assamese,Kannada","Python,AI/ML,Teamwork",,,General,12th,Hyderabad,True
+646,21,87,81,Science,B.Sc,HR,71.0,"Bengali,Punjabi","Networking,Research,Java",Research Cert,,ST,Graduate,Lucknow,True
+647,23,88,73,Science,BE,Electrical,85.0,Bengali,"Lab Work,AI/ML",Cybersecurity Cert,Food Science Intern,SC,Graduate,Hyderabad,True
+648,25,78,84,Arts,,,,"English,Hindi","Python,Lab Work",,,ST,12th,Bangalore,True
+649,23,94,77,Commerce,,,,Malayalam,"Java,Operations",,,General,12th,Jaipur,True
+650,25,77,75,Science,MBA,General,93.0,"Odia,Punjabi","Communication,Marketing,Teamwork,Research",AI Cert,HR Intern,SC,Postgraduate,Delhi,True
+651,21,77,82,Arts,M.Sc,General,89.0,Punjabi,"Networking,Research",Cybersecurity Cert,Marketing Intern,SC,Postgraduate,Chandigarh,True
+652,22,85,75,,,,,Malayalam,"Operations,Networking,AI/ML,Marketing",,,OBC,10th,Delhi,True
+653,24,83,89,Commerce,,,,"Punjabi,Telugu,Odia","Finance,SQL,React,Networking",,,General,12th,Ahmedabad,True
+654,21,91,86,Commerce,BE,HR,76.0,Odia,"Lab Work,Research,Finance,React",MS Office Cert,,SC,Graduate,Pune,True
+655,23,88,79,,,,,"Tamil,Gujarati","Marketing,Teamwork,SQL,Python",,,ST,10th,Hyderabad,True
+656,20,91,83,,,,,"Urdu,English","Cybersecurity,Networking,Finance,Java",,,SC,10th,Lucknow,True
+657,21,71,73,Arts,B.Sc,HR,73.0,"Malayalam,Hindi","Lab Work,Research,Teamwork,Python",AI Cert,Cyber Security Intern,OBC,Graduate,Chennai,True
+658,25,90,86,,,,,Gujarati,"AI/ML,Teamwork,React,Networking",,,ST,10th,Pune,True
+659,20,84,86,Commerce,,,,"Hindi,Odia,Assamese","Java,Operations",,,General,12th,Indore,True
+660,24,82,88,Arts,MBA,General,85.0,"Hindi,Urdu","Research,AI/ML",AI Cert,Marketing Intern,General,Postgraduate,Mumbai,True
+661,24,79,72,,,,,"Punjabi,Marathi,Odia","SQL,Operations,Python",,,General,10th,Chennai,True
+662,20,78,74,Arts,MBA,General,92.0,"Tamil,English,Marathi","Cybersecurity,Communication",Research Cert,Cyber Security Intern,General,Postgraduate,Bangalore,True
+663,20,77,78,Commerce,,,,"Bengali,Assamese,Marathi","AI/ML,SQL,Teamwork",,,General,12th,Kolkata,True
+664,22,81,75,Science,B.Com,HR,78.0,"Tamil,Bengali","Marketing,Java",,,OBC,Graduate,Pune,True
+665,21,86,85,Arts,B.Com,Electrical,87.0,Marathi,"Python,Research,Lab Work",,Technical Intern,General,Graduate,Lucknow,True
+666,21,83,81,Commerce,,,,Odia,"Cybersecurity,Communication,Teamwork",,,OBC,12th,Bangalore,True
+667,25,89,82,,,,,"Marathi,Bengali,English","Networking,Finance,React",,,General,10th,Lucknow,True
+668,25,80,72,,,,,Kannada,"Communication,Python,Cybersecurity,Finance",,,ST,10th,Indore,True
+669,24,78,71,,,,,Bengali,"Lab Work,Research,Networking,Java",,,SC,10th,Indore,True
+670,22,71,89,Commerce,BE,Finance,79.0,Malayalam,"Communication,Python,Marketing,SQL",Cybersecurity Cert,,General,Graduate,Hyderabad,True
+671,24,93,84,Science,,,,"Tamil,Odia,Telugu","Operations,Marketing,AI/ML,Python",,,General,12th,Jaipur,True
+672,25,80,84,Arts,B.Sc,HR,83.0,Assamese,"AI/ML,Lab Work,Networking",Finance Cert,,SC,Graduate,Jaipur,True
+673,22,72,80,Arts,,,,Marathi,"Lab Work,Cybersecurity,AI/ML,Communication",,,General,12th,Kolkata,True
+674,23,93,73,,,,,"Malayalam,Tamil,Punjabi","Python,Communication",,,General,10th,Ahmedabad,True
+675,23,82,83,Arts,,,,"Bengali,English","Communication,Cybersecurity,Operations",,,OBC,12th,Jaipur,True
+676,20,77,76,,,,,"Punjabi,Assamese","Communication,Python,Networking,SQL",,,OBC,10th,Indore,True
+677,24,90,70,Science,B.Com,Electrical,78.0,Assamese,"Python,Communication",Food Safety Cert,,OBC,Graduate,Pune,True
+678,21,82,79,Arts,,,,English,"Research,Finance,React",,,OBC,12th,Indore,True
+679,23,70,89,,,,,"English,Malayalam,Punjabi","Communication,Lab Work",,,ST,10th,Indore,True
+680,22,75,89,Arts,,,,"Gujarati,Tamil","Networking,Operations,Teamwork",,,SC,12th,Bangalore,True
+681,23,87,75,Commerce,BE,Finance,79.0,"Telugu,English,Punjabi","Lab Work,Finance",Research Cert,Mechanical Intern,OBC,Graduate,Ahmedabad,True
+682,23,74,75,Arts,M.Sc,General,83.0,"English,Urdu,Telugu","React,Java,AI/ML",MS Office Cert,Food Science Intern,OBC,Postgraduate,Ahmedabad,True
+683,24,87,71,Commerce,M.Tech,General,75.0,"Punjabi,Odia","SQL,Cybersecurity,AI/ML",Research Cert,Food Science Intern,SC,Postgraduate,Bangalore,True
+684,24,79,81,Commerce,,,,"English,Punjabi","Communication,Finance,Java",,,General,12th,Ahmedabad,True
+685,23,85,89,,,,,"Gujarati,Assamese,Telugu","Lab Work,Operations",,,General,10th,Bangalore,True
+686,21,90,76,Science,B.A,Electrical,82.0,"Urdu,Telugu","Research,AI/ML,SQL",Finance Cert,,General,Graduate,Chandigarh,True
+687,20,71,77,Commerce,B.Com,Mechanical,83.0,"Urdu,Hindi","SQL,Operations,Communication,Teamwork",,,SC,Graduate,Bangalore,True
+688,22,95,88,,,,,"Malayalam,Telugu,Gujarati","Java,Networking,React",,,SC,10th,Indore,True
+689,20,75,80,Commerce,B.A,General,69.0,"Malayalam,Hindi,Odia","Research,React,Cybersecurity,SQL",Cybersecurity Cert,,ST,Graduate,Delhi,True
+690,21,93,82,Arts,M.Sc,General,87.0,"Hindi,Odia,Malayalam","Networking,Marketing,Python",Cybersecurity Cert,Research Intern,OBC,Postgraduate,Lucknow,True
+691,20,78,85,,,,,Bengali,"React,Operations,Finance",,,OBC,10th,Ahmedabad,True
+692,24,93,76,,,,,Bengali,"Lab Work,Communication,Networking,Python",,,ST,10th,Mumbai,True
+693,22,72,77,Arts,B.Tech,General,87.0,Marathi,"AI/ML,Java",Finance Cert,Research Intern,SC,Graduate,Bangalore,True
+694,24,95,78,Science,,,,"Kannada,Punjabi,Assamese","Finance,Java,Networking",,,SC,12th,Lucknow,True
+695,24,95,83,Commerce,B.Com,HR,74.0,"Kannada,Tamil,Marathi","Networking,Research,SQL",Food Safety Cert,Cyber Security Intern,OBC,Graduate,Hyderabad,True
+696,21,76,88,Arts,B.Com,Electrical,72.0,"Kannada,Bengali,Hindi","Python,Networking",,Marketing Intern,General,Graduate,Hyderabad,True
+697,21,82,76,,,,,"Hindi,Urdu,Telugu","Marketing,Finance,Operations,Research",,,ST,10th,Chandigarh,True
+698,21,73,89,Arts,MBA,General,92.0,"Urdu,Assamese,Gujarati","React,Operations,Java",AI Cert,Cyber Security Intern,General,Postgraduate,Delhi,True
+699,23,90,84,,,,,Tamil,"React,AI/ML,Lab Work",,,ST,10th,Indore,True
+700,23,93,70,Science,MBA,General,83.0,Tamil,"Finance,Cybersecurity",Food Safety Cert,Technical Intern,General,Postgraduate,Lucknow,True
+701,24,83,81,Commerce,,,,"Tamil,Gujarati","Python,Teamwork",,,OBC,12th,Pune,True
+702,23,80,78,Science,,,,"Malayalam,Bengali,Marathi","Networking,Python,React,Java",,,General,12th,Ahmedabad,True
+703,25,75,73,Arts,M.Sc,General,90.0,Hindi,"Networking,Research,SQL,Python",Food Safety Cert,HR Intern,ST,Postgraduate,Bangalore,True
+704,22,95,88,,,,,"Gujarati,Kannada,Telugu","Java,Cybersecurity,Research",,,OBC,10th,Jaipur,True
+705,23,78,88,Arts,B.Sc,Finance,79.0,Hindi,"Networking,React",Research Cert,Marketing Intern,General,Graduate,Indore,True
+706,23,91,74,Arts,B.Com,Mechanical,89.0,"Marathi,Hindi","Finance,Lab Work",AI Cert,,SC,Graduate,Bangalore,True
+707,25,78,82,Science,,,,Hindi,"Research,Python,AI/ML",,,OBC,12th,Chennai,True
+708,23,81,86,Commerce,,,,"Bengali,Gujarati","Lab Work,Java",,,General,12th,Chennai,True
+709,24,85,87,Science,B.Com,HR,71.0,Punjabi,"Teamwork,Research,SQL",,Marketing Intern,SC,Graduate,Mumbai,True
+710,23,95,85,Arts,,,,Tamil,"Java,Operations",,,SC,12th,Chennai,True
+711,22,95,77,Commerce,,,,"Gujarati,Assamese","Finance,Java,Python",,,ST,12th,Bangalore,True
+712,25,90,71,Commerce,M.Sc,General,94.0,"Tamil,Kannada","SQL,Marketing",Cybersecurity Cert,Cyber Security Intern,ST,Postgraduate,Delhi,True
+713,22,93,72,,,,,"Telugu,Bengali","Teamwork,Cybersecurity,Research",,,ST,10th,Chandigarh,True
+714,24,84,77,,,,,"Urdu,Punjabi","React,Python,Communication,Operations",,,General,10th,Chandigarh,True
+715,21,92,85,Commerce,M.Tech,General,86.0,Kannada,"Research,Lab Work",MS Office Cert,Food Science Intern,SC,Postgraduate,Mumbai,True
+716,25,79,75,Science,B.A,Finance,90.0,"Malayalam,Tamil,Bengali","Lab Work,Java",,HR Intern,ST,Graduate,Lucknow,True
+717,25,70,80,Arts,M.Sc,General,81.0,"Assamese,Marathi","Python,Teamwork,Communication",AI Cert,HR Intern,General,Postgraduate,Indore,True
+718,22,70,84,Science,M.Tech,General,88.0,Urdu,"SQL,Python,Cybersecurity",Finance Cert,,SC,Postgraduate,Delhi,True
+719,23,94,83,Commerce,M.Tech,General,88.0,Punjabi,"Finance,Communication",Finance Cert,Cyber Security Intern,SC,Postgraduate,Ahmedabad,True
+720,21,84,74,Commerce,MBA,General,94.0,"Bengali,Malayalam","SQL,Teamwork",Cybersecurity Cert,,OBC,Postgraduate,Chandigarh,True
+721,23,74,85,Science,B.Tech,Computer Science,74.0,"Marathi,Punjabi","Networking,AI/ML,Operations,Lab Work",Research Cert,,General,Graduate,Delhi,True
+722,21,93,89,,,,,"Assamese,English","Cybersecurity,React",,,OBC,10th,Bangalore,True
+723,23,82,89,Arts,BE,HR,68.0,Punjabi,"SQL,Lab Work,Python,Research",,Cyber Security Intern,General,Graduate,Kolkata,True
+724,24,73,76,Arts,MBA,General,88.0,Urdu,"React,Python,SQL,Marketing",Research Cert,Research Intern,OBC,Postgraduate,Ahmedabad,True
+725,21,94,72,Science,B.Com,General,80.0,"Urdu,Hindi","Cybersecurity,Communication,Networking,Lab Work",Food Safety Cert,Food Science Intern,SC,Graduate,Indore,True
+726,25,77,78,Science,,,,"English,Tamil,Telugu","Communication,Teamwork",,,OBC,12th,Jaipur,True
+727,21,80,77,,,,,"Hindi,Marathi","Operations,Finance,Communication,SQL",,,ST,10th,Delhi,True
+728,24,95,80,Commerce,B.Com,Finance,79.0,"Kannada,Punjabi,Assamese","Lab Work,React,Teamwork",,,ST,Graduate,Ahmedabad,True
+729,24,92,77,Science,,,,"Gujarati,Kannada","Cybersecurity,AI/ML,Lab Work,Networking",,,General,12th,Chandigarh,True
+730,25,74,90,Arts,,,,Urdu,"Operations,Cybersecurity",,,SC,12th,Ahmedabad,True
+731,22,71,90,Science,B.Sc,Finance,76.0,"Tamil,Kannada,Hindi","Operations,Marketing",Research Cert,,General,Graduate,Lucknow,True
+732,20,93,74,Commerce,B.Com,HR,66.0,"Assamese,Hindi","Marketing,Cybersecurity",,HR Intern,OBC,Graduate,Delhi,True
+733,22,73,77,,,,,"Telugu,Kannada","SQL,Networking,Cybersecurity,Java",,,General,10th,Jaipur,True
+734,24,71,77,Commerce,M.Tech,General,82.0,"English,Assamese","Communication,AI/ML,Teamwork",MS Office Cert,Mechanical Intern,ST,Postgraduate,Chennai,True
+735,25,89,76,Science,,,,"Assamese,Hindi,Urdu","Networking,Finance,Communication,SQL",,,General,12th,Mumbai,True
+736,22,94,86,Arts,,,,Marathi,"SQL,Java,AI/ML,Marketing",,,ST,12th,Pune,True
+737,21,82,90,Commerce,B.A,HR,84.0,"Odia,Hindi","Communication,Marketing,Java",AI Cert,Mechanical Intern,General,Graduate,Ahmedabad,True
+738,24,79,83,,,,,"Gujarati,Punjabi","AI/ML,SQL",,,SC,10th,Indore,True
+739,23,91,78,Commerce,,,,"Hindi,English,Kannada","Java,Marketing,Networking",,,ST,12th,Bangalore,True
+740,25,71,73,Arts,M.Tech,General,82.0,"Telugu,Urdu","Java,AI/ML",Food Safety Cert,Technical Intern,ST,Postgraduate,Pune,True
+741,23,89,87,,,,,Marathi,"Research,Communication,Teamwork,Operations",,,General,10th,Mumbai,True
+742,20,75,89,,,,,"Bengali,English","Cybersecurity,React,Operations,Python",,,OBC,10th,Kolkata,True
+743,21,93,88,,,,,English,"Finance,Operations,Python,React",,,SC,10th,Kolkata,True
+744,21,71,79,,,,,"Marathi,Urdu","Teamwork,Python,Marketing,AI/ML",,,ST,10th,Jaipur,True
+745,25,75,70,,,,,"Assamese,English,Bengali","React,Lab Work,SQL",,,SC,10th,Pune,True
+746,25,83,88,Arts,,,,"Malayalam,Odia,Hindi","AI/ML,Python,SQL",,,ST,12th,Chennai,True
+747,23,81,72,,,,,"Malayalam,English,Assamese","Python,Finance",,,ST,10th,Lucknow,True
+748,25,84,90,Arts,BE,Finance,84.0,Kannada,"React,AI/ML,Research,Teamwork",AI Cert,Food Science Intern,ST,Graduate,Ahmedabad,True
+749,22,91,71,,,,,Punjabi,"Marketing,Networking,AI/ML,Operations",,,General,10th,Chennai,True
+750,20,81,71,Arts,,,,Odia,"Cybersecurity,AI/ML,Networking,Communication",,,ST,12th,Lucknow,True
+751,23,77,78,Commerce,B.Com,General,69.0,"Bengali,Punjabi,English","Python,Marketing,Networking",Food Safety Cert,,OBC,Graduate,Bangalore,True
+752,20,83,82,Arts,,,,Urdu,"Finance,Python,Cybersecurity",,,ST,12th,Lucknow,True
+753,22,88,74,Science,,,,"Urdu,Kannada,Punjabi","Teamwork,Java,Python",,,OBC,12th,Bangalore,True
+754,25,75,80,,,,,Tamil,"Marketing,Cybersecurity,Research",,,SC,10th,Pune,True
+755,21,89,77,,,,,"Hindi,English,Telugu","AI/ML,Communication",,,General,10th,Jaipur,True
+756,23,76,74,Arts,MBA,General,80.0,"Kannada,Urdu","AI/ML,Python,Teamwork,Marketing",Cybersecurity Cert,HR Intern,SC,Postgraduate,Mumbai,True
+757,21,83,76,Science,B.Sc,HR,82.0,Bengali,"Networking,Research,SQL",,,ST,Graduate,Kolkata,True
+758,25,79,73,Commerce,B.A,General,67.0,"Urdu,Gujarati","AI/ML,SQL",Cybersecurity Cert,,ST,Graduate,Hyderabad,True
+759,21,81,79,,,,,Urdu,"SQL,Operations",,,OBC,10th,Hyderabad,True
+760,22,84,74,Science,B.Com,Computer Science,76.0,Marathi,"Teamwork,AI/ML,Networking",Cybersecurity Cert,,SC,Graduate,Chennai,True
+761,20,89,78,Science,MBA,General,78.0,"Kannada,Malayalam","Operations,Python",Cybersecurity Cert,Marketing Intern,OBC,Postgraduate,Mumbai,True
+762,25,70,86,Arts,,,,Kannada,"Teamwork,SQL,Research,Finance",,,SC,12th,Indore,True
+763,20,88,88,Commerce,M.Sc,General,84.0,"Bengali,Malayalam","Finance,Networking,Cybersecurity",Finance Cert,Cyber Security Intern,SC,Postgraduate,Kolkata,True
+764,22,92,78,,,,,"Kannada,Punjabi","Research,Marketing,Java",,,OBC,10th,Jaipur,True
+765,22,72,79,Arts,,,,"Telugu,Punjabi","AI/ML,Marketing",,,SC,12th,Kolkata,True
+766,22,85,87,Commerce,MBA,General,91.0,"Tamil,Kannada","Python,Java,SQL,Lab Work",Cybersecurity Cert,Marketing Intern,General,Postgraduate,Hyderabad,True
+767,25,87,75,Science,,,,"Gujarati,Punjabi,Telugu","Lab Work,Finance",,,ST,12th,Chennai,True
+768,22,76,74,Arts,B.A,Electrical,65.0,Hindi,"Teamwork,Python",Research Cert,Cyber Security Intern,SC,Graduate,Pune,True
+769,23,92,87,Arts,,,,"Urdu,Telugu,Malayalam","Java,Operations,Marketing,Python",,,OBC,12th,Lucknow,True
+770,22,71,72,Science,,,,"Telugu,Assamese,Punjabi","Networking,Lab Work",,,General,12th,Hyderabad,True
+771,23,71,86,,,,,"Assamese,Tamil","Cybersecurity,Teamwork,Finance,Research",,,ST,10th,Pune,True
+772,21,77,83,Arts,B.A,Mechanical,72.0,"Punjabi,Telugu,Kannada","SQL,Communication,Research",MS Office Cert,,ST,Graduate,Chandigarh,True
+773,25,85,77,Science,,,,"Punjabi,Telugu","Communication,Python,Finance",,,OBC,12th,Ahmedabad,True
+774,23,85,77,Commerce,,,,"Telugu,Urdu,Kannada","React,Operations,AI/ML,Teamwork",,,SC,12th,Kolkata,True
+775,22,93,87,Arts,,,,"Kannada,Odia,Urdu","Marketing,AI/ML,Operations",,,OBC,12th,Chennai,True
+776,20,78,85,Science,,,,"Tamil,Telugu","AI/ML,Cybersecurity,Operations,Finance",,,ST,12th,Mumbai,True
+777,25,86,82,Arts,B.Tech,Computer Science,72.0,"Urdu,Hindi","AI/ML,Lab Work,React",Finance Cert,Research Intern,ST,Graduate,Lucknow,True
+778,21,86,89,,,,,Punjabi,"Marketing,Research,Teamwork",,,OBC,10th,Pune,True
+779,25,72,82,Arts,M.Sc,General,94.0,Odia,"Marketing,Operations,Java,Communication",AI Cert,Research Intern,ST,Postgraduate,Pune,True
+780,24,84,76,Science,B.A,General,71.0,English,"Networking,Finance,Lab Work,Python",Cybersecurity Cert,Mechanical Intern,ST,Graduate,Delhi,True
+781,20,86,82,Arts,,,,Hindi,"Python,Networking",,,SC,12th,Kolkata,True
+782,22,72,71,Arts,BE,Computer Science,84.0,Telugu,"AI/ML,React,Research,Lab Work",Food Safety Cert,Technical Intern,SC,Graduate,Chandigarh,True
+783,23,89,88,Science,B.A,Electrical,84.0,"Assamese,English,Odia","Python,AI/ML,Operations",,,General,Graduate,Delhi,True
+784,23,85,74,,,,,Odia,"Marketing,Communication",,,ST,10th,Ahmedabad,True
+785,20,71,83,Commerce,M.Sc,General,83.0,"Malayalam,Urdu,Tamil","Finance,SQL",Cybersecurity Cert,,General,Postgraduate,Hyderabad,True
+786,21,80,74,Science,B.Tech,Electrical,77.0,"Assamese,Kannada","Java,Teamwork,Cybersecurity",,,ST,Graduate,Delhi,True
+787,23,80,90,Commerce,,,,Kannada,"Cybersecurity,Teamwork",,,General,12th,Delhi,True
+788,24,89,70,Science,,,,"Assamese,English","React,Finance",,,OBC,12th,Pune,True
+789,24,72,71,,,,,"Bengali,Tamil","Networking,React,Python,Operations",,,OBC,10th,Chandigarh,True
+790,20,84,72,Science,,,,"Tamil,Urdu","Lab Work,Teamwork",,,General,12th,Delhi,True
+791,23,78,90,,,,,"Telugu,Malayalam,Tamil","Research,Python",,,General,10th,Chandigarh,True
+792,25,93,79,Science,MBA,General,89.0,"Odia,Telugu,Kannada","AI/ML,SQL,Research",Finance Cert,Marketing Intern,General,Postgraduate,Indore,True
+793,25,79,89,Arts,B.A,Electrical,71.0,"Urdu,Odia","Communication,Research,AI/ML",,Cyber Security Intern,OBC,Graduate,Pune,True
+794,23,83,84,Arts,,,,Malayalam,"Cybersecurity,Networking",,,SC,12th,Bangalore,True
+795,24,91,72,Arts,,,,"Odia,Gujarati,Assamese","React,Java",,,OBC,12th,Ahmedabad,True
+796,23,70,90,Arts,MBA,General,89.0,"Malayalam,English","Marketing,Research",Food Safety Cert,HR Intern,ST,Postgraduate,Hyderabad,True
+797,20,75,74,,,,,"Bengali,Gujarati,Hindi","Communication,Lab Work,Finance,Teamwork",,,SC,10th,Pune,True
+798,21,95,76,Science,,,,"Malayalam,Telugu,Odia","React,Java,Teamwork",,,OBC,12th,Lucknow,True
+799,20,86,86,Science,M.Sc,General,87.0,"Assamese,Bengali,Telugu","Lab Work,Teamwork,AI/ML",Research Cert,Research Intern,ST,Postgraduate,Ahmedabad,True
+800,25,82,72,Arts,,,,"Odia,Urdu,Assamese","Teamwork,Marketing,Networking",,,OBC,12th,Mumbai,True
+801,24,70,75,Science,,,,Odia,"Java,Cybersecurity,Teamwork",,,OBC,12th,Chandigarh,True
+802,22,82,88,,,,,Assamese,"Cybersecurity,SQL,Finance",,,SC,10th,Indore,True
+803,24,74,83,,,,,"Malayalam,Marathi,Assamese","Cybersecurity,Finance,Research,AI/ML",,,ST,10th,Mumbai,True
+804,24,79,71,Arts,BE,General,71.0,Assamese,"AI/ML,Research",AI Cert,Research Intern,ST,Graduate,Mumbai,True
+805,23,72,88,Commerce,,,,"Malayalam,Hindi","Java,AI/ML,Teamwork",,,OBC,12th,Kolkata,True
+806,22,72,83,,,,,Telugu,"Cybersecurity,Communication",,,OBC,10th,Mumbai,True
+807,20,87,73,Commerce,,,,Gujarati,"Teamwork,Java,AI/ML,Finance",,,OBC,12th,Kolkata,True
+808,20,93,80,Arts,,,,"Tamil,Gujarati","SQL,Finance,Python",,,OBC,12th,Chennai,True
+809,25,91,83,,,,,"Bengali,Punjabi,English","Cybersecurity,Python,Research",,,SC,10th,Ahmedabad,True
+810,23,95,79,Commerce,,,,Odia,"SQL,Teamwork,Communication",,,ST,12th,Mumbai,True
+811,25,74,77,,,,,"Punjabi,Gujarati","Python,Networking,Marketing,Cybersecurity",,,OBC,10th,Bangalore,True
+812,20,84,83,Science,M.Tech,General,90.0,"Hindi,Kannada,Tamil","Marketing,SQL,React",Finance Cert,Cyber Security Intern,OBC,Postgraduate,Kolkata,True
+813,25,73,81,,,,,"Telugu,Marathi,Urdu","Networking,Python",,,ST,10th,Chandigarh,True
+814,24,84,80,Commerce,B.A,General,67.0,"English,Kannada","Marketing,Research",,Mechanical Intern,General,Graduate,Chandigarh,True
+815,25,84,76,,,,,"Assamese,Odia","AI/ML,Research",,,SC,10th,Hyderabad,True
+816,23,77,83,,,,,"Odia,Punjabi,Urdu","React,Teamwork,Networking",,,ST,10th,Chennai,True
+817,22,95,72,,,,,"Marathi,Kannada,Bengali","SQL,Python,Marketing",,,SC,10th,Hyderabad,True
+818,21,86,82,Arts,B.Com,Electrical,70.0,"Marathi,Telugu","Research,React",AI Cert,Cyber Security Intern,SC,Graduate,Bangalore,True
+819,23,95,78,Commerce,MBA,General,87.0,"Odia,Marathi","Marketing,Python,SQL,React",MS Office Cert,Cyber Security Intern,General,Postgraduate,Jaipur,True
+820,22,73,70,Science,,,,"Assamese,Telugu","AI/ML,Lab Work",,,OBC,12th,Lucknow,True
+821,21,77,73,Arts,,,,Tamil,"Finance,React,Cybersecurity",,,OBC,12th,Pune,True
+822,25,71,76,,,,,Telugu,"Research,AI/ML,Lab Work,Networking",,,ST,10th,Lucknow,True
+823,25,91,77,Science,B.A,General,73.0,"Tamil,Kannada","Java,Operations,Lab Work,Research",,Mechanical Intern,SC,Graduate,Hyderabad,True
+824,20,84,79,Science,M.Tech,General,81.0,"Tamil,English,Marathi","Networking,Communication",Food Safety Cert,Food Science Intern,SC,Postgraduate,Kolkata,True
+825,25,83,88,Science,B.Com,Finance,79.0,"Marathi,Telugu","Communication,Research,Networking",Finance Cert,HR Intern,SC,Graduate,Bangalore,True
+826,24,92,78,,,,,Telugu,"Operations,Cybersecurity,Python",,,SC,10th,Kolkata,True
+827,21,92,73,Arts,M.Sc,General,81.0,"Telugu,Punjabi","Research,Networking,Java,Finance",AI Cert,Marketing Intern,SC,Postgraduate,Delhi,True
+828,25,75,72,Science,,,,"Kannada,Telugu","SQL,Marketing",,,ST,12th,Hyderabad,True
+829,22,86,71,Commerce,B.Com,Finance,70.0,"Assamese,Hindi","AI/ML,React",Research Cert,,General,Graduate,Chennai,True
+830,23,73,71,Commerce,,,,Gujarati,"Lab Work,Teamwork",,,SC,12th,Lucknow,True
+831,20,95,74,Arts,,,,"Kannada,Tamil","Marketing,SQL,Python",,,SC,12th,Kolkata,True
+832,20,85,88,Commerce,,,,"English,Gujarati,Punjabi","React,Teamwork,Python,Communication",,,General,12th,Chandigarh,True
+833,22,77,71,Science,,,,Kannada,"Cybersecurity,AI/ML,Networking",,,General,12th,Lucknow,True
+834,25,89,76,Science,BE,HR,83.0,"Tamil,Urdu","Marketing,Python",Food Safety Cert,Research Intern,General,Graduate,Delhi,True
+835,23,81,83,Science,,,,Telugu,"Java,Communication",,,OBC,12th,Mumbai,True
+836,25,71,75,Science,MBA,General,85.0,"Punjabi,Hindi","Teamwork,Operations,React,SQL",AI Cert,Technical Intern,ST,Postgraduate,Indore,True
+837,20,88,90,,,,,"Bengali,Gujarati,Malayalam","Finance,AI/ML,React",,,SC,10th,Chandigarh,True
+838,21,82,74,,,,,"Urdu,Telugu,Hindi","Java,Finance,React,SQL",,,OBC,10th,Ahmedabad,True
+839,23,79,79,,,,,"Malayalam,Telugu,Urdu","SQL,AI/ML,Communication",,,General,10th,Delhi,True
+840,24,79,73,Commerce,B.Tech,Finance,68.0,"Assamese,Marathi,Kannada","AI/ML,Java",,Research Intern,SC,Graduate,Mumbai,True
+841,23,86,89,Arts,M.Sc,General,83.0,Marathi,"Java,Research,Teamwork,SQL",Finance Cert,Cyber Security Intern,SC,Postgraduate,Indore,True
+842,24,75,84,Commerce,B.Com,Electrical,90.0,Punjabi,"Marketing,Teamwork",Research Cert,Technical Intern,SC,Graduate,Kolkata,True
+843,20,84,76,Commerce,B.Com,Finance,76.0,"Assamese,Marathi","Java,Research,Communication,Python",Cybersecurity Cert,,SC,Graduate,Pune,True
+844,20,77,87,Science,B.Sc,Computer Science,76.0,Gujarati,"SQL,Java,Research",Cybersecurity Cert,,General,Graduate,Ahmedabad,True
+845,24,83,89,Science,,,,"Telugu,Hindi","Operations,Finance,Teamwork",,,General,12th,Jaipur,True
+846,21,95,81,Science,,,,Hindi,"SQL,Finance,Java",,,OBC,12th,Mumbai,True
+847,20,76,85,Arts,,,,English,"Networking,Communication,SQL,Operations",,,General,12th,Indore,True
+848,21,81,73,Science,B.Com,Finance,80.0,"Marathi,Tamil,Punjabi","SQL,Teamwork",AI Cert,,OBC,Graduate,Kolkata,True
+849,25,80,85,Commerce,,,,Hindi,"Research,Java,SQL",,,ST,12th,Bangalore,True
+850,20,73,83,Commerce,,,,"Marathi,Tamil,Urdu","Cybersecurity,Lab Work,Marketing",,,OBC,12th,Kolkata,True
+851,23,95,84,,,,,"Assamese,Telugu,English","Communication,Finance",,,SC,10th,Jaipur,True
+852,23,86,84,,,,,"Gujarati,Tamil","Networking,Marketing",,,SC,10th,Chandigarh,True
+853,23,71,87,Commerce,M.Sc,General,83.0,"Telugu,Malayalam,Punjabi","Marketing,AI/ML,Cybersecurity",Food Safety Cert,Technical Intern,ST,Postgraduate,Chennai,True
+854,24,87,80,Arts,B.Sc,General,85.0,"Urdu,English,Marathi","Networking,Communication,Finance",Research Cert,Research Intern,ST,Graduate,Mumbai,True
+855,22,70,72,,,,,"Urdu,Marathi","Marketing,Lab Work",,,OBC,10th,Pune,True
+856,23,83,79,Commerce,M.Tech,General,78.0,Hindi,"Lab Work,SQL",Food Safety Cert,Food Science Intern,SC,Postgraduate,Hyderabad,True
+857,24,82,89,Arts,MBA,General,83.0,Hindi,"AI/ML,Lab Work,Java,Finance",Research Cert,Technical Intern,General,Postgraduate,Delhi,True
+858,20,94,87,Arts,M.Tech,General,75.0,Punjabi,"Python,Communication,SQL,React",Finance Cert,Marketing Intern,General,Postgraduate,Mumbai,True
+859,20,70,71,Science,B.A,HR,74.0,"Malayalam,Gujarati","Communication,AI/ML,Cybersecurity,Python",Food Safety Cert,,SC,Graduate,Lucknow,True
+860,24,78,77,Commerce,B.Com,Mechanical,83.0,"Telugu,Bengali","Lab Work,Finance,Networking",MS Office Cert,,OBC,Graduate,Kolkata,True
+861,24,93,70,Commerce,,,,Tamil,"SQL,Lab Work,React",,,General,12th,Indore,True
+862,25,89,70,Commerce,MBA,General,88.0,"Urdu,Hindi","SQL,Teamwork,Research",AI Cert,,OBC,Postgraduate,Mumbai,True
+863,25,89,80,Arts,MBA,General,78.0,Marathi,"Cybersecurity,Java,Lab Work,React",Food Safety Cert,,ST,Postgraduate,Hyderabad,True
+864,24,76,83,Science,B.Com,HR,78.0,Odia,"Finance,Research,Python",,,General,Graduate,Pune,True
+865,22,75,74,Commerce,M.Sc,General,88.0,"Odia,English,Tamil","Research,Finance,React,Networking",Cybersecurity Cert,Food Science Intern,OBC,Postgraduate,Kolkata,True
+866,25,88,74,,,,,"Assamese,Telugu,Punjabi","SQL,Teamwork",,,SC,10th,Chennai,True
+867,22,81,79,Science,,,,Odia,"Operations,Python",,,SC,12th,Hyderabad,True
+868,22,92,82,Commerce,,,,"Marathi,Kannada","React,Research,AI/ML,Networking",,,SC,12th,Ahmedabad,True
+869,23,82,80,,,,,"Gujarati,Malayalam","SQL,Finance",,,SC,10th,Delhi,True
+870,23,89,88,Science,,,,"Kannada,Gujarati","Marketing,Lab Work,Research",,,OBC,12th,Chandigarh,True
+871,23,72,77,Science,B.Sc,Finance,68.0,English,"SQL,Research,Operations",Research Cert,,OBC,Graduate,Mumbai,True
+872,22,92,81,Commerce,,,,"Gujarati,Tamil,Assamese","React,Teamwork",,,SC,12th,Pune,True
+873,25,84,84,Commerce,,,,English,"Operations,AI/ML",,,ST,12th,Lucknow,True
+874,25,86,79,Commerce,,,,"Bengali,Tamil","React,Teamwork,SQL",,,General,12th,Kolkata,True
+875,22,70,70,,,,,"Urdu,Marathi","Teamwork,Python",,,OBC,10th,Delhi,True
+876,23,77,78,Science,,,,Malayalam,"Java,Networking,Finance,Operations",,,General,12th,Bangalore,True
+877,20,75,83,Arts,,,,"Odia,Tamil,Punjabi","SQL,Communication,Lab Work",,,ST,12th,Lucknow,True
+878,24,75,70,Arts,M.Sc,General,81.0,"Bengali,Malayalam","Teamwork,Python,Research",Finance Cert,Mechanical Intern,SC,Postgraduate,Hyderabad,True
+879,20,76,86,Science,,,,"Assamese,English","Communication,React,Python",,,General,12th,Lucknow,True
+880,20,86,71,Arts,,,,Telugu,"React,Teamwork,Finance",,,OBC,12th,Lucknow,True
+881,21,88,79,Arts,B.Com,Mechanical,66.0,Hindi,"AI/ML,Cybersecurity,Lab Work,Networking",,,General,Graduate,Jaipur,True
+882,25,90,89,Commerce,,,,Malayalam,"Finance,Java",,,General,12th,Lucknow,True
+883,21,78,79,Arts,B.A,Finance,89.0,"Punjabi,Hindi,Malayalam","SQL,Networking",MS Office Cert,Research Intern,ST,Graduate,Bangalore,True
+884,21,86,71,Arts,B.A,Electrical,86.0,"Bengali,Malayalam","Lab Work,Networking",,,SC,Graduate,Ahmedabad,True
+885,25,81,79,,,,,English,"Teamwork,React,AI/ML",,,ST,10th,Pune,True
+886,24,87,81,Commerce,,,,"Punjabi,Hindi,Bengali","Java,Marketing,Communication,SQL",,,ST,12th,Indore,True
+887,21,95,87,Commerce,M.Tech,General,91.0,Malayalam,"React,Networking,SQL",Research Cert,Research Intern,General,Postgraduate,Lucknow,True
+888,25,84,78,Science,,,,"Assamese,Odia","Python,Teamwork,Marketing,Networking",,,OBC,12th,Mumbai,True
+889,24,93,83,Arts,,,,"Hindi,Odia","Lab Work,Operations,Communication,Python",,,SC,12th,Bangalore,True
+890,22,87,87,Commerce,,,,Bengali,"SQL,Operations",,,SC,12th,Delhi,True
+891,24,88,90,Commerce,,,,"Tamil,Bengali","SQL,React,Java",,,SC,12th,Indore,True
+892,23,71,84,,,,,"Gujarati,Urdu,Bengali","Teamwork,Research",,,General,10th,Indore,True
+893,24,82,71,Commerce,MBA,General,95.0,"Telugu,Kannada,Odia","Operations,Research,Networking",Cybersecurity Cert,Marketing Intern,OBC,Postgraduate,Chennai,True
+894,24,76,79,Arts,M.Sc,General,95.0,"Telugu,Marathi","Cybersecurity,Operations",Research Cert,Marketing Intern,General,Postgraduate,Indore,True
+895,20,79,81,Arts,,,,"English,Malayalam","Operations,Teamwork",,,General,12th,Pune,True
+896,23,82,83,Arts,B.Com,General,90.0,"English,Telugu,Punjabi","Operations,React",,Cyber Security Intern,General,Graduate,Delhi,True
+897,22,79,90,Arts,BE,Mechanical,89.0,"Hindi,Telugu","Operations,Python,Teamwork",,Mechanical Intern,ST,Graduate,Chennai,True
+898,23,86,75,,,,,"Odia,Hindi,Tamil","Teamwork,Communication,Operations,Python",,,OBC,10th,Kolkata,True
+899,23,90,74,Commerce,M.Sc,General,89.0,"Hindi,Urdu","Research,React,Cybersecurity,AI/ML",Finance Cert,Technical Intern,ST,Postgraduate,Indore,True
+900,21,76,85,Arts,,,,Bengali,"AI/ML,Teamwork",,,SC,12th,Pune,True
+901,22,80,90,,,,,English,"Finance,Marketing,Cybersecurity,Teamwork",,,SC,10th,Bangalore,True
+902,25,83,79,Science,,,,"Assamese,Odia,Gujarati","Lab Work,Cybersecurity",,,OBC,12th,Chandigarh,True
+903,24,70,88,Arts,,,,Marathi,"Communication,SQL,Finance",,,OBC,12th,Mumbai,True
+904,22,92,82,Science,B.Com,Computer Science,83.0,Bengali,"React,Networking",,,OBC,Graduate,Chandigarh,True
+905,24,94,88,Commerce,B.A,HR,85.0,Urdu,"Lab Work,Networking,AI/ML",,Mechanical Intern,ST,Graduate,Mumbai,True
+906,22,89,72,Commerce,,,,"Telugu,English,Tamil","Cybersecurity,Teamwork",,,OBC,12th,Kolkata,True
+907,22,78,85,Science,,,,"Malayalam,Telugu,Urdu","Cybersecurity,Java,Lab Work",,,SC,12th,Jaipur,True
+908,22,71,89,Commerce,M.Tech,General,81.0,"Assamese,Kannada,Tamil","Operations,Marketing",MS Office Cert,Technical Intern,General,Postgraduate,Kolkata,True
+909,20,94,79,,,,,"Gujarati,Kannada,English","Teamwork,React",,,OBC,10th,Lucknow,True
+910,20,84,74,Arts,,,,"Assamese,Bengali,Telugu","Operations,React,Marketing",,,General,12th,Indore,True
+911,24,87,78,Commerce,B.Sc,HR,81.0,Malayalam,"React,Java",,,SC,Graduate,Chennai,True
+912,25,74,79,,,,,Marathi,"Research,React,Communication,Operations",,,OBC,10th,Pune,True
+913,25,94,79,Commerce,,,,"Malayalam,Odia,Telugu","React,Marketing,Teamwork",,,SC,12th,Bangalore,True
+914,20,90,80,,,,,"Tamil,Marathi,Punjabi","Operations,Cybersecurity,Java,Networking",,,OBC,10th,Mumbai,True
+915,21,88,83,Science,B.A,HR,87.0,"Assamese,Gujarati,Tamil","Finance,AI/ML,Operations",,,General,Graduate,Lucknow,True
+916,20,87,71,Science,B.Tech,Computer Science,85.0,"Marathi,Malayalam,Telugu","Finance,Operations",Food Safety Cert,,ST,Graduate,Indore,True
+917,23,77,75,,,,,Bengali,"Finance,Research",,,SC,10th,Lucknow,True
+918,20,71,74,Commerce,B.Sc,General,69.0,"English,Punjabi","Python,Finance,Networking",,Marketing Intern,SC,Graduate,Indore,True
+919,23,84,90,Science,,,,"Assamese,Malayalam","Marketing,Python,Networking",,,General,12th,Bangalore,True
+920,22,87,84,Science,BE,General,66.0,"Kannada,English,Gujarati","Cybersecurity,SQL,AI/ML",Food Safety Cert,Mechanical Intern,OBC,Graduate,Bangalore,True
+921,24,87,78,,,,,Gujarati,"Research,Lab Work",,,General,10th,Hyderabad,True
+922,25,72,83,Science,B.A,General,71.0,"Assamese,Hindi","SQL,Research,React,Java",MS Office Cert,Marketing Intern,OBC,Graduate,Chennai,True
+923,21,77,71,,,,,"Urdu,Marathi,Bengali","Java,Teamwork,React,Research",,,ST,10th,Bangalore,True
+924,23,86,77,Arts,B.Com,Electrical,76.0,"Odia,Telugu","Cybersecurity,Networking,Communication",Research Cert,,SC,Graduate,Bangalore,True
+925,20,70,71,Science,B.Tech,Finance,75.0,Telugu,"Python,SQL,Operations",,Mechanical Intern,General,Graduate,Lucknow,True
+926,24,82,72,,,,,"English,Urdu,Gujarati","Teamwork,Finance,Lab Work",,,OBC,10th,Hyderabad,True
+927,21,92,86,Science,B.Sc,Computer Science,84.0,"Assamese,Tamil,Odia","Networking,Research,AI/ML,Python",Finance Cert,Food Science Intern,ST,Graduate,Indore,True
+928,22,88,85,,,,,Marathi,"Operations,Python",,,ST,10th,Chennai,True
+929,22,71,76,Commerce,BE,Finance,87.0,"Urdu,Marathi,Kannada","Finance,Communication",Research Cert,Marketing Intern,OBC,Graduate,Jaipur,True
+930,24,75,72,Arts,B.Tech,Finance,75.0,"Marathi,Tamil,Telugu","Networking,Cybersecurity,AI/ML",MS Office Cert,,ST,Graduate,Indore,True
+931,22,74,80,,,,,"Telugu,Tamil","Research,Lab Work",,,OBC,10th,Mumbai,True
+932,21,71,78,Commerce,B.A,Electrical,71.0,Marathi,"Cybersecurity,AI/ML,Lab Work",,Mechanical Intern,General,Graduate,Chennai,True
+933,24,91,73,Commerce,,,,Malayalam,"Lab Work,Java,Networking,Research",,,General,12th,Chandigarh,True
+934,23,90,87,Science,B.Sc,Mechanical,67.0,"Assamese,Kannada","Research,Operations,Communication,Finance",AI Cert,,SC,Graduate,Bangalore,True
+935,20,92,88,Arts,B.A,Mechanical,68.0,Kannada,"Operations,Teamwork,Communication,Cybersecurity",Cybersecurity Cert,,ST,Graduate,Kolkata,True
+936,20,78,70,Commerce,M.Sc,General,78.0,"Hindi,English","React,Communication",Research Cert,Food Science Intern,SC,Postgraduate,Kolkata,True
+937,25,91,75,Science,,,,"Odia,English,Marathi","Research,Python,AI/ML",,,ST,12th,Bangalore,True
+938,22,95,80,Commerce,,,,"Odia,Marathi","Java,Marketing,Lab Work",,,OBC,12th,Hyderabad,True
+939,21,84,77,Arts,,,,Malayalam,"Lab Work,SQL",,,ST,12th,Kolkata,True
+940,24,89,75,,,,,"Hindi,Gujarati,Bengali","Java,Finance,Lab Work",,,General,10th,Kolkata,True
+941,25,81,86,Science,,,,"Punjabi,Telugu,Urdu","Lab Work,Research,Marketing,React",,,General,12th,Jaipur,True
+942,23,78,72,,,,,English,"Finance,Python,Lab Work",,,General,10th,Ahmedabad,True
+943,23,72,82,,,,,Telugu,"Finance,Marketing",,,ST,10th,Delhi,True
+944,23,76,72,Science,BE,Finance,89.0,"Gujarati,English,Hindi","Teamwork,Python,Java",MS Office Cert,Research Intern,SC,Graduate,Mumbai,True
+945,24,87,71,,,,,"Odia,Kannada,English","Research,Finance,SQL,React",,,OBC,10th,Chandigarh,True
+946,21,75,74,Commerce,B.Tech,HR,89.0,"Assamese,English","Teamwork,Networking",,,General,Graduate,Chandigarh,True
+947,24,79,72,Science,MBA,General,92.0,"Malayalam,Kannada","Java,SQL,Research",AI Cert,Food Science Intern,ST,Postgraduate,Lucknow,True
+948,22,93,72,Arts,,,,"Kannada,Odia","Marketing,Python,Operations,Research",,,ST,12th,Hyderabad,True
+949,23,76,84,Arts,MBA,General,77.0,"Malayalam,Tamil,English","SQL,Python,Cybersecurity,Marketing",Food Safety Cert,,ST,Postgraduate,Hyderabad,True
+950,20,77,82,Science,B.A,Computer Science,82.0,Marathi,"Lab Work,AI/ML",Cybersecurity Cert,,ST,Graduate,Indore,True
+951,24,74,89,,,,,"Telugu,Assamese","Networking,Python",,,OBC,10th,Chandigarh,True
+952,21,78,72,Science,,,,"Odia,Tamil","Lab Work,SQL",,,ST,12th,Indore,True
+953,24,82,88,Commerce,M.Sc,General,91.0,Punjabi,"Teamwork,Finance,Cybersecurity",MS Office Cert,Cyber Security Intern,General,Postgraduate,Pune,True
+954,23,83,78,Commerce,,,,"Tamil,Punjabi","Finance,Networking",,,General,12th,Hyderabad,True
+955,20,85,73,Science,,,,"Tamil,Hindi,Odia","Lab Work,Python,Teamwork",,,General,12th,Kolkata,True
+956,23,81,81,Arts,,,,Malayalam,"AI/ML,Finance",,,OBC,12th,Mumbai,True
+957,25,92,74,Arts,M.Sc,General,76.0,Gujarati,"Networking,AI/ML,SQL",Research Cert,Mechanical Intern,ST,Postgraduate,Mumbai,True
+958,20,85,75,Science,BE,General,85.0,"Marathi,Tamil,Punjabi","Marketing,Operations",Finance Cert,,SC,Graduate,Chennai,True
+959,21,90,73,Science,,,,"Hindi,Telugu","Operations,Lab Work,Research,Java",,,OBC,12th,Chandigarh,True
+960,23,80,82,,,,,Punjabi,"Java,Networking,Cybersecurity",,,OBC,10th,Kolkata,True
+961,24,71,71,Arts,MBA,General,82.0,"Gujarati,Malayalam,Urdu","Lab Work,Teamwork",Research Cert,,SC,Postgraduate,Delhi,True
+962,21,70,89,,,,,"Hindi,English","Research,Python,Finance",,,SC,10th,Chandigarh,True
+963,22,77,89,Arts,,,,"Odia,Bengali,Telugu","Teamwork,Java,SQL,Operations",,,General,12th,Jaipur,True
+964,22,95,81,Arts,B.Tech,HR,75.0,"Gujarati,Kannada","Research,Networking,Operations,Python",Research Cert,,OBC,Graduate,Bangalore,True
+965,25,89,84,Arts,,,,Telugu,"Teamwork,Python",,,ST,12th,Ahmedabad,True
+966,21,89,89,Commerce,B.Tech,Computer Science,68.0,"Gujarati,Tamil","Marketing,Networking,SQL",MS Office Cert,,ST,Graduate,Chennai,True
+967,24,77,78,,,,,Tamil,"Operations,Marketing",,,OBC,10th,Chennai,True
+968,21,72,75,,,,,"Odia,Bengali,Urdu","Python,Communication",,,OBC,10th,Ahmedabad,True
+969,21,77,79,Science,,,,Gujarati,"Marketing,Operations,Research",,,ST,12th,Kolkata,True
+970,22,88,86,Science,M.Tech,General,95.0,"Kannada,Urdu,Tamil","Teamwork,React,Networking",MS Office Cert,Marketing Intern,ST,Postgraduate,Delhi,True
+971,22,93,74,Commerce,BE,General,83.0,Odia,"Lab Work,Operations",Cybersecurity Cert,,OBC,Graduate,Mumbai,True
+972,24,76,75,Arts,M.Tech,General,78.0,"Urdu,Bengali,Hindi","SQL,Teamwork",Food Safety Cert,Food Science Intern,OBC,Postgraduate,Bangalore,True
+973,21,72,86,Science,,,,Tamil,"Python,Operations,Teamwork",,,SC,12th,Bangalore,True
+974,23,84,75,Arts,,,,"Malayalam,Assamese,Telugu","Communication,Lab Work,Research,AI/ML",,,ST,12th,Jaipur,True
+975,24,94,90,Arts,B.Sc,Computer Science,76.0,"Tamil,Urdu,English","Operations,Marketing,Finance,SQL",,Cyber Security Intern,General,Graduate,Lucknow,True
+976,23,80,89,,,,,"English,Bengali,Assamese","AI/ML,Research",,,ST,10th,Indore,True
+977,23,95,74,Commerce,B.Com,Computer Science,69.0,Assamese,"Research,React,Python,AI/ML",,Research Intern,OBC,Graduate,Lucknow,True
+978,23,81,81,Science,M.Tech,General,78.0,Punjabi,"AI/ML,Research,Cybersecurity",Cybersecurity Cert,Mechanical Intern,OBC,Postgraduate,Mumbai,True
+979,23,78,74,Arts,B.A,General,83.0,"Gujarati,Urdu,Tamil","Research,Java",Cybersecurity Cert,,ST,Graduate,Lucknow,True
+980,20,74,80,,,,,Hindi,"AI/ML,Networking,SQL,Cybersecurity",,,OBC,10th,Mumbai,True
+981,24,79,75,Commerce,,,,English,"Python,Teamwork,Finance",,,OBC,12th,Indore,True
+982,21,86,88,Arts,M.Tech,General,76.0,"Malayalam,Kannada","Networking,Teamwork",MS Office Cert,Research Intern,OBC,Postgraduate,Pune,True
+983,22,90,84,Arts,BE,Finance,70.0,"Urdu,Marathi,Odia","Research,Marketing,Python,SQL",AI Cert,,SC,Graduate,Delhi,True
+984,22,93,88,Arts,B.Tech,Finance,67.0,"Gujarati,Urdu,Telugu","SQL,React",AI Cert,,General,Graduate,Ahmedabad,True
+985,22,71,84,Arts,M.Sc,General,81.0,Urdu,"Research,Operations,Teamwork",Food Safety Cert,Research Intern,SC,Postgraduate,Hyderabad,True
+986,25,82,70,Science,M.Sc,General,88.0,Malayalam,"AI/ML,React",Food Safety Cert,Cyber Security Intern,ST,Postgraduate,Mumbai,True
+987,24,91,73,Arts,,,,"Malayalam,Hindi","Networking,Python,Teamwork",,,OBC,12th,Chandigarh,True
+988,24,91,86,Arts,M.Sc,General,87.0,Hindi,"Python,SQL",AI Cert,Marketing Intern,ST,Postgraduate,Indore,True
+989,24,94,88,Arts,B.Sc,HR,81.0,Gujarati,"Finance,Networking,SQL",Research Cert,,ST,Graduate,Lucknow,True
+990,20,71,78,,,,,"English,Punjabi,Odia","Python,Marketing",,,OBC,10th,Ahmedabad,True
+991,21,83,78,Commerce,,,,"Urdu,Gujarati,Odia","Teamwork,AI/ML",,,ST,12th,Bangalore,True
+992,20,73,82,Science,,,,"Tamil,Telugu","AI/ML,Research,Cybersecurity",,,SC,12th,Pune,True
+993,24,95,78,,,,,Punjabi,"React,Communication",,,OBC,10th,Mumbai,True
+994,25,78,76,,,,,"Odia,Hindi","React,Networking,Python,Operations",,,OBC,10th,Jaipur,True
+995,22,93,73,Arts,MBA,General,93.0,"Assamese,Telugu","React,Finance,Marketing,Java",Cybersecurity Cert,HR Intern,ST,Postgraduate,Chennai,True
+996,24,71,74,Commerce,M.Tech,General,81.0,Tamil,"Communication,Cybersecurity",MS Office Cert,Mechanical Intern,SC,Postgraduate,Kolkata,True
+997,21,93,82,Arts,B.A,Finance,72.0,Tamil,"Teamwork,Cybersecurity",,Mechanical Intern,General,Graduate,Mumbai,True
+998,24,78,89,Arts,,,,Gujarati,"SQL,Java,Cybersecurity,React",,,ST,12th,Delhi,True
+999,22,82,75,Science,,,,Telugu,"Research,Operations,Cybersecurity",,,OBC,12th,Pune,True
+1000,22,95,77,Science,,,,Hindi,"Communication,Research",,,SC,12th,Bangalore,True
