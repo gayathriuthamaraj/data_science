@@ -1,0 +1,92 @@
+{
+    "personal_information": {
+        "name": "John Doe",
+        "location": "United States"
+    },
+    "professional_summary": "Experienced Oracle Database Administrator with expertise in RAC, ASM, Data Pump, and Golden Gate. Proven track record in managing large-scale databases (20TB+), ensuring high availability, load balancing, and scalability. Strong skills in PL/SQL, SQL, and C/C++.",
+    "work_experience": [
+        {
+            "job_title": "Oracle Database Administrator",
+            "company": "Wells Fargo",
+            "location": "West Des Moines, IA",
+            "dates": "April 2015 - April 2016",
+            "key_responsibilities": [
+                "Configured ASM Disk groups and migrated non-ASM databases to ASM.",
+                "Troubleshooting Database issues and maintaining both DDL and DML as required.",
+                "Worked with team to set up RAC and maintained a healthy RAC database."
+            ]
+        },
+        {
+            "job_title": "Oracle Database Administrator",
+            "company": "Wells Fargo",
+            "location": "West Des Moines, IA",
+            "dates": "April 2015 - April 2016",
+            "key_responsibilities": [
+                "Configured Oracle Data Guard and performed daily maintenance of databases.",
+                "Validated database backups to ensure recovery from any situation.",
+                "Decommissioned standalone and RAC databases."
+            ]
+        },
+        {
+            "job_title": "Oracle Database Administrator",
+            "company": "Wells Fargo",
+            "location": "West Des Moines, IA",
+            "dates": "April 2015 - April 2016",
+            "key_responsibilities": [
+                "Maintained databases by applying CPU and PSU patches on 10g and 11g.",
+                "Conducted capacity planning and storage management for databases.",
+                "Worked with infrastructure team to create new databases."
+            ]
+        },
+        {
+            "job_title": "Oracle Database Administrator",
+            "company": "Wells Fargo",
+            "location": "West Des Moines, IA",
+            "dates": "April 2015 - April 2016",
+            "key_responsibilities": [
+                "Ensured high availability and load balancing for large-scale databases.",
+                "Used Golden Gate for real-time data integration and replication."
+            ]
+        },
+        {
+            "job_title": "Oracle Database Administrator",
+            "company": "Wells Fargo",
+            "location": "West Des Moines, IA",
+            "dates": "April 2015 - April 2016",
+            "key_responsibilities": [
+                "Optimized database performance using Oracle's tools and scripts.",
+                "Collaborated with application teams to resolve issues related to database connectivity."
+            ]
+        },
+        {
+            "job_title": "Oracle Database Administrator",
+            "company": "Wells Fargo",
+            "location": "West Des Moines, IA",
+            "dates": "April 2015 - April 2016",
+            "key_responsibilities": [
+                "Monitored and maintained database backups using Oracle tools.",
+                "Performed regular health checks and proactive problem-solving."
+            ]
+        },
+        {
+            "job_title": "Oracle Database Administrator",
+            "company": "Wells Fargo",
+            "location": "West Des Moines, IA",
+            "dates": "April 2015 - April 2016",
+            "key_responsibilities": [
+                "Configured and managed Oracle Data Pump for large-scale data movements.",
+                "Implemented and monitored Oracle Golden Gate for real-time data integration."
+            ]
+        }
+    ],
+    "education": [],
+    "skills": {
+        "technical_skills": [],
+        "tools_and_software": []
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

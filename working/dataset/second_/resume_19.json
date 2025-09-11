@@ -1,0 +1,67 @@
+{
+    "personal_information": {
+        "name": "[Name]",
+        "location": "Arlington, VA"
+    },
+    "professional_summary": "SQL Developer with an extensive background in administration, design, optimization, and reporting / data analytics.",
+    "work_experience": [
+        {
+            "job_title": "SQL Developer / DBA",
+            "company": "United Medical Center - Washington, DC",
+            "location": "Arlington, VA",
+            "dates": "October 2018 - Present",
+            "key_responsibilities": [
+                "Led efforts to improve reporting company wide by developing standard procedures and implementing SSRS to manage and automate data analytics.",
+                "Created stored procedures",
+                "triggers",
+                "views",
+                "& reports in SQL for various projects.",
+                "Collaborated with cross-functional teams to deliver optimized database solutions."
+            ]
+        },
+        {
+            "job_title": "SQL Developer / DBA",
+            "company": "Prev. Company Name - Washington, DC",
+            "location": "Arlington, VA",
+            "dates": "January 2016 - September 2018",
+            "key_responsibilities": [
+                "Responsible for database design",
+                "optimization",
+                "and maintenance.",
+                "Developed ETL processes to improve data integrity and performance.",
+                "Provided technical support for application development teams."
+            ]
+        },
+        {
+            "job_title": "SQL Developer / DBA",
+            "company": "Another Prev. Company Name - Washington, DC",
+            "location": "Arlington, VA",
+            "dates": "January 2013 - December 2015",
+            "key_responsibilities": [
+                "Designed and implemented complex SQL queries for data analysis.",
+                "Managed database migrations and version control processes.",
+                "Optimized database performance through index strategies."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science",
+            "institution": "Radford University",
+            "year_of_completion": "2013"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "SQL Server\",\n            \"T-SQL\",\n            \"SSRS\",\n            \"Data Warehouse Optimization\",\n            \"ETL Process Development\",\n            \"Database Administration\",\n            \"Cross-Functional Collaboration"
+        ],
+        "tools_and_software": [
+            "Microsoft SQL Server\",\n            \"AWS\",\n            \"Azure\",\n            \"Windows OS\",\n            \"Mac OS\",\n            \"Ubuntu\",\n            \"MS Office\",\n            \"Relativity\",\n            \"Meditech\",\n            \"Twilio\",\n            \"Stripe\",\n            \"Zapier"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

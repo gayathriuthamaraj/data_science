@@ -1,0 +1,69 @@
+{
+    "personal_information": {
+        "name": "Oracle Database Administrator",
+        "location": "Rhode Island"
+    },
+    "professional_summary": "Experienced Oracle Database Administrator with expertise in performance tuning, backup/recovery, upgrades, and database administration across various environments.",
+    "work_experience": [
+        {
+            "job_title": "Oracle Database Administrator",
+            "company": "Citizens Bank",
+            "location": "Rhode Island",
+            "dates": "July 2018 - Present",
+            "key_responsibilities": [
+                "Monitored and tuned long-running jobs using application development teams and analysis tools.",
+                "Configured backups and monitored database health through regular performance tuning.",
+                "Performed upgrades from Oracle 10g to 12c and applied quarterly patches.",
+                "Managed user accounts",
+                "created database objects",
+                "and performed replication using RMAN and Datapump utilities.",
+                "Implemented Transportable Tablespaces (TTS) for data movement between databases.",
+                "Provided 24/7 support and configured Flash Recovery Area."
+            ]
+        },
+        {
+            "job_title": "Oracle Database Administrator",
+            "company": "Hyundai Information Service",
+            "location": "Alabama",
+            "dates": "March 2015 - July 2015",
+            "key_responsibilities": [
+                "Supported database operations across various systems.",
+                "Assisted with performance optimization and backup strategies.",
+                "Contributed to system upgrades and maintenance."
+            ]
+        },
+        {
+            "job_title": "Oracle Database Administrator",
+            "company": "Costco",
+            "location": "Washington State",
+            "dates": "August 2012 - July 2015",
+            "key_responsibilities": [
+                "Administered Oracle databases across multiple platforms.",
+                "Performed regular maintenance",
+                "tuning",
+                "and backup processes.",
+                "Assisted with system expansion and database optimization."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science",
+            "institution": "University of Buea",
+            "year_of_completion": "2018"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "Oracle Database Administration\",\n            \"Database Performance Tuning\",\n            \"Backup and Recovery Solutions\",\n            \"System Upgrade and Maintenance\",\n            \"Data Replication Strategies\",\n            \"Transportable Tablespaces Implementation"
+        ],
+        "tools_and_software": [
+            "Oracle 10g, 11g, 12c\",\n            \"RMAN (Recovery Manager)\",\n            \"Datapump Utility\",\n            \"TKPROF (Toolkit for Performance Analysis)\",\n            \"Flash Recovery Area Configuration"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

@@ -1,0 +1,61 @@
+{
+    "personal_information": {
+        "name": "Extracted Name",
+        "location": "Bowie, MD"
+    },
+    "professional_summary": "6+ years of experience as an Oracle Database Administrator with OCA 12c certification. Proficient in database management, problem-solving, installation, and maintenance. Strong skills in SQL, RMAN, and database optimization.",
+    "work_experience": [
+        {
+            "job_title": "Oracle Database Administrator",
+            "company": "NEWEDGE",
+            "location": "Bowie, MD",
+            "dates": "February 2016 - June 2019",
+            "key_responsibilities": [
+                "Administering and optimizing Oracle databases for performance and reliability.",
+                "Performing regular backups",
+                "restorations",
+                "and disaster recovery processes.",
+                "Managing database user access and security privileges."
+            ]
+        },
+        {
+            "job_title": "Oracle Database Administrator",
+            "company": "NEW BREED LOGISTICS",
+            "location": "Bowie, MD",
+            "dates": "February 2013 - January 2016",
+            "key_responsibilities": [
+                "Managing database migrations and upgrades to ensure compatibility with new systems.",
+                "Monitoring database performance and resolving issues in a timely manner.",
+                "Performing regular maintenance tasks such as indexing and archiving."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor's degree",
+            "institution": "University of Buea",
+            "year_of_completion": "N/A"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "Oracle Database Administration",
+            "SQL",
+            "RMAN",
+            "Linux",
+            "Solaris",
+            "Unix"
+        ],
+        "tools_and_software": [
+            "OEM",
+            "Golden Gate",
+            "Data Pump",
+            "Flashback Technology"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "personal_information": {
+        "name": "Extracted Name",
+        "location": "Extracted Location"
+    },
+    "professional_summary": "Proficient in SQL Server administration, data warehousing, business intelligence tools, performance tuning, and high availability solutions with extensive experience in database management and ETL processes.",
+    "work_experience": [
+        {
+            "job_title": "SQL Server DBA MTA",
+            "company": "Extracted Company Name",
+            "location": "New York, NY",
+            "dates": "August 2011 - December 2015",
+            "key_responsibilities": [
+                "Increased user and data security by implementing SQL logins",
+                "roles",
+                "and authentication modes.",
+                "Directed the deployment of database objects and structure changes across multiple environments.",
+                "Monitored SQL Server to eliminate deadlocks and resolve performance issues."
+            ]
+        },
+        {
+            "job_title": "SQL Server DBA",
+            "company": "Extracted Company Name",
+            "location": "New York, NY",
+            "dates": "August 2011 - December 2015",
+            "key_responsibilities": [
+                "Implemented performance tuning using SQL Profiler and Database Tuning Advisor.",
+                "Coordinated database backups",
+                "integrity checks",
+                "and scheduled jobs to verify operations.",
+                "Performed database consistency checks at regular intervals."
+            ]
+        },
+        {
+            "job_title": "SQL Server Administrator",
+            "company": "Extracted Company Name",
+            "location": "New York, NY",
+            "dates": "August 2011 - December 2015",
+            "key_responsibilities": [
+                "Designed and implemented high availability solutions.",
+                "Fine-tuned indexes and constraints on tables to optimize performance.",
+                "Resolved deadlocks and optimized T-SQL statements using Query Analyzer."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor's",
+            "institution": "Extracted University Name",
+            "year_of_completion": "2010"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "SQL Server Administration",
+            "Data Warehousing",
+            "Business Intelligence Tools",
+            "Performance Tuning"
+        ],
+        "tools_and_software": [
+            "Microsoft SQL Server",
+            "SSIS",
+            "SSRS",
+            "Visio"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

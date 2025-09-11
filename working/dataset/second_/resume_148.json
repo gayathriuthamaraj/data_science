@@ -1,0 +1,91 @@
+{
+    "personal_information": {
+        "name": "Rebecca van der Hoff",
+        "location": "Los Angeles, CA"
+    },
+    "professional_summary": "Experienced professional with expertise in F-35 suitability analysis, database administration, project management, and software engineering. Skilled in C, C++, C#, RTOS, I2C, CAN, Ethernet, and Windows applications development.",
+    "work_experience": [
+        {
+            "job_title": "F-35 Suitability Analyst",
+            "company": "Joint Operational Test Team / Royal Netherlands Air Force",
+            "location": "Edwards AFB, CA",
+            "dates": "September 2017 to Present",
+            "key_responsibilities": [
+                "Analyzed and documented customer requirements for F-35 suitability.",
+                "Designed network extensions for the Ministry of Defense (MOD).",
+                "Lead implementation teams during project execution phases.",
+                "Managed MOD network cost",
+                "schedule",
+                "and risk to ensure successful project outcomes."
+            ]
+        },
+        {
+            "job_title": "Database Administrator",
+            "company": "Royal Netherlands Air Force",
+            "location": "Edwards AFB, CA",
+            "dates": "May 2014 to September 2017",
+            "key_responsibilities": [
+                "Maintained and optimized F-35 databases for operational readiness.",
+                "Provided technical support for database queries and updates."
+            ]
+        },
+        {
+            "job_title": "Project Lead",
+            "company": "Royal Netherlands Air Force",
+            "location": "Woensdrecht",
+            "dates": "August 2013 to May 2014",
+            "key_responsibilities": [
+                "Analyzed and successfully presented customer requirements.",
+                "Designed network extensions for the Ministry of Defense (MOD).",
+                "Managed MOD network cost",
+                "schedule",
+                "and risk during implementation."
+            ]
+        },
+        {
+            "job_title": "Software Engineer",
+            "company": "Frankort Engineering B.V.",
+            "location": "Heerlen",
+            "dates": "August 2007 to August 2009",
+            "key_responsibilities": [
+                "Designed and implemented communication protocols (I2C",
+                "CAN",
+                "Ethernet) for firmware updates in custom hardware.",
+                "Developed asynchronous message handling mechanisms using RTOS for 32-bit ARM controllers.",
+                "Configured real-time operating systems to meet specific requirements."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master's in Computer Science",
+            "institution": "Radboud University",
+            "year_of_completion": "August 2012"
+        },
+        {
+            "degree": "MicroMasters in Artificial Intelligence and Machine Learning",
+            "institution": "Columbia University (EDX)",
+            "year_of_completion": "May 2019"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "C",
+            "C++",
+            "C#",
+            "RTOS",
+            "I2C",
+            "CAN",
+            "Ethernet",
+            "Windows applications"
+        ],
+        "tools_and_software": [
+            ""
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

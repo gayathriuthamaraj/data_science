@@ -1,0 +1,61 @@
+{
+    "personal_information": {
+        "name": "Extracted Name",
+        "location": "Extracted Location"
+    },
+    "professional_summary": "Database Administrator with 7 years of experience in SQL Server Administration, Business Intelligence, and ETL processes.",
+    "work_experience": [
+        {
+            "job_title": "Junior Database Administrator",
+            "company": "MIDROC",
+            "location": "Extracted Location",
+            "dates": "November 2013 - December 2014",
+            "key_responsibilities": [
+                "Supported and maintained SQL database applications.",
+                "Conducted system tuning",
+                "performance monitoring",
+                "and database maintenance.",
+                "Developed reports and custom requests for users."
+            ]
+        },
+        {
+            "job_title": "Database Administrator (Various Roles)",
+            "company": "St Mary's University",
+            "location": "Extracted Location",
+            "dates": "2014 - Present",
+            "key_responsibilities": [
+                "Supported database installation",
+                "upgrades",
+                "migrations",
+                "and configurations.",
+                "Implemented disaster recovery solutions using Log Shipping.",
+                "Monitored and maintained database storage resources and maintenance plans."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor in Business Management",
+            "institution": "Bahir Dar University",
+            "year_of_completion": "2013"
+        },
+        {
+            "degree": "Diploma In Information Technology",
+            "institution": "St Mary's University",
+            "year_of_completion": "2007"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "SQL Server Administration\",\n            \"Business Intelligence\",\n            \"ETL Processes\",\n            \"Database Maintenance\",\n            \"Disaster Recovery Solutions\",\n            \"Performance Monitoring"
+        ],
+        "tools_and_software": [
+            "MS-SQL Server\",\n            \"SSRS\",\n            \"SQL Integration Services (SSIS)\",\n            \"Perfmon\",\n            \"DBA Tools"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

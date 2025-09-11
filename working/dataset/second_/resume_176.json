@@ -1,0 +1,45 @@
+{
+    "personal_information": {
+        "name": "Extracted Name",
+        "location": "Extracted Location"
+    },
+    "professional_summary": "Experienced Database Administrator/DevOps Engineer with expertise in Oracle databases across versions 10g, 11g, and 12c. Skilled in infrastructure management, security patches, database tuning, and DevOps practices. Proven leadership and problem-solving abilities with strong communication skills.",
+    "work_experience": [
+        {
+            "job_title": "Database Administrator/DevOps Engineer",
+            "company": "Company Name",
+            "location": "Extracted Location",
+            "dates": "Not explicitly provided",
+            "key_responsibilities": [
+                "Administering and maintaining Oracle databases in various versions.",
+                "Implementing backup and recovery strategies using RMAN and Data Guard.",
+                "Performing database tuning with tools like TKPROF",
+                "STATSPACK",
+                "and AWR.",
+                "Collaborating with development teams for database design and migration.",
+                "Applying security patches and critical updates using 'opatch' and Perl scripts.",
+                "Providing 24x7 production support and on-call assistance."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Computer Science",
+            "institution": "University Name",
+            "year_of_completion": "2020"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "Database Administration\",\n            \"Oracle Database Management\",\n            \"Infrastructure Management\",\n            \"Security Patching\",\n            \"DevOps Practices"
+        ],
+        "tools_and_software": [
+            "RMAN\",\n            \"EOM\",\n            \"SQL*Loader\",\n            \"TOAD\",\n            \"Oracle SQL Developer\",\n            \"Spotlight\",\n            \"SONAR G\",\n            \"GUANGO\",\n            \"AWS Certified Solutions Architect"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

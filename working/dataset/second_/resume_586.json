@@ -1,0 +1,53 @@
+{
+    "personal_information": {
+        "name": "Nicholas Ardolino",
+        "location": "Florham Park, NJ"
+    },
+    "professional_summary": "Experienced Project Manager/Database Administrator with expertise in SQL, Python, and security certifications. Seeking to apply skills in a Security-focused role.",
+    "work_experience": [
+        {
+            "job_title": "Project Manager/Database Administrator",
+            "company": "Sanray Construction Inc",
+            "location": "Florham Park, NJ",
+            "dates": "March 2013 - Present",
+            "key_responsibilities": [
+                "Manage a team and develop daily action plans for jobsite activities.",
+                "Assist in evaluating land and asset purchases.",
+                "Perform database installations",
+                "upgrades",
+                "and configurations.",
+                "Create",
+                "manage",
+                "and maintain data flow diagrams",
+                "software",
+                "and network architecture.",
+                "Monitor transaction activities."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Diploma in Cybersecurity",
+            "institution": "New York University",
+            "year_of_completion": "Present"
+        },
+        {
+            "degree": "Bachelor of Business Administration in Business Administration",
+            "institution": "Farleigh Dickinson University",
+            "year_of_completion": "Less than 1 year (in progress)"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "Business management\",\n            \"Cryptography\",\n            \"Data analysis\",\n            \"Data visualization\",\n            \"ETL\",\n            \"MYSQL"
+        ],
+        "tools_and_software": [
+            "MYSQL"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

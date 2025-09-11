@@ -1,0 +1,68 @@
+{
+    "personal_information": {
+        "name": "Oracle Database Administrator",
+        "location": "Snellville, GA"
+    },
+    "professional_summary": "Experienced Oracle Database Administrator with expertise in installation, configuration, upgrades, patches, performance tuning, backup, recovery, cloning, database security, troubleshooting, database design, Unix Shell Scripting, and documentation. Proficient in Oracle Data Guard, Active Data Guard, ASM, RAC, ETL, SQL, PL/SQL, MySQL, AWS RDS, and various tools and software.",
+    "work_experience": [
+        {
+            "job_title": "Oracle Database Administrator",
+            "company": "Pritchard & Yerden, Inc",
+            "location": "Atlanta, GA",
+            "dates": "December 2015 - Present",
+            "key_responsibilities": [
+                "Perform Oracle software installation.",
+                "Maintain control files and redo log files.",
+                "Create databases for test and development.",
+                "Assist in database optimization and performance tuning."
+            ]
+        },
+        {
+            "job_title": "Database Administrator",
+            "company": "ATG Work",
+            "location": "Atlanta, GA",
+            "dates": "January 2013 - November 2015",
+            "key_responsibilities": [
+                "Administer and optimize Oracle databases.",
+                "Manage database backups and recovery processes.",
+                "Assist in database migration and integration."
+            ]
+        },
+        {
+            "job_title": "IT Support Technician",
+            "company": "Amazon",
+            "location": "Atlanta, GA",
+            "dates": "September 2011 - December 2012",
+            "key_responsibilities": [
+                "Provided technical support for IT infrastructure.",
+                "Assisted with network and storage management.",
+                "Performed basic troubleshooting and system maintenance."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "B.Sc.",
+            "institution": "Lagos State University",
+            "year_of_completion": "2011"
+        },
+        {
+            "degree": "Masters in Information Systems",
+            "institution": "Kennesaw State University",
+            "year_of_completion": "2015"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "Oracle Database Administration\",\n            \"MySQL\",\n            \"PL/SQL\",\n            \"Shell Scripting\",\n            \"Unix\",\n            \"RMAN\",\n            \"Database Design\",\n            \"ETL\",\n            \"Data Warehousing"
+        ],
+        "tools_and_software": [
+            "SQL*Plus\",\n            \"TOAD\",\n            \"AWS RDS\",\n            \"HTML\",\n            \"XML\",\n            \"Java\",\n            \"Python\",\n            \"Networking\",\n            \"Storage Management"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

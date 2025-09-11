@@ -1,0 +1,60 @@
+{
+    "personal_information": {
+        "name": "Extracted Name",
+        "location": "Extracted Location"
+    },
+    "professional_summary": "Experienced Oracle DBA with expertise in SQL Server and database management, emphasizing performance tuning, replication monitoring, and advanced security configurations.",
+    "work_experience": [
+        {
+            "job_title": "Oracle Database Administrator",
+            "company": "Extracted Company Name",
+            "location": "Extracted Location",
+            "dates": "Start Date - End Date",
+            "key_responsibilities": [
+                "Administering Oracle and SQL Server databases across multiple platforms including RAC",
+                "ASM",
+                "and cloud environments.",
+                "Implementing performance tuning using AWR",
+                "STATSPACK",
+                "and Explain Plan for optimal database operations.",
+                "Monitoring and troubleshooting Golden Gate replication processes and scripting custom monitoring solutions."
+            ]
+        },
+        {
+            "job_title": "Database Migration Specialist",
+            "company": "Extracted Company Name",
+            "location": "Extracted Location",
+            "dates": "Start Date - End Date",
+            "key_responsibilities": [
+                "Conducting database migrations from legacy systems to modern Oracle and SQL Server environments.",
+                "Optimizing database performance through index rebuilding and schema reorganization using Data Pump and conventional exports.",
+                "Configuring advanced security features including Transparent Data Encryption and Redaction policies."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor's Degree",
+            "institution": "University of Buea",
+            "year_of_completion": "2008"
+        },
+        {
+            "degree": "Associate Degree",
+            "institution": "Prince Georges Community College",
+            "year_of_completion": "2010"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "Oracle DBA\",\n            \"SQL Server\",\n            \"PL/SQL\",\n            \"RAC\",\n            \"ASM\",\n            \"Database Administration\",\n            \"Performance Tuning\",\n            \"Golden Gate Replication\",\n            \"Advanced Security"
+        ],
+        "tools_and_software": [
+            "TOAD\",\n            \"RMAN\",\n            \"EOM Grid Control\",\n            \"AWR\",\n            \"STATSPACK\",\n            \"Data Pump\",\n            \"SQL*Loader\",\n            \"SQL Trace\",\n            \"TKPROF\",\n            \"Explain Plan"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

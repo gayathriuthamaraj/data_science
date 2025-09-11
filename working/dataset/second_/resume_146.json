@@ -1,0 +1,68 @@
+{
+    "personal_information": {
+        "name": "Scrum Master",
+        "location": "Silver Spring, MD"
+    },
+    "professional_summary": "Experienced Scrum Master with expertise in facilitating agile methodologies and driving project success through effective collaboration and communication.",
+    "work_experience": [
+        {
+            "job_title": "Scrum Master",
+            "company": "AKS Cyber Tech Inc",
+            "location": "Lorton, VA",
+            "dates": "January 2016 - Present",
+            "key_responsibilities": [
+                "Facilitating Daily Stand-Up",
+                "Sprint Planning",
+                "Sprint Review/Demo",
+                "and Sprint Retrospective meetings.",
+                "Assisting with internal/external communications and team discussions.",
+                "Building relationships with Product Owner and stakeholders."
+            ]
+        },
+        {
+            "job_title": "Security Control Assessor",
+            "company": "Integrated Systems",
+            "location": "",
+            "dates": "October 2013 - April 2015",
+            "key_responsibilities": [
+                "Conducting security assessments and reviews using NIST guidelines.",
+                "Interacting with clients during meetings and documenting findings.",
+                "Developing remediation plans for identified vulnerabilities."
+            ]
+        },
+        {
+            "job_title": "Oracle Database Administrator",
+            "company": "Pacific Systems",
+            "location": "",
+            "dates": "September 2009 - October 2013",
+            "key_responsibilities": [
+                "Configuring systems for optimal performance.",
+                "Monitoring database operations and backup schedules.",
+                "Adjusting database parameters as needed."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Scrum Master",
+            "institution": "Ambrose Alli University, Ekpoma, Edo State",
+            "year_of_completion": ""
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "Agile Methodologies",
+            "Project Management",
+            "Communication and Collaboration"
+        ],
+        "tools_and_software": [
+            "Oracle Database",
+            "Microsoft Office Suite"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

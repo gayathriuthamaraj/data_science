@@ -1,0 +1,69 @@
+{
+    "personal_information": {
+        "name": "Cherwell Administrator",
+        "location": "Round Rock, TX"
+    },
+    "professional_summary": "Experienced Cherwell Administrator providing Tier II support for Dell Federal IT Sales. Skilled in supervising operations, managing cross-functional teams, implementing data analytics, and optimizing processes. Proficient in maintaining and updating the Cherwell application, developing forms and database objects, and creating database architecture diagrams.",
+    "work_experience": [
+        {
+            "job_title": "Cherwell Administrator",
+            "company": "Dell Technologies Inc",
+            "location": "Round Rock, TX",
+            "dates": "April 2017 - Present",
+            "key_responsibilities": [
+                "Provide Tier II support for Dell Federal IT Sales.",
+                "Supervise operations and manage cross-functional teams.",
+                "Implement data analytics on technical issues."
+            ]
+        },
+        {
+            "job_title": "Database Administrator",
+            "company": "Dell Technologies Inc",
+            "location": "Round Rock, TX",
+            "dates": "January 2016 - March 2017",
+            "key_responsibilities": [
+                "Deliver database support for vital systems.",
+                "Assist Service Desk team in handling daily operations.",
+                "Administer weekly term reports within SQL Server."
+            ]
+        },
+        {
+            "job_title": "Web Developer",
+            "company": "Dell Technologies Inc",
+            "location": "Round Rock, TX",
+            "dates": "June 2015 - January 2016",
+            "key_responsibilities": [
+                "Redesign the 'Savings Tracker' webpage.",
+                "Develop dynamic webpages using HTML",
+                "CSS",
+                "AJAX",
+                "and JavaScript.",
+                "Manage application build and release process."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science in Computer Engineering",
+            "institution": "Norfolk State University",
+            "year_of_completion": "2015"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "DATABASE",
+            "MICROSOFT SQL SERVER",
+            "MICROSOFT SQL SERVER 2012",
+            "SQL SERVER",
+            "SQL SERVER 2012"
+        ],
+        "tools_and_software": [
+            "WINSCP"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

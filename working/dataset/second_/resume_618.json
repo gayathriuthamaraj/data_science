@@ -1,0 +1,54 @@
+{
+    "personal_information": {
+        "name": "John Doe",
+        "location": "Philadelphia, PA"
+    },
+    "professional_summary": "AWS Solution Architect/DevOps Engineer with 4 years of experience in AWS Solutions and 6 years of IT expertise.",
+    "work_experience": [],
+    "education": [
+        {
+            "degree": "Master's in International Trade",
+            "institution": "Ajou University",
+            "year_of_completion": "2011"
+        },
+        {
+            "degree": "Bachelor's of Science in Management",
+            "institution": "University of Buea",
+            "year_of_completion": "2007"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "AWS",
+            "Security",
+            "EC2",
+            "RDS",
+            "ACLs",
+            "MFA",
+            "DDoS\", \n            \"Jira",
+            "Optimization",
+            "Architecture",
+            "Best Practices\",\n            \"Bash",
+            "DevOps",
+            "Puppet",
+            "Linux",
+            "OpenStack",
+            "Azure"
+        ],
+        "tools_and_software": [
+            "Git",
+            "Jenkins",
+            "Ansible",
+            "Jira",
+            "SSM\",\n            \"AWS System Manager",
+            "Run Command",
+            "CLI",
+            "CloudFormation\",\n            \"CI/CD"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

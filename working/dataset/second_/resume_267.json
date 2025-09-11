@@ -1,0 +1,47 @@
+{
+    "personal_information": {
+        "name": "John Doe",
+        "location": "Provo, UT"
+    },
+    "professional_summary": "Aircraft Mechanic/Database Administrator with expertise in helicopter maintenance and database administration, experienced in technical documentation, troubleshooting, and sales. Holds FAA Airframe and Powerplant certification.",
+    "work_experience": [
+        {
+            "job_title": "Aircraft Mechanic/Database Administrator",
+            "company": "US Army National Guard - Salt Lake City, UT",
+            "location": "Salt Lake City, UT",
+            "dates": "December 2012 - Present",
+            "key_responsibilities": [
+                "Repair Blackhawk/Apache/Lakota helicopters and perform final airworthiness inspections.",
+                "Use appropriate technical manuals to assist in proper maintenance practices and document work completed in logbooks.",
+                "Install logbook software",
+                "update software",
+                "and troubleshoot network issues."
+            ]
+        },
+        {
+            "job_title": "Sales Associate",
+            "company": "Goodyear - Richmond, VA",
+            "location": "Richmond, VA",
+            "dates": "January 2012 - July 2012",
+            "key_responsibilities": [
+                "Recommend products and services",
+                "up-sell products and services.",
+                "Maintain customer relationships and follow up with previous customers to learn about vehicle status for potential sales."
+            ]
+        }
+    ],
+    "education": [],
+    "skills": {
+        "technical_skills": [
+            "Aircraft Maintenance\",\n            \"Database Administration\",\n            \"Troubleshooting\",\n            \"Technical Documentation\",\n            \"Sales"
+        ],
+        "tools_and_software": [
+            "Diagnostic Equipment\",\n            \"Hand Tools\",\n            \"Network Monitoring Software\",\n            \"Logbook Software\",\n            // Additional tools not explicitly mentioned"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

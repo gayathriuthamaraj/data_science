@@ -1,0 +1,76 @@
+{
+    "personal_information": {
+        "name": "Oracle Database Administrator",
+        "location": "Lenexa, KS"
+    },
+    "professional_summary": "Experienced Oracle Database Administrator with expertise in database monitoring, troubleshooting, and maintenance. Skilled in database backups, replication, and software updates.",
+    "work_experience": [
+        {
+            "job_title": "Oracle Database Administrator",
+            "company": "Oracle",
+            "location": "Lenexa, KS",
+            "dates": "February 2017 - Present",
+            "key_responsibilities": [
+                "Perform basic database monitoring and capacity management.",
+                "Troubleshoot issues with senior team members and implement corrective actions.",
+                "Set up and maintain database backups and monitor replication.",
+                "Apply database software updates and hotfixes to client environments.",
+                "Communicate with 3rd party software or hardware manufacturers.",
+                "Develop standardized work plans",
+                "documentation",
+                "and automation."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor degree in Information Systems Technology",
+            "institution": "Southern Illinois University Carbondale",
+            "year_of_completion": "2014 - 2016"
+        },
+        {
+            "degree": "Applied Arts and Science in Database Architecture",
+            "institution": "Wabash Valley College",
+            "year_of_completion": "2012 - 2014"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "Mysql",
+            "Oracle",
+            "SQL",
+            "Cerner",
+            "COBOL",
+            "IBM mainframe",
+            "Tableau\",\n            \"Back end",
+            "Software integration",
+            "Use case",
+            "Jira",
+            "Linux",
+            "Java\",\n            \"Flow charts",
+            "Citrix",
+            "Server support",
+            "Windows 10",
+            "Windows 7\",\n            \"DBA",
+            "Oracle Dba",
+            "RAC"
+        ],
+        "tools_and_software": [
+            "RHEL-6",
+            "Java",
+            "SQL",
+            "COBOL",
+            "Oracle Enterprise Manager (OEM)\",\n            \"JIRA",
+            "Tableau",
+            "Visual Paradigm",
+            "putty",
+            "Citrix",
+            "Royal TS"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "personal_information": {
+        "name": "Not explicitly mentioned",
+        "location": "Austin, TX"
+    },
+    "professional_summary": "Experienced Oracle Database Administrator with expertise in Real Application Cluster (RAC), ASM, Data Guard, Golden Gate Replication, and Performance Tuning using AWR and STATSPACK. Proven track record in database maintenance, backup, recovery, and schema optimization.",
+    "work_experience": [
+        {
+            "job_title": "Oracle DBA",
+            "company": "Admiral Insurance Company - Austin, TX",
+            "location": "Austin, TX",
+            "dates": "November 2012 - September 2015",
+            "key_responsibilities": [
+                "Installed and maintained Oracle 11g RAC/ASM on Redhat Enterprise Linux 5.x boxes.",
+                "Implemented Data Guard Physical Standby using DG Broker and experienced with Active Data Guard and Snapshot Standby.",
+                "Configured Golden Gate Replication (unidirectional and bidirectional) and added tables to existing configurations.",
+                "Performed Data Guard switchover/failover as required.",
+                "Monitored and tuned database performance using AWR",
+                "ADDM",
+                "Explain Plan",
+                "and STATSPACK reports."
+            ]
+        },
+        {
+            "job_title": "Oracle DBA",
+            "company": "Other Company Name - Austin, TX",
+            "location": "Austin, TX",
+            "dates": "September 2008 - November 2012",
+            "key_responsibilities": [
+                "Maintained Oracle databases",
+                "including backup and recovery activities.",
+                "Configured and maintained Oracle 11g RAC/ASM on various platforms.",
+                "Implemented Data Pump for database reorganization and migration between 9i",
+                "10g",
+                "and 11g environments.",
+                "Used conventional export/import utilities for cloning/migration of small databases.",
+                "Performed regular monitoring and analysis using AWR",
+                "ADDM",
+                "Explain Plan",
+                "and TKPROF."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor's",
+            "institution": "Not explicitly mentioned",
+            "year_of_completion": "Not explicitly mentioned"
+        }
+    ],
+    "skills": {
+        "technical_skills": [],
+        "tools_and_software": []
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

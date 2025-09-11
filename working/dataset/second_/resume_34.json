@@ -1,0 +1,57 @@
+{
+    "personal_information": {
+        "name": "John Doe",
+        "location": "Extracted Location"
+    },
+    "professional_summary": "Experienced SQL Server Administrator with expertise in database management, high availability solutions, and cloud/Azure integration. Proven track record in performance tuning, disaster recovery planning, and cross-platform data migrations.",
+    "work_experience": [
+        {
+            "job_title": "SQL Server Administrator",
+            "company": "Tech Corp Solutions",
+            "location": "Extracted Location",
+            "dates": "2020 - Present",
+            "key_responsibilities": [
+                "Administering SQL Server instances across multiple environments (Development",
+                "Testing",
+                "Production)",
+                "Implementing high availability and disaster recovery solutions using AlwaysOn",
+                "Database Mirroring",
+                "and Log Shipping",
+                "Performing regular database maintenance",
+                "optimization",
+                "and performance tuning"
+            ]
+        },
+        {
+            "job_title": "Database Analyst",
+            "company": "DataSphere Technologies",
+            "location": "Extracted Location",
+            "dates": "2017 - 2020",
+            "key_responsibilities": [
+                "Migrating and upgrading databases from legacy systems to modern SQL Server environments",
+                "Configuring and managing backup and recovery solutions with minimal downtime",
+                "Designing and deploying SSIS packages for data integration"
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science in Computer Science",
+            "institution": "University of Tech",
+            "year_of_completion": "2017"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "SQL Server Administration\",\n            \"Database Management\",\n            \"High Availability Solutions\",\n            \"Cloud/Azure Integration\",\n            \"Performance Tuning\",\n            \"Disaster Recovery Planning\",\n            \"Cross-Platform Data Migration"
+        ],
+        "tools_and_software": [
+            "ERWin\",\n            \"Idera\",\n            \"ServiceNow\",\n            \"JIRA\",\n            \"SQL Server Reporting Services (SSRS)\",\n            \"Microsoft PowerShell"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

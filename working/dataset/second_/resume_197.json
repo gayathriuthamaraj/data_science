@@ -1,0 +1,86 @@
+{
+    "personal_information": {
+        "name": "",
+        "location": "Extracted Location"
+    },
+    "professional_summary": "Experienced IT professional with expertise in SQL Server administration, data migration, and business analysis. Skilled in various tools and software, including AWS, HTML, XML, and UML.",
+    "work_experience": [
+        {
+            "job_title": "IT Project Manager",
+            "company": "Telnet Australia",
+            "location": "Extracted Location",
+            "dates": "2010 - 2011",
+            "key_responsibilities": [
+                "Leading IT projects and ensuring successful implementation",
+                "Collaborating with cross-functional teams to meet project goals",
+                "Providing technical leadership and guidance"
+            ]
+        },
+        {
+            "job_title": "SQL Server DBA",
+            "company": "Telstra, Victoria - AU",
+            "location": "Extracted Location",
+            "dates": "2009 - 2011",
+            "key_responsibilities": [
+                "Managing SQL Server logins and users",
+                "Performing routine database maintenance activities",
+                "Troubleshooting performance issues and fine-tuning databases"
+            ]
+        },
+        {
+            "job_title": "Business Analyst",
+            "company": "Telstra, Victoria - AU",
+            "location": "Extracted Location",
+            "dates": "2007 - 2009",
+            "key_responsibilities": [
+                "Conducting gap analysis and defining business processes",
+                "Creating functional and non-functional requirement documents",
+                "Facilitating UAT and collaborating with stakeholders"
+            ]
+        },
+        {
+            "job_title": "Database Administrator",
+            "company": "Various Companies",
+            "location": "Extracted Location",
+            "dates": "2004 - 2007",
+            "key_responsibilities": [
+                "Managing SQL Server instances and ensuring high availability",
+                "Performing database migrations and data backups",
+                "Monitoring server performance and tuning databases"
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor's Degree",
+            "institution": "Monash University",
+            "year_of_completion": "2020"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "SQL Server",
+            "Data Migration",
+            "Linux",
+            "AWS",
+            "HTML",
+            "XML",
+            "T-SQL",
+            "RDBMS",
+            "Java"
+        ],
+        "tools_and_software": [
+            "MS Access",
+            "MS Word",
+            "MS PowerPoint",
+            "EDraw",
+            "Pencil",
+            "UML"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

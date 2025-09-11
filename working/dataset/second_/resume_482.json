@@ -1,0 +1,54 @@
+{
+    "personal_information": {
+        "name": "Extracted Name",
+        "location": "Ahmedabad, Gujarat"
+    },
+    "professional_summary": "Experienced professional with expertise in Linux administration, database management, and DevOps practices. Proven track record in building and deploying scalable applications using modern tools and technologies.",
+    "work_experience": [
+        {
+            "job_title": "Senior Application Developer",
+            "company": "Extracted Company Name",
+            "location": "Extracted Location",
+            "dates": "2015 - 2020",
+            "key_responsibilities": [
+                "Developed and maintained high-performance web applications using Java",
+                "Python",
+                "and JavaScript.",
+                "Implemented database management strategies to ensure optimal performance and data integrity.",
+                "Collaborated with DevOps teams to automate deployment processes and improve CI/CD pipelines."
+            ]
+        },
+        {
+            "job_title": "Database Administrator",
+            "company": "BB&T",
+            "location": "Extracted Location",
+            "dates": "2011 - 2013",
+            "key_responsibilities": [
+                "Administered Oracle and SQL databases to support business operations.",
+                "Performed regular backups and recovery processes to ensure data availability.",
+                "Monitored and optimized database performance to meet application needs."
+            ]
+        },
+        {
+            "job_title": "Linux Administrator",
+            "company": "ViitorCloud Technologies Pvt Ltd",
+            "location": "Ahmedabad, Gujarat",
+            "dates": "2009 - 2011",
+            "key_responsibilities": [
+                " Installed and configured Linux systems to support application deployment.",
+                " Managed system maintenance and patching to ensure uptime and security.",
+                " Coordinated with development teams to streamline build processes."
+            ]
+        }
+    ],
+    "education": [],
+    "skills": {
+        "technical_skills": [],
+        "tools_and_software": []
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

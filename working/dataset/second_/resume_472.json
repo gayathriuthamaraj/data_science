@@ -1,0 +1,51 @@
+{
+    "personal_information": {
+        "name": "Not provided",
+        "location": "Not provided"
+    },
+    "professional_summary": "Experienced Oracle Database Administrator with expertise in database security, backup/recovery, performance tuning, and data guard configuration. Proven track record in managing large-scale projects, ensuring on-time delivery, and driving organizational growth through technical proficiency.",
+    "work_experience": [
+        {
+            "job_title": "Oracle Database Administrator",
+            "company": "XYZ Company",
+            "location": "Not provided",
+            "dates": "2010 - 2023",
+            "key_responsibilities": [
+                "Administering Oracle databases and ensuring proper security and performance.",
+                "Implementing backup and recovery solutions using RMAN and performing regular disaster recovery drills.",
+                "Configuring DataGuard for high availability and fail-over purposes."
+            ]
+        },
+        {
+            "job_title": "Database Analyst",
+            "company": "ABC Technologies",
+            "location": "Not provided",
+            "dates": "2007 - 2010",
+            "key_responsibilities": [
+                "Migrating large databases across multiple platforms and optimizing SQL queries.",
+                "Assisting development teams in addressing database-related issues such as network failures and ASM disk group errors.",
+                "Configuring GoldenGate for real-time data integration."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science in Computer Science (Databases)",
+            "institution": "Lagos State University",
+            "year_of_completion": "2009"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "Data migration\",\n            \"Database administration\",\n            \"DBMS\",\n            \"SQL Server\",\n            \"Oracle\",\n            \"PL/SQL\",\n            \"RMAN\",\n            \"Linux\",\n            \"Red Hat\",\n            \"Unix\",\n            \"Risk analysis\",\n            \"Network administration\",\n            \"Security"
+        ],
+        "tools_and_software": [
+            "TOAD\",\n            \"Active Session History (ASH)\",\n            \"Automatic Workload Repository (AWR)\",\n            \"Oracle Grid Control\",\n            \"Data Pump\",\n            \"Statspack\",\n            \"DBMS_STATS\",\n            \"EXPLAIN PLAN\",\n            \"SQL-Tuning Advisor\",\n            \"DBVERIFY"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

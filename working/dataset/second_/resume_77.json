@@ -1,0 +1,74 @@
+{
+    "personal_information": {
+        "name": "Ryan McClenathan",
+        "location": "Houston, PA"
+    },
+    "professional_summary": "Experienced IT professional seeking hands-on opportunities to work with internal and external customers, providing problem-solving solutions.",
+    "work_experience": [
+        {
+            "job_title": "Business Analyst",
+            "company": "Crown Castle",
+            "location": "Canonsburg, PA",
+            "dates": "June 2015 - April 2017",
+            "key_responsibilities": [
+                "Provided information analysis and reporting services for the engineering wing.",
+                "Created",
+                "managed",
+                "and optimized reports on production levels and trends.",
+                "Worked closely with management to advise on process improvements."
+            ]
+        },
+        {
+            "job_title": "Database Administrator",
+            "company": "RDX",
+            "location": "Pittsburgh, PA",
+            "dates": "May 2013 - June 2015",
+            "key_responsibilities": [
+                "Supported hundreds of databases across various industries.",
+                "Performed design",
+                "administrative",
+                "and maintenance tasks."
+            ]
+        },
+        {
+            "job_title": "Junior Database Administrator",
+            "company": "RDX",
+            "location": "Pittsburgh, PA",
+            "dates": "June 2012 - May 2013",
+            "key_responsibilities": [
+                "Completed design",
+                "administrative",
+                "and maintenance tasks for over 400 clients."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "BS in Information Sciences and Technology",
+            "institution": "The Pennsylvania State University - University Park, PA",
+            "year_of_completion": "2012"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "HTML",
+            "JAVA",
+            "MICROSOFT OFFICE",
+            "MS OFFICE",
+            "ORACLE",
+            "SQL Server Administration"
+        ],
+        "tools_and_software": [
+            "Share Point T-SQL",
+            "SQL Design Principles",
+            "Project management",
+            "Visual Basic",
+            "Web applications"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

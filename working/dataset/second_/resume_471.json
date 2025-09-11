@@ -1,0 +1,70 @@
+{
+    "personal_information": {
+        "name": "Extracted Name",
+        "location": "Union City, CA"
+    },
+    "professional_summary": "Experienced IT Security Compliance Analyst with expertise in ISO27001 implementation, FedRAMP compliance, and managing security policies across various platforms including Azure, G-Suite, and OKTA.",
+    "work_experience": [
+        {
+            "job_title": "Lead IT Security Compliance Analyst",
+            "company": "Nisum Technologies",
+            "location": "Fremont, CA",
+            "dates": "January 2017 - Present",
+            "key_responsibilities": [
+                "Managing ISO27001 implementation across the organization.",
+                "Leading ISO27001 Gap Analysis across business units and teams.",
+                "Contributing as a SME to ISO27001 controls implementation."
+            ]
+        },
+        {
+            "job_title": "Database Security Administrator",
+            "company": "Creative Associates International / USAID",
+            "location": "Washington D.C., USA",
+            "dates": "June 2015 - October 2015",
+            "key_responsibilities": [
+                "Controlling access permissions and privileges of users.",
+                "Developing",
+                "managing",
+                "and testing backup and recovery plans.",
+                "Ensuring storage and archiving procedures follow defined SOPs."
+            ]
+        },
+        {
+            "job_title": "IT Security Administrator",
+            "company": "Al Jazeera Group of Companies",
+            "location": "Dubai, AE",
+            "dates": "February 2012 - February 2014",
+            "key_responsibilities": [
+                "Managing and planning IT projects related to systems.",
+                "Monitoring storage capabilities of the system.",
+                "Developing and implementing IT policies",
+                "procedures",
+                "and standards."
+            ]
+        },
+        {
+            "job_title": "Technical Support Analyst",
+            "company": "United Bank Limited",
+            "location": "Karachi, PK",
+            "dates": "October 2007 - December 2011",
+            "key_responsibilities": [
+                "Managing IT support and resolving technical issues.",
+                "Ensuring smooth operation of IT infrastructure."
+            ]
+        }
+    ],
+    "education": [],
+    "skills": {
+        "technical_skills": [
+            "IT Security Compliance\",\n            \"Azure\",\n            \"G-Suite\",\n            \"OKTA\",\n            \"ISO27001\",\n            \"FedRAMP\",\n            \"NIST800-53\",\n            \"DNS servers\",\n            \"SSL certificates\",\n            \"Backup systems"
+        ],
+        "tools_and_software": [
+            "DNS Servers\",\n            \"SSL/TLS\",\n            \"Backup Software\",\n            \"Database Management Systems\",\n            \"Network Monitoring Tools"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "personal_information": {
+        "name": "Unknown Name",
+        "location": "Iowa, USA"
+    },
+    "professional_summary": "Experienced Oracle Database Administrator with 7 years of expertise in managing and optimizing large-scale databases. Skilled in RMAN, SQL*Plus, and performance tuning. Proficient in Oracle 10g, 11g, and 12c databases. Strong background in disaster recovery and data replication using Data Guard and Streams.",
+    "work_experience": [
+        {
+            "job_title": "Oracle Database Administrator",
+            "company": "Accenture",
+            "location": "Iowa, USA",
+            "dates": "2013 - 2022",
+            "key_responsibilities": [
+                "Administered Oracle 11g and 12c databases across multiple environments.",
+                "Optimized database performance through regular monitoring and tuning.",
+                "Implemented backup and disaster recovery solutions using RMAN."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor's",
+            "institution": "University of Buea",
+            "year_of_completion": "2000"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "Oracle Database Administration\",\n            \"SQL*Plus\",\n            \"RMAN\",\n            \"TKPROF\",\n            \"Performance Tuning\",\n            \"Database Migration\",\n            \"Data Guard\",\n            \"Streams"
+        ],
+        "tools_and_software": [
+            "SQL*Loader\",\n            \"Oracle Enterprise Manager\",\n            \"Toad\",\n            \"Putty\",\n            \"WinSCP\",\n            \"Remote Desktop Connection"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

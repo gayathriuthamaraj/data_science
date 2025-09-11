@@ -1,0 +1,96 @@
+{
+    "personal_information": {
+        "name": "Software Developer",
+        "location": "Jacksonville, FL"
+    },
+    "professional_summary": "Seasoned Information Technology Professional with over 5 years of experience in software/database development and design, requirements gathering, and analysis. Proficient in Software Development Life-cycle (SDLC) and equipped with strong communication and problem-solving skills.",
+    "work_experience": [
+        {
+            "job_title": "Software Developer",
+            "company": "The Parts House Acquisitions LLC",
+            "location": "Jacksonville, FL",
+            "dates": "July 2017 - Present",
+            "key_responsibilities": [
+                "Develop browser-based applications for inventory management",
+                "sales",
+                "delivery",
+                "purchasing",
+                "and reporting using Python",
+                "ODOO",
+                "JavaScript",
+                "HTML",
+                "XML",
+                "Jquery",
+                "and CSS.",
+                "Provide end-user training and support via Help Desk and phone.",
+                "Work with Python bots to translate EDI 810 and ASNs into XML and JSON formats.",
+                "Write Python scripts to parse XML documents and load data into databases.",
+                "Use Pyflame for code profiling and optimization of the ERP system.",
+                "Utilize PostgreSQL log analysis tools for query optimization and database tuning.",
+                "Manage version control using GitLab and Mercurial.",
+                "Familiar with Linux environments and commands.",
+                "Implement Import/Export features in ERP modules.",
+                "Develop client code for consuming REST Web Services."
+            ]
+        },
+        {
+            "job_title": "Software Developer",
+            "company": "NETLINKS",
+            "location": "Kabul, AF",
+            "dates": "February 2014 - February 2017",
+            "key_responsibilities": [
+                "Design",
+                "develop",
+                "deploy",
+                "troubleshoot",
+                "and debug Frontend and Backend solutions.",
+                "Perform requirement gathering and analysis for client projects.",
+                "Contribute to the development of products through the software lifecycle.",
+                "Develop using object-oriented design.",
+                "Design database structures for web applications in PostgreSQL.",
+                "Prepare and analyze reports using Python libraries.",
+                "Attend ODOO and PostgreSQL technical training and develop applications using the ODOO framework.",
+                "Implement features such as user authentication and dynamic content management."
+            ]
+        },
+        {
+            "job_title": "Software Developer",
+            "company": "Afghan Public Protection Force",
+            "location": "Kabul, AF",
+            "dates": "May 2012 - January 2014",
+            "key_responsibilities": [
+                "Develop and implement software solutions for law enforcement and judicial processes.",
+                "Design and optimize database schemas for large-scale data storage.",
+                "Create user-friendly interfaces for data retrieval and analysis."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor in Computer Science",
+            "institution": "Kabul University",
+            "year_of_completion": "2011"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "Python",
+            "PostgreSQL",
+            "ODOO",
+            "JavaScript",
+            "HTML",
+            "CSS"
+        ],
+        "tools_and_software": [
+            "Eclipse",
+            "PgAdmin III",
+            "GitLab",
+            "Mercurial"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

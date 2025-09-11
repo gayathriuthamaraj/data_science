@@ -1,0 +1,75 @@
+{
+    "personal_information": {
+        "name": "Full Stack Developer",
+        "location": "Citrus Heights, CA"
+    },
+    "professional_summary": "Obtain opportunity to work in a highly professional and competitive environment, which will utilize my knowledge and experience. Further develop my technical skills.",
+    "work_experience": [
+        {
+            "job_title": "Full Stack Developer",
+            "company": "WSD INC",
+            "location": "Placerville, CA",
+            "dates": "May 2014 - Present",
+            "key_responsibilities": [
+                "Develop PDM",
+                "CRM and SCM systems using C# and SQL server.",
+                "Design",
+                "develop",
+                "test",
+                "support and deploy desktop",
+                "custom web",
+                "and mobile applications.",
+                "Optimize application performance and maintain code integrity."
+            ]
+        },
+        {
+            "job_title": "WordPress and Drupal Developer",
+            "company": "PIS",
+            "location": "Sacramento, CA",
+            "dates": "May 2013 - April 2014",
+            "key_responsibilities": [
+                "Develop and implement custom WordPress and Drupal themes and plugins.",
+                "Manage website deployment",
+                "optimization",
+                "and migration processes.",
+                "Collaborate with cross-functional teams to meet project requirements."
+            ]
+        },
+        {
+            "job_title": "Application Developer",
+            "company": "Nu Digital Marketing Agency",
+            "location": "Roseville, CA",
+            "dates": "March 2012 - April 2013",
+            "key_responsibilities": [
+                "Design and develop web applications using various programming languages.",
+                "Integrate third-party APIs and ensure seamless user experiences.",
+                "Conduct regular testing and provide bug fixes."
+            ]
+        },
+        {
+            "job_title": "Database Administrator",
+            "company": "ANYPOL Limited",
+            "location": "UK",
+            "dates": "July 2009 - February 2011",
+            "key_responsibilities": [
+                "Manage database performance and optimize query execution.",
+                "Implement backup and recovery solutions to ensure data integrity.",
+                "Provide technical support for database-related issues."
+            ]
+        }
+    ],
+    "education": [],
+    "skills": {
+        "technical_skills": [
+            "Database Transformation Services\",\n            \"SQL, MySQL, PostgreSQL\",\n            \"C#, HTML, CSS, JavaScript\",\n            \"React, Node.js, Python\",\n            \"Crystal Report, Power BI, MS Excel"
+        ],
+        "tools_and_software": [
+            "WordPress, Drupal, Joomla\",\n            \"Git, Jenkins, Docker\",\n            \"Jira, Asana, Trello"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

@@ -1,0 +1,65 @@
+{
+    "personal_information": {
+        "name": "Extracted Name",
+        "location": "Extracted Location"
+    },
+    "professional_summary": "Experienced professional with expertise in data migration, SQL Server administration, and Linux operations. Skilled in using tools like BCP for data migration and AWS cloud platforms. Career goal is to leverage these skills in a cloud-based environment.",
+    "work_experience": [
+        {
+            "job_title": "Business Analyst",
+            "company": "Telstra, Victoria - AU",
+            "location": "Extracted Location",
+            "dates": "December 2009 - January 2011",
+            "key_responsibilities": [
+                "Conducted gap analysis to identify gaps and defined business processes.",
+                "Created functional and non-functional requirement documents using UML diagrams.",
+                "Facilitated UAT for internal systems with business users."
+            ]
+        },
+        {
+            "job_title": "SQL Server DBA",
+            "company": "Telstra, Victoria - AU",
+            "location": "Extracted Location",
+            "dates": "2010 - 2013",
+            "key_responsibilities": [
+                "Administered live SQL servers focusing on high availability.",
+                "Managed SQL Server logins and users",
+                "and database objects like tables",
+                "views",
+                "and indexes.",
+                "Performed routine maintenance activities such as backup recovery and replication."
+            ]
+        },
+        {
+            "job_title": "Data Migration Specialist",
+            "company": "Nice Actimize, Victoria - AU",
+            "location": "Extracted Location",
+            "dates": "2014 - 2016",
+            "key_responsibilities": [
+                "Migrated large volumes of data using BCP and SQL Loader.",
+                "Validated data accuracy post-migration using custom scripts.",
+                "Documented migration processes for future reference."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor's",
+            "institution": "Extracted University Name",
+            "year_of_completion": "Extracted Year"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "SQL Server (2000, 2005/2008 R2, 2012/2014/2016)\",\n            \"Linux\",\n            \"Java\",\n            \"T-SQL\",\n            \"HTML\",\n            \"XML"
+        ],
+        "tools_and_software": [
+            "SQL Server Agent\",\n            \"BCP\",\n            \"SQL Loader\",\n            \"Import/Export Wizard\",\n            \"Amazon Web Services (AWS)"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

@@ -1,0 +1,81 @@
+{
+    "personal_information": {
+        "name": "Extracted Name",
+        "location": "Spruce Pine, NC"
+    },
+    "professional_summary": "Experienced Database Administrator with expertise in Microsoft SQL Server and Oracle DB Administration. Proven track record in managing and maintaining complex databases, optimizing performance, and implementing high-load systems.",
+    "work_experience": [
+        {
+            "job_title": "Warehouse Specialist",
+            "company": "Baxter Healthcare - Marion, NC",
+            "location": "Marion, NC",
+            "dates": "October 2017 - Present",
+            "key_responsibilities": [
+                "Entry",
+                "update",
+                "change",
+                "edit data in Warehouse management system.",
+                "Preparation of orders for load.",
+                "Coordination and management of processes for workflow."
+            ]
+        },
+        {
+            "job_title": "Database Administrator (DBA)",
+            "company": "Faberlic - Moscow, Russia",
+            "location": "Moscow, Russia",
+            "dates": "October 2015 - December 2016",
+            "key_responsibilities": [
+                "Introduce new ERP system WMS-1C Enterprise.",
+                "Administration and technical support of ERP system Microsoft Dynamics AX.",
+                "Administration and maintenance of heavily loaded ERP systems (24/7)."
+            ]
+        },
+        {
+            "job_title": "Database Administrator",
+            "company": "I.C. Inc - Moscow, Russia",
+            "location": "Moscow, Russia",
+            "dates": "January 2014 - September 2015",
+            "key_responsibilities": [
+                "Administration and maintenance of Oracle DBMS.",
+                "Implementation of backup/restore plans.",
+                "Optimization of database performance."
+            ]
+        },
+        {
+            "job_title": "Database Administrator",
+            "company": "TechnoSoft Solutions - Moscow, Russia",
+            "location": "Moscow, Russia",
+            "dates": "January 2012 - December 2013",
+            "key_responsibilities": [
+                "Support and maintenance of MS SQL Server databases.",
+                "Implementation of DR solutions.",
+                "Troubleshooting and resolving database issues."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor's Degree",
+            "institution": "Moscow State University",
+            "year_of_completion": "2008"
+        },
+        {
+            "degree": "Master's Degree",
+            "institution": "Saint Petersburg Technical University",
+            "year_of_completion": "2010"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "Microsoft SQL Server Administration\",\n            \"Oracle DBMS Administration\",\n            \"Database Performance Optimization\",\n            \"Backup/Restore Plan Implementation\",\n            \"DR Solutions Development\",\n            \"Database Troubleshooting and Repair\",\n            \"High-Load Database Management\",\n            \"ERP System Integration\",\n            \"Warehouse Management Systems"
+        ],
+        "tools_and_software": [
+            "Microsoft Dynamics AX\",\n            \"Oracle\",\n            \"Microsoft SQL Server\",\n            \"MS Excel\",\n            \"MS Access\",\n            \"Visual Studio\",\n            \"Windows Server\",\n            \"IIS\",\n            \"Apache"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

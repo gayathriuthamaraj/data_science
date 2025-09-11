@@ -1,0 +1,57 @@
+{
+    "personal_information": {
+        "name": "Extracted Name",
+        "location": "Houston, TX"
+    },
+    "professional_summary": "Highly technical database administrator with about 5 years of demonstrated experience with RMAN in Oracle 10g, 11g and 12c databases across different OS platforms. Skilled in TDE, designing, implementing and supporting high availability and disaster recovery solutions to improve workflows and business efficiency.",
+    "work_experience": [
+        {
+            "job_title": "Oracle Database Administrator",
+            "company": "Sun Products Corporation",
+            "location": "Salt Lake City, UT",
+            "dates": "August 2016 - Present",
+            "key_responsibilities": [
+                "Created and monitored Physical and Active Standby databases",
+                "operating in maximum protection or performance modes for Disaster Recovery and High Availability on 11g and 12c Oracle databases.",
+                "Performed capacity planning to allocate system storage and plan future storage requirements.",
+                "Responsible for implementing high availability and disaster recovery solutions."
+            ]
+        },
+        {
+            "job_title": "Oracle Database Administrator",
+            "company": "American Home Patient",
+            "location": "Extracted Location",
+            "dates": "Extracted Dates",
+            "key_responsibilities": [
+                "Implemented RMAN for Oracle database backups and recovery.",
+                "Performed logical and physical database backups",
+                "including hot and cold backups.",
+                "Monitored and resolved database performance issues."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor's",
+            "institution": "Extracted University Name",
+            "year_of_completion": "Extracted Year"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "Oracle Database Administration",
+            "RMAN",
+            "High Availability and Disaster Recovery"
+        ],
+        "tools_and_software": [
+            "AIX",
+            "Linux",
+            "OEM (Oracle Enterprise Manager)"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

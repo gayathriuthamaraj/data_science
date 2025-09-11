@@ -1,0 +1,75 @@
+{
+    "personal_information": {
+        "name": "Sr. Database Administrator",
+        "location": "Kansas City, KS"
+    },
+    "professional_summary": "Experienced Senior Database Administrator with expertise in MS SQL Server, DB2 LUW, and Oracle DBA. Skilled in ETL processes, data analysis, and SQL query optimization.",
+    "work_experience": [
+        {
+            "job_title": "Sr. Database Administrator",
+            "company": "PBGC",
+            "location": "Kansas City, KS",
+            "dates": "2020 - Present",
+            "key_responsibilities": [
+                "Responsible for the administration and optimization of large-scale databases.",
+                "Designing and implementing ETL processes to improve data integrity and performance.",
+                "Optimizing complex SQL queries and stored procedures to enhance application performance."
+            ]
+        },
+        {
+            "job_title": "SQL Developer",
+            "company": "Global Services - Southbury, CT",
+            "location": "Southbury, CT",
+            "dates": "2019 - 2020",
+            "key_responsibilities": [
+                "Developed and maintained MS SQL Server 2008 R2 solutions.",
+                "Assisted in the creation of SSRS reports to improve data accessibility and decision-making capabilities.",
+                "Collaborated with development teams to enhance ETL processes and optimize SSIS packages."
+            ]
+        },
+        {
+            "job_title": "Consultant - SQL Developer",
+            "company": "Global Services",
+            "location": "Southbury, CT",
+            "dates": "2017 - 2020",
+            "key_responsibilities": [
+                "Provided SQL development support for large-scale insurance applications.",
+                "Enhanced and debugged complex stored procedures to improve performance.",
+                "Defined and deployed efficient data extraction",
+                "transformation",
+                "and loading processes."
+            ]
+        },
+        {
+            "job_title": "Database Administrator",
+            "company": "State University of New York at Stony Brook",
+            "location": "Stony Brook, NY",
+            "dates": "2013 - 2017",
+            "key_responsibilities": [
+                "Managed and maintained DB2 LUW 9.7 databases for academic research applications.",
+                "Optimized database performance through index tuning and query analysis.",
+                "Supported ETL processes using Datastage Transformation Language to enhance data integration."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science in Computer Science",
+            "institution": "State University of New York at Stony Brook",
+            "year_of_completion": "2013"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "Databases\",\n            \"ETL\",\n            \"Extract, Transform, Load\",\n            \"SQL\",\n            \"Stored Procedures\",\n            \"DB2 LUW 9.7\",\n            \"DB2 z/OS Version 9\",\n            \"Linux (2.6.32)\",\n            \"AIX (7.1)\",\n            \"z/ OS V1.7"
+        ],
+        "tools_and_software": [
+            "DB2 Control Center\",\n            \"DB2 Data Studio\",\n            \"DB2 Visualizer\",\n            \"Ultraedit\",\n            \"BMC Change Manager for DB2\",\n            \"Tivoli Decision Support\",\n            \"VSAMASSIST\",\n            \"Team Foundation Server (TFS 2013)\",\n            \"UC4 (Automic)\",\n            \"Python\",\n            \"Unix Shell Scripting (Perl, Korn)"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "personal_information": {
+        "name": "John Doe",
+        "location": "Newport News, VA"
+    },
+    "professional_summary": "Database Administrator with expertise in database management, data mining, and software development. Skilled in C++, SQL, distributed systems, and Microsoft Office Suite. Experience working with large-scale databases and programming in distributed environments.",
+    "work_experience": [
+        {
+            "job_title": "Database Administrator",
+            "company": "Huntington Ingalls Industries - Norfolk, VA",
+            "location": "Norfolk, VA",
+            "dates": "October 2017 to Present",
+            "key_responsibilities": [
+                "Maintaining and creating current access databases in the Newport News Shipyard.",
+                "Working with data mining in a corporate finance project.",
+                "Receiving multiple rewards for outstanding work."
+            ]
+        },
+        {
+            "job_title": "Scanner Technician",
+            "company": "Scans America - Poquoson, VA",
+            "location": "Poquoson, VA",
+            "dates": "July 2010 to February 2016",
+            "key_responsibilities": [
+                "Operating document scanner and diverse scanner programs.",
+                "Uploading documents to databases and quality checking images for multiple clients."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor's of Science in Modeling and Simulation Engineering",
+            "institution": "Old Dominion University - Norfolk, VA",
+            "year_of_completion": "May 2017"
+        },
+        {
+            "degree": "Associate's Degree in Simulation and Game Programming",
+            "institution": "ECPI College of Technology - Newport News, VA",
+            "year_of_completion": "May 2013"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "C++ (4 years)\",\n            \"databases (1 year)\",\n            \"distributed systems (2 years)\",\n            \"Excel (5 years)\",\n            \"Microsoft Office (10+ years)\",\n            \"Basic Chinese (3 years)\",\n            \"DBA (1 year)\",\n            \"Microsoft access (1 year)\",\n            \"C (2 years)\",\n            \"Basic SQL (1 year)\",\n            \"SQL DBA"
+        ],
+        "tools_and_software": [
+            "Microsoft Access\",\n            \"DBA\",\n            \"R\",\n            \"C\",\n            \"SQL"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

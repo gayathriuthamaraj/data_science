@@ -1,0 +1,70 @@
+{
+    "personal_information": {
+        "name": "Extracted Name",
+        "location": "Alexandria, VA; Bowie, MD"
+    },
+    "professional_summary": "Oracle Database Administrator with eight years' experience providing data management and DBA functions, specializing in Oracle 12c/11g database administration, performance tuning, and designing databases for biomedical contracting applications.",
+    "work_experience": [
+        {
+            "job_title": "Oracle Database Administrator",
+            "company": "Priority One Services",
+            "location": "Alexandria, VA",
+            "dates": "August 2015 to Present",
+            "key_responsibilities": [
+                "Planned",
+                "installed",
+                "configured",
+                "managed",
+                "and troubleshoot Oracle 12c/11g databases on Linux and Windows OS.",
+                "Managed and maintained Oracle 12c/11g database servers across multiple environments.",
+                "Created databases",
+                "tablespaces",
+                "tables",
+                "indexes",
+                "and other database objects.",
+                "Installed and managed Oracle Enterprise Manager.",
+                "Performed bulk load into the database using SQL Loader.",
+                "Conducted standard and fine-grained database auditing.",
+                "Used Data Pump and Export/Import utilities for logical backups.",
+                "Performed database cloning using RMAN.",
+                "Monitored user sessions and took appropriate action to kill inactive sessions.",
+                "Created and rebuilt indexes as necessary.",
+                "Performed performance goal-oriented database tuning."
+            ]
+        },
+        {
+            "job_title": "Oracle Database Administrator",
+            "company": "Bowie, MD",
+            "location": "Bowie, MD",
+            "dates": "July 2011 to August 2015",
+            "key_responsibilities": [
+                "Configured RMAN parameters and performed physical backups using RMAN utility.",
+                "Identified and recovered corrupted database blocks using Block recover option in RMAN.",
+                "Installed and configured network components for database access and integrity.",
+                "Resolved Oracle connectivity problems and provided troubleshooting assistance for Oracle Forms.",
+                "Balanced data conversion and configuration scalability.",
+                "Monitored tablespaces",
+                "datafiles",
+                "undo tablespaces",
+                "redo logs",
+                "control files",
+                "and archive logs.",
+                "Performed regular maintenance tasks such as tablespace repair and database backup."
+            ]
+        }
+    ],
+    "education": [],
+    "skills": {
+        "technical_skills": [
+            "Oracle Database Administration\",\n            \"Database Design and Optimization\",\n            \"Performance Tuning\",\n            \"Data Management\",\n            \"Backup and Recovery (RMAN)\",\n            \"Database Monitoring\",\n            \"Tablespace Management"
+        ],
+        "tools_and_software": [
+            "Oracle 12c/11g\",\n            \"Windows, Linux, Solaris\",\n            \"SQL\",\n            \"OEM Grid Control\",\n            \"Data Pump\",\n            \"Export/Import utilities\",\n            \"RMAN"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

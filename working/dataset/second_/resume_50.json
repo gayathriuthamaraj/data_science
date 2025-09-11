@@ -1,0 +1,82 @@
+{
+    "personal_information": {
+        "name": "Extracted Name",
+        "location": "Extracted Location"
+    },
+    "professional_summary": "Database Administrator with 15+ years of experience in Oracle and SQL Server, specializing in database administration, development, performance management, and ETL processes.",
+    "work_experience": [
+        {
+            "job_title": "Database Administrator",
+            "company": "CARFAX Inc",
+            "location": "Extracted Location",
+            "dates": "October 2012 - June 2015",
+            "key_responsibilities": [
+                "Supporting Data-Warehousing teams with SQL and PLSQL concepts for ETL improvements.",
+                "Maintaining and creating conceptual",
+                "logical",
+                "and physical data models using ERWIN.",
+                "Ensuring database availability and performance through proactive monitoring."
+            ]
+        },
+        {
+            "job_title": "Database Administrator",
+            "company": "University of Michigan",
+            "location": "Extracted Location",
+            "dates": "June 2015 - November 2015",
+            "key_responsibilities": [
+                "Upgrading Oracle Database from 11.2 to 12.1.",
+                "Managing RMAN backups and restores from tape.",
+                "Performing database cloning for cold backups."
+            ]
+        },
+        {
+            "job_title": "Database Administrator",
+            "company": "CARFAX Inc",
+            "location": "Extracted Location",
+            "dates": "October 2012 - June 2015",
+            "key_responsibilities": [
+                "Supporting Data-Warehousing teams with SQL and PLSQL concepts for ETL improvements.",
+                "Maintaining and creating conceptual",
+                "logical",
+                "and physical data models using ERWIN.",
+                "Ensuring database availability and performance through proactive monitoring."
+            ]
+        },
+        {
+            "job_title": "Database Administrator",
+            "company": "ORSCHELN FARM & HOME",
+            "location": "Extracted Location",
+            "dates": "August 2009 - September 2012",
+            "key_responsibilities": [
+                "Providing production support for the ERP system.",
+                "Analyzing data and writing ad hoc queries to resolve store issues.",
+                "Developing Oracle APEX applications for back office operations."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master's in Computer Integrated Manufacturing",
+            "institution": "University of Huddersfield - Huddersfield",
+            "year_of_completion": "Extracted Year"
+        },
+        {
+            "degree": "Bachelor of Engineering in Engineering",
+            "institution": "Jawaharlal Nehru Technological University - Hyderabad, Telangana",
+            "year_of_completion": "Extracted Year"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "SQL (10+ years)\",\n            \"PLSQL (10+ years)\",\n            \"Linux (6 years)\",\n            \"Unix (6 years)\",\n            \"MySQL (4 years)\",\n            \"MSSQL (4 years)\",\n            \"Database Administration (10+ years)\",\n            \"Database Development (10+ years)\",\n            \"Performance Management (10+ years)\",\n            \"SQL Tuning (9 years)\",\n            \"DBA\",\n            \"Sql Dba\",\n            \"Oracle Dba\",\n            \"Sql Server\",\n            \"ETL"
+        ],
+        "tools_and_software": [
+            "AWS Certified Cloud Practitioner\",\n            \"RMAN\",\n            \"Bash\",\n            \"ERWIN"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

@@ -1,0 +1,65 @@
+{
+    "personal_information": {
+        "name": "Wedeb Fesshaye",
+        "location": "Oakland, CA"
+    },
+    "professional_summary": "Certified SQL Database Administrator with a background in Computer Science. Expertise in web development and a passion for creating user-friendly applications.",
+    "work_experience": [
+        {
+            "job_title": "SQL Database Administrator",
+            "company": "Data Group USA",
+            "location": "Alexandria, VA",
+            "dates": "2016 - 2019",
+            "key_responsibilities": [
+                "Upgraded over 20 SQL servers to the latest service pack level in a 3-month period.",
+                "Improved vital processing jobs by reducing process duration by 60%.",
+                "Managed user access and system security for 40-50 concurrent users."
+            ]
+        },
+        {
+            "job_title": "Web Developer/Programmer",
+            "company": "Inland Revenue Department - Asmara",
+            "location": "Asmara, Eritrea",
+            "dates": "2013 - 2016",
+            "key_responsibilities": [
+                "Created new forms to collect and validate data using HTML5 and JavaScript",
+                "improving completion rate by 55%.",
+                "Implemented rigorous cross-browser testing processes for IE",
+                "Mozilla",
+                "and Chrome",
+                "correcting layout issues on 4 main site pages.",
+                "Managed multiple projects with a team of backend engineers and QA from planning to website launch."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "BA in Computer Science",
+            "institution": "University of Asmara",
+            "year_of_completion": "2006"
+        },
+        {
+            "degree": "Certificate in Web Developer",
+            "institution": "UC Berkeley Extension",
+            "year_of_completion": "2019"
+        },
+        {
+            "degree": "Certificate in SQL Database Administration",
+            "institution": "Data Group USA",
+            "year_of_completion": "2016"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "JavaScript\",\n            \"HTML5\",\n            \"CSS3\",\n            \"jQuery\",\n            \"React.js\",\n            \"Mongoose\",\n            \"Bootstrap\",\n            \"Materialize\",\n            \"Express.js\",\n            \"MySQL\",\n            \"MongoDB\",\n            \"SQL\",\n            \"TSQL\",\n            \"Firebase\",\n            \"Heroku\",\n            \"Postman"
+        ],
+        "tools_and_software": [
+            "Git\",\n            \"Bash\",\n            \"Flask\",\n            \"AJAX\",\n            \"Node.js\",\n            \"Microsoft Office Suite\",\n            \"Restful APIs\",\n            \"Sequelize\",\n            \"Front End\",\n            \"React\",\n            \"JavaScript\",\n            \"UI\",\n            \"Angular"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

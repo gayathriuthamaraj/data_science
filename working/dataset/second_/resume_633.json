@@ -1,0 +1,91 @@
+{
+    "personal_information": {
+        "name": "Extracted Name",
+        "location": "Extracted Location"
+    },
+    "professional_summary": "Talented Oracle DBA with around 3+ years of IT experience seeking a position as an Oracle DBA in a technology-driven organization.",
+    "work_experience": [
+        {
+            "job_title": "Oracle DBA",
+            "company": "RMA Bowie, MD",
+            "location": "Bowie, MD",
+            "dates": "May 2016 - Present",
+            "key_responsibilities": [
+                "Configure Oracle network files (LISTENER.ORA and TNSNAMES.ORA)",
+                "Create database objects (tables",
+                "views",
+                "indexes",
+                "segments",
+                "tablespaces)",
+                "Apply quarterly CPUs/PSU via Opatch utilities",
+                "Enforce integrity constraints and business rules",
+                "Perform nightly logical backup via EXPDP and RMAN",
+                "Use SQL*Loader for ETL tasks and CRONTAB/DBMS_SCHEDULER for scheduling",
+                "Tune SQL using EXPLAIN PLAN",
+                "AUTOTRACE",
+                "and SQL Tuning Advisor",
+                "Develop backup strategy with RMAN Incremental Level 0 and Level 1",
+                "Analyze AWR and ADDM reports for troubleshooting",
+                "Responsible for capacity planning and ASM storage allocation",
+                "Resolve RAC issues using SRVCTL and CRSCTL"
+            ]
+        },
+        {
+            "job_title": "Database Administrator",
+            "company": "Favorite Healthcare Staffing, MD",
+            "location": "Bowie, MD",
+            "dates": "November 2015 - March 2016",
+            "key_responsibilities": [
+                "Respond to production and development issues",
+                "Monitor database performance",
+                "Support backup processes",
+                "Resolve RAC issues using SRVCTL and CRSCTL",
+                "Coordinate database project tasks",
+                "Optimize database performance",
+                "Provide daily operational support",
+                "Document activities and procedures"
+            ]
+        },
+        {
+            "job_title": "Database Administrator",
+            "company": "Washington Adventist Hospital, MD",
+            "location": "Bowie, MD",
+            "dates": "January 2013 - October 2015",
+            "key_responsibilities": [
+                "Automate nightly logical backups with shell scripts and Oracle DataPump",
+                "Support development team with access issues",
+                "Tune database performance using AWR and SQL Tuning Advisor",
+                "Schedule RMAN backups",
+                "Resolve stored procedure issues",
+                "Work in a 24x7 environment",
+                "Research new technologies and tools",
+                "Provide on-call support"
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "BA",
+            "institution": "Howard University",
+            "year_of_completion": "2012"
+        },
+        {
+            "degree": "AA",
+            "institution": "Bowie State University",
+            "year_of_completion": "2009"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "RDBMS (Oracle, MySQL)\",\n            \"SQL*Loader\",\n            \"SQL Developer\",\n            \"EVM\",\n            \"RMAN\",\n            \"EXPDP/IMPDP\",\n            \"ASM\",\n            \"SRVCTL\",\n            \"CRSCTL\",\n            \"Flashback Technology"
+        ],
+        "tools_and_software": [
+            "PLSQL/SQL\",\n            \"SHELL/BATCH\",\n            \"Microsoft Office Suite\",\n            \"LibreOffice\",\n            \"OS Utilities (TOAD, TOP, VMSTAT)\",\n            \"Linux (RHEL)/UNIX\",\n            \"Solaris"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

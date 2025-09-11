@@ -1,0 +1,77 @@
+{
+    "personal_information": {
+        "name": "Database Administrator",
+        "location": "Triadelphia, WV"
+    },
+    "professional_summary": "Experienced Database Administrator with expertise in project management, data integrity monitoring, application implementation, and customer support. Proficient in various software tools and database systems.",
+    "work_experience": [
+        {
+            "job_title": "Database Administrator",
+            "company": "Wheeling Jesuit University",
+            "location": "Triadelphia, WV",
+            "dates": "December 2018 - Present",
+            "key_responsibilities": [
+                "Conducts project management activities for new business applications.",
+                "Provides support for the configuration",
+                "implementation",
+                "and training of current SIS systems and integrated applications.",
+                "Monitors data completeness and integrity."
+            ]
+        },
+        {
+            "job_title": "Database Administrator",
+            "company": "Bethany College",
+            "location": "Bethany, WV",
+            "dates": "April 2017 - December 2018",
+            "key_responsibilities": [
+                "Monitored SIS system data for completeness and accuracy.",
+                "Identified and communicated data integrity and security issues to upper management.",
+                "Provided system training and support for all users."
+            ]
+        },
+        {
+            "job_title": "Staff Accountant",
+            "company": "Bethany College",
+            "location": "Bethany, WV",
+            "dates": "April 2015 - April 2017",
+            "key_responsibilities": [
+                "Managed receivables and provided customer service.",
+                "Prepared all student billings."
+            ]
+        },
+        {
+            "job_title": "Financial Aid Assistant",
+            "company": "Bethany College",
+            "location": "Bethany, WV",
+            "dates": "October 2011 - October 2014",
+            "key_responsibilities": [
+                "Counseled students and parents regarding financial aid packages.",
+                "Processed federal and state financial aid funding."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science in Criminal Justice",
+            "institution": "West Liberty University",
+            "year_of_completion": "2011"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "SQL DBA",
+            "Microsoft Office",
+            "Project Management",
+            "Data Integrity Monitoring",
+            "Customer Support"
+        ],
+        "tools_and_software": [
+            "Microsoft Excel"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

@@ -1,0 +1,70 @@
+{
+    "personal_information": {
+        "name": "Extracted Name",
+        "location": "Chattanooga, TN"
+    },
+    "professional_summary": "Experienced Network and Database Administrator with expertise in network security, disaster recovery, server management, and software development. Skilled in reducing operational costs through efficient labor management and process optimization.",
+    "work_experience": [
+        {
+            "job_title": "Network and Database Administrator",
+            "company": "Lipsey Logistics Worldwide",
+            "location": "Chattanooga, TN",
+            "dates": "March 2017 - Present",
+            "key_responsibilities": [
+                "Administered onsite PBX (FreePBX/Asterisk)",
+                "LAN/WAN",
+                "SQL databases",
+                "and Windows/Linux servers and workstations.",
+                "Implemented Disaster Recovery Plan and oversaw backups and testing.",
+                "Audit and developed network security policies."
+            ]
+        },
+        {
+            "job_title": "Interim IT Manager",
+            "company": "Lipsey Logistics Worldwide",
+            "location": "Chattanooga, TN",
+            "dates": "November 2018 - January 2019",
+            "key_responsibilities": [
+                "Managed ongoing and new software development projects.",
+                "Implemented version control (git) and Agile development process using Jira/Confluence.",
+                "Manage vendor/contractor agreements and services."
+            ]
+        },
+        {
+            "job_title": "Network Technician",
+            "company": "Comcast Cable",
+            "location": "Chattanooga, TN",
+            "dates": "April 2011 - March 2017",
+            "key_responsibilities": [
+                "Provided high-level support for HFC network.",
+                "Trained and mentored junior technicians and installers for cable",
+                "LAN/WAN",
+                "VOIP",
+                "and home automation.",
+                "Led team to test and deploy new technologies including Deep Fiber",
+                "DOCSIS 3",
+                "and X1."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "No information provided",
+            "institution": "No information provided",
+            "year_of_completion": "No information provided"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "Network Administration\",\n            \"Customer Service\",\n            \"VMware\",\n            \"Strategic Planning\",\n            \"Exchange"
+        ],
+        "tools_and_software": [
+            "git\",\n            \"Jira\",\n            \"Confluence\",\n            \"FreePBX/Asterisk\",\n            \"SQL databases\",\n            \"Windows/Linux servers"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

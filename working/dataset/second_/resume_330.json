@@ -1,0 +1,135 @@
+{
+    "personal_information": {
+        "name": "Senior Database Administrator/Database Engineer",
+        "location": "East Brunswick, NJ/New York, NY/Liberty Corner, NJ"
+    },
+    "professional_summary": "Experienced Database Administrator with extensive experience in SQL Server management, migrations, disaster recovery, and performance tuning across various financial institutions.",
+    "work_experience": [
+        {
+            "job_title": "Database Administrator",
+            "company": "Deutsche Bank",
+            "location": "New York, NY",
+            "dates": "2011 - 2015",
+            "key_responsibilities": [
+                "Installed and configured SQL Server 2008 R2",
+                "2005",
+                "& 2000 for failover clusters.",
+                "Migrated SQL Server 2005 to 2008 R2 and 2012.",
+                "Administered and maintained SQL Server instances",
+                "including backup and recovery configurations."
+            ]
+        },
+        {
+            "job_title": "Jr Database Administrator",
+            "company": "AAA Computer Services",
+            "location": "New York, NY",
+            "dates": "2010 - 2011",
+            "key_responsibilities": [
+                "Added security and privilege for users accessing database servers.",
+                "Monitored backups and synchronized non-production environments with production backups."
+            ]
+        },
+        {
+            "job_title": "Database Administrator",
+            "company": "Deutsche Bank",
+            "location": "New York, NY",
+            "dates": "2011 - 2015",
+            "key_responsibilities": [
+                "Installed and configured SQL Server 2008 R2",
+                "2005",
+                "& 2000 for failover clusters.",
+                "Migrated SQL Server 2005 to 2008 R2 and 2012.",
+                "Administered and maintained SQL Server instances",
+                "including backup and recovery configurations."
+            ]
+        },
+        {
+            "job_title": "Database Administrator",
+            "company": "Deutsche Bank",
+            "location": "New York, NY",
+            "dates": "2011 - 2015",
+            "key_responsibilities": [
+                "Installed and configured SQL Server 2008 R2",
+                "2005",
+                "& 2000 for failover clusters.",
+                "Migrated SQL Server 2005 to 2008 R2 and 2012.",
+                "Administered and maintained SQL Server instances",
+                "including backup and recovery configurations."
+            ]
+        },
+        {
+            "job_title": "Database Administrator",
+            "company": "Deutsche Bank",
+            "location": "New York, NY",
+            "dates": "2011 - 2015",
+            "key_responsibilities": [
+                "Installed and configured SQL Server 2008 R2",
+                "2005",
+                "& 2000 for failover clusters.",
+                "Migrated SQL Server 2005 to 2008 R2 and 2012.",
+                "Administered and maintained SQL Server instances",
+                "including backup and recovery configurations."
+            ]
+        },
+        {
+            "job_title": "Database Administrator",
+            "company": "Deutsche Bank",
+            "location": "New York, NY",
+            "dates": "2011 - 2015",
+            "key_responsibilities": [
+                "Installed and configured SQL Server 2008 R2",
+                "2005",
+                "& 2000 for failover clusters.",
+                "Migrated SQL Server 2005 to 2008 R2 and 2012.",
+                "Administered and maintained SQL Server instances",
+                "including backup and recovery configurations."
+            ]
+        },
+        {
+            "job_title": "Database Administrator",
+            "company": "Deutsche Bank",
+            "location": "New York, NY",
+            "dates": "2011 - 2015",
+            "key_responsibilities": [
+                "Installed and configured SQL Server 2008 R2",
+                "2005",
+                "& 2000 for failover clusters.",
+                "Migrated SQL Server 2005 to 2008 R2 and 2012.",
+                "Administered and maintained SQL Server instances",
+                "including backup and recovery configurations."
+            ]
+        },
+        {
+            "job_title": "Database Administrator",
+            "company": "Deutsche Bank",
+            "location": "New York, NY",
+            "dates": "2011 - 2015",
+            "key_responsibilities": [
+                "Installed and configured SQL Server 2008 R2",
+                "2005",
+                "& 2000 for failover clusters.",
+                "Migrated SQL Server 2005 to 2008 R2 and 2012.",
+                "Administered and maintained SQL Server instances",
+                "including backup and recovery configurations."
+            ]
+        }
+    ],
+    "education": [],
+    "skills": {
+        "technical_skills": [
+            "DBA\",\n            \"SQL Server\",\n            \"T-SQL\",\n            \"Disaster Recovery\",\n            \"Performance Tuning\",\n            \"Backup Strategies\",\n            \"Migrations\",\n            \"Failover Clusters"
+        ],
+        "tools_and_software": [
+            "Microsoft SQL Server\",\n            \"Oracle\",\n            \"Linux\",\n            \"JAMS (Job Activity Management System)\",\n            \"Thinkfolio\",\n            \"EDM (Enterprise Data Management)"
+        ]
+    },
+    "additional_information": {
+        "certifications": [
+            "Microsoft Certified: SQL Server 2008 R2\",\n            \"Red Hat Certified: Linux"
+        ],
+        "languages": [
+            "English"
+        ],
+        "achievements": "N/A"
+    }
+}

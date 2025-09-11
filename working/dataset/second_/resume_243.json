@@ -1,0 +1,53 @@
+{
+    "personal_information": {
+        "name": "John Doe",
+        "location": "Manchester, NH"
+    },
+    "professional_summary": "Experienced Data Processing Caging Support Specialist with expertise in data analysis, database management, and workflow configuration.",
+    "work_experience": [
+        {
+            "job_title": "Data Processing Caging Support Specialist",
+            "company": "Pep Direct - Wilton, NH",
+            "location": "Manchester, NH",
+            "dates": "2007 to 2014",
+            "key_responsibilities": [
+                "Analyzing and converting client data for caging database import/export.",
+                "Developing daily output files in customer-specific formats.",
+                "Verifying file structures",
+                "record layouts",
+                "and manipulating data."
+            ]
+        },
+        {
+            "job_title": "Database Manager",
+            "company": "Easter Seals of New Hampshire - Manchester, NH",
+            "location": "Manchester, NH",
+            "dates": "1990 to 2007",
+            "key_responsibilities": [
+                "Handling incoming donations and coding for appropriate fund/donor.",
+                "Creating reports for auditing and accounting purposes.",
+                "Administering database access training and maintaining security."
+            ]
+        }
+    ],
+    "education": [],
+    "skills": {
+        "technical_skills": [
+            "Data Entry",
+            "Excel",
+            "MS Office",
+            "Razors Edge",
+            "Prosper9",
+            "Crystal Reports",
+            "Medical Manager"
+        ],
+        "tools_and_software": [
+            ""
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "personal_information": {
+        "name": "Extracted Name",
+        "location": "Mumbai, India"
+    },
+    "professional_summary": "Database Administrator with expertise in Oracle databases and OLTP systems, experienced in database maintenance, disaster recovery, and high-availability management.",
+    "work_experience": [
+        {
+            "job_title": "Database Administrator",
+            "company": "Extracted Company Name",
+            "location": "Mumbai, India",
+            "dates": "2012 - 2023",
+            "key_responsibilities": [
+                "Database maintenance and optimization for OLTP and Data Warehouse systems.",
+                "Implementation of disaster recovery and high-availability solutions using RAC and ASM.",
+                "Security management and compliance with database security policies."
+            ]
+        },
+        {
+            "job_title": "Database Administrator",
+            "company": "Extracted Company Name",
+            "location": "Mumbai, India",
+            "dates": "2008 - 2011",
+            "key_responsibilities": [
+                "Performance tuning and problem resolution using AWR and ADDM.",
+                "Implementation of partitioning techniques for large datasets.",
+                "Management of database backups and recovery processes."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor's",
+            "institution": "Extracted University Name",
+            "year_of_completion": "Extracted Year"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "OLTP Systems\",\n            \"Data Warehouse Management\",\n            \"Oracle Databases (12c/11g/10g/9i/8i)\",\n            \"Database Administration\",\n            \"Disaster Recovery Planning\",\n            \"High-Availability Management\",\n            \"RAC, ASM, CRS Cluster\",\n            \"Data Guard\",\n            \"Shell Scripting"
+        ],
+        "tools_and_software": [
+            "TOAD 10.1\",\n            \"EulerScript\",\n            \"Oracle Grid Control (12c)\",\n            \"Data Pump\",\n            \"Export/Import Tools\",\n            \"SQL Loader\",\n            \"RMAN\",\n            \"DBNEWID, DBNEWID2\",\n            \"AWR, ADDM"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

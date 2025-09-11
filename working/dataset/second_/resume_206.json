@@ -1,0 +1,76 @@
+{
+    "personal_information": {
+        "name": "Database Administrator",
+        "location": "Silver Spring, MD"
+    },
+    "professional_summary": "Experienced Database Administrator with expertise in MS SQL Server administration, database migration, and performance tuning. IT Assistant background in supporting computer lab infrastructure and providing technical assistance.",
+    "work_experience": [
+        {
+            "job_title": "Database Administrator",
+            "company": "Roots Data Systems",
+            "location": "Silver Spring, MD",
+            "dates": "June 2017 - Present",
+            "key_responsibilities": [
+                "Planned",
+                "installed",
+                "and configured MS SQL Server 2014.",
+                "Migrated data from MS SQL Server 2008r2 to MS SQL Server 2014 using side-by-side mirroring.",
+                "Created and enhanced databases and schema objects such as tables",
+                "views",
+                "and procedures.",
+                "Maintained referential integrity of databases.",
+                "Monitored",
+                "performance tuned",
+                "backed up",
+                "and restored databases via point-in-time and point-in-failure solutions.",
+                "Controlled privileges and permissions to databases by way of principle of least privileges."
+            ]
+        },
+        {
+            "job_title": "IT Assistant",
+            "company": "Morgan State University",
+            "location": "Silver Spring, MD",
+            "dates": "September 2015 - March 2017",
+            "key_responsibilities": [
+                "Oversaw technical integrity of computer lab's infrastructure to ensure optimal performance.",
+                "Analyzed",
+                "upgraded",
+                "and maintained computer software and hardware",
+                "copiers",
+                "and fax machines.",
+                "Supported students with questions and procedural instructions for use and operation of computers."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Arts in Philosophy",
+            "institution": "Morgan State University",
+            "year_of_completion": "2017"
+        },
+        {
+            "degree": "Pre-Law in Philosophy",
+            "institution": "Morgan State University",
+            "year_of_completion": "2017"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "Database",
+            "Database design",
+            "Mysql",
+            "Postgresql",
+            "Sql",
+            "Python",
+            "Excel"
+        ],
+        "tools_and_software": [
+            ""
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

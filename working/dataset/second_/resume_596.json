@@ -1,0 +1,70 @@
+{
+    "personal_information": {
+        "name": "Database Administrator",
+        "location": "Salt Lake City, UT"
+    },
+    "professional_summary": "Experienced Database Administrator with expertise in database management, server migration, and system support. Skilled in Linux environments, Active Directory, and troubleshooting.",
+    "work_experience": [
+        {
+            "job_title": "Database Administrator",
+            "company": "St Luke's Health System - Boise, ID",
+            "location": "Boise, ID",
+            "dates": "March 2018 - July 2019",
+            "key_responsibilities": [
+                "Performs server-wide operating system migration from AIX to RHEL.",
+                "Installs",
+                "upgrades",
+                "patches",
+                "and configures Cach� and Epic databases with proper documentation.",
+                "Monitors and troubleshoots unusual system behavior and performance."
+            ]
+        },
+        {
+            "job_title": "System Administrator/Computer Technician",
+            "company": "Utah State University - Logan, UT",
+            "location": "Logan, UT",
+            "dates": "June 2015 - April 2018",
+            "key_responsibilities": [
+                "Overhauls and manages 6 Windows computer labs with group policies.",
+                "Operates an SSSD server for 40 VLSI CentOS computers.",
+                "Consolidates 10 years of documentation into an accessible location."
+            ]
+        },
+        {
+            "job_title": "Infrastructure Representative",
+            "company": "CRI Advantage",
+            "location": "",
+            "dates": "June 2014 - June 2015",
+            "key_responsibilities": [
+                "Assesses network vulnerability threats for research facilities.",
+                "Coordinates with networking teams for IP addresses and MAC address assignments.",
+                "Repairs desktops and laptops while ensuring security compliance."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "BS in Information Technology",
+            "institution": "Western Governors University",
+            "year_of_completion": "Present"
+        },
+        {
+            "degree": "Certificate in Computer Science",
+            "institution": "Eastern Idaho Technical College",
+            "year_of_completion": "December 2013"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "Desktop Support\",\n            \"Active Directory\",\n            \"Service Desk\",\n            \"Help Desk\",\n            \"MAC\",\n            \"DBA"
+        ],
+        "tools_and_software": [
+            "Cach�\",\n            \"Epic\",\n            \"CentOS\",\n            \"Windows\",\n            \"SSSD\",\n            \"NFS\",\n            \"Licensing\",\n            \"Web Hosting\",\n            \"Virtual Windows Servers\",\n            \"Linux\",\n            \"AIX\",\n            \"RHEL\",\n            \"Epic systems"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

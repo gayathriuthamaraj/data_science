@@ -1,0 +1,72 @@
+{
+    "personal_information": {
+        "name": "Cassidy Helmken",
+        "location": "New York, NY"
+    },
+    "professional_summary": "Experienced Marketing Strategist and Salesforce Administrator with expertise in email marketing, digital marketing strategies, and data management.",
+    "work_experience": [
+        {
+            "job_title": "Email Marketing Campaign Administration & Salesforce Administrator & Marketing Strategist",
+            "company": "FREELANCE",
+            "location": "New York, NY",
+            "dates": "2015 to Present",
+            "key_responsibilities": [
+                "Developed end-to-end Salesforce org designs and configurations including data maps",
+                "workflows",
+                "validation rules",
+                "and integrations.",
+                "Created comprehensive user training programs and documentation.",
+                "Implemented Pardot",
+                "Marketing Cloud",
+                "and HubSpot for email marketing campaigns.",
+                "Managed lead nurturing campaigns using buyer personas and customer journeys."
+            ]
+        },
+        {
+            "job_title": "National Marketing Database Administrator",
+            "company": "The Segal Group",
+            "location": "New York, NY",
+            "dates": "2011 to 2015",
+            "key_responsibilities": [
+                "Implemented Salesforce Sales Cloud and Pardot.",
+                "Managed CRM and marketing platforms for weekly email campaigns.",
+                "Directed Win/Loss Analytics programs.",
+                "Performed data cleaning and analysis using SQL and MS Excel."
+            ]
+        },
+        {
+            "job_title": "Product Specialist",
+            "company": "Verisk Analytics",
+            "location": "New York, NY",
+            "dates": "2011",
+            "key_responsibilities": [
+                "Monitored Section 111 queries and analyzed claims data.",
+                "Used SQL and MS Excel for data analysis."
+            ]
+        },
+        {
+            "job_title": "Marketing Data Resource Manager",
+            "company": "Target 250 Inc",
+            "location": "New York, NY",
+            "dates": "2009 to 2011",
+            "key_responsibilities": [
+                "Managed international staff for data quality standards.",
+                "Utilized SQL Server for data cleaning and analysis."
+            ]
+        }
+    ],
+    "education": [],
+    "skills": {
+        "technical_skills": [
+            "Email Marketing\",\n            \"Digital Marketing Strategies\",\n            \"Salesforce Administration\",\n            \"Data Management\",\n            \"SQL\",\n            \"Microsoft Excel\",\n            \"A/B Testing\",\n            \"Multichannel Marketing\",\n            \"Project Management"
+        ],
+        "tools_and_software": [
+            "Pardot\",\n            \"Marketing Cloud\",\n            \"HubSpot\",\n            \"SQL Server\",\n            \"Microsoft Excel"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

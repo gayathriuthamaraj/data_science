@@ -1,0 +1,62 @@
+{
+    "personal_information": {
+        "name": "Database Administrator",
+        "location": "South Plainfield, NJ"
+    },
+    "professional_summary": "A technology-oriented professional with over 4 years of experience in Oracle Database Administration in the Telecommunications sector at AT&T. Expertise in production support, change management, troubleshooting, and collaboration with an international multicultural team. Authorized to work in the US.",
+    "work_experience": [
+        {
+            "job_title": "Database Administrator",
+            "company": "Amdocs DVCI",
+            "location": "South Plainfield, NJ",
+            "dates": "April 2014 - July 2017",
+            "key_responsibilities": [
+                "Designing and maintaining Oracle databases for AT&T ensuring 24/7 availability and high performance.",
+                "Analyzing project requirements and performing data analysis to develop database solutions.",
+                "Developing performance solutions like indexes",
+                "partitions",
+                "views",
+                "and stored procedures for efficient data access."
+            ]
+        },
+        {
+            "job_title": "Database Administrator",
+            "company": "Pansoft Data Solutions Pvt. Ltd",
+            "location": "India (Toyota, Algeria)",
+            "dates": "January 2013 - April 2014",
+            "key_responsibilities": [
+                "Analyzing market and customer data to design new database structures and indexes.",
+                "Performing DBA activities including datapump",
+                "backup & recovery",
+                "user management",
+                "and security controls.",
+                "Configuring Oracle networking (Listener and TNS)",
+                "setting up test environments",
+                "and supporting system version upgrades."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Engineering",
+            "institution": "Rajiv Gandhi Technical University - Bhopal, Madhya Pradesh",
+            "year_of_completion": "2012"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "Oracle (4 years)",
+            "SQL (3 years)",
+            "UNIX (3 years)",
+            "e-business"
+        ],
+        "tools_and_software": [
+            "SQL\",\n            \"SQL*Plus\",\n            \"Data Pump (expdp/impdp)\",\n            \"RMAN\",\n            \"DBCA\",\n            \"NETCA\",\n            \"DBNEWID\",\n            \"TOAD\",\n            \"Winscp\",\n            \"Putty\",\n            \"Microsoft Office\",\n            \"SQL-Loader"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

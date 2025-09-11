@@ -1,0 +1,76 @@
+{
+    "personal_information": {
+        "name": "Oracle Database Administrator",
+        "location": "Rosedale, MD"
+    },
+    "professional_summary": "Accomplished Oracle Database Administrator (DBA) with expertise in data security, performance tuning, crisis management, and high availability. Uses the latest Oracle database technologies to increase reliability, maximize productivity, and introduce system efficiencies supporting next-generation database solutions in Oracle Database Enterprise.",
+    "work_experience": [
+        {
+            "job_title": "Oracle Database Administrator",
+            "company": "TeyeMatics Inc",
+            "location": "Baltimore, MD",
+            "dates": "September 2017 to Present",
+            "key_responsibilities": [
+                "Support a larger production database and play a supporting-lead role in enterprise-wide database optimization and instance and resource monitoring.",
+                "Perform root cause analysis on failures and resolve performance tuning-related issues",
+                "reports",
+                "and queries.",
+                "Work actively on 11g and 12c features such as AWR",
+                "ADDM",
+                "and ASH for performance statistics collection and fine-tuning database wait events.",
+                "Provide on-call support for enterprise databases.",
+                "Migrate an eleven-terabyte production database from 11gR2 stand-alone to a 2-node RAC on 12c.",
+                "Started and managed biweekly optimization meetings with enterprise user groups to address and resolve performance-related issues with high success rates.",
+                "Installed 11.2.0.4 and upgraded databases from 11.2.0.3 to 11.2.0.4.",
+                "Performed Schema",
+                "Table",
+                "Database refresh using DataPump utility.",
+                "Improved performance in daily transactions by identifying and reorganizing indexes on major tables.",
+                "Performed database migrations and optimizations."
+            ]
+        },
+        {
+            "job_title": "Oracle Database Administrator",
+            "company": "Fanakel Business Solutions",
+            "location": "Extracted Location",
+            "dates": "August 2015 - June 2016",
+            "key_responsibilities": [
+                "Administered and optimized Oracle databases to support business operations.",
+                "Monitored database performance and proactively resolved issues to ensure high availability and reliability.",
+                "Collaborated with IT teams to develop and implement database solutions for new applications and systems.",
+                "Performed regular backups",
+                "restores",
+                "and archiving of critical data.",
+                "Managed user access and permissions to maintain security and compliance standards."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Technology",
+            "institution": "Federal University of Technology",
+            "year_of_completion": "2010"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "PL/SQL",
+            "SQL",
+            "RMAN",
+            "Shell Scripting",
+            "Database Administration",
+            "High Availability Solutions"
+        ],
+        "tools_and_software": [
+            "SQL*Plus",
+            "EM Grid Control",
+            "TOAD",
+            "Oracle Database 11g/12c"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

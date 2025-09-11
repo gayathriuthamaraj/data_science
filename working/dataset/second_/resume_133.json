@@ -1,0 +1,52 @@
+{
+    "personal_information": {
+        "name": "Extracted Name",
+        "location": "Danbury, CT"
+    },
+    "professional_summary": "Focused, dependable team-player with 5 + years' experience seeking Database Administrator and/or IT Project Manager position. Possesses exceptional analytical skills.",
+    "work_experience": [
+        {
+            "job_title": "Business Manager/Purchasing Coordinator",
+            "company": "",
+            "location": "Danbury, CT",
+            "dates": "March 2017 - Present",
+            "key_responsibilities": [
+                "Personnel management and payroll management",
+                "Creating purchase orders and invoice creation and follow-through",
+                "Monitoring internal and economic trends for forecasting"
+            ]
+        },
+        {
+            "job_title": "Database Administrator",
+            "company": "Kenny's Carpet One",
+            "location": "Carmel, NY",
+            "dates": "March 2015 - Present",
+            "key_responsibilities": [
+                "Building and maintaining an in-house data server running SQL Standard 2014",
+                "Setting up",
+                "maintaining",
+                "and monitoring database backups",
+                "Deploying SQL scripts",
+                "data imports",
+                "data manipulation",
+                "and data migrations"
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science in Information Technologies in Cybersecurity",
+            "institution": "Southern New Hampshire University",
+            "year_of_completion": "2019"
+        }
+    ],
+    "skills": {
+        "technical_skills": [],
+        "tools_and_software": []
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

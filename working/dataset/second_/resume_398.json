@@ -1,0 +1,84 @@
+{
+    "personal_information": {
+        "name": "Database Administrator I",
+        "location": "Panama City, FL"
+    },
+    "professional_summary": "Experienced Database Administrator with expertise in designing databases, creating SQL & PL/SQL scripts, and managing database environments. Skilled in various tools and software, with a strong background in customer service and analytics.",
+    "work_experience": [
+        {
+            "job_title": "Database Administrator I",
+            "company": "CACI - Panama City, FL",
+            "location": "Panama City, FL",
+            "dates": "April 2015 to Present",
+            "key_responsibilities": [
+                "Assists in the design and definition of basic databases",
+                "access methods",
+                "and access times.",
+                "Creates SQL & PL/SQL scripts to meet new development needs.",
+                "Performs management tasks such as cloning",
+                "importing",
+                "deleting",
+                "upgrading",
+                "etc."
+            ]
+        },
+        {
+            "job_title": "Database Administrator",
+            "company": "TEKSystems - Panama City, FL",
+            "location": "Panama City, FL",
+            "dates": "October 2014 to April 2015",
+            "key_responsibilities": [
+                "Assisted in the design and management of databases.",
+                "Created SQL & PL/SQL scripts for development needs."
+            ]
+        },
+        {
+            "job_title": "Customer Service Representative",
+            "company": "Don Hood Insurance - Panama City, FL",
+            "location": "Panama City, FL",
+            "dates": "February 2013 to October 2014",
+            "key_responsibilities": [
+                "Assisted with policy endorsements",
+                "new business quotes",
+                "and account maintenance.",
+                "Monitored website analytics and performed necessary maintenance."
+            ]
+        },
+        {
+            "job_title": "Statistical Quality and Unified Analytics",
+            "company": "Sprint - Panama City, FL",
+            "location": "Panama City, FL",
+            "dates": "2010 to 2012",
+            "key_responsibilities": [
+                "Monitored and graded calls from multiple lines of business.",
+                "Provided feedback for coaching/training opportunities.",
+                "Conducted root cause analysis using data analysis and reporting."
+            ]
+        },
+        {
+            "job_title": "Premier Care Management",
+            "company": "Sprint - Panama City, FL",
+            "location": "Panama City, FL",
+            "dates": "October 2007 to 2010",
+            "key_responsibilities": [
+                "Resolved customer concerns regarding billing and technical support.",
+                "Provided floor support and handled specialist questions.",
+                "Assisted in increasing center morale and productivity."
+            ]
+        }
+    ],
+    "education": [],
+    "skills": {
+        "technical_skills": [
+            "Microsoft Office (over 10 years)\",\n            \"Oracle SQL, PL/SQL (2 years each)\",\n            \"MySQL (1 year)\",\n            \"PHP (1 year)\",\n            \"Toad (2 years)\",\n            \"Linux (1 year)"
+        ],
+        "tools_and_software": [
+            "Database Management Systems\",\n            \"Programming Languages (SQL, PL/SQL, PHP)\",\n            \"Tools and Software: Toad, Linux"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

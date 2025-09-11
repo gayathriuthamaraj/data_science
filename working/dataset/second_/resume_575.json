@@ -1,0 +1,74 @@
+{
+    "personal_information": {
+        "name": "Extracted Name",
+        "location": "Newton, MA"
+    },
+    "professional_summary": "Senior Database Administrator/Developer with expertise in SQL Server, TSQL, Tableau, and data automation. Experienced in supporting large-scale database operations and improving workflow efficiency through innovative solutions.",
+    "work_experience": [
+        {
+            "job_title": "Senior Database Administrator/Developer",
+            "company": "EMC",
+            "location": "Newton, MA",
+            "dates": "April 2018 - Present",
+            "key_responsibilities": [
+                "Supported more than 50 representatives with database backups",
+                "software development",
+                "data modeling",
+                "support",
+                "and implementation.",
+                "Created a \"go to\" Tableau reporting display for sales",
+                "including month-to-date and year-to-date reports using TSQL and SQL Server.",
+                "Automated partner adjustments process",
+                "saving 6 accountants many months of work."
+            ]
+        },
+        {
+            "job_title": "Software Engineer",
+            "company": "Fidelity Investments",
+            "location": "Boston, MA",
+            "dates": "February 2014 - March 2016",
+            "key_responsibilities": [
+                "Converted data for analysis by Mutual Funds Department's mainframe computer using PL/SQL",
+                "netting the company over $5 million.",
+                "Created an automated 'spreadsheet crawler' reading thousands of spreadsheets and converting retirement analytics to a database environment.",
+                "Automated the tax withholding process."
+            ]
+        },
+        {
+            "job_title": "Data Architect and Data Analyst",
+            "company": "John Hancock Financial Services",
+            "location": "Boston, MA",
+            "dates": "Unknown - Unknown",
+            "key_responsibilities": [
+                "Developed data strategies and architectures to support business operations.",
+                "Performed data analysis and visualization using Tableau."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science in Electrical Engineering",
+            "institution": "Tufts University",
+            "year_of_completion": "Unknown"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "SQL Server",
+            "TSQL",
+            "Tableau",
+            "SSIS (SQL Server Integration Services)",
+            "PL/SQL"
+        ],
+        "tools_and_software": [
+            "Visual Studio",
+            "C#",
+            "Python"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

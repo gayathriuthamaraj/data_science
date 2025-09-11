@@ -1,0 +1,75 @@
+{
+    "personal_information": {
+        "name": "Extracted Name",
+        "location": "Middle River, MD and Nairobi, KE"
+    },
+    "professional_summary": "Database Administrator with expertise in SQL Server administration, performance tuning, and data security.",
+    "work_experience": [
+        {
+            "job_title": "Database Administrator (SQL)",
+            "company": "Baltimore Police Department",
+            "location": "Baltimore, MD",
+            "dates": "December 2015 - Present",
+            "key_responsibilities": [
+                "User Management (logins and permissions)",
+                "Database Migration and bulk uploads",
+                "Ensuring SQL server patches are up-to-date",
+                "Troubleshooting performance issues and fine-tuning databases",
+                "24x7 production support for SQL databases and connection issues",
+                "Monitoring deadlocks and responding to queries causing blocks",
+                "Monitoring database performance",
+                "space utilization",
+                "and hardware check",
+                "Implementing Always-ON Availability Group on SQL Server",
+                "Designing backup and recovery plans (RTO and RPO)",
+                "Administering data resources and ensuring high availability",
+                "integrity",
+                "and security",
+                "Planning and implementing capacity expansion for database scalability",
+                "Developing automated database applications using SSIS"
+            ]
+        },
+        {
+            "job_title": "Junior Database Administrator",
+            "company": "Flemingo International",
+            "location": "Nairobi, KE",
+            "dates": "April 2012 - May 2015",
+            "key_responsibilities": [
+                "Monitoring SQL Server health using Windows Performance Monitor",
+                "Working with Query Analyzer and Profiler to tune queries",
+                "Rebuilding indexes for better performance",
+                "Designing and implementing comprehensive backup and disaster recovery strategies",
+                "Installing SQL Server patches and upgrades",
+                "Assisting with application rollouts",
+                "server migrations",
+                "and maintenance",
+                "Solving user issues raised by the support team",
+                "Ensuring server security (user logins",
+                "roles",
+                "and antivirus checks)",
+                "Performing basic ETL processes using SSIS",
+                "Assisting in SQL Server 2005 to 2008 migration"
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "BS in Computer Science",
+            "institution": "Maseno University",
+            "year_of_completion": "2008"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "Database Administration (SQL)\",\n            \"Performance Monitoring and Tuning\",\n            \"Query Analysis and Optimization\",\n            \"Database Migration and Backup\",\n            \"SSIS for ETL Processes\",\n            \"Network Technologies (TCP/IP, UDP, STP, VLAN, Frame Relay, VPN)"
+        ],
+        "tools_and_software": [
+            "SQL Server 2005, 2008, 2012\",\n            \"Windows 7 and 8\",\n            \"Microsoft OS (Servers 2008 & 2012)\",\n            \"SSIS\",\n            \"Query Analyzer, Profiler\",\n            \"Windows Performance Monitor"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "personal_information": {
+        "name": "Extracted Name",
+        "location": "Extracted Location"
+    },
+    "professional_summary": "Experienced Database Administrator with expertise in DB2, SQL, and UNIX/Linux systems. Skilled in database administration, performance tuning, high availability configurations, and data warehouse operations.",
+    "work_experience": [
+        {
+            "job_title": "Database Administrator",
+            "company": "TCC Software Solutions",
+            "location": "Indianapolis, IN",
+            "dates": "May 2013 - July 2015",
+            "key_responsibilities": [
+                "Administered DB2 databases on AIX and Windows platforms.",
+                "Configured high availability solutions using HADR.",
+                "Performed security architecture reviews and SQL tuning.",
+                "Monitored and optimized database performance using tools like Quest Central and Spotlight."
+            ]
+        },
+        {
+            "job_title": "Database Administrator",
+            "company": "TCC Software Solutions",
+            "location": "Indianapolis, IN",
+            "dates": "May 2013 - July 2015",
+            "key_responsibilities": [
+                "Installed and upgraded DB2 clients on servers and workstations.",
+                "Configured ODBC data sources for client access.",
+                "Recovered databases using restore",
+                "roll-forward",
+                "and redirect techniques."
+            ]
+        },
+        {
+            "job_title": "Database Administrator",
+            "company": "TCC Software Solutions",
+            "location": "Indianapolis, IN",
+            "dates": "May 2013 - July 2015",
+            "key_responsibilities": [
+                "Migrated multi-terabyte databases to current versions of DB2.",
+                "Performed regular maintenance activities such as REORG and RUNSTATS.",
+                "Improved database performance by implementing table partitioning and DPF."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor's",
+            "institution": "Extracted University Name",
+            "year_of_completion": "Year"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "Databases",
+            "DB2",
+            "SQL",
+            "UNIX/Linux",
+            "Performance Tuning",
+            "High Availability"
+        ],
+        "tools_and_software": [
+            "Erwin",
+            "Quest Central",
+            "Toad",
+            "IBM Data Studio",
+            "Foglight"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

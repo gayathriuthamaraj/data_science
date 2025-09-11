@@ -1,0 +1,63 @@
+{
+    "personal_information": {
+        "name": "Extracted Name",
+        "location": "Extracted Location"
+    },
+    "professional_summary": "Experienced Database Administrator with expertise in Oracle databases, RMAN, SQL tuning, disaster recovery, and high-availability solutions. Proven track record in database migrations, physical/Logical Standby implementation, and TTS for data refreshes.",
+    "work_experience": [
+        {
+            "job_title": "Database Administrator",
+            "company": "FinishLine, Inc - Indianapolis, IN, US",
+            "location": "Indianapolis, IN",
+            "dates": "March 2013 - April 2016",
+            "key_responsibilities": [
+                "Cloned/Migrated databases using RMAN and Datapump export/import utilities in Oracle 10gR2.",
+                "Implemented recovery strategies and successfully recovered databases post-crash/media/disk failures using RMAN.",
+                "Scheduled physical backups (hot & cold) in CRON tab using RMAN and monitored scheduled jobs."
+            ]
+        },
+        {
+            "job_title": "Oracle Production Support Database Administrator",
+            "company": "FINISHLINE, Inc - Indianapolis, IN, US",
+            "location": "Indianapolis, IN",
+            "dates": "March 2013 - April 2016",
+            "key_responsibilities": [
+                "Provided 24X7 support for production and development databases.",
+                "Created users",
+                "groups",
+                "roles",
+                "profiles",
+                "and assigned privileges to relevant groups.",
+                "Used SQL TRACE",
+                "TKPROF",
+                "EXPLAIN to tune database performance."
+            ]
+        },
+        {
+            "job_title": "Database Administrator",
+            "company": "Extracted Company Name - Extracted Location",
+            "location": "Extracted Location",
+            "dates": "Extracted Dates",
+            "key_responsibilities": [
+                "Designed and implemented high-availability solutions for Oracle RAC.",
+                "Installed and configured Oracle RAC",
+                "ASM",
+                "CRS",
+                "and GoldenGate solutions.",
+                "Managed schema creation",
+                "user privileges",
+                "and data archiving processes."
+            ]
+        }
+    ],
+    "education": [],
+    "skills": {
+        "technical_skills": [],
+        "tools_and_software": []
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

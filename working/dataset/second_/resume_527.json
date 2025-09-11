@@ -1,0 +1,55 @@
+{
+    "personal_information": {
+        "name": "Extracted Name",
+        "location": "Round Rock, TX"
+    },
+    "professional_summary": "Experienced Oracle and Microsoft SQL Server Database Administrator with expertise in RAC, Data Guard, and database mirroring. Seeking a DBA role in Texas.",
+    "work_experience": [
+        {
+            "job_title": "Oracle Database Administrator",
+            "company": "General Motors",
+            "location": "Austin, TX",
+            "dates": "August 2015 - Present",
+            "key_responsibilities": [
+                "Administering Oracle RAC and Data Guard solutions.",
+                "Performing daily database backups and recovery processes.",
+                "Monitoring and optimizing database performance."
+            ]
+        },
+        {
+            "job_title": "Microsoft SQL Server Database Administrator",
+            "company": "iTalkBB",
+            "location": "Austin, TX",
+            "dates": "February 2012 - July 2015",
+            "key_responsibilities": [
+                "Setting up and maintaining Microsoft SQL Server databases.",
+                "Implementing database mirroring and log shipping solutions.",
+                "Troubleshooting SQL Server issues and optimizing performance."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor's in Information Technology",
+            "institution": "Punjab Technical University",
+            "year_of_completion": "2011"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "Oracle Database Administration",
+            "Microsoft SQL Server Administration",
+            "Database Mirroring"
+        ],
+        "tools_and_software": [
+            "RAC",
+            "Data Guard",
+            "SQL Server Profiler"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

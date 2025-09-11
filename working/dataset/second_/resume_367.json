@@ -1,0 +1,57 @@
+{
+    "personal_information": {
+        "name": "Paulie2228",
+        "location": "Portland, ME"
+    },
+    "professional_summary": "IT Specialist II with expertise in cybersecurity, network security, policy compliance, project management, and performing vulnerability scanning and threat assessments. Skilled in using tools such as IDS/IPS (OSSIM, IPOST), Kali, Parrot, SELinux, RedHat, CentOS, Metasploit Console, etc.",
+    "work_experience": [
+        {
+            "job_title": "IT Specialist II",
+            "company": "University of South",
+            "location": "Buffalo, NY",
+            "dates": "December 2018 - Present",
+            "key_responsibilities": [
+                "Supervisor of Portland Card Office and responsible for all HR functions for 6 administrative specialists.",
+                "Identity and access management (IAM) for students",
+                "faculty",
+                "and staff",
+                "including system and access provisioning.",
+                "Information compliance with FERPA",
+                "HIPAA",
+                "PCI-DSS."
+            ]
+        },
+        {
+            "job_title": "Database Administrator",
+            "company": "Mayer Bros",
+            "location": "Portland, ME",
+            "dates": "September 2017 - April 2018",
+            "key_responsibilities": [
+                "Created lean manufacturing project team and managed backend database systems connected to ERP and CRM business applications.",
+                "Generated daily reports using SQL queries and managed vendors for all information systems.",
+                "Managed HRIS system and performed employee training."
+            ]
+        },
+        {
+            "job_title": "System Administrator",
+            "company": "Morphotrust USA",
+            "location": "Portland, ME",
+            "dates": "January 2016 - September 2017",
+            "key_responsibilities": [
+                "Monitored government facility systems via IDS system and used patch management tools to remotely monitor and update workstations and network devices.",
+                "Performed vulnerability and threat assessments following NIST framework guidelines.",
+                "Encrypted communication channels and data drives."
+            ]
+        }
+    ],
+    "education": [],
+    "skills": {
+        "technical_skills": [],
+        "tools_and_software": []
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

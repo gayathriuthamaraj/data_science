@@ -1,0 +1,69 @@
+{
+    "personal_information": {
+        "name": "Dxyadav1",
+        "location": "Little Rock, AR"
+    },
+    "professional_summary": "3 years of professional experience in database administration, data analysis, and IT support. Expertise in MS SQL Server/ETL development, ERP systems, data warehousing concepts, Power BI tools, and database management processes across various industries.",
+    "work_experience": [
+        {
+            "job_title": "Database Administrator Intern",
+            "company": "Protech Solutions Inc",
+            "location": "Little Rock, AR",
+            "dates": "July 2019 - Present",
+            "key_responsibilities": [
+                "Collaborating with development teams to implement and optimize database solutions.",
+                "Troubleshooting complex database issues and enhancing performance.",
+                "Utilizing monitoring tools to ensure system efficiency and security.",
+                "Administering production servers and maintaining database integrity."
+            ]
+        },
+        {
+            "job_title": "Data Analyst Intern",
+            "company": "Noetic Partners Inc",
+            "location": "Little Rock, AR",
+            "dates": "April 2019 - June 2019",
+            "key_responsibilities": [
+                "Developing and maintaining a reference data dictionary for organizational consistency.",
+                "Supporting business requirements analysis and data collection processes.",
+                "Analyzing financial market data to improve decision-making capabilities."
+            ]
+        },
+        {
+            "job_title": "Desktop Support Specialist",
+            "company": "IT Services UA Little Rock",
+            "location": "Little Rock, AR",
+            "dates": "December 2017 - December 2018",
+            "key_responsibilities": [
+                "Resolving client technical issues and providing tier-2 support.",
+                "Collaborating with vendor teams to resolve software and hardware problems.",
+                "Monitoring desktop infrastructure and ensuring system stability.",
+                "Evaluating and deploying new software patches for improved functionality."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Science in Information Quality",
+            "institution": "University of Arkansas at Little Rock",
+            "year_of_completion": "2018"
+        },
+        {
+            "degree": "Bachelor of Engineering in Information Technology",
+            "institution": "Uttar Pradesh Technical University",
+            "year_of_completion": "2013"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "SQL Server\",\n            \"ETL Tools\",\n            \"Power BI\",\n            \"Data Analysis\",\n            \"Database Administration\",\n            \"ERP Systems\",\n            \"Data Warehousing\",\n            \"SDLC Methodologies"
+        ],
+        "tools_and_software": [
+            "Power BI\",\n            \"Tableau\",\n            \"Jira\",\n            \"MySQL\",\n            \"Microsoft SQL Server\",\n            \"Linux/Unix"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

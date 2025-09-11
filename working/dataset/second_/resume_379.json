@@ -1,0 +1,33 @@
+{
+    "personal_information": {
+        "name": "Extracted Name",
+        "location": "Satellite Telecom"
+    },
+    "professional_summary": "Experienced Oracle DBA with expertise in disaster recovery, performance tuning, and RAC configuration. Skilled in MySQL troubleshooting, data integration, and AWS cloud services.",
+    "work_experience": [],
+    "education": [
+        {
+            "degree": "Master of Business Administration",
+            "institution": "Johnson & Wales University",
+            "year_of_completion": "2018"
+        },
+        {
+            "degree": "Bachelor of Technology in Information Technology",
+            "institution": "Sikkim Manipal University",
+            "year_of_completion": "2013"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "Oracle DBA\",\n            \"MySQL\",\n            \"SQL\",\n            \"PL/SQL\",\n            \"Linux\",\n            \"Disaster Recovery\",\n            \"RAC\",\n            \"Data Guard\",\n            \"Performance Tuning\",\n            \"Query Optimization\",\n            \"WebLogic Server\",\n            \"AWS\",\n            \"Data Architecture"
+        ],
+        "tools_and_software": [
+            "Shell Scripting\",\n            \"WebLogic Server Administration Console\",\n            \"Oracle Enterprise Manager Grid Control (OEM 12c)\",\n            \"RMAN\",\n            \"SQL Trace\",\n            \"TKPROF\",\n            \"SQLT\",\n            \"AWS EC2\",\n            \"Amazon RDS\",\n            \"Amazon Aurora\",\n            \"Amazon DMS\",\n            \"Amazon EBS"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

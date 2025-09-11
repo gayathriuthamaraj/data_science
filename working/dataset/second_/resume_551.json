@@ -1,0 +1,71 @@
+{
+    "personal_information": {
+        "name": "Medical Leave of Absence",
+        "location": "Nashville, TN"
+    },
+    "professional_summary": "Expert in database administration, data analysis, and dashboard reporting with experience in lean process improvement, financial ERP systems, and advanced Excel techniques. Holds an MBA from the University of Kentucky and is certified as a Lean Six Sigma Green Belt.",
+    "work_experience": [
+        {
+            "job_title": "Medical Leave of Absence",
+            "company": "Self-Employed",
+            "location": "Nashville, TN",
+            "dates": "September 2016 - Present",
+            "key_responsibilities": [
+                "Volunteering weekly with Second Harvest Food Bank and Youth Villages",
+                "Providing Tableau data analysis and reporting",
+                "Microsoft SQL Server T-SQL programming and Microsoft Access VBA/SQL programming",
+                "Financial ERP system reporting (Intacct)",
+                "Advanced Excel experience: VBA programming",
+                "Pivot Tables",
+                "VLOOKUP",
+                "and other advanced formulas"
+            ]
+        },
+        {
+            "job_title": "Financial Business Analyst / Database Administrator",
+            "company": "Qualifacts Systems - Nashville, TN",
+            "location": "Nashville, TN",
+            "dates": "March 2014 - January 2016",
+            "key_responsibilities": [
+                "Salesforce.com administrator and Tableau data analysis and reporting",
+                "Healthcare data analysis: Analyzed $1.3 billion of healthcare claims data to develop marketing segmentation strategies",
+                "Email list management: Quarterly customer satisfaction survey email list (approx. 500 email addresses)",
+                "Oracle PL/SQL querying and reporting experience",
+                "Financial ERP reporting (Intacct)",
+                "Finance reporting database development using VBA and SQL programming for daily ETL from Intacct",
+                "Developed Microsoft SQL Server 2014 database to serve as a local data reporting warehouse",
+                "Used Tableau to build data visualization dashboards",
+                "Administrator of sales",
+                "finance",
+                "and support databases: Salesforce",
+                "Intacct",
+                "and Soffront",
+                "Lean Six Sigma Green Belt certification for process improvement",
+                "Leading cost savings in operations and process improvements"
+            ]
+        },
+        {
+            "job_title": "Supply Chain Analyst / Database Administrator",
+            "company": "Nissan North America - Smyrna, TN",
+            "location": "Smyrna, TN",
+            "dates": "2012 - 2014",
+            "key_responsibilities": [
+                "Database administration and optimization for supply chain systems",
+                "Data analysis using Tableau and SQL Server",
+                "Implementation of lean process improvements in operations",
+                "Cost savings through process re-engineering and efficiency gains",
+                " ERP system integration and data migration"
+            ]
+        }
+    ],
+    "education": [],
+    "skills": {
+        "technical_skills": [],
+        "tools_and_software": []
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

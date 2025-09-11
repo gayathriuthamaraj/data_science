@@ -1,0 +1,74 @@
+{
+    "personal_information": {
+        "name": "Marketing Business Analytics Specialist, Officer",
+        "location": "Pittsburgh, PA"
+    },
+    "professional_summary": "Experienced professional with expertise in marketing campaigns, business analytics, CRM administration, and sales support.",
+    "work_experience": [
+        {
+            "job_title": "Marketing Business Analytics Specialist, Officer",
+            "company": "PNC Financial Services Group",
+            "location": "Pittsburgh, PA",
+            "dates": "January 2015 to Present",
+            "key_responsibilities": [
+                "Conceives",
+                "coordinates",
+                "and schedules multiple marketing campaigns at once for a high-profile regional bank.",
+                "Identifies and manages associated risks to ensure alignment with the unit's risk appetite.",
+                "Maintains extensive knowledge of team capacity across two units within Marketing."
+            ]
+        },
+        {
+            "job_title": "Corp. Marketing Campaign Coordinator & Database Administrator",
+            "company": "Aerotech, Inc",
+            "location": "Pittsburgh, PA",
+            "dates": "2012 to 2015",
+            "key_responsibilities": [
+                "Conceives",
+                "coordinates",
+                "and executes multiple marketing campaigns at once (domestically and internationally) for a high-tech manufacturing company.",
+                "Works with product managers to define campaign objectives",
+                "scope",
+                "audience",
+                "deliverables",
+                "and timelines",
+                "and coordinate with other marketing team members.",
+                "Provides real-time and post-campaign ROI analytics to the executive team."
+            ]
+        },
+        {
+            "job_title": "Sales Administrator",
+            "company": "Aerotech, Inc",
+            "location": "Pittsburgh, PA",
+            "dates": "2011 to 2012",
+            "key_responsibilities": [
+                "Responsible for the complete administration of the sales order process."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master's in Organizational Leadership",
+            "institution": "Robert Morris University - Township of Moon, PA",
+            "year_of_completion": "2017"
+        },
+        {
+            "degree": "Bachelor's in Public Relations with a minor in Marketing",
+            "institution": "Slippery Rock University, PA",
+            "year_of_completion": "2010"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "CRM (SugarCRM, Salesforce)\",\n            \"Data Analysis Tools (SPSS, Tableau)\",\n            \"Project Management Software (Jira)\",\n            \"Collaboration Tools (Microsoft Office Suite, Slack)"
+        ],
+        "tools_and_software": [
+            "SugarCRM\",\n            \"Marketo\",\n            \"HubSpot\",\n            \"Maru/Matchbox\",\n            \"Google Ads\",\n            \"LinkedIn\",\n            \"Multi-channel marketing platforms"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

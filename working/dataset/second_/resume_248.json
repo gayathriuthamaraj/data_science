@@ -1,0 +1,90 @@
+{
+    "personal_information": {
+        "name": "Mohammed Minhajuddin",
+        "location": "Not specified"
+    },
+    "professional_summary": "Experienced professional with expertise in data analysis, database administration, and process optimization. Skilled in Oracle Database Administration, SQL, Python, Linux, and various tools and technologies.",
+    "work_experience": [
+        {
+            "job_title": "Database Administrator",
+            "company": "Oracle",
+            "location": "Not specified",
+            "dates": "January 2013 - September 2014",
+            "key_responsibilities": [
+                "Installation",
+                "configuration",
+                "and administration of Oracle 11g and 12c Enterprise Edition databases on Red Hat Linux.",
+                "Familiar with enabling and disabling constraints",
+                "configuring TNSNAMES.ORA and LISTENER.ORA",
+                "and diagnosing user connectivity issues related to TNS entries/service names and listener issues.",
+                "Managing user security by creating users and granting privileges",
+                "lock/unlock users",
+                "password resets",
+                "and drop user requests."
+            ]
+        },
+        {
+            "job_title": "Master's Student",
+            "company": "University of South Wales",
+            "location": "Not specified",
+            "dates": "January 2013 - September 2014",
+            "key_responsibilities": [
+                "Pursuing studies in Aeronautical Engineering."
+            ]
+        },
+        {
+            "job_title": "MBA Student",
+            "company": "Northwestern Polytechnic University",
+            "location": "Not specified",
+            "dates": "September 2015 - December 2016",
+            "key_responsibilities": [
+                "Pursuing studies in Business Administration."
+            ]
+        },
+        {
+            "job_title": "Database Administrator (Self-Employed)",
+            "company": "Self-Employed",
+            "location": "Not specified",
+            "dates": "January 2013 - Present",
+            "key_responsibilities": [
+                "Independent management of Oracle Database Administration tasks",
+                "including installation",
+                "configuration",
+                "and troubleshooting.",
+                "Experience with virtualization technologies like VMware",
+                "creating",
+                "managing",
+                "and administering virtual servers and clients.",
+                "Proficient in monitoring",
+                "updating",
+                "configuring",
+                "and troubleshooting VMware hosts and VMs."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "MBA",
+            "institution": "Northwestern Polytechnic University",
+            "year_of_completion": "2016"
+        },
+        {
+            "degree": "MS in Aeronautical Engineering",
+            "institution": "University of South Wales",
+            "year_of_completion": "2014"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "Data analysis\",\n            \"Database Administration\",\n            \"SQL\",\n            \"Python\",\n            \"Linux\",\n            \"Red Hat\",\n            \"Unix\",\n            \"Erwin\",\n            \"RMAN\",\n            \"Microsoft Office\",\n            \"Excel"
+        ],
+        "tools_and_software": [
+            "Oracle\",\n            \"Microsoft Access\",\n            \"Linux\",\n            \"Red Hat\",\n            \"Oracle Virtual Box\",\n            \"VMware\",\n            \" CentOS\",\n            \"TNSNAMES.ORA\",\n            \"LISTENER.ORA"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

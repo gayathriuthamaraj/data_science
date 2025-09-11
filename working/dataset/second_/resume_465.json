@@ -1,0 +1,53 @@
+{
+    "personal_information": {
+        "name": "Oracle Database Administrator",
+        "location": "Austin, TX"
+    },
+    "professional_summary": "Experienced Oracle Database Administrator with expertise in RAC, Data Guard, performance tuning, and database management. Proficient in designing, managing, and securing databases with a focus on optimizing system performance and availability.",
+    "work_experience": [
+        {
+            "job_title": "Oracle Database Administrator",
+            "company": "NFP - Austin, TX",
+            "location": "Austin, TX",
+            "dates": "May 2016 - Present",
+            "key_responsibilities": [
+                "Performance tuning using AWR and EXPLAIN PLAN for database optimization.",
+                "Database management including schema creation and tablespace organization.",
+                "RAC and Data Guard implementation to enhance high availability and disaster recovery."
+            ]
+        },
+        {
+            "job_title": "Oracle Database Administrator",
+            "company": "Tempus Resorts International - Orlando, FL",
+            "location": "Orlando, FL",
+            "dates": "June 2014 - April 2016",
+            "key_responsibilities": [
+                "Database installation and schema creation on Linux platforms.",
+                "Performance tuning with AWR",
+                "ADDM",
+                "and Explain Plan to improve query efficiency.",
+                "Implementation of backup strategies using RMAN for scheduled and recovery operations."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor's Degree",
+            "institution": "Makerere University Kampala",
+            "year_of_completion": ""
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "Oracle Database Administration\",\n            \"RAC and Data Guard Configuration\",\n            \"Performance Tuning\",\n            \"Database Optimization\",\n            \"Security Best Practices"
+        ],
+        "tools_and_software": [
+            "Linux and UNIX Systems\",\n            \"Solaris\",\n            \"Remedy System\",\n            \"OEM Grid Control\",\n            \"RMAN\",\n            \"Golden Gate\",\n            \"AWS\",\n            \"Data Pump"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "personal_information": {
+        "name": "John Doe",
+        "location": "Charlotte, NC"
+    },
+    "professional_summary": "Medical Lab Technician with expertise in psychiatric services, SQL database administration, and technical support.",
+    "work_experience": [
+        {
+            "job_title": "Medical Lab Technician",
+            "company": "Psychiatric Services of Carolina/Paradigm",
+            "location": "Charlotte, NC",
+            "dates": "April 2019 - Present",
+            "key_responsibilities": [
+                "Interact with patients seeking help for addictions or psychiatric needs",
+                "particularly those on the Suboxone/Subutex program.",
+                "Work with MD/NP/PA to determine patient suitability for continued screening.",
+                "Supervise patients during drug screens based on previous results."
+            ]
+        },
+        {
+            "job_title": "Junior SQL Database Administrator",
+            "company": "Remote Database Experts (RDX)",
+            "location": "Remote",
+            "dates": "May 2018 - November 2018",
+            "key_responsibilities": [
+                "Troubleshoot and resolve database and operating system issues.",
+                "Execute scripts using SQL and T-SQL.",
+                "Ensure customer satisfaction by addressing requests via phone and email."
+            ]
+        },
+        {
+            "job_title": "Technical Specialist",
+            "company": "Apple Inc",
+            "location": "Charlotte, NC",
+            "dates": "March 2017 - March 2018",
+            "key_responsibilities": [
+                "Reassure customers with diagnostics and potential solutions for iOS devices.",
+                "Train customers on effective device usage.",
+                "Collaborate with business owners to select appropriate devices."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Arts in Biology",
+            "institution": "University of North Carolina at Charlotte",
+            "year_of_completion": "August 2018"
+        },
+        {
+            "degree": "Associates of Arts",
+            "institution": "Johnston Community College",
+            "year_of_completion": "May 2014"
+        },
+        {
+            "degree": "H.S. Diploma",
+            "institution": "Johnston County Early College Academy",
+            "year_of_completion": "May 2014"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "SQL Server",
+            "SQL",
+            "iOS",
+            "Medisoft",
+            "Solarwinds"
+        ],
+        "tools_and_software": [
+            ""
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

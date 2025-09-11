@@ -1,0 +1,50 @@
+{
+    "personal_information": {
+        "name": "Extracted Name",
+        "location": "Extracted Location"
+    },
+    "professional_summary": "Proven experience in database administration, with expertise in performance tuning, backup/recovery strategies, and cross-platform data transport. Skilled in Oracle databases (10g, 11g, 12c) and various administrative tasks.",
+    "work_experience": [
+        {
+            "job_title": "Database Administrator",
+            "company": "Extracted Company Name",
+            "location": "Extracted Location",
+            "dates": "Start Date - End Date",
+            "key_responsibilities": [
+                "Administering Oracle databases (10g",
+                "11g",
+                "12c)",
+                "Implementing performance tuning using AWR",
+                "ADDM",
+                "and TKPROF",
+                "Designing and implementing backup and recovery strategies using RMAN and DataPump"
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Extracted Degree",
+            "institution": "Extracted University Name",
+            "year_of_completion": "Year"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "Oracle Database Administration",
+            "Performance Tuning",
+            "Backup/Recovery Strategies"
+        ],
+        "tools_and_software": [
+            "SQL*Plus",
+            "Oracle Enterprise Manager",
+            "TKPROF",
+            "EXPLAIN PLAN",
+            "STATSPACK"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

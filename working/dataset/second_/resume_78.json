@@ -1,0 +1,63 @@
+{
+    "personal_information": {
+        "name": "Extracted Name",
+        "location": "Maryland"
+    },
+    "professional_summary": "Experienced SQL Server Database Administrator with expertise in database management, high availability, disaster recovery, and virtualization. Skilled in SSIS, RAC, transactional replication, and SAN storage management.",
+    "work_experience": [
+        {
+            "job_title": "Lead SQL Server Administrator",
+            "company": "Maryland Health Care",
+            "location": "Maryland",
+            "dates": "2017 - 2023",
+            "key_responsibilities": [
+                "Managing SQL Server instances and ensuring high availability.",
+                "Implementing disaster recovery solutions using native and Quest Litespeed SQL backup and log shipping.",
+                "Consolidating the corporate SQL environment from 50 to 35 instances."
+            ]
+        },
+        {
+            "job_title": "SQL Server DBA",
+            "company": "ATC Healthcare",
+            "location": "Maryland",
+            "dates": "2017 - 2023",
+            "key_responsibilities": [
+                "Performing routine database migrations and refreshes.",
+                "Monitoring systems and capturing performance data for tuning opportunities using tools like PolyMon",
+                "Perfmon",
+                "and SQL Sentry's Plan Explorer.",
+                "Setting up automation with SQL Agent and Database Mail for maintenance and error alerting."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master in Information Technology",
+            "institution": "University of Maryland University College",
+            "year_of_completion": "2020"
+        },
+        {
+            "degree": "Bachelor of Health in Health Care Management",
+            "institution": "Howard University",
+            "year_of_completion": "2017"
+        },
+        {
+            "degree": "Certification in Information Assurance",
+            "institution": "University of Maryland University College",
+            "year_of_completion": "2020"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "SQL Server\",\n            \"SQL\",\n            \"Citrix\",\n            \"VMware\",\n            \"Server Administration\",\n            \"SQL DBA\",\n            \"ETL\",\n            \"DBA\",\n            \"SSIS\",\n            \"RAC"
+        ],
+        "tools_and_software": [
+            ""
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

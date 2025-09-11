@@ -1,0 +1,65 @@
+{
+    "personal_information": {
+        "name": "SQL Database Administrator",
+        "location": "AGO Global Consulting"
+    },
+    "professional_summary": "Proven expertise in SQL Server administration, database development, and maintenance. Skilled in T-SQL programming, Windows/UNIX shell scripting, and various tools for database management.",
+    "work_experience": [
+        {
+            "job_title": "SQL Database Administrator",
+            "company": "AGO Global Consulting",
+            "location": "United States",
+            "dates": "October 2015 - Present",
+            "key_responsibilities": [
+                "Create and maintain SQL Server databases for optimal performance.",
+                "Develop and implement T-SQL solutions for data analysis and reporting.",
+                "Perform regular database backups",
+                "recovery",
+                "and disaster recovery operations."
+            ]
+        },
+        {
+            "job_title": "SQL Database Administrator",
+            "company": "InfoView Data Solution Inc (Remote)",
+            "location": "United States",
+            "dates": "June 2013 - October 2015",
+            "key_responsibilities": [
+                "Administered SQL Server databases",
+                "ensuring high availability and performance.",
+                "Developed and optimized T-SQL queries for data integrity and query efficiency.",
+                "Monitored and resolved database issues to maintain system uptime."
+            ]
+        },
+        {
+            "job_title": "SQL Database Administrator",
+            "company": "IHS Global (One-Corp)",
+            "location": "United States",
+            "dates": "September 2012 - May 2013",
+            "key_responsibilities": [
+                "Managed and maintained SQL Server databases across multiple environments.",
+                "Developed T-SQL scripts for data extraction and reporting purposes.",
+                "Performed database migrations and upgrades to support business growth."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science in Information Systems and Cyber Security",
+            "institution": "United Methodist University",
+            "year_of_completion": "2010"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "SQL Server Administration/Development\",\n            \"T-SQL Programming\",\n            \"Windows Server Administration\",\n            \"UNIX Shell Scripting\",\n            \"Database Design and Implementation\",\n            \"Data Analysis and Reporting"
+        ],
+        "tools_and_software": [
+            "Microsoft SQL Management Studio (SSMS)\",\n            \"Redgate SQL Toolbelt\",\n            \"Idera SQL Diagnostics\",\n            \"Azure Platform"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

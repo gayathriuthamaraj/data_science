@@ -1,0 +1,63 @@
+{
+    "personal_information": {
+        "name": "John Doe",
+        "location": "Saratoga Springs, UT"
+    },
+    "professional_summary": "IT Manager and Programmer with expertise in SQL development, database administration, and system management. Experienced in improving ERP systems and resolving IT issues across various industries.",
+    "work_experience": [
+        {
+            "job_title": "IT Manager/Programmer",
+            "company": "Blue Chip Group",
+            "location": "Saratoga Springs, UT",
+            "dates": "December 2018 - Present",
+            "key_responsibilities": [
+                "Managing servers",
+                "network",
+                "phone system",
+                "and end-user support.",
+                "Contributing to database management alongside SQL development.",
+                "Overseeing system infrastructure improvements."
+            ]
+        },
+        {
+            "job_title": "SQL Developer/Interim Director of IT",
+            "company": "Food for Health International",
+            "location": "Saratoga Springs, UT",
+            "dates": "July 2017 - December 2018",
+            "key_responsibilities": [
+                "Fixing issues in the shipping Pick Pack system and database problems.",
+                "Improving server and database performance and ERP system usability."
+            ]
+        },
+        {
+            "job_title": "Database Administrator",
+            "company": "Wilson Electronics",
+            "location": "Saratoga Springs, UT",
+            "dates": "June 2014 - July 2018",
+            "key_responsibilities": [
+                "Maintaining production databases and handling front-end/back-end code.",
+                "Building new features for production and sales departments."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "AS",
+            "institution": "Dixie State University",
+            "year_of_completion": ""
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "SQL\",\n            \"C#\",\n            \"Java\",\n            \"Windows Server\",\n            \"Active Directory\",\n            \"Firewalls\",\n            \"Oracle\",\n            \"MySQL\",\n            \"SQL Server\",\n            \"Cloud Platforms\",\n            \"Microsoft Stack\",\n            \"ERP Systems"
+        ],
+        "tools_and_software": [
+            "Microsoft Office Suite\",\n            \"Adobe Acrobat\",\n            \"Network Tools\",\n            \"Project Management Tools\",\n            \"Communication Tools"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

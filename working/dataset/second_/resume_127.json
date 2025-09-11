@@ -1,0 +1,53 @@
+{
+    "personal_information": {
+        "name": "Database Administrator",
+        "location": "CCA Global Partners, St. Louis, MO"
+    },
+    "professional_summary": "Experienced Database Administrator with expertise in managing MSSQL and MongoDB environments, focusing on performance tuning, data correction, backup management, requirements gathering, and SSIS development.",
+    "work_experience": [
+        {
+            "job_title": "Database Administrator",
+            "company": "CCA Global Partners",
+            "location": "St. Louis, MO",
+            "dates": "2017 - Present",
+            "key_responsibilities": [
+                "Manage a database environment of 15+ production MSSQL servers and 1 MongoDB server.",
+                "Perform database performance tuning and monitoring.",
+                "Handle data correction",
+                "backup management",
+                "and SSIS development."
+            ]
+        },
+        {
+            "job_title": "Database Administrator/SQL Developer",
+            "company": "Genesys",
+            "location": "Jacksonville, FL",
+            "dates": "2013 - 2017",
+            "key_responsibilities": [
+                "Enhance end users' understanding of database systems through training and documentation.",
+                "Automate data-modification systems to meet business needs.",
+                "Assist in migration from local datacenter to AWS."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Science in Information Technology in Database Systems",
+            "institution": "NOVA Southeastern University",
+            "year_of_completion": "2016"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "SQL (2000, 2005, 2008 R2, 2012, 2014, 2016), MongoDB, SSIS, AWS"
+        ],
+        "tools_and_software": [
+            "SSIS, AWS"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

@@ -1,0 +1,82 @@
+{
+    "personal_information": {
+        "name": "Logan Paulhus",
+        "location": "Providence, RI"
+    },
+    "professional_summary": "Experienced professional with expertise in database administration, maintenance management, and constituent affairs. Skilled in improving operational processes, managing vendor communications, and conducting research projects.",
+    "work_experience": [
+        {
+            "job_title": "Database Administrator/Maintenance Manager",
+            "company": "SYNAGRO Technologies",
+            "location": "Woonsocket, RI",
+            "dates": "August 2018 - Present",
+            "key_responsibilities": [
+                "Managed maintenance system for distributing and assigning work orders for 3 power plants in New England.",
+                "Improved and maintained database resulting in process improvements and extended asset life.",
+                "Built massive spreadsheets of 800+ assets and parts",
+                "detailing each piece of equipment's maintenance",
+                "parts",
+                "and costs.",
+                "Communicated with 100+ vendors to gather manuals",
+                "parts lists",
+                "and spec. sheets for the database and app."
+            ]
+        },
+        {
+            "job_title": "Constituent Affairs Intern",
+            "company": "Office of Governor Gina Raimondo",
+            "location": "Providence, RI",
+            "dates": "January 2018 - August 2018",
+            "key_responsibilities": [
+                "Answered 300+ calls weekly to provide state agency services.",
+                "Created 2000+ citations for state-wide celebrations.",
+                "Handled sensitive and confidential client information."
+            ]
+        },
+        {
+            "job_title": "Child Care Staff",
+            "company": "City of Central Falls",
+            "location": "Central Falls, RI",
+            "dates": "May 2017 - September 2017",
+            "key_responsibilities": [
+                "Directed and planned state-wide events.",
+                "Maintained quality safety standards for children."
+            ]
+        },
+        {
+            "job_title": "Lead Galley Steward",
+            "company": "American Cruise Lines",
+            "location": "Seattle, WA",
+            "dates": "March 2015 - August 2015",
+            "key_responsibilities": [
+                "Improved systems and managed employees to increase efficiency.",
+                "Reduced dish crew completion time and earned company-wide employee of the month award."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Political Science & Business",
+            "institution": "Rhode Island College",
+            "year_of_completion": "September 2017 - Present"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "Cmms",
+            "Excel",
+            "Outlook",
+            "Microsoft Word",
+            "Word",
+            "Power Point"
+        ],
+        "tools_and_software": [
+            "Fiix"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "personal_information": {
+        "name": "Database Consultant/ Business Analyst",
+        "location": "Chicago, IL"
+    },
+    "professional_summary": "Experienced Oracle Database Administrator with expertise in database optimization and administration. Skilled in data analysis and problem-solving to drive organizational decisions.",
+    "work_experience": [
+        {
+            "job_title": "Oracle Database Junior Administrator",
+            "company": "Extracted Company Name",
+            "location": "Extracted Location",
+            "dates": "May 2012 - July 2013",
+            "key_responsibilities": [
+                "Coordinated with front-end design teams for stored procedures and data insights.",
+                "Enhanced and fixed production issues to improve database performance.",
+                "Created PL/SQL scripts for data manipulation",
+                "validation",
+                "and materialized views."
+            ]
+        },
+        {
+            "job_title": "Oracle Database Administrator",
+            "company": "Extracted Company Name",
+            "location": "Extracted Location",
+            "dates": "Start Date - End Date",
+            "key_responsibilities": [
+                "Developed and optimized database queries for efficient performance.",
+                "Administered database objects",
+                "including tables",
+                "views",
+                "and indexes.",
+                "Handled database installations and upgrades as per business requirements."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor's of Engineering in Computer Science",
+            "institution": "Nagpur University - Nagpur, Maharashtra",
+            "year_of_completion": "2012"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "SQL",
+            "Oracle Databases",
+            "Data Analysis"
+        ],
+        "tools_and_software": [
+            "TOAD",
+            "SQL Developer",
+            "PL/SQL"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

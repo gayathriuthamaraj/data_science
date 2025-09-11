@@ -1,0 +1,65 @@
+{
+    "personal_information": {
+        "name": "SQL Database Administrator",
+        "location": "Wing Zone - Hyattsville, MD"
+    },
+    "professional_summary": "MCSA certified SQL Database Administrator with expertise in installing, configuring, and managing SQL Server 2016, 2014, 2012, and 2008R2 in Development, Test, and Production environments. Proficient in database performance tuning, SSIS, and SSRS. Strong communication skills and experience working independently and in team environments.",
+    "work_experience": [
+        {
+            "job_title": "SQL Database Administrator",
+            "company": "Wing Zone",
+            "location": "Hyattsville, MD",
+            "dates": "March 2016 - Present",
+            "key_responsibilities": [
+                "Install",
+                "configure",
+                "and manage SQL Server 2016",
+                "2014",
+                "2012",
+                "and 2008R2 in Development",
+                "Test",
+                "and Production environments.",
+                "Apply updates",
+                "patches",
+                "and maintain database integrity.",
+                "Utilize DBCC commands to optimize performance and resolve issues."
+            ]
+        },
+        {
+            "job_title": "SQL Database Administrator",
+            "company": "Azizi Bank",
+            "location": "Hyattsville, MD",
+            "dates": "Previous Employment",
+            "key_responsibilities": [
+                "Manage database security and access permissions.",
+                "Optimize stored procedures and indexes for performance.",
+                "Conduct regular backups and disaster recovery planning."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Business Administration",
+            "institution": "Extracted University Name",
+            "year_of_completion": "2010"
+        },
+        {
+            "degree": "Diploma in Information Technology",
+            "institution": "Extracted College Name",
+            "year_of_completion": "2005"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "SQL Database Administration\",\n            \"Database Optimization\",\n            \"SSIS and SSRS\",\n            \"Database Security Management\",\n            \"Agile Methodology"
+        ],
+        "tools_and_software": [
+            "Microsoft SQL Server\",\n            \"Oracle Database\",\n            \"SolarWinds\",\n            \"Jira\",\n            \"Confluence"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

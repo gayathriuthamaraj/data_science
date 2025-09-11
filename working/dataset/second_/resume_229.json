@@ -1,0 +1,77 @@
+{
+    "personal_information": {
+        "name": "I.T. Support Technician",
+        "location": "Kokomo, IN"
+    },
+    "professional_summary": "Experienced I.T. Support Technician providing customer service to faculty and students with expertise in network troubleshooting, software optimization, and database management.",
+    "work_experience": [
+        {
+            "job_title": "I.T. Support Technician",
+            "company": "Ivy Tech Community College Kokomo, IN",
+            "location": "Kokomo, IN",
+            "dates": "July 2019 - Present",
+            "key_responsibilities": [
+                "Provide excellent customer service to both faculty and students.",
+                "Troubleshoot and diagnose network issues and apply updates and security patches in a timely manner."
+            ]
+        },
+        {
+            "job_title": "Software Eng Intern",
+            "company": "VR Systems - Tallahassee, FL",
+            "location": "Tallahassee, FL",
+            "dates": "January 2019 - June 2019",
+            "key_responsibilities": [
+                "Converted legacy software to best practices using PHP and PDO parameterization."
+            ]
+        },
+        {
+            "job_title": "IT Support Specialist",
+            "company": "Elections - Tallahassee, FL",
+            "location": "Tallahassee, FL",
+            "dates": "July 2018 - December 2018",
+            "key_responsibilities": [
+                "Resolved issues quickly in a fast-paced environment to expedite voting.",
+                "Set up and designed networks on the fly",
+                "fabricated network cables",
+                "and configured over 300 Evids with scripts."
+            ]
+        },
+        {
+            "job_title": "Database Administrator",
+            "company": "United States Army - Fort Drum, NY",
+            "location": "Fort Drum, NY",
+            "dates": "2013 - 2016",
+            "key_responsibilities": [
+                "Monitored and maintained Aviation Battalion's maintenance server",
+                "including backups and repairs.",
+                "Handled logbooks and laptops",
+                "repairing user errors and hardware malfunctions."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Web Design Course",
+            "institution": "Lively Technical Center - Tallahassee, FL",
+            "year_of_completion": "2009"
+        },
+        {
+            "degree": "B.S. in Computer Science (Expected)",
+            "institution": "University of Maryland University College - Adelphi, MD",
+            "year_of_completion": ""
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "PHP\",\n            \"HTML/CSS/JS\",\n            \"Bash/Python Scripting\",\n            \"Database Management (SQL)"
+        ],
+        "tools_and_software": [
+            "MySQL servers\",\n            \"Legacy software conversion"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "personal_information": {
+        "name": "Extracted Name",
+        "location": "Extracted Location"
+    },
+    "professional_summary": "Experienced Cloud Engineer with expertise in AWS, Terraform, Chef, and Puppet. Proficient in infrastructure automation, CI/CD pipelines, and database administration.",
+    "work_experience": [
+        {
+            "job_title": "Jr. AWS Cloud Practitioner",
+            "company": "Cardinal Health - Dublin, OH",
+            "location": "Dublin, OH",
+            "dates": "January 2015 - July 2017",
+            "key_responsibilities": [
+                "Managed infrastructure for applications in AWS using Terraform and automation tools.",
+                "Built and automated CI/CD pipelines for various applications.",
+                "Provided guidelines for deployment and troubleshooting build system failures."
+            ]
+        },
+        {
+            "job_title": "AWS Cloud Engineer",
+            "company": "Cardinal Health - Dublin, OH",
+            "location": "Dublin, OH",
+            "dates": "July 2013 - December 2014",
+            "key_responsibilities": [
+                "Monitored and supported database systems using Oracle 10g Grid Control and SQL*Plus.",
+                "Designed database tables as per technical specifications.",
+                "Implemented automated backup strategies using UNIX shell scripts."
+            ]
+        },
+        {
+            "job_title": "Oracle Database Administrator",
+            "company": "Oracle Database Administrator - Virginia Beach, VA",
+            "location": "Virginia Beach, VA",
+            "dates": "July 2013 - December 2014",
+            "key_responsibilities": [
+                "Monitored database systems and provided technical support for database issues.",
+                "Designed database tables and translated business requirements into database objects.",
+                "Implemented automated backup strategies using RMAN."
+            ]
+        }
+    ],
+    "education": [],
+    "skills": {
+        "technical_skills": [
+            "AWS\",\n            \"Terraform\",\n            \"Chef\",\n            \"Puppet\",\n            \"Oracle 10g\",\n            \"SQL*Plus\",\n            \"UNIX shell scripts\",\n            \"CI/CD pipelines\",\n            \"Infrastructure automation"
+        ],
+        "tools_and_software": [
+            "Terraform\",\n            \"Chef\",\n            \"Puppet\",\n            \"AWS CloudFormation\",\n            \"Elastic Load Balancer (ELB)\",\n            \"Route 53\",\n            \"CloudWatch"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

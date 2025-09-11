@@ -1,0 +1,62 @@
+{
+    "personal_information": {
+        "name": "Neysha Pagan",
+        "location": "San Juan, PR"
+    },
+    "professional_summary": "Skilled IT systems professional with expertise in database administration, data migration, systems engineering, integration, and programming. Experience in mentoring and improving productivity through effective communication and collaboration.",
+    "work_experience": [
+        {
+            "job_title": "MSSQL Report Developer",
+            "company": "Molina Healthcare",
+            "location": "San Juan, PR",
+            "dates": "2016 - Present",
+            "key_responsibilities": [
+                "Developing and deploying SQL Server-based reporting solutions using Power BI.",
+                "Designing efficient data warehouses and managing ETL processes.",
+                "Collaborating with cross-functional teams to deliver actionable insights."
+            ]
+        },
+        {
+            "job_title": "Database Administrator",
+            "company": "XYZ Technology Solutions",
+            "location": "San Juan, PR",
+            "dates": "2014 - 2016",
+            "key_responsibilities": [
+                "Administering Oracle 10G and SQL Server databases.",
+                "Implementing data migration strategies to optimize performance.",
+                "Ensuring database security and disaster recovery plans."
+            ]
+        },
+        {
+            "job_title": "Data Analyst",
+            "company": "ABC Data Solutions",
+            "location": "San Juan, PR",
+            "dates": "2013 - 2014",
+            "key_responsibilities": [
+                "Analyzing data to support decision-making processes.",
+                "Developing and documenting ETL and data transformation processes.",
+                "Collaborating with business stakeholders to identify reporting needs."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science in Business Administration",
+            "institution": "University of Puerto Rico at Mayagüez",
+            "year_of_completion": "2012"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "Oracle 10G\",\n            \"Microsoft SQL Server\",\n            \"Visual Basic\",\n            \"IBM AIX Servers\",\n            \"Oracle APEX"
+        ],
+        "tools_and_software": [
+            "Microsoft Power BI\",\n            \"Oracle SQL*Plus\",\n            \"SQL Management Studio\",\n            \"Aqua Data Studio\",\n            \"Tivoli Storage Manager\",\n            \"Linux/AIX/Windows Operating Systems"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

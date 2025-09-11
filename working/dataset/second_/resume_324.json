@@ -1,0 +1,82 @@
+{
+    "personal_information": {
+        "name": "Benotti-Finotti",
+        "location": "Not explicitly provided"
+    },
+    "professional_summary": "Experienced IT professional with expertise in multiple roles including Database Administrator (SQL), Web Developer/GIS Administrator, and Computer Technician. Proficient in programming, analytics, problem-solving, and eager to develop new skills.",
+    "work_experience": [
+        {
+            "job_title": "Administrator(s), Computer Technician, Database Administrator (SQL), and Web Developer/GIS",
+            "company": "Henderson County's IT department",
+            "location": "Not explicitly provided",
+            "dates": "August 2016 - May 2019",
+            "key_responsibilities": [
+                "Provided technical support and maintained IT infrastructure.",
+                "Performed database administration tasks using SQL.",
+                "Developed and maintained web applications and GIS systems."
+            ]
+        },
+        {
+            "job_title": "Administrator(s), Computer Technician, Database Administrator (SQL), and Web Developer/GIS Coordinator (JavaScript, HTML, CSS)",
+            "company": "Henderson County's IT department",
+            "location": "Not explicitly provided",
+            "dates": "August 2016 - May 2019",
+            "key_responsibilities": [
+                "Supported group home operations with document scanning",
+                "editing",
+                "emailing",
+                "and filing.",
+                "Performed database administration tasks using SQL.",
+                "Coordinated web development efforts with JavaScript",
+                "HTML",
+                "and CSS."
+            ]
+        },
+        {
+            "job_title": "Computer Technician",
+            "company": "Group Home",
+            "location": "Not explicitly provided",
+            "dates": "June 2015 - August 2015",
+            "key_responsibilities": [
+                "Assisted in IT operations and document management."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "BSc. in Computer Science",
+            "institution": "University of North Carolina at Asheville",
+            "year_of_completion": "2019"
+        },
+        {
+            "degree": "BSc. in Computer Science",
+            "institution": "University of North Carolina at Charlotte",
+            "year_of_completion": "2019"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "SQL",
+            "HTML",
+            "JavaScript",
+            "Python",
+            "CSS"
+        ],
+        "tools_and_software": [
+            "Tableau",
+            "MS Office Suite",
+            "Eclipse",
+            "Netbeans",
+            "PyCharm",
+            "Jupyter Notebook",
+            "Windows",
+            "Android",
+            "iOS"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

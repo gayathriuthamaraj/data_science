@@ -1,0 +1,47 @@
+{
+    "personal_information": {
+        "name": "Extracted Name",
+        "location": "Extracted Location"
+    },
+    "professional_summary": "Experienced Oracle DBA with expertise in database administration, performance tuning, backup/recovery strategies, and disaster recovery planning. Proficient in RMAN, Flashback technology, and ASM migrations.",
+    "work_experience": [
+        {
+            "job_title": "Oracle DBA",
+            "company": "Extracted Company Name",
+            "location": "Extracted Location",
+            "dates": "2012 - Present",
+            "key_responsibilities": [
+                "Provided high-level support for Oracle databases",
+                "including daily operations and troubleshooting.",
+                "Managed and monitored database performance",
+                "executed tuning strategies using AWR/ADDM",
+                "and optimized SQL queries.",
+                "Developed and implemented backup/recovery solutions",
+                "utilizing RMAN for regular backups and disaster recovery drills.",
+                "Collaborated with application teams to resolve database issues and improve system performance.",
+                "Administered ASM environments",
+                "successfully migrating multiple databases from non-ASM to ASM configurations."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "BA Political Science",
+            "institution": "George Washington University",
+            "year_of_completion": "2010"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "Oracle DBA\",\n            \"RMAN\",\n            \"ASM\",\n            \"AWR/ADDM\",\n            \"SQL Tuning\",\n            \"Disaster Recovery\",\n            \"Flashback Technology\",\n            \"Virtualization (VMware)\",\n            \"Database Migration"
+        ],
+        "tools_and_software": [
+            "AIX\",\n            \"Checkpoint\",\n            \"Cisco\",\n            \"Linux\",\n            \"Solaris\",\n            \"Unix\",\n            \"TOAD\",\n            \"VMware\",\n            \"Oracle 10g\",\n            \"Oracle 11g"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

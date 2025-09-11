@@ -1,0 +1,73 @@
+{
+    "personal_information": {
+        "name": "Extracted Name",
+        "location": "Cary, NC"
+    },
+    "professional_summary": "CompTIA A+ certified IT professional with experience in finance, storage, and network industry. Skilled in Oracle databases, Puppet, Windows, Unix/Linux, Javascript, Git, hardware installation/maintenance, and lab support. Experienced with Remedy Ticketing System and ServiceNow.",
+    "work_experience": [
+        {
+            "job_title": "Lab Support",
+            "company": "NetApp - Durham, NC",
+            "location": "Durham, NC",
+            "dates": "August 2018 - December 2018",
+            "key_responsibilities": [
+                "Serve as first point of contact for customers needing assistance via ticketing system.",
+                "Record events and problems and their resolution in documentation.",
+                "Maintain",
+                "manage",
+                "and monitor all installed systems and infrastructure."
+            ]
+        },
+        {
+            "job_title": "Developer",
+            "company": "SoftTech Solutions - Jersey City, NJ",
+            "location": "Jersey City, NJ",
+            "dates": "February 2018 - August 2018",
+            "key_responsibilities": [
+                "Designed and developed mobile games and apps for Android devices.",
+                "Collaborated with artists and game designers to successfully incorporate game ideas",
+                "various artworks",
+                "animation",
+                "audio",
+                "and necessary assets.",
+                "Provided continuous support and updates using real player feedback to ultimately improve the player experience."
+            ]
+        },
+        {
+            "job_title": "DevOps Engineer",
+            "company": "TD Ameritrade - Jersey City, NJ",
+            "location": "Jersey City, NJ",
+            "dates": "March 2017 - March 2018",
+            "key_responsibilities": [
+                "Responsible for managing users",
+                "roles",
+                "and permissions for Oracle Databases.",
+                "Conducting database refreshes to dev and test instances on a regular basis.",
+                "Used ASM for creating and managing diskgroups and troubleshooting ASM issues."
+            ]
+        },
+        {
+            "job_title": "Package Handler",
+            "company": "UPS - Secaucus, NJ",
+            "location": "Secaucus, NJ",
+            "dates": "N/A",
+            "key_responsibilities": [
+                "Performed package handling and sorting duties."
+            ]
+        }
+    ],
+    "education": [],
+    "skills": {
+        "technical_skills": [
+            "Oracle databases\",\n            \"Puppet\",\n            \"Windows\",\n            \"Unix/Linux\",\n            \"JavaScript\",\n            \"Git\",\n            \"Hardware installation/maintenance"
+        ],
+        "tools_and_software": [
+            ""
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

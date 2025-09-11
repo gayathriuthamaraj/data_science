@@ -1,0 +1,33 @@
+{
+    "personal_information": {
+        "name": "Extracted Name",
+        "location": "Hyderabad"
+    },
+    "professional_summary": "Experienced Oracle Database Administrator with expertise in database management, backup/recovery, and RAC implementations. Skilled in problem-solving, teamwork, and self-motivation.",
+    "work_experience": [],
+    "education": [
+        {
+            "degree": "Master of Computer Application",
+            "institution": "JNTU University",
+            "year_of_completion": ""
+        },
+        {
+            "degree": "BSc in Computer Science",
+            "institution": "Osmania University",
+            "year_of_completion": ""
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "Oracle Database Administration\",\n            \"SQL\",\n            \"RMAN\",\n            \"Linux\",\n            \"Red Hat\",\n            \"Solaris\",\n            \"UNIX\",\n            \"Windows\",\n            \"Database Management Systems\",\n            \"Data Backup/Recovery\",\n            \"RAC (Real Application Clusters)\",\n            \"GoldenGate\",\n            \"Data Guard\",\n            \"Database Creation Using DBCA"
+        ],
+        "tools_and_software": [
+            "Export/Import Utilities\",\n            \"Data Pump\",\n            \"RMAN\",\n            \"Oracle Products (Certifications)"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "personal_information": {
+        "name": "Cook Cook Cook",
+        "location": "Tulsa, OK"
+    },
+    "professional_summary": "Seeking growth opportunities in a field that allows for advancement. Proven experience in various roles including cooking, database administration, and aircraft maintenance. Strong communication, leadership, and management skills developed through military service.",
+    "work_experience": [
+        {
+            "job_title": "Cook",
+            "company": "Southern Hills Country Club",
+            "location": "Tulsa, OK",
+            "dates": "March 2015 - Present",
+            "key_responsibilities": [
+                "Preparing and cooking food for members following health regulations.",
+                "Assisting in training new employees."
+            ]
+        },
+        {
+            "job_title": "Cook",
+            "company": "Reasors",
+            "location": "Tulsa, OK",
+            "dates": "February 2013 - March 2015",
+            "key_responsibilities": [
+                "Cooking and preparing food while maintaining health regulations."
+            ]
+        },
+        {
+            "job_title": "Database Administrator",
+            "company": "United States Marine Corps",
+            "location": "Quantico, VA",
+            "dates": "April 2010 - January 2011",
+            "key_responsibilities": [
+                "Monitoring documentation and accountability of employees.",
+                "Training new employees regularly."
+            ]
+        },
+        {
+            "job_title": "Airframe Mechanic",
+            "company": "United States Marine Corps",
+            "location": "Quantico, VA",
+            "dates": "October 2009 - January 2011",
+            "key_responsibilities": [
+                "Repairing and maintaining aircrafts.",
+                "Serving duty as needed."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "BS in Game Art and Design",
+            "institution": "Southern New Hampshire University",
+            "year_of_completion": "2020"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "Cooking, Database Administration, Aircraft Maintenance",
+            "Microsoft Office"
+        ],
+        "tools_and_software": [
+            ""
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

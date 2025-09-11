@@ -1,0 +1,53 @@
+{
+    "personal_information": {
+        "name": "Extracted Name",
+        "location": "Birmingham, AL"
+    },
+    "professional_summary": "No summary provided.",
+    "work_experience": [
+        {
+            "job_title": "Oracle Database Developer/ Application database administrator",
+            "company": "NajaNaja Ltd",
+            "location": "Birmingham, AL",
+            "dates": "October 2014 to Present",
+            "key_responsibilities": [
+                "Application database developer/administrator for a major financial institution.",
+                "Part of a project team serving both local and global corporate clients as a shared service.",
+                "Responsible for ensuring high availability",
+                "performance",
+                "and security of Oracle databases."
+            ]
+        },
+        {
+            "job_title": "Oracle Database Administrator",
+            "company": "Super America LLC",
+            "location": "Denver, CO",
+            "dates": "October 2009 to September 2014",
+            "key_responsibilities": [
+                "Oracle database administrator for a large retail company.",
+                "Performed regular maintenance and tuning of Oracle databases to optimize performance.",
+                "Managed backup and recovery processes using RMAN."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master's in Computer Science",
+            "institution": "Regis Uni",
+            "year_of_completion": "Not explicitly stated"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "Oracle Database\",\n            \"Performance Tuning\",\n            \"PL SQL\",\n            \"DBA\",\n            \"RAC\",\n            \"Rman"
+        ],
+        "tools_and_software": [
+            ""
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

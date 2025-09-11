@@ -1,0 +1,76 @@
+{
+    "personal_information": {
+        "name": "[Extracted Name]",
+        "location": "[Extracted Location]"
+    },
+    "professional_summary": "Experienced SQL Server Database Administrator with expertise in database design, migration, disaster recovery, and high availability solutions. Proficient in various database tools and software.",
+    "work_experience": [
+        {
+            "job_title": "SQL Server Database Administrator",
+            "company": "The Boeing Company",
+            "location": "Milford, OH",
+            "dates": "April 2010 - October 2012",
+            "key_responsibilities": [
+                "Installed and configured SQL Server 2008",
+                "2005",
+                "& 2000 in development",
+                "test",
+                "and production environments.",
+                "Installed and configured SQL Server 2000 & 2005 fail-over cluster servers.",
+                "Migrated databases from SQL Server 2000 to 2005 in test and production environments."
+            ]
+        },
+        {
+            "job_title": "SQL Server Database Administrator",
+            "company": "[Extracted Company Name]",
+            "location": "[Extracted Location]",
+            "dates": "October 2012 - October 2014",
+            "key_responsibilities": [
+                "Installed and configured SQL Server 2008",
+                "2005",
+                "& 2000 in development",
+                "test",
+                "and production environments.",
+                "Designed and developed SSIS packages using various control flow tasks",
+                "Transformations",
+                "and dataflow tasks.",
+                "Configured Linked Servers with Kerberos authentications."
+            ]
+        },
+        {
+            "job_title": "SQL Server Database Administrator",
+            "company": "[Extracted Company Name]",
+            "location": "[Extracted Location]",
+            "dates": "October 2014 - Present",
+            "key_responsibilities": [
+                "Configured Log Shipping from Production to Standby Server (Reporting Server)",
+                "Implemented DR solution using Database Mirroring and Replication.",
+                "Monitored database status including CPU",
+                "memory",
+                "I/O",
+                "space",
+                "and deadlocks."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor's",
+            "institution": "[Extracted University Name]",
+            "year_of_completion": "2010"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "SQL Server Administration\",\n            \"Database Design\",\n            \"Data Migration\",\n            \"Disaster Recovery\",\n            \"High Availability\",\n            \"Index Tuning\",\n            \"Performance Optimization\",\n            \"Backup and Restore\",\n            \"Linked Servers\",\n            \"Log Shipping\",\n            \"Database Mirroring\",\n            \"Transactional Replication"
+        ],
+        "tools_and_software": [
+            "Microsoft SQL Server\",\n            \"SQL Server Management Studio (SSMS)\",\n            \"Visual Studio\",\n            \"Oracle Database\",\n            \"Windows Server\",\n            \"Kerberos Authentication\",\n            \"DBCC\",\n            \"SSIS\",\n            \"Data Tools"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

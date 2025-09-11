@@ -1,0 +1,124 @@
+{
+    "personal_information": {
+        "name": "Extracted Name",
+        "location": "San Antonio, TX"
+    },
+    "professional_summary": "Experienced professional with expertise in data management, database administration, and security roles. Skilled in maintaining data integrity, optimizing systems, and ensuring organizational efficiency.",
+    "work_experience": [
+        {
+            "job_title": "Commissioned Security Officer",
+            "company": "Espada Security Services, LLC",
+            "location": "San Antonio, TX",
+            "dates": "May 2017 - Present",
+            "key_responsibilities": [
+                "Patrolling and inspecting premises to ensure security measures are in place.",
+                "Monitoring unauthorized persons and suspicious activities.",
+                "Checking for hazards and maintaining safety protocols.",
+                "Maintaining records and logs as required by procedures.",
+                "Securing guest room doors and ensuring access control."
+            ]
+        },
+        {
+            "job_title": "Data Entry/Scheduling",
+            "company": "Pyramid Consulting",
+            "location": "San Antonio, TX",
+            "dates": "February 2017 - March 2017",
+            "key_responsibilities": [
+                "Processing orders and scheduling appointments.",
+                "Corresponding with clients and ensuring accuracy.",
+                "Quality checking data entry in Salesforce.com.",
+                "Cross-referencing data across multiple databases."
+            ]
+        },
+        {
+            "job_title": "Tracking Agent/Database Administrator",
+            "company": "Choice Staffing",
+            "location": "San Antonio, TX",
+            "dates": "November 2016 - December 2016",
+            "key_responsibilities": [
+                "Performing data collection and formatting for eligibility tracking.",
+                "Using Microsoft Excel for data analysis and reporting."
+            ]
+        },
+        {
+            "job_title": "Research Analyst",
+            "company": "KLD Associates",
+            "location": "San Antonio, TX",
+            "dates": "April 2015 - June 2016",
+            "key_responsibilities": [
+                "Conducting research on traffic safety and crash data.",
+                "Performing data entry into NDOT databases for analysis.",
+                "Assisting in the development of analytical reports."
+            ]
+        },
+        {
+            "job_title": "Data Analyst",
+            "company": "Dahill (Selectstaff)",
+            "location": "San Antonio, TX",
+            "dates": "November 2014 - February 2015",
+            "key_responsibilities": [
+                "Ensuring data integrity and accuracy across systems.",
+                "Developing VLOOKUP formulas and Pivot tables for reporting.",
+                "Processing large datasets for analysis and reporting."
+            ]
+        },
+        {
+            "job_title": "Registrar",
+            "company": "American Dental Association",
+            "location": "San Antonio, TX",
+            "dates": "October 2014 - October 2014",
+            "key_responsibilities": [
+                "Handling registration for events and meetings.",
+                "Managing membership fees and records.",
+                "Assisting with material distribution."
+            ]
+        },
+        {
+            "job_title": "RM-BPO Order Entry Database Administrator",
+            "company": "Accenture",
+            "location": "San Antonio, TX",
+            "dates": "August 2014 - September 2014",
+            "key_responsibilities": [
+                "Using JD Edwards software for data management.",
+                "Creating charts and reports from databases.",
+                "Importing/exporting documents and records."
+            ]
+        },
+        {
+            "job_title": "Database Administrator & Data Interface Coordinator",
+            "company": "Alion Science and Technology",
+            "location": "San Antonio, TX",
+            "dates": "March 2014 - April 2014",
+            "key_responsibilities": [
+                "Building and maintaining databases using Oracle and Microsoft Access.",
+                "Recommendations for database structures",
+                "security protocols",
+                "and backup strategies."
+            ]
+        },
+        {
+            "job_title": "EAM Administrative Assistant",
+            "company": "Zachry Industrial",
+            "location": "San Antonio, TX",
+            "dates": "Unknown - Unknown",
+            "key_responsibilities": [
+                "Assisting in the administration of enterprise resource planning systems.",
+                "Supporting database queries and data analysis."
+            ]
+        }
+    ],
+    "education": [],
+    "skills": {
+        "technical_skills": [
+            "Data Management\",\n            \"Database Administration\",\n            \"Security Protocols\",\n            \"Data Analysis\",\n            \"Report Development\",\n            \"VLOOKUP Formulas\",\n            \"Pivot Tables\",\n            \"Data Integrity"
+        ],
+        "tools_and_software": [
+            "Microsoft Excel\",\n            \"SQL\",\n            \"Oracle\",\n            \"JD Edwards\",\n            \"Salesforce.com"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

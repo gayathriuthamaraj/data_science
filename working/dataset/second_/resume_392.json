@@ -1,0 +1,67 @@
+{
+    "personal_information": {
+        "name": "IT Security Analyst",
+        "location": "Waldorf, MD"
+    },
+    "professional_summary": "IT Security Analyst with expertise in NIST compliance, federal security systems, and comprehensive IT security analysis.",
+    "work_experience": [
+        {
+            "job_title": "IT Security Analyst",
+            "company": "Top Group Technologies, Inc",
+            "location": "Waldorf, MD",
+            "dates": "April 2017 - Present",
+            "key_responsibilities": [
+                "Conduct kick off meetings to collect systems information and categorize them based on NIST standards.",
+                "Perform risk assessments and develop security plans for federal systems.",
+                "Review and update documents such as Standard Operating Procedures (SOPs) and Security Incident Reports (SIRs)."
+            ]
+        },
+        {
+            "job_title": "IT Security Analyst",
+            "company": "Dynamics Technologies Solutions",
+            "location": "Largo, MD",
+            "dates": "July 2014 - March 2017",
+            "key_responsibilities": [
+                "Develop security control test plans and conduct NIST-compliant assessments.",
+                "Update various documentation including Risk Assessments (RA) and Incident Response Plans (IRPs).",
+                "Create templates for security processes and procedures."
+            ]
+        },
+        {
+            "job_title": "Database Administrator",
+            "company": "Pyramid Solutions",
+            "location": "Vienna, VA",
+            "dates": "February 2013 - June 2014",
+            "key_responsibilities": [
+                "Implement and maintain Oracle databases for organizational use.",
+                "Perform regular backups using Oracle tools like datapump and RMAN.",
+                "Assist developers with database schema changes and queries."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "MBA",
+            "institution": "University of Maryland",
+            "year_of_completion": "2019"
+        },
+        {
+            "degree": "BSc in Business Administration",
+            "institution": "University of Lagos",
+            "year_of_completion": "2000"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "NIST Compliance\",\n            \"SQL\",\n            \"Oracle Databases\",\n            \"Data Pump\",\n            \"Remedy\",\n            \"PeopleSoft\",\n            \"SharePoint\",\n            \"Nessus\",\n            \"RMAN"
+        ],
+        "tools_and_software": [
+            "Oracle Tools\",\n            \"Microsoft Office Suite\",\n            \"Security Testing Tools\",\n            \"Database Management Systems"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

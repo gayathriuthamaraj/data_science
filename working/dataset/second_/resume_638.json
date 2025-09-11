@@ -1,0 +1,99 @@
+{
+    "personal_information": {
+        "name": "John Doe",
+        "location": "Houston, TX"
+    },
+    "professional_summary": "Experienced Systems Engineer with expertise in global environment implementation, backup support, and client-facing consulting. Skilled in managing AD servers, network infrastructure, NAS/SAN storage, and virtual environments.",
+    "work_experience": [
+        {
+            "job_title": "Systems Engineer - Systems Administrator",
+            "company": "R-Associates Inc",
+            "location": "Houston, TX",
+            "dates": "January 2015 to Present",
+            "key_responsibilities": [
+                "Built global environments following best practices.",
+                "Provided backup support and maintained operations.",
+                "Delivered presales support and implementation during business commitments.",
+                "Deployed and managed workstations and servers across environments.",
+                "Managed multiple Active Directory servers for clients.",
+                "Deployed network infrastructure across switches.",
+                "Managed NAS and SAN storage systems using various vendors.",
+                "Migrated on-premise deployments to cloud solutions.",
+                "Managed virtual environments and provided DR best practices.",
+                "Deployed and managed security software.",
+                "Implemented HPC cluster deployment.",
+                "Managed Windows and Linux server environments.",
+                "Conducted IT infrastructure assessments."
+            ]
+        },
+        {
+            "job_title": "Desktop Support Administration",
+            "company": "BHL International",
+            "location": "Houston, TX",
+            "dates": "September 2012 to January 2015",
+            "key_responsibilities": [
+                "Provided support for users and software.",
+                "Deployed OS images and migrations across versions.",
+                "Managed Active Directory users.",
+                "Managed NAS storage shares.",
+                "Deployed and decommissioned hardware using best practices."
+            ]
+        },
+        {
+            "job_title": "Warehouse Database Manager",
+            "company": "Southeast Texas Industries - Southeast, TX, US",
+            "location": "Houston, TX",
+            "dates": "August 2011 to September 2012",
+            "key_responsibilities": [
+                "Maintained node software and hardware.",
+                "Deployed software installations and managed licensing.",
+                "Compiled inventory data and reported inconsistencies."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Associate of Applied Science in Computer Network Engineering",
+            "institution": "ITT Technical Institute",
+            "year_of_completion": "2015"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "NAS",
+            "Server Virtualization",
+            "NFS",
+            "Hyper-V",
+            "System Administrator",
+            "Active Directory",
+            "Linux",
+            "Linux Administrator",
+            "VMware",
+            "Redhat"
+        ],
+        "tools_and_software": [
+            "SonicWall",
+            "Windows Server 12/16",
+            "Hyper-V",
+            "Windows 7/8/10",
+            "Office365",
+            "NAS",
+            "SAN",
+            "RAID",
+            "CentOS",
+            "RedHat",
+            "Ubuntu",
+            "NFS",
+            "Backup",
+            "Disaster Recovery",
+            "WSUS",
+            "Server Virtualization",
+            "QNAP"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "personal_information": {
+        "name": "Extracted Name",
+        "location": "Extracted Location"
+    },
+    "professional_summary": "Experienced Database Administrator with expertise in Oracle, SQL Server, and PL/SQL. Proven track record in database management, performance tuning, disaster recovery, and security integration.",
+    "work_experience": [
+        {
+            "job_title": "Database Administrator",
+            "company": "Company Name",
+            "location": "Extracted Location",
+            "dates": "2023 - Present",
+            "key_responsibilities": [
+                "Managed and optimized Oracle databases for performance and availability.",
+                "Implemented backup and recovery strategies using RMAN and Data Pump.",
+                "Monitored and resolved performance bottlenecks utilizing AWR",
+                "ADDM",
+                "and Explain Plan.",
+                "Administered user access and security policies across multiple platforms."
+            ]
+        },
+        {
+            "job_title": "Senior Database Administrator",
+            "company": "Another Company Name",
+            "location": "Extracted Location",
+            "dates": "2010 - 2012",
+            "key_responsibilities": [
+                " Installed",
+                "configured",
+                "and migrated Oracle databases on AIX platforms.",
+                "Monitored databases using Oracle Enterprise Manager (OEM) Grid Control.",
+                "Performed database migrations and upgrades to improve system performance.",
+                "Implemented disaster recovery solutions using Data Guard and physical standby databases."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor's Degree",
+            "institution": "Extracted University",
+            "year_of_completion": "2008"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "Oracle",
+            "SQL Server",
+            "PL/SQL",
+            "SQL",
+            "AIX",
+            "Red Hat Linux"
+        ],
+        "tools_and_software": [
+            "DBCA",
+            "RMAN",
+            "TOAD",
+            "AWR",
+            "ADDM",
+            "Explain Plan"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

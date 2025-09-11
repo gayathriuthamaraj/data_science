@@ -1,0 +1,72 @@
+{
+    "personal_information": {
+        "name": "Sunny B.",
+        "location": "Springfield, VA"
+    },
+    "professional_summary": "Oracle Database Administrator with expertise in Oracle 10g, 11g database administration, performance tuning, and data migration/upgrade.",
+    "work_experience": [
+        {
+            "job_title": "Oracle Database Administrator",
+            "company": "Boltos Solutions Institute - Laurel, MD",
+            "location": "Laurel, MD",
+            "dates": "January 2016 - January 2017",
+            "key_responsibilities": [
+                "Conducted performance tuning using AWR",
+                "ADDM",
+                "and Oracle Advisors.",
+                "Upgraded Oracle 10g database to 11g.",
+                "Applied quarterly CPU patches to different versions of databases.",
+                "Resolved log gap in Data Guard Configuration.",
+                "Monitored alert log files and trace files.",
+                "Implemented multiplexing control files and redo log files.",
+                "Performed database cloning and duplication using RMAN."
+            ]
+        },
+        {
+            "job_title": "Oracle Database Administrator",
+            "company": "Oceanic Bank Nigeria - Lagos, NG",
+            "location": "Lagos, Nigeria",
+            "dates": "January 2013 - September 2014",
+            "key_responsibilities": [
+                "Installed and configured network components for database access and integrity.",
+                "Resolved Oracle connectivity problems and performed physical backups using RMAN utility.",
+                "Monitored user sessions and killed inactive sessions.",
+                "Performed standard and fine-grain database auditing.",
+                "Upgraded Oracle 11g databases from 11.2.0.1 to 11.2.0.3 using patch set.",
+                "Installed",
+                "configured",
+                "and managed 11gR2 (RAC) on ASM storage.",
+                "Managed RAC databases using CRSCTL",
+                "SRVCTL",
+                "and grid control.",
+                "Applied CPU critical patch on RAC database in a rolling manner.",
+                "Configured and setup Oracle 11gR2 Data Guard."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "B.Sc (Edu.)",
+            "institution": "Adekunle Ajasin University - Ondo, Nigeria",
+            "year_of_completion": "July 2006 - December 2011"
+        },
+        {
+            "degree": "Diploma in Computer Hardware Engineering",
+            "institution": "Standard Computer Academy Lagos - Lagos, NG",
+            "year_of_completion": "January 2005 - December 2005"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "Oracle Database Administration (2 years)\",\n            \"Databases (2 years)\",\n            \"RMAN (2 years)\",\n            \"Access (Less than 1 year)\",\n            \"Data Migration (Less than 1 year)"
+        ],
+        "tools_and_software": [
+            "Oracle 10g, 11g, Microsoft SQL Server Access Database\",\n            \"OEM, RMAN, Data Migration-Export-Import, Backup & Recovery, Performance"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

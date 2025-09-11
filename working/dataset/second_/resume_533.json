@@ -1,0 +1,68 @@
+{
+    "personal_information": {
+        "name": "Database Administrator",
+        "location": "Prasa Cres (Southern Region)"
+    },
+    "professional_summary": "Experienced Database Administrator with expertise in database management, procurement processes, and administration.",
+    "work_experience": [
+        {
+            "job_title": "Database Administrator",
+            "company": "Prasa Cres",
+            "location": "May 2012 - August 2012",
+            "dates": "May 2012 - August 2012",
+            "key_responsibilities": [
+                "Maintained and updated large-scale databases",
+                "ensuring accuracy and performance.",
+                "Collaborated with procurement teams to streamline data management processes.",
+                "Developed and implemented database maintenance schedules."
+            ]
+        },
+        {
+            "job_title": "Database Administrator",
+            "company": "Prasa Cres",
+            "location": "May 2012 - August 2012",
+            "dates": "May 2012 - August 2012",
+            "key_responsibilities": [
+                "Optimized database queries to enhance user experience and efficiency.",
+                "Monitored and resolved database issues",
+                "minimizing downtime.",
+                "Performed regular backups and recovery operations."
+            ]
+        },
+        {
+            "job_title": "Database Administrator",
+            "company": "Prasa Cres",
+            "location": "May 2012 - August 2012",
+            "dates": "May 2012 - August 2012",
+            "key_responsibilities": [
+                "Developed and executed data migration strategies.",
+                "Trained end-users on database operations and best practices.",
+                "Performed user access management and permissions updates."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "N Dip in Journalism",
+            "institution": "Tshwane University of Technology",
+            "year_of_completion": "2005"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "SQL",
+            "Database Administration",
+            "Data Migration"
+        ],
+        "tools_and_software": [
+            "SAP",
+            "Manhattan",
+            "Microsoft Office Suite"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

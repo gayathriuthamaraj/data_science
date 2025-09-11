@@ -1,0 +1,71 @@
+{
+    "personal_information": {
+        "name": "John Doe",
+        "location": "White Oak, PA"
+    },
+    "professional_summary": "Oracle Database Administrator with expertise in Oracle database management, backup strategies, disaster recovery, and performance tuning. Seeking advancement in IT career towards management roles.",
+    "work_experience": [
+        {
+            "job_title": "Oracle Database Administrator",
+            "company": "Remote Database Experts (RDX)",
+            "location": "White Oak, PA",
+            "dates": "August 2018 - Present",
+            "key_responsibilities": [
+                "Manage Oracle Database tickets for supported clients.",
+                "Perform database recovery",
+                "restores",
+                "refreshes",
+                "migrations",
+                "maintenance",
+                "data reorganizations",
+                "performance tuning",
+                "setup backup strategies",
+                "disaster recovery options",
+                "RDBMS/GI RAC installations",
+                "and other administration activities.",
+                "Ensure client database systems meet security and functional design requirements."
+            ]
+        },
+        {
+            "job_title": "Oracle Product Specialist / Junior DBA",
+            "company": "Remote Database Experts (RDX)",
+            "location": "White Oak, PA",
+            "dates": "March 2016 - August 2018",
+            "key_responsibilities": [
+                "Monitor client database environments and troubleshoot issues using Big Brother",
+                "SolarWinds",
+                "Remedy",
+                "ServiceNow",
+                "and OEM monitoring setups.",
+                "Diagnose issues in Oracle",
+                "MSSQL",
+                "PostgresSQL",
+                "MySQL",
+                "DB2",
+                "and Oracle APPS databases.",
+                "Oversee lower Tiers in Database Operations Center and handle escalations for complex Oracle database issues.",
+                "Perform Junior Oracle DBA tasks and complete Oracle DBA training for promotion."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science",
+            "institution": "West Virginia Wesleyan College",
+            "year_of_completion": "2015"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "DBA\",\n            \"Oracle Dba\",\n            \"Oracle\",\n            \"Linux\",\n            \"Windows\",\n            \"RMAN\",\n            \"GoldenGate\",\n            \"Oracle Support\",\n            \"OEM\",\n            \"Oracle Streams\",\n            \"Oracle DataGuard\",\n            \"Oracle Active DataGuard\",\n            \"Datapump Export/Import\",\n            \"Oracle ODA\",\n            \"ServiceNow\",\n            \"BMC Remedy\",\n            \"Xabbix\",\n            \"SolarWinds\",\n            \"BigBrother\",\n            \"PostgreSQL\",\n            \"MySQL\",\n            \"SQL Server\",\n            \"RAC"
+        ],
+        "tools_and_software": [
+            "ServiceNow\",\n            \"BMC Remedy\",\n            \"Xamax\",\n            \"SolarWinds\",\n            \"Big Brother\",\n            \"PostgreSQL\",\n            \"MySQL\",\n            \"SQL Server"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

@@ -1,0 +1,57 @@
+{
+    "personal_information": {
+        "name": "Extracted Name",
+        "location": "Extracted Location"
+    },
+    "professional_summary": "Experienced Oracle Database Administrator with expertise in RAC, Data Guard, and performance tuning. Proven track record in managing critical business systems and implementing disaster recovery solutions. Strong focus on optimizing database performance and ensuring high availability.",
+    "work_experience": [
+        {
+            "job_title": "Oracle Database Administrator",
+            "company": "XYZ Company",
+            "location": "Extracted Location",
+            "dates": "To Be Determined - To Be Determined",
+            "key_responsibilities": [
+                "Managed and optimized Oracle RAC clusters for high availability and performance.",
+                "Configured and maintained Data Guard setups for disaster recovery solutions.",
+                "Performed regular maintenance",
+                "troubleshooting",
+                "and performance tuning using tools like TKPROF",
+                "STATSPACK",
+                "and AWR."
+            ]
+        },
+        {
+            "job_title": "Database System Infrastructure Support",
+            "company": "ABC Technologies",
+            "location": "Extracted Location",
+            "dates": "To Be Determined - To Be Determined",
+            "key_responsibilities": [
+                "Supported critical business systems including TR",
+                "Bills Order",
+                "and Online Charges.",
+                "Coordinated with UNIX administrators for space management and problem resolution.",
+                "Migrated databases from non-RAC to RAC environments and implemented ASM for storage management."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Extracted Degree",
+            "institution": "Extracted University Name",
+            "year_of_completion": "Year"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "Oracle Database Administration\",\n            \"RAC (Real Application Cluster)\",\n            \"Data Guard\",\n            \"Performance Tuning\",\n            \"Database Migration\",\n            \"High Availability Solutions"
+        ],
+        "tools_and_software": [
+            "TKPROF\",\n            \"STATSPACK\",\n            \"AWR\",\n            \"RMAN\",\n            \"Euler Studio\",\n            \"SQL Developer"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

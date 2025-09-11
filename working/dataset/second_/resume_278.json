@@ -1,0 +1,84 @@
+{
+    "personal_information": {
+        "name": "Not provided",
+        "location": "Bakersfield, CA"
+    },
+    "professional_summary": "Experienced Database Administrator with 7+ years of expertise in SQL Server management, database optimization, and data integration. Skilled in ETL processes, performance monitoring, and cross-functional collaboration.",
+    "work_experience": [
+        {
+            "job_title": "Microsoft SQL Server Database Administrator",
+            "company": "Broad Systems International",
+            "location": "Alexandria, VA",
+            "dates": "September 2012 – December 2013",
+            "key_responsibilities": [
+                "Disaster recovery and high availability planning for SQL Server replication and log shipping.",
+                "Database maintenance",
+                "backup",
+                "and recovery operations.",
+                "Migration",
+                "upgrade",
+                "and security management."
+            ]
+        },
+        {
+            "job_title": "Microsoft SQL Server Database Administrator",
+            "company": "Broad Systems International",
+            "location": "Alexandria, VA",
+            "dates": "September 2012 – December 2013",
+            "key_responsibilities": [
+                "Disaster recovery and high availability planning for SQL Server replication and log shipping.",
+                "Database maintenance",
+                "backup",
+                "and recovery operations.",
+                "Migration",
+                "upgrade",
+                "and security management."
+            ]
+        },
+        {
+            "job_title": "Microsoft SQL Server Database Administrator",
+            "company": "Broad Systems International",
+            "location": "Alexandria, VA",
+            "dates": "September 2012 – December 2013",
+            "key_responsibilities": [
+                "Disaster recovery and high availability planning for SQL Server replication and log shipping.",
+                "Database maintenance",
+                "backup",
+                "and recovery operations.",
+                "Migration",
+                "upgrade",
+                "and security management."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science in Public Health",
+            "institution": "Jimma University",
+            "year_of_completion": "Not provided"
+        },
+        {
+            "degree": "Associates Degree in General Studies",
+            "institution": "Northern Virginia Community College - Annandale, VA",
+            "year_of_completion": "Not provided"
+        },
+        {
+            "degree": "Associates Degree in Public Health Nursing",
+            "institution": "Alemaya University",
+            "year_of_completion": "Not provided"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "Database Administration\",\n            \"SQL Server Management\",\n            \"Data Integration (ETL)\",\n            \"Performance Monitoring\",\n            \"Backup and Recovery Operations\",\n            \"Disaster Recovery Planning"
+        ],
+        "tools_and_software": [
+            "Microsoft SQL Server\",\n            \"T-SQL\",\n            \"SQL Reporting Services (SSRS)\",\n            \"Visual Studio\",\n            \"Excel\",\n            \"Outlook\",\n            \"Microsoft Word"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

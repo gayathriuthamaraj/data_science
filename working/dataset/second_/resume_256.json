@@ -1,0 +1,72 @@
+{
+    "personal_information": {
+        "name": "Project Manager",
+        "location": "Houston, TX"
+    },
+    "professional_summary": "Experienced Project Manager with a focus on turning ideas into reality. Skilled in overseeing large groups of workers and ensuring project quotas are met. Strong administrative and cosmetology background with certifications.",
+    "work_experience": [
+        {
+            "job_title": "Project Manager",
+            "company": "Lazrador Cultivation - Castle Rock, CO",
+            "location": "Castle Rock, CO",
+            "dates": "November 2017 - June 2019",
+            "key_responsibilities": [
+                "Oversaw and directed large groups of workers.",
+                "Ensured quota was achieved.",
+                "Teamwork and general maintenance."
+            ]
+        },
+        {
+            "job_title": "Stylist",
+            "company": "Floyd's 99 Barbershop - Denver, CO",
+            "location": "Denver, CO",
+            "dates": "August 2016 - November 2017",
+            "key_responsibilities": [
+                "Used chemicals",
+                "scissors",
+                "trimmers",
+                "clippers",
+                "razors",
+                "and brushes on clients.",
+                "Performed general maintenance and styling."
+            ]
+        },
+        {
+            "job_title": "Administrative Assistant/Database Administrator",
+            "company": "LuxHomesDenver - Denver, CO",
+            "location": "Denver, CO",
+            "dates": "January 2010 - August 2016",
+            "key_responsibilities": [
+                "Answering phones and scheduling appointments.",
+                "Screening clients/background checks.",
+                "Bank deposits and website maintenance.",
+                "Checking clients in and out."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Cosmetology",
+            "institution": "Toni & Guy Hairdressing Academy - Colorado Springs, CO",
+            "year_of_completion": "2016"
+        },
+        {
+            "degree": "Music",
+            "institution": "Musicians Institute - Hollywood, CA",
+            "year_of_completion": "2012"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "Goal oriented\",\n            \"Administrative Assistant\",\n            \"Filing\",\n            \"Excel\",\n            \"Marketing\",\n            \"Receptionist\",\n            \"Scheduling\",\n            \"Sales\",\n            \"Word"
+        ],
+        "tools_and_software": [
+            ""
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

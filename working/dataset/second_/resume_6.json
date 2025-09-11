@@ -1,0 +1,75 @@
+{
+    "personal_information": {
+        "name": "Extracted Name",
+        "location": "Extracted Location"
+    },
+    "professional_summary": "Oracle DBA with expertise in database management, data migration, and system integration. Proficient in various database tools and operating systems.",
+    "work_experience": [
+        {
+            "job_title": "Database Administrator",
+            "company": "Extracted Company Name",
+            "location": "Extracted Location",
+            "dates": "2009 - 2013",
+            "key_responsibilities": [
+                "Provided routine technical support to Roche Diagnostics' customers on installation and maintenance aspects of molecular diagnostics system equipment and robotics.",
+                "Performed service",
+                "repair",
+                "and installation of company products",
+                "including mechanical/system hardware and networking/wireless networking.",
+                "Updated software and performed electrical safety tests on medical devices."
+            ]
+        },
+        {
+            "job_title": "Field Service Representative / Technician",
+            "company": "Extracted Company Name",
+            "location": "Extracted Location",
+            "dates": "2009 - 2013",
+            "key_responsibilities": [
+                "Provided routine technical support to Roche Diagnostics' customers on installation and maintenance aspects of molecular diagnostics system equipment and robotics.",
+                "Performed service",
+                "repair",
+                "and installation of company products",
+                "including mechanical/system hardware and networking/wireless networking.",
+                "Performed hardware updates on medical equipment using standard and specialized hand tools."
+            ]
+        },
+        {
+            "job_title": "Database Administrator",
+            "company": "Extracted Company Name",
+            "location": "Extracted Location",
+            "dates": "2014 - 2018",
+            "key_responsibilities": [
+                "Oracle DBA responsibilities including database management",
+                "data migration",
+                "and system integration.",
+                "Utilized Oracle RMAN for backup and recovery operations.",
+                "Performed regular maintenance tasks using Oracle tools like DBCA and ADDM."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Extracted Degree",
+            "institution": "Baker University - Overland Park, KS",
+            "year_of_completion": "General/Business/Science Courses"
+        },
+        {
+            "degree": "Extracted Degree",
+            "institution": "University of Alaska Anchorage, AK",
+            "year_of_completion": "Technical Courses"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "Oracle Databases (10g, 11g, 12c)\",\n            \"Database Tools: Oracle Enterprise Manager, SQL*Plus, SQL Loader, DB Configuration Assistant, Data Pump Exp/Imp, LogMiner, Statspack/AWR\",\n            \"Operating Systems: Linux, UNIX (Solaris 8, 9 & 10), Windows 7, 8 & 10"
+        ],
+        "tools_and_software": [
+            "Toad, OEM Grid, RMAN, SQL*Loader, Data Pump Exp/Imp, LogMiner, Statspack/AWR, Shareplex Top, DBCA, DBUA, ADDM, Oracle Migration Workbench, BMC Remedy, Erwin, Quest QDesigner"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

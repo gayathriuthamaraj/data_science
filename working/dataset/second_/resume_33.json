@@ -1,0 +1,75 @@
+{
+    "personal_information": {
+        "name": "Database Administrator",
+        "location": "Redmond, WA"
+    },
+    "professional_summary": "Experienced Database Administrator with expertise in Microsoft SQL Server, database design, implementation, and maintenance. Proven track record of creating, maintaining, and optimizing databases for academic and organizational systems.",
+    "work_experience": [
+        {
+            "job_title": "Database Administrator",
+            "company": "City of Iowa City",
+            "location": "Iowa City, IA",
+            "dates": "August 2016 to Present",
+            "key_responsibilities": [
+                "Created new databases by importing and exporting data.",
+                "Installed and configured database software for the Microsoft SQL development environment.",
+                "Designed and implemented logical and physical database structures."
+            ]
+        },
+        {
+            "job_title": "Student Administrator",
+            "company": "ITS, University of Iowa",
+            "location": "Iowa City, IA",
+            "dates": "2016 to Present",
+            "key_responsibilities": [
+                "Developed databases using PHP",
+                "SQL",
+                "and FileMaker.",
+                "Collaborated with developers and clients to create custom database solutions."
+            ]
+        },
+        {
+            "job_title": "Receptionist",
+            "company": "Office of Statewide Clinical Education Programs",
+            "location": "Iowa City, IA",
+            "dates": "April 2013 to November 2013",
+            "key_responsibilities": [
+                "Handled front desk duties.",
+                "Called doctors to verify information.",
+                "Organized paperwork."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "B.A. in Computer Science",
+            "institution": "The University of Iowa - Iowa City, IA",
+            "year_of_completion": "May 2016"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "Microsoft SQL Server",
+            "PHP",
+            "HTML5",
+            "CSS",
+            "SQL"
+        ],
+        "tools_and_software": [
+            "Windows XP",
+            "Windows 7",
+            "Mac OS",
+            "Excel",
+            "Word",
+            "PowerPoint\",\n                             \"IDLE",
+            "Visual Studio Express",
+            "Eclipse",
+            "FileMaker"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "personal_information": {
+        "name": "Extracted Name",
+        "location": "Minneapolis, MN"
+    },
+    "professional_summary": "Experienced professional with expertise in database management, administration, and optimization. Proficient in Oracle, MySQL, MS SQL Server, and other database tools. Strong problem-solving skills and ability to manage and optimize database performance across various environments.",
+    "work_experience": [
+        {
+            "job_title": "Database Administrator",
+            "company": "Extracted Company Name 1",
+            "location": "Minneapolis, MN",
+            "dates": "2020 - Present",
+            "key_responsibilities": [
+                "Administering and optimizing Oracle and MySQL databases to ensure high performance.",
+                "Performing regular backups and disaster recovery implementations.",
+                "Monitoring database activities and addressing issues proactively."
+            ]
+        },
+        {
+            "job_title": "IT Support Administrator",
+            "company": "Extracted Company Name 2",
+            "location": "Minneapolis, MN",
+            "dates": "2018 - 2020",
+            "key_responsibilities": [
+                "Providing technical support for end-users across various platforms.",
+                "Configuring and maintaining workstations and servers.",
+                "Performing hardware and software installations and upgrades."
+            ]
+        },
+        {
+            "job_title": "Database Analyst",
+            "company": "Extracted Company Name 3",
+            "location": "Minneapolis, MN",
+            "dates": "2015 - 2018",
+            "key_responsibilities": [
+                "Analyzing and optimizing database structures for better performance.",
+                "Assisting in migration and integration of databases.",
+                "Implementing backup solutions and ensuring data integrity."
+            ]
+        }
+    ],
+    "education": [],
+    "skills": {
+        "technical_skills": [
+            "Oracle 12c, 11g, 10g\",\n            \"MySQL\",\n            \"MS SQL Server\",\n            \"Database Administration\",\n            \"Database Optimization\",\n            \"Backup and Recovery\",\n            \"Disaster Recovery Planning\",\n            \"IT Support"
+        ],
+        "tools_and_software": [
+            "Toad\",\n            \"Oracle OEM Grid\",\n            \"RMAN\",\n            \"SQL\",\n            \"Windows, Linux, UNIX Operating Systems\",\n            \"VMware"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "personal_information": {
+        "name": "Extracted Name",
+        "location": "Extracted Location"
+    },
+    "professional_summary": "Experienced Database Analyst with expertise in SQL Server Administration, Data Extraction, Transformation, and Loading. Skilled in performance tuning, high availability clustering, and data mart design.",
+    "work_experience": [
+        {
+            "job_title": "Senior Database Analyst/Project Manager",
+            "company": "Canada Revenue Agency - Ontario, CA",
+            "location": "Extracted Location",
+            "dates": "October 2003 - February 2007",
+            "key_responsibilities": [
+                "Developed and maintained SQL Server databases for various projects.",
+                "Managed database users and security settings.",
+                "Created DTS packages for data extraction and transformation.",
+                "Performed performance tuning and query optimization."
+            ]
+        },
+        {
+            "job_title": "Senior Database Analyst/Project Manager",
+            "company": "Canada Revenue Agency - Ontario, CA",
+            "location": "Extracted Location",
+            "dates": "October 2003 - October 2006",
+            "key_responsibilities": [
+                "Designed and implemented data marts and cubes.",
+                "Generated reports using Microsoft Reporting Services.",
+                "Provided training and consultation to application development teams."
+            ]
+        },
+        {
+            "job_title": "Database Analyst/Project Manager",
+            "company": "Canada Revenue Agency - Ontario, CA",
+            "location": "Extracted Location",
+            "dates": "October 2003 - October 2005",
+            "key_responsibilities": [
+                "Administered SQL Server databases.",
+                "Configured failover clustering for high availability.",
+                "Monitored and optimized database performance."
+            ]
+        },
+        {
+            "job_title": "Database Analyst/Project Manager",
+            "company": "Canada Revenue Agency - Ontario, CA",
+            "location": "Extracted Location",
+            "dates": "October 2003 - February 2007",
+            "key_responsibilities": [
+                "Created and managed database users and login IDs.",
+                "Designed cubes and data marts for business needs.",
+                "Trained new hires on database administration."
+            ]
+        },
+        {
+            "job_title": "Senior Database Analyst/Project Manager",
+            "company": "Canada Revenue Agency - Ontario, CA",
+            "location": "Extracted Location",
+            "dates": "October 2003 - October 2006",
+            "key_responsibilities": [
+                "Coordinated technology and employment equity initiatives.",
+                "Performed integration testing and resolved issues."
+            ]
+        }
+    ],
+    "education": [],
+    "skills": {
+        "technical_skills": [],
+        "tools_and_software": []
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

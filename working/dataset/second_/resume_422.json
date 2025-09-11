@@ -1,0 +1,52 @@
+{
+    "personal_information": {
+        "name": "Oracle Database Administrator",
+        "location": "United States"
+    },
+    "professional_summary": "Experienced Oracle Database Administrator with expertise in database administration, backup/recovery, migration, security patches, and performance tuning.",
+    "work_experience": [
+        {
+            "job_title": "Oracle Database Administrator",
+            "company": "Extracted Company Name",
+            "location": "United States",
+            "dates": "2016 - Present",
+            "key_responsibilities": [
+                "Administering Oracle databases in a high-availability and disaster-recovery environment.",
+                "Performing regular maintenance tasks such as backup and recovery using RMAN",
+                "DataPump",
+                "and conventional Export/Import.",
+                "Migrating and consolidating databases using Oracle 12c multitenant technology.",
+                "Applying security patches",
+                "including Critical Patch Updates (CPU)",
+                "Patch Set Updates (PSU)",
+                "and One-off Patches using runInstaller and Perl-based utilities like opatch.",
+                "Tuning database performance by optimizing I/O",
+                "memory",
+                "and CPU utilization",
+                "as well as tuning SQL and SGA/Shared Pool settings using tools like EXPLAIN PLAN",
+                "STATSPACK",
+                "and TKPROF."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Associate's Degree",
+            "institution": "ITT Technical Institute",
+            "year_of_completion": "2016"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "SQL\",\n            \"PL/SQL\",\n            \"Shell Scripting\",\n            \"Database Administration\",\n            \"Database Performance Tuning\",\n            \"Backup and Recovery\",\n            \"Data Migration\",\n            \"Data Pump\",\n            \"Export/Import Tools\",\n            \"Transportable Tablespaces\",\n            \"Oracle 11g R1 and 12c DBA"
+        ],
+        "tools_and_software": [
+            "EXPLAIN PLAN\",\n            \"STATSPACK\",\n            \"AWR\",\n            \"ADDM\",\n            \"TKPROF\",\n            \"Toad\",\n            \"Putty\",\n            \"NX Client\",\n            \"WinSCP\",\n            \"Remote Desktop Connection\",\n            \"VNC\",\n            \"Cisco VPN Client\",\n            \"SecureVPN"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

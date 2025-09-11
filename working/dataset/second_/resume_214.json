@@ -1,0 +1,73 @@
+{
+    "personal_information": {
+        "name": "HealthShare Developer",
+        "location": "Melbourne, FL"
+    },
+    "professional_summary": "Experienced HealthShare Developer with expertise in database management, enterprise application integration, and software development. Skilled in SQL optimization, system design, and cross-platform compatibility.",
+    "work_experience": [
+        {
+            "job_title": "HealthShare Developer",
+            "company": "Favor TechConsulting LLC",
+            "location": "Melbourne, FL",
+            "dates": "2014 - Present",
+            "key_responsibilities": [
+                "Designing and implementing health data sharing solutions.",
+                "Managing large-scale database systems for healthcare applications.",
+                "Optimizing database performance for improved system efficiency."
+            ]
+        },
+        {
+            "job_title": "Database Administrator",
+            "company": "Juniper Networks",
+            "location": "Melbourne, FL",
+            "dates": "2012 - 2014",
+            "key_responsibilities": [
+                "Administering and optimizing enterprise-level databases.",
+                "Ensuring database security and integrity.",
+                "Performing regular maintenance and backup operations."
+            ]
+        },
+        {
+            "job_title": "Software Developer",
+            "company": "Forsys Inc",
+            "location": "Melbourne, FL",
+            "dates": "2010 - 2012",
+            "key_responsibilities": [
+                "Developing custom software applications for healthcare and enterprise solutions.",
+                "Collaborating with cross-functional teams to deliver robust software products.",
+                "Implementing and integrating third-party APIs for enhanced functionality."
+            ]
+        },
+        {
+            "job_title": "Junior Developer",
+            "company": "ECIL",
+            "location": "Bangalore, India",
+            "dates": "2009 - 2010",
+            "key_responsibilities": [
+                "Assisting in software development and debugging.",
+                "Contributing to system design and architecture.",
+                "Ensuring code quality and performance optimization."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master's",
+            "institution": "Unknown",
+            "year_of_completion": "2010"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "Database Development\",\n            \"Enterprise Application Integration (EAI)\",\n            \"SQL Optimization\",\n            \"System Design\",\n            \"Cross-Platform Compatibility"
+        ],
+        "tools_and_software": [
+            "MS Office Suite\",\n            \"MUMPS\",\n            \"SQL\",\n            \"C++\",\n            \"HTML\",\n            \"HTTP\",\n            \"SMTP\",\n            \"SOAP\",\n            \"JAX\",\n            \"UNIX\",\n            \"REST\",\n            \"MAC\",\n            \"JavaScript\",\n            \"XML\",\n            \"Linux"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

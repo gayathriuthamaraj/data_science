@@ -1,0 +1,75 @@
+{
+    "personal_information": {
+        "name": "Extracted Name",
+        "location": "Extracted Location"
+    },
+    "professional_summary": "Database Administrator with expertise in Oracle and PostgreSQL databases, experienced in managing large-scale database systems, ensuring high performance, availability, and security.",
+    "work_experience": [
+        {
+            "job_title": "Oracle/PostgreSQL Database Administrator",
+            "company": "DirecTV - El Segundo, CA",
+            "location": "El Segundo, CA",
+            "dates": "January 2013 - February 2014",
+            "key_responsibilities": [
+                "Installed",
+                "configured and maintained Oracle Databases 11g/10g/9i on Real Application Cluster (RAC) with ASM and without ASM.",
+                "Provided support on DB service outage calls due to infrastructure slowness or failures",
+                "performing end-to-end diagnostics and providing immediate fixes following RCA.",
+                "Monitored SQL plan changes",
+                "analyzed SQLHC and SQLT reports",
+                "and implemented best practices for query stability using SQL Profiles and SQL plan baselines."
+            ]
+        },
+        {
+            "job_title": "Oracle/PostgreSQL Database Administrator",
+            "company": "DirectTV - El Segundo, CA",
+            "location": "El Segundo, CA",
+            "dates": "January 2013 - February 2014",
+            "key_responsibilities": [
+                "Installed",
+                "configured and maintained Oracle Databases 11g/10g/9i on Real Application Cluster (RAC) with ASM and without ASM.",
+                "Provided support on DB service outage calls due to infrastructure slowness or failures",
+                "performing end-to-end diagnostics and providing immediate fixes following RCA.",
+                "Monitored SQL plan changes",
+                "analyzed SQLHC and SQLT reports",
+                "and implemented best practices for query stability using SQL Profiles and SQL plan baselines."
+            ]
+        },
+        {
+            "job_title": "Oracle/PostgreSQL Database Administrator",
+            "company": "DirecTV - El Segundo, CA",
+            "location": "El Segundo, CA",
+            "dates": "January 2013 - February 2014",
+            "key_responsibilities": [
+                "Installed",
+                "configured and maintained Oracle Databases 11g/10g/9i on Real Application Cluster (RAC) with ASM and without ASM.",
+                "Provided support on DB service outage calls due to infrastructure slowness or failures",
+                "performing end-to-end diagnostics and providing immediate fixes following RCA.",
+                "Monitored SQL plan changes",
+                "analyzed SQLHC and SQLT reports",
+                "and implemented best practices for query stability using SQL Profiles and SQL plan baselines."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Science in Information Systems Engineering & Management",
+            "institution": "Harrisburg University of Science and Technology",
+            "year_of_completion": "May 2019"
+        },
+        {
+            "degree": "Master of Science in Electrical Engineering",
+            "institution": "State University of New York at New Paltz - New Paltz, NY",
+            "year_of_completion": "December 2012"
+        }
+    ],
+    "skills": {
+        "technical_skills": [],
+        "tools_and_software": []
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

@@ -1,0 +1,76 @@
+{
+    "personal_information": {
+        "name": "John Doe",
+        "location": "North Carolina/Maryland Region"
+    },
+    "professional_summary": "Experienced Senior Oracle DBA with over 15 years of expertise in RMAN, DataGuard, and RAC. Skilled in database administration, performance tuning, backup/recovery strategies, schema management, user access control, and capacity planning.",
+    "work_experience": [
+        {
+            "job_title": "Senior Oracle Database Administrator",
+            "company": "Hanes Brands, Inc - Salem, NC",
+            "location": "Salem, NC",
+            "dates": "May 2011 - June 2013",
+            "key_responsibilities": [
+                "Responsible for the day-to-day administration and monitoring of production databases",
+                "ensuring proactive problem recognition and resolution.",
+                "Installed and implemented a two-node 11g RAC on ASM featuring Oracle and Linux.",
+                "Proactively monitored databases using 11g Grid Monitoring Tool and handled large database environments using Informatica ETL tools and Business Objects."
+            ]
+        },
+        {
+            "job_title": "Oracle Database Administrator",
+            "company": "Hanes Brands, Inc - Salem, NC",
+            "location": "Salem, NC",
+            "dates": "May 2011 - April 2015",
+            "key_responsibilities": [
+                "Performed 24/7 production database administration and support",
+                "including monitoring and problem resolution.",
+                "Installed 11g RAC on ASM with Linux and implemented proactive monitoring using Grid Monitoring Tool.",
+                "Used RMAN for backup and recovery",
+                "implementing hot/cold backup plans",
+                "and customized Korn shell scripts."
+            ]
+        },
+        {
+            "job_title": "Oracle Database Administrator",
+            "company": "Hanes Brands, Inc - Salem, NC",
+            "location": "Salem, NC",
+            "dates": "May 2011 - April 2015",
+            "key_responsibilities": [
+                "Managed schemas",
+                "objects",
+                "and partitioned tables/indexes",
+                "automating data loads with Korn shell scripting.",
+                "Responsible for user account management and granting privileges",
+                "performing regular DBA activities including space management and performance monitoring.",
+                "Involved in Oracle server installations/upgrades/patches",
+                "disaster recovery planning",
+                "database performance tuning",
+                "memory tuning",
+                "application tuning",
+                "security administration",
+                "and data warehousing."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "B.S. in Psychology",
+            "institution": "University of Maryland Baltimore County - Baltimore, MD",
+            "year_of_completion": "2015"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "Database Administration\",\n            \"Oracle DBA\",\n            \"RMAN\",\n            \"DataGuard\",\n            \"RAC\",\n            \"Performance Tuning\",\n            \"Backup/Recovery Strategies\",\n            \"Schema Management\",\n            \"User Access Control\",\n            \"Capacity Planning"
+        ],
+        "tools_and_software": [
+            "TOAD\",\n            \"Erwin\",\n            \"SQL Developer\",\n            \"Informatica\",\n            \"Oracle 11g Administration\",\n            \"Microsoft SQL Server"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

@@ -1,0 +1,57 @@
+{
+    "personal_information": {
+        "name": "Extracted Name",
+        "location": "Gainesville, GA"
+    },
+    "professional_summary": "Experienced Database Administrator with expertise in SQL Server, data migration, disaster recovery, performance tuning, and high availability solutions. Proficient in various database administration tasks and technologies including VMWare, Azure, AWS, and ETL/SSIS processes.",
+    "work_experience": [
+        {
+            "job_title": "Database Administrator",
+            "company": "BOSS Dave Engineering",
+            "location": "Gainesville, GA",
+            "dates": "January 2012 - January 2013",
+            "key_responsibilities": [
+                "Installed and configured SQL Server 2008",
+                "2008R2",
+                "2012",
+                "2014 across various platforms including Windows NT",
+                "Server 2003",
+                "2008",
+                "2008r2",
+                "2012R2.",
+                "Managed data center operations supporting over 120TB of data through partitioning",
+                "transactional replication",
+                "log shipping",
+                "mirroring",
+                "and clustering techniques.",
+                "Performed database upgrades and migrations for SQL Server versions including 2005",
+                "2008",
+                "2010",
+                "and 2012R2."
+            ]
+        },
+        {
+            "job_title": "Database Administrator",
+            "company": "BOSS Dave Engineering",
+            "location": "Gainesville, GA",
+            "dates": "January 2014 - Present",
+            "key_responsibilities": [
+                "Configured and maintained high-availability solutions including Always ON",
+                "mirroring",
+                "and replication for SQL Server databases.",
+                "Enhanced database security through the creation of user-defined server roles in SQL Server 2008 and 2008R2 for clients.",
+                "Utilized the 'Partially contained database' feature to facilitate data migration and refresh operations."
+            ]
+        }
+    ],
+    "education": [],
+    "skills": {
+        "technical_skills": [],
+        "tools_and_software": []
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

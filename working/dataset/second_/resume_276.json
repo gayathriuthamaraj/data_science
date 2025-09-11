@@ -1,0 +1,61 @@
+{
+    "personal_information": {
+        "name": "Extracted Name",
+        "location": "San Francisco, CA"
+    },
+    "professional_summary": "Business Analyst with experience in project management, data integration, and HR reporting. Skilled in SQL, Business Intelligence tools, and providing actionable insights for retail and HR analytics.",
+    "work_experience": [
+        {
+            "job_title": "Business Analyst for People Analytics",
+            "company": "William-Sonoma Inc.",
+            "location": "San Francisco, CA",
+            "dates": "January 2017 - August 2019",
+            "key_responsibilities": [
+                "Project management",
+                "implementation",
+                "and administration of Retail Sales and HR data into the Zeroed in dashboard.",
+                "Reduced the number of push reports by 80% in Retail and 30% in Corporate.",
+                "Provided reporting and business insights for Retail teams across 600 locations."
+            ]
+        },
+        {
+            "job_title": "Database Administrator/ Digital Data Specialist",
+            "company": "Democratic Senatorial Campaign Committee",
+            "location": "Washington, DC",
+            "dates": "September 2012 - January 2017",
+            "key_responsibilities": [
+                "Created models to analyze trends in email participation and donation patterns using IBM SPSS.",
+                "Implemented custom email campaigns based on data attributes.",
+                "Transitioned email and donation data across T-SQL and Amazon Redshift systems."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor's of Arts",
+            "institution": "American University",
+            "year_of_completion": "2012"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "SQL",
+            "Excel",
+            "MS Office",
+            "Business Intelligence",
+            "Powerpoint"
+        ],
+        "tools_and_software": [
+            "Tableau",
+            "SQL Server",
+            "IBM SPSS",
+            "T-SQL",
+            "Amazon Redshift"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

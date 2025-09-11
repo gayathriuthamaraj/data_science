@@ -1,0 +1,62 @@
+{
+    "personal_information": {
+        "name": "Database Developer",
+        "location": "California"
+    },
+    "professional_summary": "Experienced Database Developer with expertise in Data Warehousing, ETL processes, and network administration. Proficient in SQL Server, SSIS/SSRS, and various BI tools.",
+    "work_experience": [
+        {
+            "job_title": "Database Developer",
+            "company": "Guardian International",
+            "location": "Alhambra, CA",
+            "dates": "October 2014 - March 2016",
+            "key_responsibilities": [
+                "Designed and implemented data warehouse models using Star Schema.",
+                "Managed ETL processes for extracting",
+                "transforming",
+                "and loading data.",
+                "Created staging databases and secured data with encryption techniques."
+            ]
+        },
+        {
+            "job_title": "Database Developer",
+            "company": "Guardian International",
+            "location": "Alhambra, CA",
+            "dates": "February 2013 - October 2014",
+            "key_responsibilities": [
+                "Responsible for network administration and system maintenance.",
+                "Monitored network performance and troubleshooted issues."
+            ]
+        },
+        {
+            "job_title": "Network Administrator",
+            "company": "Guardian International",
+            "location": "Alhambra, CA",
+            "dates": "February 2013 - October 2014",
+            "key_responsibilities": [
+                "Performed systems operations and maintenance.",
+                "Administered group policies and active directory on Windows OS."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Computer Information",
+            "institution": "California State University",
+            "year_of_completion": "n/a"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "Database Development\",\n            \"Data Warehousing\",\n            \"ETL Processes\",\n            \"SQL Server 2008/R2/2012/2017\",\n            \"SSIS/SSRS\",\n            \"Star Schema\",\n            \"Windows Server (2003/2008/R2/2012)"
+        ],
+        "tools_and_software": [
+            "Visio for Data Modeling\",\n            \"Microsoft Visual Studio 2008\",\n            \"BIDS/SSDT"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

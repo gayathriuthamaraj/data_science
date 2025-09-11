@@ -1,0 +1,73 @@
+{
+    "personal_information": {
+        "name": "Extracted Name",
+        "location": "Canton, GA"
+    },
+    "professional_summary": "Experienced Oracle Database Administrator with over 8 years of expertise in managing Oracle databases across multiple platforms. Proficient in RAC, ASM, Data Guard, and Golden Gate. Strong communication and problem-solving skills.",
+    "work_experience": [
+        {
+            "job_title": "Oracle Database Administrator",
+            "company": "General Motors",
+            "location": "Canton, GA",
+            "dates": "February 2014 - Present",
+            "key_responsibilities": [
+                "Administering Oracle databases across various platforms including HP-UX",
+                "SunOS/Solaris",
+                "Linux",
+                "AIX",
+                "and Windows Server.",
+                "Performing regular database maintenance",
+                "backup",
+                "recovery",
+                "and optimization.",
+                "Implementing and managing RAC (Real Application Clusters) and ASM (Automatic Storage Management)."
+            ]
+        },
+        {
+            "job_title": "Oracle Database Administrator",
+            "company": "IBM",
+            "location": "Canton, GA",
+            "dates": "February 2014 - April 2014",
+            "key_responsibilities": [
+                "Upgrading and transitioning databases from older versions to Oracle 11g and 10g.",
+                "Configuring and managing Oracle RMAN (Recovery Manager) for backup and recovery.",
+                "Performing database exports and imports using Data Pump technology."
+            ]
+        },
+        {
+            "job_title": "Technical Support Engineer",
+            "company": "PC Tech",
+            "location": "Canton, GA",
+            "dates": "Unknown - Unknown",
+            "key_responsibilities": [
+                "Providing technical support for IT infrastructure and applications.",
+                "Assisting in database management and system optimization."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Science in Information Systems",
+            "institution": "Kennesaw State University",
+            "year_of_completion": "2009"
+        },
+        {
+            "degree": "Bachelor of Engineering in Computer Engineering",
+            "institution": "University of Benin",
+            "year_of_completion": "2005"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "Oracle Databases (8i, 9i, 10g, 11g)\",\n            \"RAC and Grid Infrastructure with ASM\",\n            \"Oracle RMAN, Data Guard, Golden Gate\",\n            \"Oracle Enterprise Manager, Recovery Manager (RMAN)\",\n            \"Data Pump Export/Import, Regular Export/Import"
+        ],
+        "tools_and_software": [
+            "HP-UX, SunOS/Solaris, Linux, AIX, Windows Server\",\n            \"OpenText, Putty, Hummingbird, WinSCP, Remote Desktop Connection"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

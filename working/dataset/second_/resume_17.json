@@ -1,0 +1,83 @@
+{
+    "personal_information": {
+        "name": "Extracted Name",
+        "location": "Extracted Location"
+    },
+    "professional_summary": "Over 5+ years of experience in SQL Server Database Administration, Performance Analysis, Database Design, Development and Support. Proven expertise in optimizing database performance, designing robust solutions, and ensuring high availability through replication and clustering.",
+    "work_experience": [
+        {
+            "job_title": "SQL Database Administrator/Developer",
+            "company": "Avant Network",
+            "location": "Alexandria, VA",
+            "dates": "Over 5+ years of experience",
+            "key_responsibilities": [
+                "Providing 24x7 dedicated production and technical database support for SQL Server systems.",
+                "Installing",
+                "configuring",
+                "and maintaining MS SQL Server 2005",
+                "2008",
+                "2012",
+                "and 2014.",
+                "Designing and developing databases",
+                "tables",
+                "views",
+                "stored procedures",
+                "triggers",
+                "and indexes."
+            ]
+        },
+        {
+            "job_title": "SQL Database Administrator/Developer",
+            "company": "ITSC PLC",
+            "location": "Addis Ababa, ETH",
+            "dates": "September 2013 - August 2014",
+            "key_responsibilities": [
+                "Database development and business intelligence technologies using MS SQL Server.",
+                "Constructing complex database objects like stored procedures",
+                "functions",
+                "packages",
+                "and triggers using T-SQL.",
+                "Creating ETL packages involving various data sources (SQL Server",
+                "Access",
+                "Excel) using MS SSIS."
+            ]
+        },
+        {
+            "job_title": "Graphic Design Assistant",
+            "company": "SEMS STUDIO PLC",
+            "location": "Addis Ababa, ETH",
+            "dates": "October 2009 - November 2011",
+            "key_responsibilities": [
+                "Assisting in graphic design projects and creative concept development.",
+                "Using tools like Adobe Photoshop and Illustrator for visual designs."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Extracted Degree",
+            "institution": "Extracted University Name",
+            "year_of_completion": "Year"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "SQL Server",
+            "Microsoft SQL Server",
+            "Database Administration",
+            "Performance Analysis",
+            "Database Design"
+        ],
+        "tools_and_software": [
+            "SSRS",
+            "Red Gate",
+            "Adobe Photoshop",
+            "Illustrator"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

@@ -1,0 +1,63 @@
+{
+    "personal_information": {
+        "name": "Lyan Baek",
+        "location": "Los Angeles, CA"
+    },
+    "professional_summary": "Expert sales broker and business developer with front and back office experience. Led corporate-level projects as Project Manager and coordinated IT developments for federal regulations compliance. Holds a strong technical background as a programmer with expertise in finance and accounting.",
+    "work_experience": [
+        {
+            "job_title": "Derivatives (HFT) Sales Broker",
+            "company": "NH Investment & Securities",
+            "location": "Seoul, KR",
+            "dates": "November 2011 - June 2017",
+            "key_responsibilities": [
+                "Consulted with corporate clients on investment opportunities and trading systems.",
+                "Created detailed documentation using real-time market data for trading strategies.",
+                "Achieved over 40% market share in options traded on the KRX exchange."
+            ]
+        },
+        {
+            "job_title": "Business Developer",
+            "company": "Daishin Securities",
+            "location": "Seoul, KR",
+            "dates": "August 2010 - November 2011",
+            "key_responsibilities": [
+                "Onboarded two corporate clients and developed operational guidelines for algorithmic trading.",
+                "Cultivated client relationships to introduce derivatives and treasury bonds."
+            ]
+        },
+        {
+            "job_title": "Database Administrator",
+            "company": "E-BEST Securities",
+            "location": "Seoul, KR",
+            "dates": "December 2008 - August 2010",
+            "key_responsibilities": [
+                "Managed Oracle databases and applications.",
+                "Coordinated with vendors and departments for compliance with federal regulations."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor's in Computer Engineering",
+            "institution": "Hongik University",
+            "year_of_completion": "2009"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "Programming",
+            "Accounting Knowledge"
+        ],
+        "tools_and_software": [
+            "Oracle Applications",
+            "Outlook",
+            "Excel"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

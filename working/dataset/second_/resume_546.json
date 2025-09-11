@@ -1,0 +1,51 @@
+{
+    "personal_information": {
+        "name": "",
+        "location": "Tamil Nadu, India"
+    },
+    "professional_summary": "Experienced in SQL Server administration, ETL processes, and report generation using SSRS. Expertise in designing high-availability solutions and maintaining database jobs and maintenance plans.",
+    "work_experience": [
+        {
+            "job_title": "Database Administrator",
+            "company": "Education B Tech",
+            "location": "Tamil Nadu, India",
+            "dates": "2015 - 2020",
+            "key_responsibilities": [
+                "Performed SQL Server administration and optimization.",
+                "Developed SSIS ETL packages for data integration and loading into data warehouses.",
+                "Generated reports using SSRS for diverse stakeholders."
+            ]
+        },
+        {
+            "job_title": "Data Integration Specialist",
+            "company": "XYZ Tech Solutions",
+            "location": "Tamil Nadu, India",
+            "dates": "2013 - 2015",
+            "key_responsibilities": [
+                "Designed and implemented SSIS solutions for data integration.",
+                "Configured SSRS reports tailored to user requirements.",
+                "Maintained and scheduled ETL jobs and maintenance plans."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "B Tech",
+            "institution": "Jawaharlal Nehru Technological University - Ananthapur, Tamil Nadu, India",
+            "year_of_completion": "2016"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "MS SQL Server (2000/2005, 2008 R2/2012/2014/2016)\",\n            \"SSMS, SSIS, SSRS, Profiler\",\n            \"Extended Events, Query Analyzer"
+        ],
+        "tools_and_software": [
+            "Windows Operating Systems: MS-DOS, Windows 7, 8, 10, XP; Windows Server 2003, 2008 R2, 2012, 2012 R2\",\n            \"ServiceNow"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

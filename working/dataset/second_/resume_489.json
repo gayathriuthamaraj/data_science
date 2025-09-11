@@ -1,0 +1,74 @@
+{
+    "personal_information": {
+        "name": "zinaw2017",
+        "location": "Los Angeles, CA"
+    },
+    "professional_summary": "Experienced SQL Server Database Administrator with expertise in database design, performance optimization, disaster recovery, and data security. Proficient in managing backups and maintaining high-availability systems. Strong emphasis on regulatory compliance and detailed documentation.",
+    "work_experience": [
+        {
+            "job_title": "SQL Server DBA",
+            "company": "YAYOBE IT Solutions",
+            "location": "Los Angeles, CA",
+            "dates": "2012 - 2014",
+            "key_responsibilities": [
+                "Administered and maintained Microsoft SQL Server databases across multiple environments.",
+                "Designed and implemented complex database solutions to support business applications.",
+                "Optimized database performance through index management and query tuning."
+            ]
+        },
+        {
+            "job_title": "Database Administrator",
+            "company": "YAYOBE IT Solutions",
+            "location": "Los Angeles, CA",
+            "dates": "2013 - 2014",
+            "key_responsibilities": [
+                "Assisted in the development of database systems adhering to regulatory requirements.",
+                "Performed unit testing to ensure system stability and performance.",
+                "Supported production rotations by providing documentation and process knowledge."
+            ]
+        },
+        {
+            "job_title": "Database Administrator Intern",
+            "company": "YAYOBE IT Solutions",
+            "location": "Los Angeles, CA",
+            "dates": "June 2013 - December 2013",
+            "key_responsibilities": [
+                "Assisted in the setup and configuration of new database systems.",
+                "Learned and applied processes for maintaining and updating databases.",
+                "Provided support during production system upgrades and patches."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor's in Computer Science",
+            "institution": "Alemaya University",
+            "year_of_completion": "2020"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "SQL Server Administration",
+            "Database Design",
+            "Performance Optimization",
+            "Disaster Recovery Planning",
+            "Data Security Management",
+            "Backup Strategies"
+        ],
+        "tools_and_software": [
+            "Microsoft SQL Server",
+            "TOAD",
+            "Query Analyzer",
+            "Power Shell",
+            "Windows 2003",
+            "Windows 2008",
+            "Windows 2010",
+            "MS Office"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

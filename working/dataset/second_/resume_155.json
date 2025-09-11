@@ -1,0 +1,40 @@
+{
+    "personal_information": {
+        "name": "Extracted Name",
+        "location": "Saint Paul, MN"
+    },
+    "professional_summary": "Operations Manager with experience in operations management, client relations, employee relations, and administration. Possesses strong communication, leadership skills, and a commitment to ethical standards. former NCAA college football player emphasizing teamwork and dedication.",
+    "work_experience": [],
+    "education": [],
+    "skills": {
+        "technical_skills": [
+            "Leadership",
+            "Communication",
+            "Problem-Solving",
+            "Strategic Planning",
+            "Training",
+            "Goal Orientation",
+            "Self-Motivation",
+            "Teamwork",
+            "Staff Training",
+            "Quality Assurance",
+            "Client Relations",
+            "Policy Improvements",
+            "Employee Relations"
+        ],
+        "tools_and_software": [
+            "Microsoft Office Suite",
+            "Adobe Audition",
+            "Illustrator",
+            "Ableton Live",
+            "Photoshop",
+            "Animation",
+            "After Effects"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

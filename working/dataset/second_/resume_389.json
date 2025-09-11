@@ -1,0 +1,76 @@
+{
+    "personal_information": {
+        "name": "Extracted Name",
+        "location": "New York"
+    },
+    "professional_summary": "Experienced SQL Database Administrator and Systems Analyst with expertise in managing and optimizing large-scale database environments. Proficient in implementing high-availability solutions, performance tuning, storage management, and data security across various platforms including on-premises and cloud (AWS EC2) environments. Strong background in migrating databases to cloud platforms, configuring log shipping, replication, and failover clustering. Adept at troubleshooting complex issues and improving system performance through root cause analysis.",
+    "work_experience": [
+        {
+            "job_title": "SQL Database Administrator/Systems Analyst",
+            "company": "Unicon Inc.",
+            "location": "New York",
+            "dates": "March 2011 - May 2014",
+            "key_responsibilities": [
+                "Installed",
+                "configured",
+                "and maintained SQL Server 2005",
+                "2008 R2",
+                "2012",
+                "and 2014 (Clustered/Standalone and VM) in Development",
+                "Test",
+                "and Production environments.",
+                "Applied service packs/hotfixes on SQL Server instances to address security vulnerabilities and upgrade related issues.",
+                "Migrated and upgraded SQL Server 2005/2008 to SQL Server 2012/2014",
+                "transferring logins",
+                "data",
+                "and log files",
+                "backup files",
+                "and jobs for a side-by-side upgrade/migration."
+            ]
+        },
+        {
+            "job_title": "SQL Database Administrator",
+            "company": "Unisys",
+            "location": "New York",
+            "dates": "October 2008 - March 2011",
+            "key_responsibilities": [
+                "Managed Backup/Restore and Point-in-Time Recovery including backup verification and security.",
+                "Configured",
+                "monitored",
+                "and troubleshooting Log Shipping/Replication (Transactional and Merge).",
+                "Configured and maintained SQL Server 2012 Fail-Over Clustering and Always-On Availability Groups."
+            ]
+        },
+        {
+            "job_title": "Private Individual",
+            "company": "Self-Employed",
+            "location": "New York",
+            "dates": "1995 - Present",
+            "key_responsibilities": [
+                "Provided SQL Server administration",
+                "migration",
+                "and performance optimization services for various clients.",
+                "Implemented high-availability solutions including clustering",
+                "log shipping",
+                "replication",
+                "and Always-On.",
+                "Conducted regular performance tuning and root cause analysis to optimize database performance.",
+                "Managed storage solutions and ensured data security compliance with industry standards."
+            ]
+        }
+    ],
+    "education": [],
+    "skills": {
+        "technical_skills": [
+            "SQL Server Administration\",\n            \"High Availability Solutions\",\n            \"Performance Tuning and Optimization\",\n            \"Storage Management\",\n            \"Data Security and Compliance\",\n            \"Root Cause Analysis\",\n            \"Database Migration to Cloud\",\n            \"Log Shipping and Replication\",\n            \"Fail-Over Clustering\",\n            \"Data Modeling"
+        ],
+        "tools_and_software": [
+            "ServiceNow\",\n            \"BMC Control-M\",\n            \"AWS EC2\",\n            \"Microsoft SQL Server\",\n            \"Oracle Database Administration\",\n            \"RedGate\",\n            \"TFS\",\n            \"Oracle RDBMS\",\n            \"Service Pack/Hotfix"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

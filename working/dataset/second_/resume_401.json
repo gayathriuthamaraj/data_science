@@ -1,0 +1,67 @@
+{
+    "personal_information": {
+        "name": "Extracted Name",
+        "location": "Extracted Location"
+    },
+    "professional_summary": "Experienced Oracle Database Administrator with expertise in database management, backup and recovery strategies, performance tuning, and 24/7 production support.",
+    "work_experience": [
+        {
+            "job_title": "Oracle Database Administrator",
+            "company": "Oracle Corporation",
+            "location": "Lehi, UT",
+            "dates": "2016 - Present",
+            "key_responsibilities": [
+                "Implementation and management of Oracle databases across multiple environments.",
+                "Design and execution of backup and recovery strategies to ensure data integrity.",
+                "Performance tuning and optimization of database queries and applications."
+            ]
+        },
+        {
+            "job_title": "Oracle Database Administrator",
+            "company": "Corporate Express",
+            "location": "Extracted Location",
+            "dates": "2014 - 2016",
+            "key_responsibilities": [
+                "User management",
+                "space management",
+                "and database security management.",
+                "Implementation of backup and recovery strategies using RMAN.",
+                "Database cloning and migration using RMAN and Data Pump utilities."
+            ]
+        },
+        {
+            "job_title": "Oracle Database Administrator",
+            "company": "TCF Bank",
+            "location": "Extracted Location",
+            "dates": "2012 - 2014",
+            "key_responsibilities": [
+                "Implementation of recovery strategies and database restoration during crashes.",
+                "Performance monitoring and tuning for ensuring optimal database performance.",
+                "Monitoring physical I/O and proper sizing of rollback segments."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "B.S. in Information Systems and Cyber Security",
+            "institution": "Columbia Southern University",
+            "year_of_completion": "Extracted Year"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "DBA",
+            "Oracle DBA",
+            "RMAN",
+            "Datapump"
+        ],
+        "tools_and_software": [
+            ""
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

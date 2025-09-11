@@ -1,0 +1,29 @@
+{
+    "personal_information": {
+        "name": "Extracted Name",
+        "location": "Fairfax, VA"
+    },
+    "professional_summary": "4+ years IT experience with 5+ years of agile coaching, leading teams through agile transformation and 2 years of Oracle database administration practice. Passionate agile practitioner with broad knowledge in agile-scrum principles and software development life cycle.",
+    "work_experience": [],
+    "education": [
+        {
+            "degree": "Master's in Business and Management",
+            "institution": "Liverpool Hope University",
+            "year_of_completion": ""
+        },
+        {
+            "degree": "Master's in Leadership and Management",
+            "institution": "Liverpool Hope University",
+            "year_of_completion": ""
+        }
+    ],
+    "skills": {
+        "technical_skills": [],
+        "tools_and_software": []
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

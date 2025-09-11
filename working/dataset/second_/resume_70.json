@@ -1,0 +1,53 @@
+{
+    "personal_information": {
+        "name": "Extracted Name",
+        "location": "Austin, TX"
+    },
+    "professional_summary": "Experienced SQL Server Database Administrator with expertise in performance tuning, transactional replication, and database mirroring. Proficient in optimizing database systems for high performance and supporting large-scale applications across cloud platforms such as AWS and Azure.",
+    "work_experience": [
+        {
+            "job_title": "SQL Server DBA",
+            "company": "Dimensional Fund Advisors",
+            "location": "Austin, TX",
+            "dates": "February 2011 - March 2013",
+            "key_responsibilities": [
+                "Installed and configured SQL Server 2005/2000 on new servers with service packs.",
+                "Migrated databases from SQL Server 2000 to SQL Server 2005.",
+                "Expertise in setting up and troubleshooting Database mirroring."
+            ]
+        },
+        {
+            "job_title": "SQL Server DBA",
+            "company": "AWS, RDS",
+            "location": "Austin, TX",
+            "dates": "April 2010 - January 2011",
+            "key_responsibilities": [
+                "Worked on log shipping for synchronization of database.",
+                "Expertise in working with Transactional Replication Environment and handled the publication conflicts manually depending on last changed date.",
+                "Checked the configuration and performance of the existing databases including data file allocation",
+                "index fill factor",
+                "fragmentation and the impact on system performance."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor's",
+            "institution": "Not specified",
+            "year_of_completion": "Not specified"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "SQL Server Administration\",\n            \"Database Mirroring\",\n            \"Transactional Replication\",\n            \"Performance Tuning\",\n            \"Transparent Data Encryption (TDE)\",\n            \"Query Tuning\",\n            \"Statistics Update\",\n            \"Index Rebuild\",\n            \"Log File Monitoring\",\n            \"Deadlock Resolution\",\n            \"Fragmentation Issues"
+        ],
+        "tools_and_software": [
+            "SSRS\",\n            \"SSIS\",\n            \"Azure\",\n            \"AWS RDS\",\n            \"Windows 2008, 2012\",\n            \"XML\",\n            \"IIS\",\n            \"Access\",\n            \"Excel"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

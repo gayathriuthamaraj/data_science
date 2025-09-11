@@ -1,0 +1,83 @@
+{
+    "personal_information": {
+        "name": "Todd Lastrapes",
+        "location": "Opelousas, LA"
+    },
+    "professional_summary": "Experienced professional with expertise in program management, compliance, and database administration. Strong skills in data management, documentation, and communication.",
+    "work_experience": [
+        {
+            "job_title": "Program Director",
+            "company": "Todd Lastrapes Memorial Foundation",
+            "location": "Opelousas, LA",
+            "dates": "December 2018 - Present",
+            "key_responsibilities": [
+                "Plans and executes programs for a 501(c)(3) non-profit organization.",
+                "Researches and applies for funding."
+            ]
+        },
+        {
+            "job_title": "Business Operations Specialist",
+            "company": "KAIROS CAPITAL, LLC (formerly Bedrock Management Solutions)",
+            "location": "Kennesaw, GA",
+            "dates": "April 2017 - November 2018",
+            "key_responsibilities": [
+                "Led property management personnel to identify",
+                "minimize and resolve operational risks.",
+                "Reduced manual invoice entries by 75% and improved monthly financial report generation by 80% through process improvement.",
+                "Assisted accounting with accounts receivables",
+                "invoice payment processing",
+                "and monthly financial reports.",
+                "Communicated with vendors to resolve payment and billing issues."
+            ]
+        },
+        {
+            "job_title": "Program Manager, Grants & Outcomes",
+            "company": "PRIME ONCOLOGY",
+            "location": "Atlanta, GA",
+            "dates": "October 2016 - April 2017",
+            "key_responsibilities": [
+                "Analyzed data and generated outcome reports for medical education programs to meet closeout timelines.",
+                "Prepared and submitted grant proposals for oncology educational programs."
+            ]
+        },
+        {
+            "job_title": "Compliance Program Manager / Administrator",
+            "company": "CONISUS, LLC",
+            "location": "Atlanta, GA",
+            "dates": "July 2012 - December 2015",
+            "key_responsibilities": [
+                "Managed development and implementation of an ethical company-wide compliance program.",
+                "Standardized and documented processes for data collection and analysis",
+                "document storage",
+                "and program reconciliation.",
+                "Initiated audit processes",
+                "reducing program closeouts from 60+ days to 30 days.",
+                "Audited data and generated transparency reports.",
+                "Optimized report generation from overnight to real-time."
+            ]
+        },
+        {
+            "job_title": "Database Administrator",
+            "company": "CONISUS, LLC",
+            "location": "Atlanta, GA",
+            "dates": "September 2011 - June 2012",
+            "key_responsibilities": [
+                "Validated and maintained databases for 10k+ healthcare providers."
+            ]
+        }
+    ],
+    "education": [],
+    "skills": {
+        "technical_skills": [
+            "Data management\",\n            \"Documentation\",\n            \"Excel\",\n            \"Written and verbal communication\",\n            \"Governance\",\n            \"Time management\",\n            \"Outlook\",\n            \"Microsoft Excel\",\n            \"Project coordination\",\n            \"Account reconciliation\",\n            \"Property management"
+        ],
+        "tools_and_software": [
+            "Advanced Microsoft Word and Excel\",\n            \"Compliance\",\n            \"Data management & governance\",\n            \"Reporting\",\n            \"Project management\",\n            \"Documentation\",\n            \"Written and verbal communication\",\n            \"Technology savvy"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

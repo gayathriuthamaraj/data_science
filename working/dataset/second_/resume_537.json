@@ -1,0 +1,64 @@
+{
+    "personal_information": {
+        "name": "Database Administrator",
+        "location": "Fairfax, VA"
+    },
+    "professional_summary": "Over 5 years of experience as an Oracle Database Administrator with expertise in database installation/configuration, production support, upgrades, patch management, performance tuning, backup/recovery, space management, security, and Data Guard. Proficient in standalone and RAC databases across various platforms, proactive monitoring using AWR, ADDM, and OEM Grid Control, and proficient in Flash-Back Recovery, ASM, and ADGM.",
+    "work_experience": [
+        {
+            "job_title": "Database Administrator",
+            "company": "Precitix - Charlotte, NC",
+            "location": "Charlotte, NC",
+            "dates": "January 2014 - Present",
+            "key_responsibilities": [
+                "Installed and configured Oracle databases",
+                "monitored",
+                "and maintained multiple Oracle 11g and RAC 12c databases on the Linux platform.",
+                "Configured and managed Oracle 11gR2 and 12c RAC across various environments.",
+                "Performed database migrations",
+                "backups",
+                "restorations",
+                "and optimization efforts.",
+                "Monitored and resolved performance bottlenecks using AWR and ADDM tools.",
+                "Utilized Data Pump utilities (impdp/expdp) for data migration and replication."
+            ]
+        },
+        {
+            "job_title": "Business Analyst",
+            "company": "ARM Investment - Lagos, Nigeria",
+            "location": "Lagos, NG",
+            "dates": "August 2017 - December 2018",
+            "key_responsibilities": [
+                "Analyzed and documented business requirements for IT projects.",
+                "Collaborated with development teams to ensure alignment between requirements and solutions.",
+                "Conducted data migration and system integration activities.",
+                "Provided end-user support and training for new systems."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "M.S. in Information Technology",
+            "institution": "Stratford University - Falls Church, VA",
+            "year_of_completion": "2017"
+        },
+        {
+            "degree": "B.Sc. in Business Administration",
+            "institution": "Ajayi Crowther University - Omuolu, NG",
+            "year_of_completion": "2012"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "Database Administration\",\n            \"Oracle Database Management\",\n            \"RAC (Real Application Clusters) Configuration and Management\",\n            \"Performance Tuning\",\n            \"Backup and Recovery Solutions\",\n            \"Data Migration and Replication\",\n            \"Incident Resolution\",\n            \"Process Improvement"
+        ],
+        "tools_and_software": [
+            "Linux, Unix, Windows Operating Systems\",\n            \"Oracle Database Tools (SQL, PL/SQL)\",\n            \"Oracle Enterprise Manager (OEM)\",\n            \"AWR (Application Workspace Reporter)\",\n            \"ADGM (Advanced Grid Management)\",\n            \"Data Pump (impdp/expdp)\",\n            \"Shell Scripts\",\n            \"JIRA, MapForce, Tableau, NetSuite"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

@@ -1,0 +1,68 @@
+{
+    "personal_information": {
+        "name": "Not explicitly provided",
+        "location": "Not explicitly provided"
+    },
+    "professional_summary": "Experienced SQL Server Database Administrator with expertise in database management, performance tuning, backup and recovery processes, high availability, and disaster recovery solutions. Proficient in T-SQL, SSMS, SSIS, SSRS, and other related tools. Strong problem-solving skills and attention to detail in maintaining database health and integrity.",
+    "work_experience": [
+        {
+            "job_title": "SQL Server DBA",
+            "company": "Glenworth Financial",
+            "location": "Chicago, IL",
+            "dates": "February 2013 - March 2014",
+            "key_responsibilities": [
+                "Installed",
+                "configured",
+                "and monitored SQL Server 2008 and 2012 instances.",
+                "Configured performance tuning and optimization for SQL Server.",
+                "Implemented backup and recovery processes using maintenance plans and T-SQL."
+            ]
+        },
+        {
+            "job_title": "SQL Server DBA",
+            "company": "Another Company Name",
+            "location": "Chicago, IL",
+            "dates": "2013 - 2014",
+            "key_responsibilities": [
+                "Involved in SQL Server upgrade from 2008 to 2012.",
+                "Designed and configured failover clustering and log shipping for critical databases.",
+                "Performed data migration using BCP and SSIS."
+            ]
+        },
+        {
+            "job_title": "SQL Server DBA",
+            "company": "Yet Another Company Name",
+            "location": "Chicago, IL",
+            "dates": "2012 - 2013",
+            "key_responsibilities": [
+                "Monitored SQL Agent jobs and trending database growth.",
+                "Ensured database maintenance jobs and consistency checks.",
+                "Implemented performance tuning for slow-running queries."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science",
+            "institution": "Addis Ababa University",
+            "year_of_completion": "Not explicitly provided"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "SQL Server Administration\",\n            \"Database Management\",\n            \"Performance Tuning\",\n            \"Backup and Recovery\",\n            \"High Availability\",\n            \"Disaster Recovery\",\n            \"T-SQL Programming\",\n            \"SSMS, SSIS, SSRS"
+        ],
+        "tools_and_software": [
+            "Microsoft SQL Server\",\n            \"SQL Server Management Studio (SSMS)\",\n            \"SQL Server Integration Services (SSIS)\",\n            \"SQL Server Reporting Services (SSRS)\",\n            \"Visual Studio\",\n            \"Windows Server\",\n            \"Active Directory"
+        ]
+    },
+    "additional_information": {
+        "certifications": [
+            "Microsoft Certified: SQL Server Administrator\",\n            \"Certified in Disaster Recovery Planning\",\n            \"Certified in SQL Server Performance Tuning"
+        ],
+        "languages": [
+            "English\",\n            \"Amharic"
+        ],
+        "achievements": "Experienced DBA with a strong track record of solving complex database issues and improving database performance."
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "personal_information": {
+        "name": "Oracle Database Administrator",
+        "location": "Picayune, MS"
+    },
+    "professional_summary": "Experienced Oracle Database Administrator with expertise in RAC environments, performance tuning, and database management across various platforms.",
+    "work_experience": [
+        {
+            "job_title": "Oracle Database Administrator",
+            "company": "Mutual Benefits Assurance Ltd.",
+            "location": "Abuja, Nigeria",
+            "dates": "February 2011 - April 2014",
+            "key_responsibilities": [
+                "Upgraded and maintained Oracle databases to improve performance and efficiency.",
+                "Implemented RAC (Real Application Clusters) and ASM (Automatic Storage Management) for high-availability solutions.",
+                "Administered backup and recovery processes using RMAN to ensure data integrity."
+            ]
+        },
+        {
+            "job_title": "Oracle Database Administrator",
+            "company": "World Access Cybercaf�",
+            "location": "Ibadan, Nigeria",
+            "dates": "February 2009 - February 2010",
+            "key_responsibilities": [
+                "Installed and configured Oracle applications in complex environments.",
+                "Applied software patches to maintain system integrity.",
+                "Cloned database instances using RMAN Duplicate for disaster recovery purposes."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science",
+            "institution": "University of Ilorin",
+            "year_of_completion": "2009"
+        },
+        {
+            "degree": "Senior Secondary Certificate",
+            "institution": "St Gabriel Community Secondary School",
+            "year_of_completion": "2007"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "Oracle Database Administration\",\n            \"RAC (Real Application Clusters) Management\",\n            \"Database Performance Tuning\",\n            \"SQL*Plus Programming\",\n            \"RMAN (Oracle Recovery Manager)\",\n            \"ASM (Automatic Storage Management)"
+        ],
+        "tools_and_software": [
+            "RMAN\",\n            \"OEM (Enterprise Manager)\",\n            \"Erwin (Reverse Engineering Tool)\",\n            \"Datapump\",\n            \"Opatch\",\n            \"Flashback Database\",\n            \"Golden Gate\",\n            \"PL/SQL"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "personal_information": {
+        "name": "Extracted Name",
+        "location": "Extracted Location"
+    },
+    "professional_summary": "Database administrator with expertise in Oracle RAC, high availability, disaster recovery, and performance tuning.",
+    "work_experience": [
+        {
+            "job_title": "Application Database Administrator",
+            "company": "INFOSYS LTD",
+            "location": "Dallas, TX",
+            "dates": "May 2020 - Present",
+            "key_responsibilities": [
+                "Designed and implemented high-availability Oracle RAC environments.",
+                "Administered large-scale database systems for mission-critical applications.",
+                "Performed regular performance tuning and optimization of production databases."
+            ]
+        },
+        {
+            "job_title": "Oracle Database Administrator",
+            "company": "Deutsche Bank",
+            "location": "Jersey City, NJ",
+            "dates": "June 2012 - December 2013",
+            "key_responsibilities": [
+                "Deployed Oracle RAC solutions to enhance database availability.",
+                "Managed disaster recovery and backup processes for critical databases.",
+                "Implemented Golden Gate replication for real-time data replication."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor's",
+            "institution": "Extracted University Name",
+            "year_of_completion": "Extracted Year"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "Oracle Database Administration\",\n            \"RAC (Real Application Clustering)\",\n            \"High Availability and Disaster Recovery\",\n            \"Database Performance Tuning\",\n            \"Golden Gate Replication\",\n            \"SQL Optimization\",\n            \"Disaster Recovery Planning"
+        ],
+        "tools_and_software": [
+            "Oracle RMAN\",\n            \"Opatch\",\n            \"Perl Scripting\",\n            \"Linux Shell Scripting"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

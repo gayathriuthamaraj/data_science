@@ -1,0 +1,49 @@
+{
+    "personal_information": {
+        "name": "Extracted Name",
+        "location": "Extracted Location"
+    },
+    "professional_summary": "Experienced Oracle Database Administrator with expertise in RAC, ASM, Data Guard, and Golden Gate. Proficient in database design, administration, and performance tuning.",
+    "work_experience": [
+        {
+            "job_title": "Oracle Database Administrator",
+            "company": "Extracted Company Name",
+            "location": "Extracted Location",
+            "dates": "2009 - 2015",
+            "key_responsibilities": [
+                "Administering and optimizing Oracle 10g",
+                "11g RAC",
+                "and 12R1 databases across enterprise environments.",
+                "Implementing and monitoring Data Guard for high availability and remote disaster recovery.",
+                "Configuring and managing ASM and RMAN for backup and recovery solutions."
+            ]
+        },
+        {
+            "job_title": "Database Analyst",
+            "company": "Extracted Company Name",
+            "location": "Extracted Location",
+            "dates": "2006 - 2009",
+            "key_responsibilities": [
+                "Designing and implementing database solutions using Oracle.",
+                "Performing regular maintenance",
+                "backup",
+                "and recovery operations.",
+                "Assisting in the migration and consolidation of databases."
+            ]
+        }
+    ],
+    "education": [],
+    "skills": {
+        "technical_skills": [
+            "Oracle Database Administration\",\n            \"RAC and ASM Configuration\",\n            \"Data Guard Implementation\",\n            \"Golden Gate Configuration\",\n            \"Database Performance Tuning\",\n            \"Backup and Recovery Solutions"
+        ],
+        "tools_and_software": [
+            "Oracle\",\n            \"RMAN\",\n            \"Golden Gate\",\n            \"TOAD\",\n            \"SQL*Plus\",\n            \"PL/SQL\",\n            \"Shell Scripting\",\n            \"Linux"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

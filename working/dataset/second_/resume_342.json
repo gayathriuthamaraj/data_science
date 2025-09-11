@@ -1,0 +1,90 @@
+{
+    "personal_information": {
+        "name": "Extracted Name",
+        "location": "Extracted Location"
+    },
+    "professional_summary": "Experienced professional with expertise in database administration, software development, and project management. Proficient in various tools and methodologies to drive efficient system performance and process optimization.",
+    "work_experience": [
+        {
+            "job_title": "Database Administrator",
+            "company": "Clover Infotech - Mumbai, Maharashtra",
+            "location": "Mumbai, India",
+            "dates": "January 2010 - July 2011",
+            "key_responsibilities": [
+                "Configured and implemented disaster recovery processes for mission-critical databases.",
+                "Upgraded over 20 SQL servers within a four-month period.",
+                "Improved processing jobs by reducing duration by 80%."
+            ]
+        },
+        {
+            "job_title": "Consultant",
+            "company": "Flipkart.com - Mumbai, Maharashtra",
+            "location": "Mumbai, India",
+            "dates": "June 2013 - June 2014",
+            "key_responsibilities": [
+                "Developed strategies to maintain smooth workflow on AWS platform.",
+                "Monitored and controlled job cost process",
+                "increasing sales by 30%."
+            ]
+        },
+        {
+            "job_title": "Consultant",
+            "company": "Flipkart.com - Mumbai, Maharashtra",
+            "location": "Mumbai, India",
+            "dates": "June 2013 - June 2014",
+            "key_responsibilities": [
+                "Applied SDLC methodologies to implement a faster billing process on Azure platform.",
+                "Managed merchandising products and billing tracking using Mainframe."
+            ]
+        },
+        {
+            "job_title": "Consultant",
+            "company": "Flipkart.com - Mumbai, Maharashtra",
+            "location": "Mumbai, India",
+            "dates": "June 2013 - June 2014",
+            "key_responsibilities": [
+                "Rigorous vendor selection process landed with cloud-based solutions.",
+                "Ensured all departments were informed about project requirements through daily meetings."
+            ]
+        },
+        {
+            "job_title": "Consultant",
+            "company": "Flipkart.com - Mumbai, Maharashtra",
+            "location": "Mumbai, India",
+            "dates": "June 2013 - June 2014",
+            "key_responsibilities": [
+                "Created a prospective client database for business targeting.",
+                "Developed strategies to optimize system performance and process."
+            ]
+        },
+        {
+            "job_title": "Consultant",
+            "company": "Clover Infotech - Mumbai, Maharashtra",
+            "location": "Mumbai, India",
+            "dates": "Unknown - Unknown",
+            "key_responsibilities": [
+                "Provided technical support for software development projects.",
+                "Assisted in the implementation of various IT solutions."
+            ]
+        }
+    ],
+    "education": [],
+    "skills": {
+        "technical_skills": [
+            "HTML\",\n            \"MS Project\",\n            \"PHP\",\n            \"Reporting Tools\",\n            \"Visio"
+        ],
+        "tools_and_software": [
+            "Oracle\",\n            \"Microsoft\",\n            \"SQL Server\",\n            \"Linux\",\n            \"Windows Server"
+        ]
+    },
+    "additional_information": {
+        "certifications": [
+            "Oracle Certification\",\n            \"Microsoft Certification"
+        ],
+        "languages": [
+            "English",
+            "Hindi"
+        ],
+        "achievements": "Reduced process duration by 80% through optimized workflow strategies."
+    }
+}

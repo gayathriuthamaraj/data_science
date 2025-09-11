@@ -1,0 +1,57 @@
+{
+    "personal_information": {
+        "name": "Junior Oracle Database Administrator",
+        "location": "Valley Stream, NY"
+    },
+    "professional_summary": "Highly skilled Oracle DBA specializing in single-instance OLTP database environments. Career objective is to utilize technical knowledge and skills as a Database Specialist, focusing on client relationships, requirement analysis, efficient solutions, and exceeding client needs.",
+    "work_experience": [
+        {
+            "job_title": "Junior Oracle Database Administrator",
+            "company": "Robert Half Technology - New York, NY",
+            "location": "New York, NY",
+            "dates": "September 2016 - June 2017",
+            "key_responsibilities": [
+                "Administered and supported Oracle 11g on Linux (RHEL/CentOS) and Windows platforms.",
+                "Configured Oracle software installation and database creation on File System and ASM.",
+                "Developed and tested backup and recovery strategies."
+            ]
+        },
+        {
+            "job_title": "Junior Database Administrator",
+            "company": "Transamerica Co. - Baltimore, MD",
+            "location": "Baltimore, MD",
+            "dates": "June 2013 - December 2014",
+            "key_responsibilities": [
+                "Monitored and maintained databases",
+                "ensuring performance and security.",
+                "Performed software installation and configuration for database systems.",
+                "Resolved helpdesk tickets and ensured smooth operations."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Certificate of Completion",
+            "institution": "ONLC Training Center",
+            "year_of_completion": "2016"
+        },
+        {
+            "degree": "BS in Computer Science",
+            "institution": "Stony Brook University",
+            "year_of_completion": "2008"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "Oracle 11g Administration\",\n            \"Linux System Administration\",\n            \"SQL Database Management\",\n            \"RMAN Backup and Recovery\",\n            \"DBCA Tools\",\n            \"Tablespace Management\",\n            \"Database Migration and Optimization\",\n            \"Patch Application"
+        ],
+        "tools_and_software": [
+            "Microsoft Office Suite\",\n            \"Oracle 11g\",\n            \"Linux (RHEL/CentOS)\",\n            \"SQL\",\n            \"RMAN\",\n            \"DBCA\",\n            \"SQL Loader\",\n            \"SFTP\",\n            \"Scripting Languages\",\n            \"Opatch"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "personal_information": {
+        "name": "Scrum Master (Repeated)",
+        "location": "Landover Hills, MD; Cincinnati, OH; Washington, DC"
+    },
+    "professional_summary": "Experienced Scrum Master with expertise in Agile practices and process improvement, focusing on cross-functional collaboration and efficiency.",
+    "work_experience": [],
+    "education": [
+        {
+            "degree": "Bachelor of Science in Private International Law",
+            "institution": "Howard University - Washington, DC",
+            "year_of_completion": "2011"
+        },
+        {
+            "degree": "Bachelor of Science in Private International Law",
+            "institution": "University of Yaounde II Soa",
+            "year_of_completion": "2002"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "Scrum",
+            "Kanban",
+            "Agile Scrum",
+            "Problem-solving",
+            "Training"
+        ],
+        "tools_and_software": [
+            "Jira",
+            "Rally"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

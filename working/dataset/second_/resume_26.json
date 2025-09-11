@@ -1,0 +1,55 @@
+{
+    "personal_information": {
+        "name": "Extracted Name",
+        "location": "Extracted Location"
+    },
+    "professional_summary": "Experienced Oracle Database Administrator with expertise in database management, performance tuning, disaster recovery, and migration across multiple platforms. Proficient in Oracle 9i, 10g, 11g, and 12c databases, with experience in cloud platforms like AWS and Azure. Skilled in using tools such as OEM Grid, RMAN, SQL*Plus, Toad, and Log Miner for database maintenance and optimization.",
+    "work_experience": [
+        {
+            "job_title": "Senior Oracle Database Administrator",
+            "company": "Extracted Company Name",
+            "location": "Extracted Location",
+            "dates": "2015 - 2022",
+            "key_responsibilities": [
+                "Performing routine database maintenance tasks including backups",
+                "user management",
+                "and monitoring.",
+                "Optimizing database performance using tools like SQL*Plus and Toad to ensure high availability and stability.",
+                "Implementing disaster recovery solutions and conducting regular testing to ensure data integrity during failures."
+            ]
+        },
+        {
+            "job_title": "Oracle Database Administrator",
+            "company": "Extracted Company Name",
+            "location": "Extracted Location",
+            "dates": "2013 - 2015",
+            "key_responsibilities": [
+                "Administering Oracle 11g and 10g databases on various platforms including HP-UX",
+                "Sun Solaris",
+                "and Linux.",
+                "Performing database migrations and upgrades to maintain compliance with the latest patches and updates.",
+                "Implementing data refreshes and schema changes using RMAN and Datapump for efficient data management."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science in Biochemistry",
+            "institution": "University of Yaounde",
+            "year_of_completion": "2008"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "Database Administration\",\n            \"Oracle Database Management\",\n            \"Performance Tuning\",\n            \"Disaster Recovery\",\n            \"Database Migration\",\n            \"Data Replication\",\n            \"Patch Application\",\n            \"Transportable Tablespace\",\n            \"Materialized Views"
+        ],
+        "tools_and_software": [
+            "Oracle 9i, 10g, 11g, 12c\",\n            \"OEM Grid, SQL*Plus, SQL Loader, DB Configuration Assistant\",\n            \"Toad, RMAN, SQL*Loader, Log Miner, Statspack/AWR\",\n            \"Linux, HP-UX, Sun Solaris, AWS, Azure"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

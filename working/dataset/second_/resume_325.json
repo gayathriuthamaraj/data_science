@@ -1,0 +1,69 @@
+{
+    "personal_information": {
+        "name": "Extracted Name",
+        "location": "Minneapolis, MN"
+    },
+    "professional_summary": "Database Administrator with over 8 years of experience in database design, monitoring, tuning, migration, and replication. Proficient in Oracle and MS SQL Server, with expertise in high availability and disaster recovery solutions. Proven leadership skills in cross-functional collaboration.",
+    "work_experience": [
+        {
+            "job_title": "Database Administrator",
+            "company": "Surescripts",
+            "location": "Minneapolis, MN",
+            "dates": "Current - Present",
+            "key_responsibilities": [
+                "Design and implementation of databases for high availability and disaster recovery.",
+                "Experience with database migration and replication tools.",
+                "Proficiency in Oracle and MS SQL Server for performance tuning."
+            ]
+        },
+        {
+            "job_title": "Database Administrator",
+            "company": "State of Minnesota, DHS",
+            "location": "Minneapolis, MN",
+            "dates": "April 2014 - November 2018",
+            "key_responsibilities": [
+                "Installation",
+                "configuration",
+                "and maintenance of Oracle databases.",
+                "Performance tuning using AMM and ASMM tools.",
+                "Security management through role-based access control."
+            ]
+        },
+        {
+            "job_title": "Database Administrator",
+            "company": "Medtronic",
+            "location": "Minneapolis, MN",
+            "dates": "June 2011 - March 2014",
+            "key_responsibilities": [
+                "Oracle installations and upgrades using DBCA and OFA tools.",
+                "Backup strategies with RMAN and block chain tracking for efficiency.",
+                "Capacity planning to support database growth."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "B.Sc",
+            "institution": "University of Buea",
+            "year_of_completion": "2010"
+        },
+        {
+            "degree": "Associates in Health Information Technology",
+            "institution": "Anoka Technical College",
+            "year_of_completion": "2011"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "Database migration and design\",\n            \"Oracle and MS SQL Server expertise\",\n            \"Replication and high availability solutions\",\n            \"Performance tuning with AMM and ASMM\",\n            \"Backup strategies using RMAN"
+        ],
+        "tools_and_software": [
+            "RMAN, DBCA, OFA, DBUA, AMM, ASMM\",\n            \"SQL, PL/SQL\",\n            \"English"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

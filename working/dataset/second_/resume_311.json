@@ -1,0 +1,22 @@
+{
+    "personal_information": {
+        "name": "Business Analyst",
+        "location": "Monterey Park, CA"
+    },
+    "professional_summary": "Experienced Business Analyst with expertise in creating technical reports, leading certification processes, and conducting data analysis. Proficient in various tools and software, seeking a dynamic environment to leverage these skills effectively.",
+    "work_experience": [],
+    "education": [],
+    "skills": {
+        "technical_skills": [
+            "Data Science\",\n            \"C++\",\n            \"MATLAB\",\n            \"Python\",\n            \"SQL\",\n            \"Mathematica"
+        ],
+        "tools_and_software": [
+            "Excel\",\n            \"Microsoft Office Suite\",\n            \"HTML\",\n            \"Dreamweaver\",\n            \"Adobe Acrobat Pro\",\n            \"Photshop\",\n            \"HYSYS\",\n            \"Simulink\",\n            \"ASPEN Plus"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

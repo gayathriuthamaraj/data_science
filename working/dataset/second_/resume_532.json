@@ -1,0 +1,86 @@
+{
+    "personal_information": {
+        "name": "Database Administrator & Academic Support Specialist - Talent Gateway",
+        "location": "Southfield, MI"
+    },
+    "professional_summary": "Experienced Database Administrator with advanced Excel skills and academic support expertise, seeking analyst opportunities.",
+    "work_experience": [
+        {
+            "job_title": "Database Administrator & Academic Support Specialist",
+            "company": "Talent Gateway University of Michigan - Dearborn",
+            "location": "Dearborn, MI",
+            "dates": "September 2018 - Present",
+            "key_responsibilities": [
+                "Maintained and coordinated the use of Symplicity system for database operations.",
+                "Provided academic support to Talent Gateway offices and conducted student intake.",
+                "Created Excel reports using advanced functions like pivot tables",
+                "IF statements",
+                "and VLOOKUPs."
+            ]
+        },
+        {
+            "job_title": "Assistant Program Coordinator",
+            "company": "University of Michigan - Dearborn",
+            "location": "Dearborn, MI",
+            "dates": "November 2017 - September 2018",
+            "key_responsibilities": [
+                "Updated Excel spreadsheets and forms to reduce data-entry errors.",
+                "Prepared reports for key stakeholders and managed relationships with employers."
+            ]
+        },
+        {
+            "job_title": "Adjunct Instructor",
+            "company": "Wayne State University",
+            "location": "Detroit, MI",
+            "dates": "August 2016 - December 2017",
+            "key_responsibilities": [
+                "Provided academic support focusing on leadership and learning styles.",
+                "Designed instructional activities and implemented workshops."
+            ]
+        },
+        {
+            "job_title": "Commercial Loan Administrator",
+            "company": "First Independence Bank",
+            "location": "Detroit, MI",
+            "dates": "April 2012 - July 2015",
+            "key_responsibilities": [
+                "Reviewed financial statements and maintained LaserPro data accuracy.",
+                "Decreased audit exceptions by implementing detailed procedures."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science in Business Administration (Finance)",
+            "institution": "Central Michigan University",
+            "year_of_completion": ""
+        },
+        {
+            "degree": "Master's in Administration/Leadership",
+            "institution": "Central Michigan University",
+            "year_of_completion": ""
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "Database Administration",
+            "Excel",
+            "Symplicity",
+            "Microsoft Office Suite",
+            "SQL"
+        ],
+        "tools_and_software": [
+            "Excel",
+            "Symplicity",
+            "LaserPro",
+            "FDIC",
+            "Outlook",
+            "Google Workspace"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

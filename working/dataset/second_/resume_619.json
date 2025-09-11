@@ -1,0 +1,83 @@
+{
+    "personal_information": {
+        "name": "E. Tesfaye",
+        "location": "Clarkston, GA"
+    },
+    "professional_summary": "Experienced SharePoint Administrator/Developer with expertise in SharePoint Technologies, ASP.NET, C#, HTML, CSS, JavaScript, and SQL Server. Proven track record in web development, database management, and project management across various organizations.",
+    "work_experience": [
+        {
+            "job_title": "Senior SharePoint Administrator/Developer",
+            "company": "AMHARA Technical and Vocational Organization",
+            "location": "Clarkston, GA",
+            "dates": "2012 - 2014",
+            "key_responsibilities": [
+                "Designed and implemented custom and SPD workflows; created navigation for site collections and content types.",
+                "Managed SharePoint Security and created Team Sites and Custom SharePoint Lists.",
+                "Provided support for SharePoint Portal Server and Windows SharePoint Services-based intranet sites."
+            ]
+        },
+        {
+            "job_title": "IT Instructor",
+            "company": "AMHARA Technical and Vocational Organization",
+            "location": "Clarkston, GA",
+            "dates": "2008 - 2014",
+            "key_responsibilities": [
+                "Designed websites and created custom web parts including Data View Web Part",
+                "List View Web Part",
+                "and Custom Web Parts.",
+                "Configured and maintained Document Libraries",
+                "Form Libraries",
+                "and created Views.",
+                "Provided technical support to end-users and resolved day-to-day issues regarding SharePoint usage."
+            ]
+        },
+        {
+            "job_title": "Jr. Web Developer/IT Instructor",
+            "company": "AMHARA Technical and Vocational Organization",
+            "location": "Clarkston, GA",
+            "dates": "2008 - 2010",
+            "key_responsibilities": [
+                "Created custom forms using InfoPath 2007 and published them to SharePoint Form Library.",
+                "Developed windows applications linked to SQL databases."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor's Degree in Computer Science",
+            "institution": "Jimma University",
+            "year_of_completion": "2012"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "SharePoint Technologies",
+            "ASP.NET",
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "C#",
+            "SQL Server",
+            "SSRS",
+            "Visual Studio",
+            "IIS"
+        ],
+        "tools_and_software": [
+            "Microsoft Office Suite",
+            "Nintex",
+            "InfoPath",
+            "MS Access",
+            "MS SQL Server"
+        ]
+    },
+    "additional_information": {
+        "certifications": [
+            "Microsoft Certified: SharePoint 2013"
+        ],
+        "languages": [
+            "English",
+            "Amharic"
+        ],
+        "achievements": "Expertise in custom web parts development and successful implementation of various SharePoint projects."
+    }
+}

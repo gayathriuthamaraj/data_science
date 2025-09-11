@@ -1,0 +1,100 @@
+{
+    "personal_information": {
+        "name": "Extracted Name",
+        "location": "Extracted Location"
+    },
+    "professional_summary": "Experienced professional with expertise in database administration, data modeling, and SharePoint implementation. Skilled in SQL, financial reporting, and project management.",
+    "work_experience": [
+        {
+            "job_title": "Business System Analyst",
+            "company": "Insight Global",
+            "location": "Extracted Location",
+            "dates": "Contracted",
+            "key_responsibilities": [
+                ""
+            ]
+        },
+        {
+            "job_title": "Financial Business Analyst",
+            "company": "Sunrise Senior Living",
+            "location": "Extracted Location",
+            "dates": "June 2006 - February 2007",
+            "key_responsibilities": [
+                "Transition from PeopleSoft 7.5 to 8.8 software upgrade.",
+                "Generated financial data for business growth and decision-making.",
+                "Provided Help Desk support via Heat and Magic Ticketing System."
+            ]
+        },
+        {
+            "job_title": "Database Administrator III",
+            "company": "Northrop Grumman",
+            "location": "Extracted Location",
+            "dates": "June 2010 - October 2010",
+            "key_responsibilities": [
+                "Deployed quality database solutions.",
+                "Performed index tuning and recovery.",
+                "Created and maintained ad hoc queries using VBA."
+            ]
+        },
+        {
+            "job_title": "Database Administrator II",
+            "company": "One Solutions",
+            "location": "Extracted Location",
+            "dates": "April 2015 - April 2016",
+            "key_responsibilities": [
+                "Designed and implemented database solutions.",
+                "Performed data quality checks.",
+                "Configured and maintained metadata management systems."
+            ]
+        },
+        {
+            "job_title": "Business System Analyst",
+            "company": "AOL",
+            "location": "Extracted Location",
+            "dates": "August 2008 - November 2009",
+            "key_responsibilities": [
+                "Partnered with organizational teams to implement changes.",
+                "Updated and maintained resume documentation on SharePoint site database.",
+                "Conducted staff training sessions."
+            ]
+        },
+        {
+            "job_title": "Business Analyst",
+            "company": "Wells Fargo Bank",
+            "location": "Extracted Location",
+            "dates": "June 2017 - September 2018",
+            "key_responsibilities": [
+                "Provided analytical support for financial reporting.",
+                "Assisted in the implementation of data-driven decision-making processes.",
+                "Performed root cause analysis for system issues."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor's Degree in Information Technology",
+            "institution": "Old Dominion University",
+            "year_of_completion": "2006"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "SQL",
+            "Data Modeling",
+            "SharePoint",
+            "Financial Reporting",
+            "Project Management"
+        ],
+        "tools_and_software": [
+            "Microsoft Office Suite",
+            "Visio",
+            "SAS",
+            "PeopleSoft"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "personal_information": {
+        "name": "Extracted Name",
+        "location": "Manhattan, NY"
+    },
+    "professional_summary": "Experienced Database Manager with expertise in donor record maintenance, data cleaning, report generation, and direct mail support. Skilled in using Raiser's Edge, Altru, MailChimp, and HTML for efficient database management.",
+    "work_experience": [],
+    "education": [],
+    "skills": {
+        "technical_skills": [
+            "Data management\",\n            \"Database maintenance\",\n            \"Report generation\",\n            \"Process optimization\",\n            \"Team collaboration"
+        ],
+        "tools_and_software": [
+            "Raiser's Edge\",\n            \"Altru\",\n            \"MailChimp\",\n            \"HTML\",\n            \"Microsoft Office Suite\",\n            \"Blackbaud Sphere\",\n            \"Kintera"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

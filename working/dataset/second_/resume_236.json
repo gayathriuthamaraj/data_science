@@ -1,0 +1,52 @@
+{
+    "personal_information": {
+        "name": "Technical Support Representative",
+        "location": "Newark, NJ"
+    },
+    "professional_summary": "Career-minded and certified IT professional with strong communication and analytical skills, capable of quickly adapting to different environments.",
+    "work_experience": [
+        {
+            "job_title": "Technical Support Representative",
+            "company": "ALTICE USA, INC",
+            "location": "Newark, NJ",
+            "dates": "2017 to Present",
+            "key_responsibilities": [
+                "Troubleshooting calls for all residential Optimum products.",
+                "Documenting troubleshooting steps using the Remedy ticketing system.",
+                "Educating customers through established troubleshooting procedures."
+            ]
+        },
+        {
+            "job_title": "Database Administrator",
+            "company": "GREATER NEWARK CONSERVANCY, INC",
+            "location": "Newark, NJ",
+            "dates": "2016 to 2018",
+            "key_responsibilities": [
+                "Prepared reports for quarterly budget meetings.",
+                "Authored professional correspondence to customers and vendors.",
+                "Researched the latest tech to improve service departments' proficiency.",
+                "Rapidly learned and mastered various computer programs."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Intranetworking Engineering",
+            "institution": "PCage",
+            "year_of_completion": "2017-2018"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "LINUX\", \n            \"CUSTOMER SERVICE\", \n            \"MICROSOFT OFFICE\", \n            \"PHOTOSHOP\", \n            \"WORDPRESS\", \n            \"Help Desk\", \n            \"Tech Support\", \n            \"Apple\", \n            \"Call Center\", \n            \"Troubleshooting"
+        ],
+        "tools_and_software": [
+            "Hardware & Software Support\",\n            \"First Level PC Support\",\n            \"System Upgrades\",\n            \"Server 2012, Linux, Win 7 & 10\",\n            \"Proficient in Photoshop CS6\",\n            \"Computer Literate\",\n            \"Proficient in Microsoft Office\",\n            \"WordPress"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

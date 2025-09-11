@@ -1,0 +1,65 @@
+{
+    "personal_information": {
+        "name": "Extracted Name",
+        "location": "Extracted Location"
+    },
+    "professional_summary": "Experienced Oracle Database Administrator with expertise in database management, disaster recovery, high availability, and security auditing across various platforms including Linux and Windows.",
+    "work_experience": [
+        {
+            "job_title": "Oracle Database Administrator",
+            "company": "Jelani Consulting LLC - Reston, VA",
+            "location": "Reston, VA",
+            "dates": "August 2014 - September 2015",
+            "key_responsibilities": [
+                "Provided day-to-day support for Oracle 11.2.0.4 databases in a 24/7 production environment on Red Hat Enterprise Linux servers.",
+                "Managed database authorization and roles",
+                "enabled auditing for security.",
+                "Configured Transparent Data Encryption (TDE) to encrypt sensitive data."
+            ]
+        },
+        {
+            "job_title": "Oracle Database Administrator",
+            "company": "Jelani Consulting LLC - Glen Allen, VA",
+            "location": "Glen Allen, VA",
+            "dates": "August 2012 - August 2014",
+            "key_responsibilities": [
+                "Supported Oracle 10g and 11g databases in test",
+                "development",
+                "and production environments on Unix servers.",
+                "Automated system tasks using DBMS_Scheduler.",
+                "Implemented cold and hot backups for production and development environments."
+            ]
+        },
+        {
+            "job_title": "Oracle Database Administrator",
+            "company": "Jelani Consulting LLC - Glen Allen, VA",
+            "location": "Glen Allen, VA",
+            "dates": "August 2012 - August 2014",
+            "key_responsibilities": [
+                "Performed capacity planning for future projects.",
+                "Applied quarterly Critical Patch Updates (CPU/PSU) using Opatch utility.",
+                "Resolved Oracle-related errors/issues through Remedy ticketing system."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelors of Science in Global and Community Health",
+            "institution": "George Mason University",
+            "year_of_completion": "2014"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "SQL Server\",\n            \"Oracle\",\n            \"PL/SQL\",\n            \"SQL\",\n            \"RMAN\",\n            \"Linux\",\n            \"Red Hat\",\n            \"Shell Scripting\",\n            \"UNIX\",\n            \"Remedy\",\n            \"Perl\",\n            \"T-SQL\",\n            \"Bash\",\n            \"JIRA"
+        ],
+        "tools_and_software": [
+            "Oracle Dba\",\n            \"SQL Dba\",\n            \"MySQL\",\n            \"DBA\",\n            \"RDBMS\",\n            \"Storage Management\",\n            \"Audit\",\n            \"MS Windows Server 2008"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

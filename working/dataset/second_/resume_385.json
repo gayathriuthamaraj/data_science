@@ -1,0 +1,84 @@
+{
+    "personal_information": {
+        "name": "John Doe",
+        "location": "Cabot, AR"
+    },
+    "professional_summary": "Veteran with 9 years of service in the United States Army, currently in flight school for the Army. Possess strong teamwork skills and a passion for flying. Experienced in aircraft maintenance, database administration, and video conferencing management.",
+    "work_experience": [
+        {
+            "job_title": "Audio Video Administrator",
+            "company": "Arkansas Army Air Support Facility",
+            "location": "Cabot, AR",
+            "dates": "June 2012 – June 2015",
+            "key_responsibilities": [
+                "Managed and maintained Tandberg and Polycom conferencing systems.",
+                "Scheduled conferences for the state of Arkansas and communicated with personnel at the Pentagon and other states.",
+                "Performed first-tier troubleshooting and device maintenance."
+            ]
+        },
+        {
+            "job_title": "Aircraft Mechanic",
+            "company": "Arkansas Army Air Support Facility",
+            "location": "Cabot, AR",
+            "dates": "December 2009 – Present",
+            "key_responsibilities": [
+                "Performed preventive maintenance and troubleshooting on UH-60 aircraft.",
+                "Conducted routine inspections to ensure aircraft airworthiness.",
+                "Maintained aircraft records and forms for documentation."
+            ]
+        },
+        {
+            "job_title": "Store Manager",
+            "company": "Eight Mile Store",
+            "location": "Eight Mile, AR",
+            "dates": "November 2009 – June 2011",
+            "key_responsibilities": [
+                "Led a team of three to four employees to meet business goals.",
+                "Resolved customer issues and developed problem-solving skills."
+            ]
+        },
+        {
+            "job_title": "Database Administrator",
+            "company": "Arkansas Army Air Support Facility",
+            "location": "Cabot, AR",
+            "dates": "September 2015 – Present",
+            "key_responsibilities": [
+                "Managed and maintained SQL Server databases for UH-60 helicopters.",
+                "Modified and deleted database entries as required."
+            ]
+        },
+        {
+            "job_title": "Pilot in Training",
+            "company": "U.S. Army - Fort Rucker, AL",
+            "location": "Fort Rucker, AL",
+            "dates": "December 2018 – Present",
+            "key_responsibilities": [
+                "Learned to fly Bell 206 and UH-60 Blackhawk helicopters.",
+                "Completed instruments training and will obtain a private pilot's license with an instrument rating."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor's in Network and Communications Management",
+            "institution": "DeVry University - Chicago, IL",
+            "year_of_completion": "2016"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "IT Networking Fundamentals",
+            "Aircraft Maintenance Procedures"
+        ],
+        "tools_and_software": [
+            "SQL Server",
+            "Tandberg",
+            "Polycom"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

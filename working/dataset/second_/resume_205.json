@@ -1,0 +1,65 @@
+{
+    "personal_information": {
+        "name": "Alex Jenks",
+        "location": "Vista, CA"
+    },
+    "professional_summary": "Experienced holistic health practitioner with expertise in massage therapy and yoga. Skilled in providing therapeutic treatments and spa experiences. Proficient in database administration and programming.",
+    "work_experience": [
+        {
+            "job_title": "Volunteer Massage Therapy",
+            "company": "Elizabeth Hospice",
+            "location": "Vista, CA",
+            "dates": "May 2018 - Present",
+            "key_responsibilities": [
+                "Utilized different massage techniques to address physical and emotional issues.",
+                "Used various holistic health practices to address assorted physical and emotional issues.",
+                "Provided spa-type treatments and experiences."
+            ]
+        },
+        {
+            "job_title": "Yoga Therapy",
+            "company": "Self-Employed",
+            "location": "From Home and Mobile",
+            "dates": "December 2015 - Present",
+            "key_responsibilities": [
+                "Provided asana sequencing for physical stretching and relaxing muscles.",
+                "Conducted breath and meditation exercises.",
+                "Performed chakra balancing and subtle energy work."
+            ]
+        },
+        {
+            "job_title": "Database Administrator & Programmer",
+            "company": "Accumen",
+            "location": "San Diego, CA",
+            "dates": "December 2015 - March 2018",
+            "key_responsibilities": [
+                "Managed AWS and SQL Server systems.",
+                "Performed database administration and performance optimization.",
+                "Ensured data backup and recovery processes.",
+                "Created and maintained documentation."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Holistic Health Studies",
+            "institution": "Healing Hands Holistic Health School",
+            "year_of_completion": "Three years of skills training, less than one year of training"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "Microsoft Office Suite",
+            "Swedish Massage Techniques"
+        ],
+        "tools_and_software": [
+            "AWS",
+            "SQL Server"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

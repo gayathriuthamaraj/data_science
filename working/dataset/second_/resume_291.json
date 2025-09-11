@@ -1,0 +1,56 @@
+{
+    "personal_information": {
+        "name": "Extracted Name",
+        "location": "Extracted Location"
+    },
+    "professional_summary": "Proven experience in Oracle Database Administration, with expertise in database migration, disaster recovery, and performance tuning. Skilled in replication technologies like Data Guard and Golden Gate, along with advanced features such as table partitioning and Streams.",
+    "work_experience": [
+        {
+            "job_title": "Oracle Database Administrator",
+            "company": "Extracted Company Name",
+            "location": "Extracted Location",
+            "dates": "2008 - Present",
+            "key_responsibilities": [
+                "Responsible for the administration and optimization of Oracle databases",
+                "ensuring high availability and performance.",
+                "Experienced in database migration from SQL Server to Oracle",
+                "including schema design and data loading using SQL*Loader and Data Pump.",
+                "Expertise in disaster recovery solutions",
+                "implementing backup strategies with RMAN",
+                "and standby database activation."
+            ]
+        },
+        {
+            "job_title": "Database Analyst",
+            "company": "Extracted Company Name",
+            "location": "Extracted Location",
+            "dates": "2005 - 2008",
+            "key_responsibilities": [
+                "Collaborated on database design and optimization for high-traffic applications.",
+                "Performed regular maintenance tasks",
+                "including user role management and backup scheduling with Data Pump.",
+                "Utilized tools like TOAD for query analysis and performance monitoring."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Science in Computer Science",
+            "institution": "Extracted University Name",
+            "year_of_completion": "2005"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "Oracle Database Administration\",\n            \"Database Migration\",\n            \"Disaster Recovery Planning\",\n            \"High Availability Solutions\",\n            \"Performance Tuning with STATPACK and AWR\",\n            \"PL/SQL Development\",\n            \"Shell Scripting for Automation"
+        ],
+        "tools_and_software": [
+            "RMAN\",\n            \"Data Guard\",\n            \"Golden Gate\",\n            \"SQL*Loader\",\n            \"Data Pump\",\n            \"TOAD\",\n            \"Oracle SQL Developer"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

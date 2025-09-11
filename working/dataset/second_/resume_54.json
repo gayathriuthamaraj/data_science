@@ -1,0 +1,99 @@
+{
+    "personal_information": {
+        "name": "",
+        "location": "Seattle, WA"
+    },
+    "professional_summary": "Experienced professional with expertise in project management, database administration, and technical product development.",
+    "work_experience": [
+        {
+            "job_title": "Project Manager",
+            "company": "Romisoft",
+            "location": "Seattle, WA",
+            "dates": "December 2018 - Present",
+            "key_responsibilities": [
+                "Multi-project analysis",
+                "current state assessment",
+                "requirements gathering",
+                "scope definition",
+                "milestone tracking",
+                "and budget management.",
+                "Established agile scrum methodology including daily standups",
+                "sprint planning",
+                "burndown charts",
+                "velocity tracking",
+                "and retrospectives.",
+                "Defined technical resource planning with offshore vs. onshore analysis",
+                "database analysis",
+                "and legacy application conversion to web."
+            ]
+        },
+        {
+            "job_title": "Project Manager",
+            "company": "Scotsman Guide Media",
+            "location": "Bothell, WA",
+            "dates": "November 2018 - December 2018",
+            "key_responsibilities": [
+                "Short-term project analysis including requirements gathering",
+                "module definition",
+                "scope determination",
+                "resource allocation",
+                "progress tracking",
+                "and time estimation.",
+                "Created a resource analysis tool and established daily standups",
+                "sprint planning",
+                "backlog re-prioritization",
+                "and retrospectives."
+            ]
+        },
+        {
+            "job_title": "Associate Scrum Master",
+            "company": "Premera Blue Cross",
+            "location": "Seattle, WA",
+            "dates": "May 2017 - May 2018",
+            "key_responsibilities": [
+                "Assisted in cross-team capacity as an associate scrum master for technical product development.",
+                "Led database rewrite and migration efforts including incident response systems."
+            ]
+        },
+        {
+            "job_title": "Database Administrator",
+            "company": "Premera Blue Cross",
+            "location": "Seattle, WA",
+            "dates": "March 2014 - May 2017",
+            "key_responsibilities": [
+                "Microsoft SQL Server administration including maintenance",
+                "troubleshooting",
+                "backup & recovery",
+                "high availability configurations",
+                "and performance tuning.",
+                "Supported database migrations",
+                "version upgrades",
+                "security audits",
+                "and index optimization."
+            ]
+        },
+        {
+            "job_title": "Database Administrator",
+            "company": "Realty in Motion",
+            "location": "Bellevue, WA",
+            "dates": "June 2013 - August 2013",
+            "key_responsibilities": [
+                "Microsoft SQL Server administration and support including backup operations and security best practices."
+            ]
+        }
+    ],
+    "education": [],
+    "skills": {
+        "technical_skills": [
+            "Database Administration\",\n            \"Project Management\",\n            \"Deployment\",\n            \"Scrum\",\n            \"Jira\",\n            \"SQL Server"
+        ],
+        "tools_and_software": [
+            "Microsoft SQL Server\",\n            \"Agile Scrum Methodology\",\n            \"Jira\",\n            \"Kanban"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

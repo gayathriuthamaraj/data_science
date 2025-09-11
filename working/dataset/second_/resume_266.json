@@ -1,0 +1,53 @@
+{
+    "personal_information": {
+        "name": "Extracted Name",
+        "location": "Irvine, CA"
+    },
+    "professional_summary": "Oracle Database Administrator with 3+ years of experience in database administration, production support, installation, configuration, upgrading, patching, performance tuning, backup and recovery, cloning, data refreshes, space management, and migration. Skilled in supporting multiple databases in production and non-production environments, managing 3-way data replication using Shareplex and Goldengate, configuring and upgrading 3-Node RAC environments, and providing 24x7 operational support.",
+    "work_experience": [
+        {
+            "job_title": "Oracle Database Administrator",
+            "company": "Verizon Wireless",
+            "location": "Irvine, CA",
+            "dates": "November 2015 - February 2018",
+            "key_responsibilities": [
+                "Supported multiple databases in production and non-production environments.",
+                "Installed and configured 3-Node RAC environments for High Availability.",
+                "Worked with application teams to create database objects in lower environments for testing.",
+                "Documented and published Release Notes for Enterprise releases.",
+                "Supported multiple enterprise releases by pushing changes to production and resolving issues during testing and go-live phases.",
+                "Created shell scripts to automate data load",
+                "refresh",
+                "and monitoring jobs.",
+                "Administered 3-way data replication using Shareplex and Goldengate.",
+                "Upgraded 11.2.0.3 version 3-Node RAC environment to High Availability."
+            ]
+        },
+        {
+            "job_title": "Oracle Database Administrator",
+            "company": "Allergan",
+            "location": "Irvine, CA",
+            "dates": "Not specified in the provided text",
+            "key_responsibilities": [
+                "Supported database administration and production support activities.",
+                "Managed database upgrades and patching processes.",
+                "Performed performance tuning and optimization for critical systems.",
+                "Assisted with data migration and backup strategies."
+            ]
+        }
+    ],
+    "education": [],
+    "skills": {
+        "technical_skills": [
+            "Oracle Database Administration\",\n            \"Database Management\",\n            \"Data Replication\",\n            \"High Availability Configuration\",\n            \"Performance Tuning\",\n            \"Backup and Recovery"
+        ],
+        "tools_and_software": [
+            "Toad\",\n            \"NetBackup\",\n            \"AWS (Amazon Web Services)\",\n            \"Shell Scripting"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

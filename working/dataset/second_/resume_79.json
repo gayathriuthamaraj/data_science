@@ -1,0 +1,60 @@
+{
+    "personal_information": {
+        "name": "Application, Database & Security Administrator",
+        "location": "Carolina, PR"
+    },
+    "professional_summary": "Applications, Security, and System Administrator with over 10 years of experience in various industries. Challenge Seeker with strong problem-solving and personal skills. Bilingual: Spanish and English. Authorized to work in the US for any employer.",
+    "work_experience": [
+        {
+            "job_title": "Application, Database & Security Administrator",
+            "company": "Oriental Bank",
+            "location": "San Juan, PR",
+            "dates": "January 2016 to Present",
+            "key_responsibilities": [
+                "Manage servers in VMware and Microsoft Azure",
+                "including designing and configuring snapshots.",
+                "Administer and maintain the database on SQL 2012.",
+                "Manage Moveit application",
+                "verifying data movement processes."
+            ]
+        },
+        {
+            "job_title": "Desktop Support Specialist",
+            "company": "Oriental Bank",
+            "location": "San Juan, PR",
+            "dates": "May 2012 to January 2016",
+            "key_responsibilities": [
+                "Maintain and repair hardware",
+                "software",
+                "technical equipment (cell phones and iPads)",
+                "and domain servers.",
+                "Manage 10 IBM X Series and Dell domain servers with local and web applications."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "BBA",
+            "institution": "Universidad Ana G Menendez",
+            "year_of_completion": "Piedras, PR, US"
+        },
+        {
+            "degree": "AD in Electric and Industrial Electronic Technician & Electrical Technician Assistant License",
+            "institution": "Liceo de Arte y Tecnologia",
+            "year_of_completion": "Piedras, PR, US"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "Cloud Administration (2 years)\",\n            \"Microsoft Azure (2 years)\",\n            \"System Administration (6 years)\",\n            \"IT Service Management (10+ years)\",\n            \"SQL Server"
+        ],
+        "tools_and_software": [
+            "VMware\",\n            \"Microsoft Azure\",\n            \"Citrix XenApp 7.5\",\n            \"Microsoft Technology Server 2008\",\n            \"BigFix\",\n            \"Power BI\",\n            \"Confluence\",\n            \"Akcelerant\",\n            \"Variphy\",\n            \"Cisco Unified System\",\n            \"NACAR Branch server\",\n            \"Nutanix Platform\",\n            \"VMware vSphere 5.5\",\n            \"McAfee EPO Server console"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

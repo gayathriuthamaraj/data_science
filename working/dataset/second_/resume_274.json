@@ -1,0 +1,52 @@
+{
+    "personal_information": {
+        "name": "",
+        "location": "Bhubaneshwar, Orissa"
+    },
+    "professional_summary": "DBA with expertise in Oracle and Microsoft SQL Server, experienced in RAC, Data Guard, and cloud platforms like Oracle Cloud and Azure Cosmos DB. Proven leader with a focus on delivering high-quality database solutions within SLA.",
+    "work_experience": [
+        {
+            "job_title": "Database Administrator/Architect",
+            "company": "Walgreens Co. Inc. and Drugstore",
+            "location": "Illinois, USA",
+            "dates": "September 2014 - September 2015",
+            "key_responsibilities": [
+                "Successfully converted standalone database to RAC.",
+                "Configured 3-node RAC database with standby DB.",
+                "Created ASM instance and disk groups."
+            ]
+        },
+        {
+            "job_title": "Database Administrator/Architect",
+            "company": "The Hartford Life Insurance",
+            "location": "Connecticut, USA",
+            "dates": "September 2010 - August 2014",
+            "key_responsibilities": [
+                "Performed database restore and recovery.",
+                "Executed RMAN backups",
+                "hot and cold back-ups.",
+                "Fixed PSU/bugs and applied patches."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor's in Electrical and Electronics Engineering",
+            "institution": "Institute of Technical Education and Research (ITER), Bhubaneshwar, Orissa",
+            "year_of_completion": "2010"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "Oracle DBA\",\n            \"Microsoft SQL Server DBA\",\n            \"RAC\",\n            \"Data Guard\",\n            \"Oracle Cloud\",\n            \"Azure Cosmos DB\",\n            \"Shell Scripting\",\n            \"Toad for Oracle\",\n            \"BMC Remedy\",\n            \"ServiceNow\",\n            \"Splunk\",\n            \"Kibana\",\n            \"SharePoint\",\n            \"Hipchat\",\n            \"HP BSM Monitoring Tool\",\n            \"VMware\",\n            \"ArcSight\",\n            \"Protegrity\",\n            \"iManis Data\",\n            \"OPS Center for Cassandra"
+        ],
+        "tools_and_software": [
+            "Oracle Universal Installer\",\n            \"DBCA\",\n            \"DBUA\",\n            \"OEM 10g, 11g, 12c\",\n            \"Collabnet Subversion Tool\",\n            \"Autosys\",\n            \"VSS\",\n            \"Oracle Application Server\",\n            \"Lotus Notes\",\n            \"Sametime\",\n            \"Skype\",\n            \"Microsoft Outlook"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

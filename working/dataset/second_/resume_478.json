@@ -1,0 +1,57 @@
+{
+    "personal_information": {
+        "name": "Not explicitly provided",
+        "location": "Arlington, TX"
+    },
+    "professional_summary": "Experienced Oracle DBA with over six years of expertise in database administration, including backup and recovery, security implementations, database design, performance monitoring, data migration, and high availability solutions. Proven leadership skills with a motivational management style.",
+    "work_experience": [
+        {
+            "job_title": "Oracle DBA",
+            "company": "Heron Solutions Group",
+            "location": "Arlington, TX",
+            "dates": "February 2016 - Present",
+            "key_responsibilities": [
+                "Implementing and maintaining Oracle database solutions for high availability.",
+                "Designing and implementing Oracle Data Guard solutions.",
+                "Using Oracle OEM for monitoring and management of database performance.",
+                "Ensuring optimal database performance through resource management and query optimization.",
+                "Performing regular backups and recovery using RMAN.",
+                "Managing tablespace and user configurations."
+            ]
+        },
+        {
+            "job_title": "Oracle DBA",
+            "company": "EchoStar Corporation",
+            "location": "Suwanee, GA",
+            "dates": "May 2013 - August 2016",
+            "key_responsibilities": [
+                "Performing maintenance and optimization of data backup systems.",
+                "Deploying bug fixes and security updates for Oracle databases.",
+                "Monitoring server performance and resolving access and performance issues.",
+                "Assisting in audits and compliance with database configurations.",
+                "Conducting disaster recovery testing and documentation.",
+                "Implementing grid infrastructure and creating user roles/profiles."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "BSc",
+            "institution": "Ladoke Akintola University of Technology Osun",
+            "year_of_completion": "Not explicitly provided"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "Oracle DBA\",\n            \"Backup and Recovery (RMAN)\",\n            \"Security Implementations\",\n            \"Database Design\",\n            \"Performance Monitoring\",\n            \"Data Migration\",\n            \"High Availability Solutions"
+        ],
+        "tools_and_software": [
+            "Oracle 10g, 11g, 12g\",\n            \"Linux, Red Hat, UNIX, Shell, VM, OEM"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

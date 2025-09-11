@@ -1,0 +1,81 @@
+{
+    "personal_information": {
+        "name": "Legal Administrator Assistant",
+        "location": "Garden Grove, CA"
+    },
+    "professional_summary": "Seeking a position in a growth-oriented company to utilize administrative and analytical skills while furthering education.",
+    "work_experience": [
+        {
+            "job_title": "Legal Administrator Assistant",
+            "company": "Hunt & Henriques",
+            "location": "Garden Grove, CA",
+            "dates": "August 2018 - July 2019",
+            "key_responsibilities": [
+                "Provided administrative support and completed tasks across all departments of the law firm.",
+                "Handled document filing",
+                "correspondence",
+                "and incoming faxes.",
+                "Maintained confidentiality while scanning",
+                "indexing",
+                "and auditing documents."
+            ]
+        },
+        {
+            "job_title": "Disbursement/Funding, Unisource Escrow",
+            "company": "Unisource Escrow",
+            "location": "Garden Grove, CA",
+            "dates": "September 2017 - June 2018",
+            "key_responsibilities": [
+                "Approved wires and disbursed files according to specific rules.",
+                "Managed banking activities using Ryhno Live and digital check scanners.",
+                "Processed checks and handled communications with borrowers and banks."
+            ]
+        },
+        {
+            "job_title": "Escrow Closing Specialist",
+            "company": "Loan Depot",
+            "location": "Garden Grove, CA",
+            "dates": "March 2015 - September 2017",
+            "key_responsibilities": [
+                "Received and distributed escrow orders to multiple teams.",
+                "Cut",
+                "scanned",
+                "and disbursed checks for creditors and borrowers.",
+                "Assisted in resolving issues via phone or email."
+            ]
+        },
+        {
+            "job_title": "Mail Distributor, Paychex",
+            "company": "Paychex",
+            "location": "Garden Grove, CA",
+            "dates": "April 2014 - July 2017",
+            "key_responsibilities": [
+                "Distributed payroll and related documents efficiently.",
+                "Ensured accuracy in processing mail and documentation."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Associate of Arts",
+            "institution": "Coastline Community College",
+            "year_of_completion": "2021"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "Filing",
+            "Outlook",
+            "Receptionist",
+            "Microsoft Outlook Assessments"
+        ],
+        "tools_and_software": [
+            ""
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

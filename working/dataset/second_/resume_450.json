@@ -1,0 +1,59 @@
+{
+    "personal_information": {
+        "name": "Extracted Name",
+        "location": "Extracted Location"
+    },
+    "professional_summary": "Experienced Database Administrator with expertise in Oracle 10g/11g/12c, RAC, TDE implementation, database migrations, data replication using Materialized Views and Streams, and cloud migration using AWS tools. Proficient in SQL Server administration, RMAN, TOAD, and other DBA utilities.",
+    "work_experience": [
+        {
+            "job_title": "Database Administrator",
+            "company": "BARCLAYS",
+            "location": "Dallas, TX",
+            "dates": "June 2012 - February 2014",
+            "key_responsibilities": [
+                "Cloned/Migrated databases using RMAN and Datapump export/import utilities in Oracle 10g.",
+                "Managed SQL Server databases with tools like Sql Server Management Studio and Aquadata Studio.",
+                "Created Oracle Wallets and implemented Tablespace-level TDE security."
+            ]
+        },
+        {
+            "job_title": "Database Administrator",
+            "company": "Company B",
+            "location": "Extracted Location",
+            "dates": "2014 - Present",
+            "key_responsibilities": [
+                "Successfully performed migrations from Oracle 10g to 11g RAC and Non-CDB databases to pluggable databases.",
+                "Implemented recovery strategies using RMAN for database crashes and media/disk failures.",
+                "Scheduled physical backups (hot & cold) in CRON-tab using RMAN and monitored scheduled jobs."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor's",
+            "institution": "Extracted University Name",
+            "year_of_completion": "Extracted Year"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "SQL Server DBA",
+            "Oracle 10g/11g/12c DBA",
+            "RAC Administration",
+            "TDE Implementation",
+            "Database Migration"
+        ],
+        "tools_and_software": [
+            "TOAD",
+            "RMAN",
+            "OEM",
+            "AWS VPC",
+            "EC2 Instances"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

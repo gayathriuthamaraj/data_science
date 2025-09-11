@@ -1,0 +1,69 @@
+{
+    "personal_information": {
+        "name": "John Doe",
+        "location": "Oklahoma City, OK"
+    },
+    "professional_summary": "Experienced Database Administrator with expertise in SQL Server and Oracle databases, skilled in database maintenance, performance tuning, and system documentation.",
+    "work_experience": [
+        {
+            "job_title": "Database Administrator",
+            "company": "NTTDATA Services",
+            "location": "Oklahoma City, OK",
+            "dates": "2018 - 2019",
+            "key_responsibilities": [
+                "Created database maintenance plan for SQL backups",
+                "optimization",
+                "and integrity check.",
+                "Assisted Development and Support team with technical troubleshooting.",
+                "Responsible for MS SQL Server 2005 and 2008 administration."
+            ]
+        },
+        {
+            "job_title": "Database Administrator",
+            "company": "Stephenson Cancer Center",
+            "location": "Oklahoma City, OK",
+            "dates": "2018 - 2018",
+            "key_responsibilities": [
+                "Installed",
+                "configured",
+                "and maintained SQL Server 2012.",
+                "Performed database mirroring and backup strategy creation."
+            ]
+        },
+        {
+            "job_title": "Database Administrator",
+            "company": "St. Anthony Hospital",
+            "location": "Oklahoma City, OK",
+            "dates": "2017 - 2018",
+            "key_responsibilities": [
+                "Implemented Logical and Physical Standby Databases for RAC clusters using Oracle Data Guard.",
+                "Maintained data integrity and security."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Associate Degree",
+            "institution": "Moore Norman Technology Center",
+            "year_of_completion": "2017 - 2018"
+        },
+        {
+            "degree": "Certification",
+            "institution": "Advance School of Public Works",
+            "year_of_completion": "2013 - 2015"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "Database Administration\",\n            \"SQL Server Administration\",\n            \"Oracle Database Administration\",\n            \"Data Backup and Recovery\",\n            \"Performance Tuning"
+        ],
+        "tools_and_software": [
+            "Microsoft Office Suite\",\n            \"Linux OS\",\n            \"Dell Servers\",\n            \"Red Hat Linux 6.5X"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

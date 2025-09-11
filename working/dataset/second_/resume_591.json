@@ -1,0 +1,53 @@
+{
+    "personal_information": {
+        "name": "Extracted Name",
+        "location": "New York, NY, USA"
+    },
+    "professional_summary": "Experienced Oracle Database Administrator with expertise in Exadata, cloud services, and NoSQL databases. Proven track record in disaster recovery, high availability, and capacity planning across multiple organizations.",
+    "work_experience": [
+        {
+            "job_title": "Senior Oracle DBA",
+            "company": "ITM Systems",
+            "location": "New York, NY, USA",
+            "dates": "2019 - 2021",
+            "key_responsibilities": [
+                "Configured and maintained Oracle 11g RAC two-node and four-node servers using SRVCTL",
+                "CRSCTL",
+                "OCRDUMP",
+                "OCRCHECK",
+                "and OCRCONFIG.",
+                "Implemented automated backup using Unix shell scripts and cron utilities.",
+                "Monitored and optimized database performance using Oracle Enterprise Manager",
+                "Grid Control",
+                "Toad",
+                "Explain Plan",
+                "and Tkprof."
+            ]
+        },
+        {
+            "job_title": "Oracle Cloud Solutions Architect",
+            "company": "AWS",
+            "location": "Remote (US)",
+            "dates": "2021 - Present",
+            "key_responsibilities": [
+                "Configured and supported Oracle 11g RAC on AWS using RDS.",
+                "Implemented GoldenGate for transactional replication of DML operations and DDL changes.",
+                "Designed disaster recovery and high availability solutions for Oracle 11g standby databases."
+            ]
+        }
+    ],
+    "education": [],
+    "skills": {
+        "technical_skills": [
+            "Oracle Database Administration\",\n            \"Exadata Administration\",\n            \"Cloud Computing (AWS)\",\n            \"GoldenGate Configuration\",\n            \"Disaster Recovery Solutions\",\n            \"Performance Tuning\",\n            \"Capacity Planning"
+        ],
+        "tools_and_software": [
+            "Toad 12.x/13.x\",\n            \"PL/SQL Developer 12.x/13.x\",\n            \"Oracle Enterprise Manager\",\n            \"Veritas NetBackup\",\n            \"ServiceNow"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

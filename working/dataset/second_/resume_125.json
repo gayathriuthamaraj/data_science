@@ -1,0 +1,60 @@
+{
+    "personal_information": {
+        "name": "Extracted Name",
+        "location": "Extracted Location"
+    },
+    "professional_summary": "Expertise in MSSQL Database Administration with strong focus on server configuration, monitoring, performance tuning, and maintenance. Proficient in T-SQL, stored procedures, triggers, and functions. Experience in high-availability environments including clustering, AlwaysOn, replication, mirroring, and log shipping. Skilled in ETL operations using SSIS tools and data modeling with ERwin and Toad Data Modeler.",
+    "work_experience": [
+        {
+            "job_title": "Database Administrator",
+            "company": "Extracted Company Name",
+            "location": "Extracted Location",
+            "dates": "2021 - 2023",
+            "key_responsibilities": [
+                "Administered SQL Server 2014",
+                "2012",
+                "and 2008 R2 in standalone and high-availability environments.",
+                "Performed business analysis and wrote effective documentation and specifications.",
+                "Expertise in MSSQL database administration including server configuration",
+                "monitoring",
+                "performance tuning",
+                "and maintenance."
+            ]
+        },
+        {
+            "job_title": "Data Analyst",
+            "company": "Extracted Company Name",
+            "location": "Extracted Location",
+            "dates": "2018 - 2020",
+            "key_responsibilities": [
+                "Developed and deployed ETL operations using SSIS tools including DTS",
+                "BIDS",
+                "and SSDT.",
+                "Conducted data migrations and server consolidations for multiple projects.",
+                "Worked on data modeling and managed data dictionaries with ERwin and Toad Data Modeler."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Extracted Degree",
+            "institution": "Extracted University Name",
+            "year_of_completion": "Extracted Year"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "Database Administration",
+            "SQL Server Administration",
+            "Data Modeling"
+        ],
+        "tools_and_software": [
+            "Microsoft SQL Server\",\n            \"SSIS (Integration Services)\",\n            \"SSRS (Reporting Services)\",\n            \"ERwin\",\n            \"Toad Data Modeler\",\n            \"T-SQL"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

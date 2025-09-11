@@ -1,0 +1,76 @@
+{
+    "personal_information": {
+        "name": "Joy Adedeji",
+        "location": "Chicago, IL"
+    },
+    "professional_summary": "Data Enthusiast certified in Oracle Database Administration with 5 years of work and academic experience transforming data into actionable information and supporting mission-critical databases.",
+    "work_experience": [
+        {
+            "job_title": "Health Care Data Analyst",
+            "company": "Living Spring Home Health Care Inc.",
+            "location": "Homewood, IL",
+            "dates": "May 2018 to Present",
+            "key_responsibilities": [
+                "Manage and modify information systems to improve workflow.",
+                "Design financial and administrative reports with data visualization.",
+                "Analyze data for trends impacting quality of service or improper payments.",
+                "Make data-driven recommendations for claims processing efficiency."
+            ]
+        },
+        {
+            "job_title": "Oracle Database Administrator",
+            "company": "Ibaka Entertainment Inc.",
+            "location": "Brooklyn Center, MN",
+            "dates": "August 2017 to Present",
+            "key_responsibilities": [
+                "Install",
+                "configure",
+                "and manage Oracle 11gR2/12c RAC and single instance databases.",
+                "Manage backup and recovery using RMAN on Red Hat Linux.",
+                "Create and implement backup plans with cold/hot backups and RMAN.",
+                "Troubleshoot database issues and automate tasks using SQL and UNIX shell scripting.",
+                "Create",
+                "modify",
+                "and maintain Oracle database objects and storage structures."
+            ]
+        },
+        {
+            "job_title": "Business Analyst",
+            "company": "Ibaka Entertainment Inc.",
+            "location": "Brooklyn Center, MN",
+            "dates": "May 2017 to August 2017",
+            "key_responsibilities": [
+                "Run complex queries and analyze data using R and SQL.",
+                "Address data quality issues and improve reporting processes.",
+                "Collaborate with IT and other stakeholders to deliver projects."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Arts",
+            "institution": "University of Minnesota - Morris, MN",
+            "year_of_completion": "2017"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "Oracle Database Administration",
+            "SQL",
+            "Data Analysis",
+            "Data Visualization",
+            "Project Management"
+        ],
+        "tools_and_software": [
+            "Tableau",
+            "R",
+            "AWS",
+            "Microsoft Excel"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

@@ -1,0 +1,71 @@
+{
+    "personal_information": {
+        "name": "Extracted Name",
+        "location": "Hyderabad, Andhra Pradesh"
+    },
+    "professional_summary": "Experienced Oracle Database Administrator with expertise in Unix shell scripting, database design, and optimization. Skilled in managing production environments, user management, and performance tuning.",
+    "work_experience": [
+        {
+            "job_title": "Database Administrator/Developer",
+            "company": "ICICI Bank",
+            "location": "Hyderabad, Andhra Pradesh",
+            "dates": "July 2007 - November 2009",
+            "key_responsibilities": [
+                "Installation",
+                "configuration",
+                "and maintenance of Oracle databases.",
+                "Unix shell scripting for application automation and functionality development.",
+                "Production user management and network configuration issues resolution."
+            ]
+        },
+        {
+            "job_title": "Oracle Database Administrator",
+            "company": "Vellore Institute of Technology",
+            "location": "Tamil Nadu",
+            "dates": "Not explicitly mentioned",
+            "key_responsibilities": [
+                "Database administration and optimization.",
+                "Unix shell scripting for performance-related tasks.",
+                "User management",
+                "privilege assignment",
+                "and hot backup management."
+            ]
+        },
+        {
+            "job_title": "Oracle Database Administrator/Developer",
+            "company": "Extracted Company Name 1",
+            "location": "Extracted Location 1",
+            "dates": "Not explicitly mentioned",
+            "key_responsibilities": [
+                "Database installation and configuration.",
+                "Data conversion from mainframe systems using SQL*Loader.",
+                "Designing complex queries and creating database triggers",
+                "packages",
+                "and stored procedures."
+            ]
+        },
+        {
+            "job_title": "Oracle Database Administrator/Developer",
+            "company": "Extracted Company Name 2",
+            "location": "Extracted Location 2",
+            "dates": "Not explicitly mentioned",
+            "key_responsibilities": [
+                "Tablespace management and optimization.",
+                "Redo log management and performance tuning.",
+                "Monitoring and reorganizing tablespaces",
+                "tables",
+                "and indexes."
+            ]
+        }
+    ],
+    "education": [],
+    "skills": {
+        "technical_skills": [],
+        "tools_and_software": []
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

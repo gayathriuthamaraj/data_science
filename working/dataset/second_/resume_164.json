@@ -1,0 +1,91 @@
+{
+    "personal_information": {
+        "name": "Cynthia Vale",
+        "location": "Portland, OR"
+    },
+    "professional_summary": "Creative Problem-Solver with expertise in User Experience (UX) Research and Design, combining technical knowledge with a deep understanding of human behavior to create intuitive solutions.",
+    "work_experience": [
+        {
+            "job_title": "Creator/Developer",
+            "company": "CutieBit Multiverse",
+            "location": "Portland, OR",
+            "dates": "February 2018 - Present",
+            "key_responsibilities": [
+                "Leading the development of blockchain-based digital collectibles.",
+                "Conducting comparative research on the blockchain industry.",
+                "Developing detailed personas and creating visual identities based on subatomic particles."
+            ]
+        },
+        {
+            "job_title": "Science Fiction Writer",
+            "company": "Scifutures",
+            "location": "San Francisco, CA",
+            "dates": "2016 - 2017",
+            "key_responsibilities": [
+                "Creating near-future scenarios for Global and Fortune 100 companies.",
+                "Researching cutting-edge technologies and social trends."
+            ]
+        },
+        {
+            "job_title": "Lead Technology Specialist",
+            "company": "City of Phoenix",
+            "location": "Phoenix, AZ",
+            "dates": "2011 - 2015",
+            "key_responsibilities": [
+                "Leading SAP system projects including the first successful Disaster Recovery project.",
+                "Managing database and Unix/Linux administration.",
+                "Conducting semi-structured interviews for user needs assessment."
+            ]
+        },
+        {
+            "job_title": "Manager Database Systems",
+            "company": "Promark IT",
+            "location": "Phoenix, AZ",
+            "dates": "2005 - 2011",
+            "key_responsibilities": [
+                "Managing database administration and designing data warehouses and marts.",
+                "Performing needs assessments through focus groups and observations."
+            ]
+        },
+        {
+            "job_title": "Senior Application Developer/Database Administrator",
+            "company": "JPMorgan Chase",
+            "location": "New York, NY",
+            "dates": "1999 - 2004",
+            "key_responsibilities": [
+                "Developing applications and managing complex databases.",
+                "Conducting needs assessments through focus groups and interviews."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "PhD",
+            "institution": "California Institute of Integral Studies",
+            "year_of_completion": "2018"
+        },
+        {
+            "degree": "Master of Liberal Arts",
+            "institution": "Arizona State University",
+            "year_of_completion": "2008"
+        },
+        {
+            "degree": "BS",
+            "institution": "Arizona State University",
+            "year_of_completion": "2008"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "Qualitative Research Methods\",\n            \"Semi-structured Interviews\",\n            \"In-Situ Observations\",\n            \"Heuristics\",\n            \"Focus Groups\",\n            \"Storyboarding\",\n            \"Prototyping\",\n            \"Wireframing\",\n            \"System Administration\",\n            \"Databases\",\n            \"Enterprise Software\",\n            \"Video Editing\",\n            \"Production\",\n            \"Audio Editing\",\n            \"3D Studio Max\",\n            \"Paint 3D\",\n            \"Management\",\n            \"Project Planning\",\n            \"Creative Writing"
+        ],
+        "tools_and_software": [
+            "SQL\",\n            \"Linux\",\n            \"HTML\",\n            \"HCI\",\n            \"UX\",\n            \"User Experience\",\n            \"User Research"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

@@ -1,0 +1,69 @@
+{
+    "personal_information": {
+        "name": "Extracted Name",
+        "location": "Raleigh, NC"
+    },
+    "professional_summary": "Experienced Network Administrator with expertise in virtualization, network maintenance, and problem-solving. Skilled in VMware, Cisco networking, and providing constructive solutions in a collaborative environment.",
+    "work_experience": [
+        {
+            "job_title": "Network Administrator",
+            "company": "Global Knowledge - Cary, NC",
+            "location": "Cary, NC",
+            "dates": "June 2018 - March 2019",
+            "key_responsibilities": [
+                "Daily maintenance of vCloud environment in production.",
+                "Providing solutions to clients for efficient lab use.",
+                "Monitoring and maintaining storage volumes."
+            ]
+        },
+        {
+            "job_title": "Jr. Network and Support Administrator",
+            "company": "Global Knowledge - Cary, NC",
+            "location": "Cary, NC",
+            "dates": "April 2015 - June 2018",
+            "key_responsibilities": [
+                "Resolving customer problems with network and server hardware/software.",
+                "Installing systems",
+                "patches",
+                "and upgrades for Unix/Linux/Microsoft OS.",
+                "Analyzing and testing network/server systems to eliminate issues."
+            ]
+        },
+        {
+            "job_title": "Sales Support Administrator/Database Entry",
+            "company": "TOSHIBA (TOSHIBA GLOBAL COMMERCE SOLUTIONS) - Research Triangle Park, NC",
+            "location": "Research Triangle Park, NC",
+            "dates": "January 2014 - April 2015",
+            "key_responsibilities": [
+                "Handling support requests from internal business partners.",
+                "Entering data from legacy systems to Oracle.",
+                "Managing contract headers and inventory data in ERP system."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor's in Cybersecurity",
+            "institution": "Southern New Hampshire University",
+            "year_of_completion": "Not explicitly mentioned"
+        },
+        {
+            "degree": "Associate in Computer Information Systems",
+            "institution": "ECPI University - Raleigh, NC",
+            "year_of_completion": "July 2015"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "VMware (VCP certified)\",\n            \"vCenter and vCloud Director knowledge\",\n            \"VM creation and deployment\",\n            \"Linux basics\",\n            \"Networking (CCNA certification in progress)\",\n            \"Cisco routers/switches configuration\",\n            \"Juniper setup"
+        ],
+        "tools_and_software": [
+            "Windows operating system\",\n            \"Active Directory\",\n            \"Oracle database management"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

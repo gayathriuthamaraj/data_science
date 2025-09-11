@@ -1,0 +1,72 @@
+{
+    "personal_information": {
+        "name": "Scrum Master",
+        "location": "Silver Spring, MD"
+    },
+    "professional_summary": "5 years of hands-on experience in Agile Methodology, including Scrum, Kanban, and SAFe. Prior experience as a database admin with 7+ years in IT, managing software life cycles from concept to delivery.",
+    "work_experience": [
+        {
+            "job_title": "Scrum Master",
+            "company": "Connections Education LLC",
+            "location": "Columbia, MD",
+            "dates": "April 2017 - Present",
+            "key_responsibilities": [
+                "Oversaw frameworks used in app creation.",
+                "Suggested Ionic framework for efficiency and fast-to-market environment.",
+                "Conducted daily stand-up meetings",
+                "backlog grooming",
+                "and retrospective meetings to track project progress.",
+                "Improved team velocity through capacity planning in sprint planning sessions.",
+                " Removed team impediments daily to enable delivery of sprint goals and deliverables.",
+                "Created business requirement documents and acted as liaison between business and software development teams during high-level reviews.",
+                "Liaised between teams",
+                "coordinated project meetings",
+                "and managed JIRA workflows.",
+                "Tracked metrics and performance indicators for project success."
+            ]
+        },
+        {
+            "job_title": "Scrum Master",
+            "company": "Xerox Corporation",
+            "location": "Rochester, NY",
+            "dates": "May 2014 - April 2017",
+            "key_responsibilities": [
+                "Implemented Agile/Scrum methodology across teams.",
+                "Trained and mentored HR applications group in Agile practices.",
+                "Contributed to development of PMO artifacts and process improvements.",
+                "Coordinated project meetings",
+                "including daily stand-ups",
+                "sprint planning",
+                "and retrospectives.",
+                "Identified and resolved obstacles impacting project progress."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor's in Math and Computer Science",
+            "institution": "University of Buea",
+            "year_of_completion": "2007"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "Jira",
+            "Database Management",
+            "Oracle",
+            "Forecasting",
+            "Capacity Planning",
+            "Agile Scrum"
+        ],
+        "tools_and_software": [
+            "RMAN",
+            "Toad",
+            "EOM"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

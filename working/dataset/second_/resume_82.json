@@ -1,0 +1,41 @@
+{
+    "personal_information": {
+        "name": "Extracted Name",
+        "location": "Hyderabad, Telangana"
+    },
+    "professional_summary": "Senior Oracle Database Administrator with expertise in Oracle 12c, 11g, and 10g databases, RAC & ASM administration, Oracle Cloud (OCI), Data Pump, and Import/Export utilities. Proficient in RMAN backups and recovery, Oracle Data Guard, SQL Server, MySQL, and various DevOps tools.",
+    "work_experience": [],
+    "education": [
+        {
+            "degree": "Bachelor of Technology in Technology",
+            "institution": "Jawaharlal Nehru Technological University (JNTU)",
+            "year_of_completion": "2007"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "Oracle DBA",
+            "SQL Server DBA",
+            "MySQL DBA",
+            "RMAN",
+            "Backups",
+            "AIX",
+            "Linux",
+            "Shell Scripting",
+            "Unix"
+        ],
+        "tools_and_software": [
+            "OEM 13c & 12c",
+            "Data Pump",
+            "Import/Export",
+            "SolarWinds",
+            "Quest Toad",
+            "SQL Developer"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

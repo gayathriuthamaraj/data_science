@@ -1,0 +1,95 @@
+{
+    "personal_information": {
+        "name": "Sourcing Specialist",
+        "location": "Kansas City, MO"
+    },
+    "professional_summary": "Business Management Professional with experience reporting to CEOs and C-Level management, known for leading multi-generational employees and managing multiple projects to meet deadlines. Skilled in handling confidential matters and utilizing professional discretion.",
+    "work_experience": [
+        {
+            "job_title": "Sourcing Specialist",
+            "company": "Black & Veatch - Overland Park, KS",
+            "location": "Kansas City, MO",
+            "dates": "September 2018 - Present",
+            "key_responsibilities": [
+                "Manage Global Supplier Database",
+                "Analyze and update vendor qualifications at bid stage",
+                "Analyze vendor financial statements and work with finance team to mitigate risks",
+                "Update and Record new policies in the Sourcing Power Procurement Manual",
+                "Present and communicate changes in procedure to Procurement professionals",
+                "Develop and implement Power BI for departmental reporting needs",
+                "Regular volunteer work with United Way of Greater Kansas City"
+            ]
+        },
+        {
+            "job_title": "Database Administrator II, Telecom",
+            "company": "Black & Veatch - Overland Park, KS",
+            "location": "Kansas City, MO",
+            "dates": "March 2018 - September 2018",
+            "key_responsibilities": [
+                "Create and implement process to document and control PO requests from vendors",
+                "Receive PO requests and issue POs to vendors through client system",
+                "Assist Project Controls with Cost Control activities",
+                "including monitoring multiple projects through EcoSys",
+                "Assist Site Acquisition and Construction teams with progress/milestone tracking",
+                "Assist Finance with PO Booking",
+                "issuing POs to client",
+                "and tracking billable milestones"
+            ]
+        },
+        {
+            "job_title": "Database Administrator I, Telecom",
+            "company": "Black & Veatch - Overland Park, KS",
+            "location": "Kansas City, MO",
+            "dates": "May 2017 - March 2018",
+            "key_responsibilities": [
+                "Analyze job scope for LTE",
+                "UMTS",
+                "ETTCS",
+                "C-RAN/Small Cell",
+                "and NSB projects",
+                "Review and approve deliverables and invoices",
+                "Develop Power BI tools for data analysis"
+            ]
+        },
+        {
+            "job_title": "Sales Coordinator",
+            "company": "SEVO Systems - Overland Park, KS",
+            "location": "Kansas City, MO",
+            "dates": "June 2016 - August 2016",
+            "key_responsibilities": [
+                "Support sales management with scheduling and organizational tasks",
+                "Administer Salesforce.com for client tracking and lead generation",
+                "Organize and lead customer satisfaction improvement initiatives"
+            ]
+        },
+        {
+            "job_title": "Administrative Assistant",
+            "company": "Knit-Rite, Inc. - Overland Park, KS",
+            "location": "Kansas City, MO",
+            "dates": "June 2015 - June 2016",
+            "key_responsibilities": [
+                "Support executive team with administrative tasks and project management",
+                "Create and distribute company communications",
+                "Lead Lean Initiatives to improve processes and reduce AR issues",
+                "Maintain client records and ensure compliance with data privacy standards",
+                "Volunteer with Crosslines in community outreach"
+            ]
+        }
+    ],
+    "education": [],
+    "skills": {
+        "technical_skills": [
+            "Oracle",
+            "Power BI",
+            "Microsoft Office Suite/365"
+        ],
+        "tools_and_software": [
+            ""
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

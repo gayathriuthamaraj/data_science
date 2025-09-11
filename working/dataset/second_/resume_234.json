@@ -1,0 +1,88 @@
+{
+    "personal_information": {
+        "name": "Junior Database Administrator",
+        "location": "Elma, NY"
+    },
+    "professional_summary": "Experienced Junior Database Administrator with expertise in database management, data organization, and team coordination.",
+    "work_experience": [
+        {
+            "job_title": "Junior Database Administrator",
+            "company": "Trumbull Industries - Warren, OH",
+            "location": "Warren, OH",
+            "dates": "October 2017 - August 2019",
+            "key_responsibilities": [
+                "Utilized Excel to clean",
+                "organize",
+                "and prepare product data.",
+                "Reviewed and uploaded product spreadsheets to consumer and commercial websites.",
+                "Researched and located unknown product specifications.",
+                "Responsible for updating and maintaining product information in MySQL database.",
+                "Constructed a central database housing product and pricing data for business intelligence purposes."
+            ]
+        },
+        {
+            "job_title": "Team Coordinator/Editor",
+            "company": "X-Culture - Youngstown, OH",
+            "location": "Youngstown, OH",
+            "dates": "September 2017 - December 2018",
+            "key_responsibilities": [
+                "Led team of 3 to meet weekly assignment deadlines.",
+                "Assisted in development",
+                "review",
+                "editing",
+                "and upload of weekly team assignments.",
+                "Relayed pertinent information for weekly tasks to the team."
+            ]
+        },
+        {
+            "job_title": "Senior Sandwich Artist",
+            "company": "Subway - Elma, NY",
+            "location": "Elma, NY",
+            "dates": "March 2015 - August 2017",
+            "key_responsibilities": [
+                "Directed up to 3 co-workers per shift to keep operations efficient.",
+                "Reconciled and recorded inventory and cash sales through company POS system.",
+                "Utilized communication and problem-solving skills to resolve customer complaints."
+            ]
+        },
+        {
+            "job_title": "Computer Technician",
+            "company": "Business Technology, LLC - East Aurora, NY",
+            "location": "East Aurora, NY",
+            "dates": "June 2016 - August 2016",
+            "key_responsibilities": [
+                "Installed small scale wiring infrastructure in client's home.",
+                "Utilized problem-solving skills to execute various levels of computer cleanup and virus removal.",
+                "Communicated computer problems and resolutions to customers."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science in Business Administration in Information and Supply Chain Management",
+            "institution": "Youngstown State University - Youngstown, OH",
+            "year_of_completion": "December 2018"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "Microsoft Office",
+            "SQL",
+            "MySQL",
+            "Amazon Advertising"
+        ],
+        "tools_and_software": [
+            "Excel",
+            "Word",
+            "PowerPoint",
+            "SQL",
+            "MySQL",
+            "Amazon Advertising"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

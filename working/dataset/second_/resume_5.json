@@ -1,0 +1,66 @@
+{
+    "personal_information": {
+        "name": "Extracted Name",
+        "location": "Richmond, VA"
+    },
+    "professional_summary": "Scrum Master with expertise in Agile Software Development and Oracle Database Administration. Skilled in Scrum Facilitation, Oracle 10g/11gR2, RMAN, Performance Tuning, and High Availability Solutions.",
+    "work_experience": [
+        {
+            "job_title": "Scrum Master",
+            "company": "Quest Technologies",
+            "location": "Washington, DC",
+            "dates": "October 2015 - April 2019",
+            "key_responsibilities": [
+                "Organize and facilitate Scrum ceremonies and backlog refinement",
+                "Champion Agile software development best practices as a coach to Scrum teams",
+                "Support the Product Owner in grooming and maintaining the product backlog"
+            ]
+        },
+        {
+            "job_title": "Oracle Database Administrator/Scrum Master",
+            "company": "Prudential",
+            "location": "Richmond, VA",
+            "dates": "June 2013 - October 2015",
+            "key_responsibilities": [
+                "Ensured the team's focus on delivering working products continuously",
+                "Facilitated daily stand-ups",
+                "sprint planning",
+                "backlog grooming",
+                "and retrospective meetings",
+                "Installed",
+                "configured",
+                "and maintained Oracle 10g and 11gR2 on Linux"
+            ]
+        },
+        {
+            "job_title": "Junior Oracle Database Administrator",
+            "company": "Time Warner Cable",
+            "location": "Richmond, VA",
+            "dates": "May 2012 - June 2013",
+            "key_responsibilities": [
+                "Administered Oracle databases and ensured high availability solutions",
+                "Performed database performance tuning using RMAN"
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Extracted Degree",
+            "institution": "Extracted University Name",
+            "year_of_completion": "2013-2019"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "Agile Scrum\",\n            \"Oracle 10g/11gR2\",\n            \"RMAN\",\n            \"Database Administration\",\n            \"Performance Tuning\",\n            \"High Availability Solutions\",\n            \"Linux"
+        ],
+        "tools_and_software": [
+            ""
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

@@ -1,0 +1,75 @@
+{
+    "personal_information": {
+        "name": "Extracted Name",
+        "location": "Panhandle State Bank"
+    },
+    "professional_summary": "IT professional with expertise in disaster recovery, maintenance, and technical support, experienced in various banking systems and applications.",
+    "work_experience": [
+        {
+            "job_title": "IT Service Rep",
+            "company": "Panhandle State Bank",
+            "location": "Panhandle State Bank",
+            "dates": "May 2007 - December 2007",
+            "key_responsibilities": [
+                "Provided support services to end users.",
+                "Resolved technical problems through troubleshooting and coordination with IT staff.",
+                "Managed installation of new software and setup of user accounts."
+            ]
+        },
+        {
+            "job_title": "IT Service Rep / Technical Support",
+            "company": "Panhandle State Bank",
+            "location": "Panhandle State Bank",
+            "dates": "December 2007 - May 2008",
+            "key_responsibilities": [
+                "Provided technical support to end users and branches.",
+                "Resolved Jack Henry system problems with 4Sight",
+                "Silverlake",
+                "and Synergy.",
+                "Ensured security protocols were followed."
+            ]
+        },
+        {
+            "job_title": "IT Manager",
+            "company": "Panhandle State Bank",
+            "location": "Panhandle State Bank",
+            "dates": "June 2008 - July 2012",
+            "key_responsibilities": [
+                "Managed IT operations and system backups.",
+                "Administered AS400 and various banking applications.",
+                "Conducted disaster recovery planning."
+            ]
+        },
+        {
+            "job_title": "IT Director",
+            "company": "Panhandle State Bank",
+            "location": "Panhandle State Bank",
+            "dates": "August 2012 - Present",
+            "key_responsibilities": [
+                "Directed IT strategy and disaster recovery planning.",
+                "Supervised system upgrades and conversions on LOB applications.",
+                "Ensured high-quality support for critical projects."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Some college",
+            "institution": "Extracted University Name",
+            "year_of_completion": "Not specified"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "Microsoft Server 2003/2008\",\n            \"Windows XP/Vista/7/8/10\",\n            \"Microsoft Exchange Server\",\n            \"Microsoft SQL Server\",\n            \"VMware Configuration, Administration, Maintenance\",\n            \"AS400 Administrator\",\n            \"Disaster Recovery Planning\",\n            \"Exchange\",\n            \"Self-starter with problem-solving abilities"
+        ],
+        "tools_and_software": [
+            "4Sight\",\n            \"Silverlake\",\n            \"Synergy\",\n            \"Jack Henry system"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

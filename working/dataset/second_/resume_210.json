@@ -1,0 +1,33 @@
+{
+    "personal_information": {
+        "name": "Oracle Database Administrator",
+        "location": "Bowie, MD"
+    },
+    "professional_summary": "Proven experience in Oracle database administration, including designing and maintaining databases, protecting data integrity, controlling access, installing, patching, and upgrading Oracle servers, and ensuring compliance with licensing agreements.",
+    "work_experience": [],
+    "education": [
+        {
+            "degree": "Associates of Applied Science in Computer Networking and Cybersecurity",
+            "institution": "University of Maryland University College",
+            "year_of_completion": "Not specified"
+        },
+        {
+            "degree": "Not specified",
+            "institution": "Prince Georges Community College",
+            "year_of_completion": "Not specified"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "Oracle Database Administration\",\n            \"SQL Server Administration\",\n            \"Network Troubleshooting\",\n            \"Windows Server Management\",\n            \"Database Migration\",\n            \"Backup Strategy Implementation"
+        ],
+        "tools_and_software": [
+            "Oracle 11g/12c\",\n            \"Microsoft Certified: Windows Server 2008/2012 R2\",\n            \"VMware\",\n            \"Cisco\",\n            \"Netgear\",\n            \"BMC Software\",\n            \"RemotelyAnywhere"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

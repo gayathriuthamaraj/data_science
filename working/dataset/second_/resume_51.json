@@ -1,0 +1,75 @@
+{
+    "personal_information": {
+        "name": "Chris F",
+        "location": "Arlington, TX"
+    },
+    "professional_summary": "Senior IT management professional with over 25 years of experience in database technologies, specializing in SQL Server administration and database optimization.",
+    "work_experience": [
+        {
+            "job_title": "Sr Enterprise Database Administrator",
+            "company": "Financial Services Company - Dallas, TX",
+            "location": "Dallas, TX",
+            "dates": "November 2017 - April 2019",
+            "key_responsibilities": [
+                "Reconfigured SQL Server farm from ground-up.",
+                "Set standards for configuration",
+                "use",
+                "and care of all SQL Server instances.",
+                "Designed and wrote custom jobs for daily",
+                "weekly",
+                "monthly maintenance of databases."
+            ]
+        },
+        {
+            "job_title": "Sr Enterprise Database Administrator",
+            "company": "HLT - Grand Prairie, TX",
+            "location": "Grand Prairie, TX",
+            "dates": "June 2016 - October 2017",
+            "key_responsibilities": [
+                "Reconfigured SQL Server farm from ground-up.",
+                "Set standards for configuration",
+                "use",
+                "and care of all SQL Server and Oracle instances.",
+                "Designed and wrote custom jobs for daily",
+                "weekly",
+                "monthly maintenance of databases."
+            ]
+        },
+        {
+            "job_title": "Sr Enterprise Database Administrator",
+            "company": "Lucernex Technologies - Dallas, TX",
+            "location": "Dallas, TX",
+            "dates": "2013 - 2016",
+            "key_responsibilities": [
+                "Administered SQL Server databases and optimized performance.",
+                "Managed database backups and disaster recovery procedures.",
+                "Provided technical support for database-related tasks."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor's Degree",
+            "institution": "DeVry Institute of Technology - Dallas, TX",
+            "year_of_completion": "1987"
+        },
+        {
+            "degree": "Associate's Degree",
+            "institution": "Tarrant County Junior College - Fort Worth, TX",
+            "year_of_completion": "1984"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "Database Administration\",\n            \"SQL Server Management\",\n            \"Data Optimization\",\n            \"ETL Processes\",\n            \"Oracle Administration"
+        ],
+        "tools_and_software": [
+            "Microsoft SQL Server\",\n            \"Oracle Database\",\n            \"Batch Files\",\n            \"ETL Tools\",\n            \"Database Management Systems"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

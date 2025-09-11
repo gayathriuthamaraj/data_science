@@ -1,0 +1,65 @@
+{
+    "personal_information": {
+        "name": "Not explicitly mentioned",
+        "location": "Not explicitly mentioned"
+    },
+    "professional_summary": "Experienced Database Administrator/Developer with expertise in SQL Server administration, high-availability solutions (AlwaysOn), disaster recovery, and security measures such as Transparent Data Encryption. Proficient in utilizing tools like SQL Server Management Studio (SSMS), SolarWinds, and JIRA for database management and monitoring.",
+    "work_experience": [
+        {
+            "job_title": "Database Administrator/Developer",
+            "company": "Company A",
+            "location": "Not explicitly mentioned",
+            "dates": "2010 - 2015",
+            "key_responsibilities": [
+                "Administered SQL Server instances across multiple environments",
+                "ensuring optimal performance and reliability.",
+                "Implemented high-availability solutions using AlwaysOn to minimize downtime.",
+                "Performed regular database backups and disaster recovery operations to ensure data integrity."
+            ]
+        },
+        {
+            "job_title": "Database Administrator/Developer",
+            "company": "Company B",
+            "location": "Not explicitly mentioned",
+            "dates": "2015 - 2018",
+            "key_responsibilities": [
+                "Migrated and optimized large-scale SQL Server databases to improve query performance.",
+                "Configured replication and mirroring solutions for data redundancy.",
+                "Monitored and resolved issues related to database locks",
+                "deadlocks",
+                "and slow-running queries."
+            ]
+        },
+        {
+            "job_title": "Database Administrator/Developer",
+            "company": "Company C",
+            "location": "Not explicitly mentioned",
+            "dates": "2018 - Present",
+            "key_responsibilities": [
+                "Developed and deployed ETL processes using SSIS for data integration.",
+                "Secured sensitive data using Transparent Data Encryption (TDE) and column-level security.",
+                "Collaborated with application teams to optimize database performance and resolve production issues."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Not explicitly mentioned",
+            "institution": "Not explicitly mentioned",
+            "year_of_completion": "Not explicitly mentioned"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "SQL Server Administration\",\n            \"High-availability Solutions (AlwaysOn)\",\n            \"Disaster Recovery Planning\",\n            \"Database Security (TDE, Column-level Security)\",\n            \"ETL Processes (SSIS)\",\n            \"Database Performance Optimization"
+        ],
+        "tools_and_software": [
+            "SQL Server Management Studio (SSMS)\",\n            \"SolarWinds Database Performance Monitor\",\n            \"JIRA for Issue Tracking and Project Management\",\n            \"Visual Studio for Development and Debugging\",\n            \"VMware for Virtual Environment Administration"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

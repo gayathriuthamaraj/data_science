@@ -1,0 +1,101 @@
+{
+    "personal_information": {
+        "name": "John Doe",
+        "location": "Lone Jack, MO"
+    },
+    "professional_summary": "Database Administrator with expertise in data-mining, reporting, IT, benefits administration, and payroll systems. Possess strong analytical and problem-solving skills, capable of working independently or as part of a team. Adept at attention to detail and providing excellent service.",
+    "work_experience": [
+        {
+            "job_title": "Database Administrator",
+            "company": "The Whole Person",
+            "location": "Kansas City, MO",
+            "dates": "2015 - 2017",
+            "key_responsibilities": [
+                "Administered and maintained databases to ensure data integrity and accessibility.",
+                "Developed and implemented reporting tools for improved decision-making.",
+                "Provided technical support for benefits and payroll systems."
+            ]
+        },
+        {
+            "job_title": "Director of Support Systems",
+            "company": "The Whole Person",
+            "location": "Kansas City, MO",
+            "dates": "2013 - 2015",
+            "key_responsibilities": [
+                "Over Directed support systems and database administration.",
+                "Optimized system performance through regular maintenance and upgrades.",
+                "Collaborated with IT team to implement new technologies."
+            ]
+        },
+        {
+            "job_title": "Payroll Manager",
+            "company": "The Whole Person",
+            "location": "Kansas City, MO",
+            "dates": "2010 - 2013",
+            "key_responsibilities": [
+                "Managed payroll operations",
+                "including tax filings and compliance.",
+                "Implemented payroll systems to improve efficiency and accuracy.",
+                "Provided training and support for HR teams."
+            ]
+        },
+        {
+            "job_title": "Payroll Specialist",
+            "company": "James B Nutter & Company",
+            "location": "Independence, MO",
+            "dates": "2014 - 2015",
+            "key_responsibilities": [
+                "Assisted in payroll processing and tax filings.",
+                "Supported HR with payroll-related issues.",
+                "Maintained records for garnishments and deductions."
+            ]
+        },
+        {
+            "job_title": "Release Specialist",
+            "company": "James B Nutter & Company",
+            "location": "Independence, MO",
+            "dates": "2015 - 2016",
+            "key_responsibilities": [
+                "Managed release processes and documentation.",
+                "Ensured compliance with legal requirements.",
+                "Provided support during employee transitions."
+            ]
+        },
+        {
+            "job_title": "Office Manager/Designer",
+            "company": "Extreme Signs",
+            "location": "Independence, MO",
+            "dates": "2012 - 2013",
+            "key_responsibilities": [
+                "Designed office layouts and branding materials.",
+                "Managed administrative tasks and budgets.",
+                "Supervised office staff and operations."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "High School Diploma",
+            "institution": "Center Place Restoration School",
+            "year_of_completion": ""
+        },
+        {
+            "degree": "Associate of Applied Science in Information Technology",
+            "institution": "Metropolitan Community College",
+            "year_of_completion": ""
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "Database Administration\",\n            \"SQL Server\",\n            \"Microsoft Office Suite\",\n            \"Crystal Reports\",\n            \"ADP Payroll\",\n            \"QuickBooks"
+        ],
+        "tools_and_software": [
+            "Windows OS\",\n            \"MacOS\",\n            \"Java\",\n            \"Python"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

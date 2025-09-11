@@ -1,0 +1,87 @@
+{
+    "personal_information": {
+        "name": "Extracted Name",
+        "location": "Houston, TX and Santa Clara, CA"
+    },
+    "professional_summary": "Professional with experience in IT service management, database administration, customer service, and software development. Skilled in ServiceNow platform, Android app development, and Oracle databases.",
+    "work_experience": [
+        {
+            "job_title": "ServiceNow Trainee Analyst",
+            "company": "Jade Global Inc",
+            "location": "Houston, TX",
+            "dates": "March 2019 - March 2019",
+            "key_responsibilities": [
+                "Certified on ITSM Pre-sales and Sales Specialization on ServiceNow Platform",
+                "Experience with Business rules",
+                "Server-side scripting",
+                "Client-side scripting",
+                "UI Actions",
+                "UI Policy",
+                "SLAs",
+                "Notifications Workflows",
+                "Surveys",
+                "Service Portal Pages and Widgets"
+            ]
+        },
+        {
+            "job_title": "Bookstore Associate",
+            "company": "Barnes & Noble Inc",
+            "location": "Houston, TX",
+            "dates": "July 2017 - December 2018",
+            "key_responsibilities": [
+                "Specialized in Customer Service",
+                "Excellent Interpersonal Communication",
+                "Strong Product Knowledge"
+            ]
+        },
+        {
+            "job_title": "Application Developer Intern",
+            "company": "ServiceNow",
+            "location": "Santa Clara, CA",
+            "dates": "June 2018 - August 2018",
+            "key_responsibilities": [
+                "Developed a widget on ServiceNow portal page",
+                "Created and designed UI",
+                "Enhanced functionality on the Chatbot",
+                "Developed Requirements and created workflows"
+            ]
+        },
+        {
+            "job_title": "Oracle Database Administrator",
+            "company": "Focus Data Tech System Private Limited",
+            "location": "Pune, Maharashtra",
+            "dates": "January 2016 - June 2016",
+            "key_responsibilities": [
+                "Responsible for database administration",
+                "design",
+                "development",
+                "maintenance and production support of relational database",
+                "Designed and developed database objects such as tables",
+                "views",
+                "and indexes",
+                "Performed Oracle RMAN backups and monitored alert log files",
+                "Marked TNS entries and checked Oracle Listener Status and Connectivity"
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Engineering in Computer Science",
+            "institution": "Kolhapur Institute of Technology",
+            "year_of_completion": "May 2015"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "C, C++, Java, .NET, Android, Swift\",\n            \"MySQL, Oracle, MongoDB\",\n            \"HTML5, CSS3, JavaScript, Bootstrap, Angular.js, jQuery, REST API"
+        ],
+        "tools_and_software": [
+            "Eclipse, Sublime Text, XCode, Visual Studio, UML, Ubuntu\",\n            \"GitHub, Bitbucket\",\n            \"AWS, Google Vision API"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

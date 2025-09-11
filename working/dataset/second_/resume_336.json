@@ -1,0 +1,62 @@
+{
+    "personal_information": {
+        "name": "Extracted Name",
+        "location": "United States Navy Virginia Beach, VA"
+    },
+    "professional_summary": "Database Administrator and Software Engineer with 8 years of experience in the United States Navy. Possesses technical expertise in database management, computer programming, leadership, and data analysis.",
+    "work_experience": [
+        {
+            "job_title": "Database Administrator",
+            "company": "United States Navy - Norfolk, VA",
+            "location": "Norfolk, VA",
+            "dates": "January 2017 to Present",
+            "key_responsibilities": [
+                "Supervised 10 administrators as the Leading Petty Officer of Maintenance Control Division.",
+                "Mentored sailors leading to 7 advancements in paygrade.",
+                "Managed 6 virtual servers and computer systems valued at $60K for Home guard and 4 detachments."
+            ]
+        },
+        {
+            "job_title": "Data Analyst",
+            "company": "United States Navy - Iwakuni, JP",
+            "location": "Iwakuni, JP",
+            "dates": "February 2016 to May 2017",
+            "key_responsibilities": [
+                "Tracked 9",
+                "832 IMRL assets to support Carrier Air Wing 5.",
+                "Drafted monthly AV3M report for the 5th Fleet.",
+                "Administered OOMA server database for 14 aircraft assets."
+            ]
+        },
+        {
+            "job_title": "Maintenance Control Clerk",
+            "company": "United States Navy - Kaneohe, HI",
+            "location": "Kaneohe, HI",
+            "dates": "February 2011 to January 2016",
+            "key_responsibilities": [
+                "Efficiently tracked and updated technical manual publications.",
+                "Assisted in maintaining and managing the database as a data entry specialist."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "B.S. in Computer Science",
+            "institution": "Maryland College - Adelphi, MD",
+            "year_of_completion": "2019"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "Comptia\",\n            \"CSS\",\n            \"HTML\",\n            \"Java\",\n            \"JavaScript\",\n            \"Mac OS\",\n            \"Security\",\n            \"VMware\",\n            \"MYSQL\",\n            \"DBA"
+        ],
+        "tools_and_software": [
+            ""
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "personal_information": {
+        "name": "Extracted Name",
+        "location": "Extracted Location"
+    },
+    "professional_summary": "Not explicitly provided in the query.",
+    "work_experience": [],
+    "education": [
+        {
+            "degree": "Bachelor of Technology in Technology",
+            "institution": "Jawaharlal Nehru Technological University Hyderabad",
+            "year_of_completion": "2009"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "Database",
+            "Ms SQL Server",
+            "Ms SQL Server 2008",
+            "SQL Server",
+            "Oracle",
+            "PL/SQL",
+            "SQL"
+        ],
+        "tools_and_software": [
+            "JIRA",
+            "ITIL",
+            "Maximo",
+            "Tivoli",
+            "Putty",
+            "VNC Viewer",
+            "Hummingbird",
+            "Tivoli Monitoring"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

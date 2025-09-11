@@ -1,0 +1,63 @@
+{
+    "personal_information": {
+        "name": "SQL Server Database Administrator",
+        "location": "Lawrenceville, GA"
+    },
+    "professional_summary": "Database Administrator with over 5 years' experience designing, implementing, and maintaining SQL Server solutions in an Enterprise environment. A reliable, responsible, and self-motivated team player.",
+    "work_experience": [
+        {
+            "job_title": "SQL Server Database Administrator",
+            "company": "Torres AES - Atlanta, GA",
+            "location": "Atlanta, GA",
+            "dates": "March 2014 – June 2019",
+            "key_responsibilities": [
+                "Perform technical analysis and troubleshooting on complex database problems.",
+                "Work with developers",
+                "support",
+                "and QA teams to maintain all database environments.",
+                "Perform database administration activities including installation",
+                "configuration",
+                "capacity planning",
+                "and space management."
+            ]
+        },
+        {
+            "job_title": "Asset Protection Supervisor",
+            "company": "Army National Guard - AF",
+            "location": "Lawrenceville, GA",
+            "dates": "February 2013 – February 2014",
+            "key_responsibilities": [
+                "Conducted 700 vehicle/personnel searches and routine security patrols.",
+                "Provided overwatch for flight line operations in a FOB of over 5",
+                "000 military personnel.",
+                "Managed a group of 4 Soldiers and trained over 20 new trainees."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Not explicitly mentioned",
+            "institution": "DeKalb Technical College",
+            "year_of_completion": "Not explicitly mentioned"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "SQL Server",
+            "Database Administration",
+            "Replication (transactional, snapshot, and merge)",
+            "SSIS",
+            "ETL"
+        ],
+        "tools_and_software": [
+            "SQL Profiler",
+            "Database Engine Tuning Advisor",
+            "AlwaysOn availability replicas"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

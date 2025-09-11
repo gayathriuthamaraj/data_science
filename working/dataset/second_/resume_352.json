@@ -1,0 +1,79 @@
+{
+    "personal_information": {
+        "name": "SQL Server Database Administrator",
+        "location": "Atlanta, GA"
+    },
+    "professional_summary": "Proven experience in SQL Server administration, database design, optimization, and high availability solutions.",
+    "work_experience": [
+        {
+            "job_title": "SQL Server Database Administrator",
+            "company": "Mahamittra Group LLC",
+            "location": "Atlanta, GA",
+            "dates": "March 2018 - Present",
+            "key_responsibilities": [
+                "Identifies database requirements by interviewing customers and analyzing department applications",
+                "programming",
+                "and operations.",
+                "Recommends solutions by defining database physical structure and functional capabilities",
+                "database security",
+                "data backup",
+                "and recovery specifications.",
+                "Installs revised or new systems by proposing specifications and flowcharts; recommending optimum access techniques; coordinating installation requirements.",
+                "Maintains database performance by calculating optimum values for database parameters; implementing new releases; completing maintenance requirements; evaluating computer operating systems and hardware products.",
+                "Prepares users by conducting training; providing information; resolving problems.",
+                "Provides information by answering questions and requests.",
+                "Maintains quality service by establishing and enforcing organization standards.",
+                "Support high availability using AlwaysON availability groups for our critical production databases."
+            ]
+        },
+        {
+            "job_title": "SQL DBA ADMINISTRATOR",
+            "company": "Transdin Group LLC",
+            "location": "Atlanta, GA",
+            "dates": "January 2014 - January 2016",
+            "key_responsibilities": [
+                "Ensure all database servers were backed",
+                "Test backups to prevent down time",
+                "Troubleshoot SQL Server service outages as they occur",
+                "Use clustering",
+                "log shipping",
+                "mirroring",
+                "Installed and configure new SQLServers",
+                "When performance issues arise",
+                "determine the most effective way to increase performance including hardware purchases",
+                "server configuration changes",
+                "or index/query changes",
+                "Document the company's database environment"
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Database Administration",
+            "institution": "Chattahoochee Technical College - Marietta, GA",
+            "year_of_completion": "2012"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "DBA",
+            "SQL Server",
+            "MySQL",
+            "SSIS",
+            "SQL Database",
+            "DB2"
+        ],
+        "tools_and_software": [
+            "Microsoft SQL Server",
+            "SQL Server Management Studio (SSMS)",
+            "Backups",
+            "Clustering",
+            "Log Shipping"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

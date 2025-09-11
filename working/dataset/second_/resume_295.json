@@ -1,0 +1,69 @@
+{
+    "personal_information": {
+        "name": "Linux Administrator",
+        "location": "Washington, DC"
+    },
+    "professional_summary": "Experienced Linux administrator with expertise in Red Hat and CentOS environments, specializing in system administration, infrastructure support, and database management.",
+    "work_experience": [
+        {
+            "job_title": "Linux Administrator",
+            "company": "Con-way Inc.",
+            "location": "Washington, DC",
+            "dates": "2014 - Present",
+            "key_responsibilities": [
+                "Administer RHEL versions 6.x",
+                "including troubleshooting physical and virtual server issues.",
+                "Install RedHat Linux using kickstart and interactive installation; apply security policies for server hardening.",
+                "Maintain various RedHat/CentOS Linux environments."
+            ]
+        },
+        {
+            "job_title": "Linux Administrator",
+            "company": "Dedicated Care Health Service Inc.",
+            "location": "Bowie, MD",
+            "dates": "2013 - 2014",
+            "key_responsibilities": [
+                "Install and administer RHEL 4.0/5.0 and CentOS 5.x.",
+                "Perform system upgrades",
+                "operating system patches",
+                "and periodical patch updates.",
+                "Create firewall rules for new servers to enable communication with applications."
+            ]
+        },
+        {
+            "job_title": "Oracle Database Administrator",
+            "company": "Syniverse Technologies Inc.",
+            "location": "Tampa, FL",
+            "dates": "2010 - 2012",
+            "key_responsibilities": [
+                "Install and configure Red Hat OS.",
+                "Provide production support for databases on versions 9i",
+                "10g",
+                "and 11g in standalone and RAC environments.",
+                "Migrate databases from Oracle 10g on Solaris 10 to Oracle 11g on Linux across development",
+                "integration",
+                "and production environments."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Associate in Education",
+            "institution": "Howard University",
+            "year_of_completion": "N/A"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "Linux Administrator\",\n            \"Red Hat\",\n            \"System Admin\",\n            \"VMware\",\n            \"Ansible\",\n            \"RMAN\",\n            \"Oracle 10g/11g"
+        ],
+        "tools_and_software": [
+            "Ansible\",\n            \"RMAN\",\n            \"Oracle Enterprise Manager\",\n            \"Elasticsearch\",\n            \"Prometheus\",\n            \"Grafana"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

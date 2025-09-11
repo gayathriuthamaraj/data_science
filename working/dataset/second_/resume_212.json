@@ -1,0 +1,82 @@
+{
+    "personal_information": {
+        "name": "John Doe",
+        "location": "Cumming, GA"
+    },
+    "professional_summary": "Experienced Data & Ecommerce Analyst with expertise in data analysis, CRM utilization, and marketplace optimization. Skilled Database Administrator with a focus on SQL Server management and performance tuning.",
+    "work_experience": [
+        {
+            "job_title": "Data & Ecommerce Analyst",
+            "company": "Bison Production Company",
+            "location": "Cumming, GA",
+            "dates": "April 2017 - Present",
+            "key_responsibilities": [
+                "Collect",
+                "analyze",
+                "and manage quantitative data to create meaningful reports and key metrics.",
+                "Manage various reporting processes including sales outlook and volume/price/mix reporting.",
+                "Acquire data from primary and secondary sources and maintain databases/data systems.",
+                "Manage Dashboard",
+                "master data",
+                "users",
+                "and user roles.",
+                "Provide quality assurance for imported data.",
+                "Filter and clean data",
+                "review trends of bad data.",
+                "CRM super user leading sales and technical teams in Salesforce.com utilization.",
+                "Identify market trends",
+                "update competitive information",
+                "and maintain profitability by segment.",
+                "Work closely with management to prioritize business needs.",
+                "Create",
+                "manage",
+                "and optimize listings on multiple marketplaces."
+            ]
+        },
+        {
+            "job_title": "Database Administrator",
+            "company": "Voogole IT Academy",
+            "location": "Alpharetta, GA",
+            "dates": "June 2015 - March 2017",
+            "key_responsibilities": [
+                "Optimize backup and recovery processes.",
+                "Configure new users",
+                "database mail",
+                "alerts",
+                "and notifications.",
+                "Diagnose SQL Server performance issues using Query Analyzer and Profiler.",
+                "Strong database design/implementation skills and capacity planning.",
+                "Experience with monitoring and troubleshooting 24x7 operations.",
+                "Capable of working in Virtual and Physical server environments."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor's in Computer Science",
+            "institution": "National University",
+            "year_of_completion": "2017"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "Data Modeling",
+            "DBMS",
+            "MS Access",
+            "MySQL",
+            "SQL"
+        ],
+        "tools_and_software": [
+            "Query Analyzer",
+            "Profiler",
+            "Amazon Seller Central",
+            "Vendor Central",
+            "Shopify"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

@@ -1,0 +1,57 @@
+{
+    "personal_information": {
+        "name": "Extracted Name",
+        "location": "Extracted Location"
+    },
+    "professional_summary": "Experienced SQL Server Database Administrator with expertise in installation, configuration, database design, backup & recovery, performance tuning, query optimization, and data transformation services. Proficient in logical and physical database design, T-SQL queries, stored procedures, views, triggers, constraints, indexes, and constraints. Skilled in High Availability (HA) and Disaster Recovery (DR) solutions like SQL Server clustering, log shipping, mirroring, always on, and replication. Experienced in upgrades and data center migrations of SQL Server instances. Proficient in Windows Server Administration, Active Directory, Network, and SAN. Strong communication and problem-solving skills with ability to work independently or collaborate effectively in a team environment.",
+    "work_experience": [
+        {
+            "job_title": "SQL Server Database Administrator",
+            "company": "Extracted Company Name",
+            "location": "Extracted Location",
+            "dates": "2014 - 2023",
+            "key_responsibilities": [
+                "Installation and configuration of SQL Server instances.",
+                "Logical and physical database design.",
+                "Backup and recovery implementation.",
+                "Performance tuning and query optimization.",
+                "Data transformation services (DTS).",
+                "Database security implementation."
+            ]
+        },
+        {
+            "job_title": "SQL Server Analyst/Developer",
+            "company": "Extracted Company Name",
+            "location": "Extracted Location",
+            "dates": "2008 - 2014",
+            "key_responsibilities": [
+                "Design",
+                "development",
+                "and deployment of SQL solutions.",
+                "Implementation of database security measures.",
+                "Performance monitoring and optimization.",
+                "Troubleshooting and resolution of complex database issues."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Business Administration in Accounting",
+            "institution": "Middle Tennessee State University",
+            "year_of_completion": "2014"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "Microsoft SQL Server (2005, 2008, 2012, 2014, 2016)\",\n            \"T-SQL Programming Language\",\n            \"Windows Server Administration\",\n            \"Active Directory\",\n            \"Network and SAN Knowledge\",\n            \"RDBMS Concepts\",\n            \"Views, Triggers, Stored Procedures, Indexes, Constraints"
+        ],
+        "tools_and_software": [
+            "SQL Server Management Studio (SSMS)\",\n            \"Visual Studio\",\n            \"SQL Profiler\",\n            \"HP Quality Center\",\n            \"PssDiag\",\n            \"PerfMon Analyzer\",\n            \"JIRA\",\n            \"Salesforce\",\n            \"Microsoft Visio"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

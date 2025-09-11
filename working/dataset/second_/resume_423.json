@@ -1,0 +1,84 @@
+{
+    "personal_information": {
+        "name": "Extracted Name",
+        "location": "Carrollton, TX"
+    },
+    "professional_summary": "Data Analyst with expertise in SQL, database administration, and system support.",
+    "work_experience": [
+        {
+            "job_title": "SQL Server Database Administrator",
+            "company": "Kuba Global Solutions Limited",
+            "location": "Lagos, NG",
+            "dates": "June 2012 - December 2014",
+            "key_responsibilities": [
+                "Maintained and monitored database backup and restore processes.",
+                "Monitored and maintained database performance and identified areas for improvement.",
+                "Effectuated database performance tuning",
+                "analysis",
+                "and optimization."
+            ]
+        },
+        {
+            "job_title": "Operations Database Analyst",
+            "company": "May and Baker Nigeria Plc",
+            "location": "Lagos, NG",
+            "dates": "June 2010 - April 2012",
+            "key_responsibilities": [
+                "Used SQL Profiler for troubleshooting",
+                "monitoring",
+                "and optimization of SQL Server and SQL code.",
+                "Performed DBA duties including Database Backups",
+                "Restores",
+                "Performance Tuning",
+                "and Capacity Analysis."
+            ]
+        },
+        {
+            "job_title": "System Analyst/Technical Support",
+            "company": "Central Business Solutions Inc",
+            "location": "Houston, TX",
+            "dates": "December 2014 - November 2016",
+            "key_responsibilities": [
+                "Monitored and maintained computer systems and networks.",
+                "Installed and configured computer systems.",
+                "Delivered service and support to end-users using automated call distribution phone software."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "MSc",
+            "institution": "Strayer University",
+            "year_of_completion": "Not specified"
+        },
+        {
+            "degree": "B.Tech.",
+            "institution": "Lagos State University Ojo",
+            "year_of_completion": "Not specified"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "SQL",
+            "Powerpoint",
+            "MS Office",
+            "Business Intelligence",
+            "Testing",
+            "Access",
+            "Excel",
+            "ETL",
+            "DBA",
+            "Tableau",
+            "PL SQL",
+            "XML"
+        ],
+        "tools_and_software": [
+            ""
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "personal_information": {
+        "name": "Security Analyst Intern",
+        "location": "Fairfax, VA"
+    },
+    "professional_summary": "Experienced Security Analyst Intern with expertise in log analysis, incident response, and vulnerability management. Proficient in various security tools and technologies, seeking to enhance cybersecurity capabilities.",
+    "work_experience": [],
+    "education": [
+        {
+            "degree": "Bachelor in Information Technology and Systems Engineering",
+            "institution": "Azerbaijan State Oil Academy",
+            "year_of_completion": "N/A"
+        },
+        {
+            "degree": "MBA",
+            "institution": "Azerbaijan State Economic University",
+            "year_of_completion": "N/A"
+        },
+        {
+            "degree": "Master of Science in Information Technology",
+            "institution": "Virginia International University",
+            "year_of_completion": "N/A"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "Metasploit\", \n            \"Nessus\", \n            \"Nmap\", \n            \"SIEM\", \n            \"Splunk\", \n            \"Wireshark\", \n            \"CSS\", \n            \"Security\", \n            \"Database Administration\", \n            \"SQL Server\", \n            \"MySQL\", \n            \"Oracle\", \n            \"SQL\", \n            \"Active Directory\", \n            \"TCP\", \n            \"TCP/IP\",\n            \"VMware\",\n            \"Networking\",\n            \"Android Studio\",\n            \"Information Security\",\n            \"Cybersecurity\",\n            \"Linux\",\n            \"Network Security"
+        ],
+        "tools_and_software": [
+            "Oracle Applications\",\n            \"OBI\",\n            \"SQL Server\",\n            \"MySQL\",\n            \"Toad\",\n            \"Windows\",\n            \"Linux (Fedora/Ubuntu)\",\n            \"iOS\",\n            \"VMware\",\n            \"Active Directory"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

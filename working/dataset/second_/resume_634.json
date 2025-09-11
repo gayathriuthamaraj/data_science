@@ -1,0 +1,56 @@
+{
+    "personal_information": {
+        "name": "",
+        "location": "Extracted Location"
+    },
+    "professional_summary": "Data Analyst with expertise in AML/ATF and retail banking, experienced in data manipulation, analysis, and visualization. Proficient in programming, reporting, and visualization tools.",
+    "work_experience": [
+        {
+            "job_title": "AML Model and Analytics",
+            "company": "Extracted Company Name",
+            "location": "Extracted Location",
+            "dates": "2020 - Present",
+            "key_responsibilities": [
+                "Developed and implemented AML/ATF models and analytics solutions.",
+                "Conducted data analysis and manipulation for fraud detection.",
+                "Performed data visualization and reporting using Tableau and Cognos."
+            ]
+        },
+        {
+            "job_title": "Data Analyst",
+            "company": "Extracted Company Name",
+            "location": "Extracted Location",
+            "dates": "2017 - 2020",
+            "key_responsibilities": [
+                "Analyzed and processed large datasets for retail banking operations.",
+                "Developed data-driven insights and reports for decision-making.",
+                "Collaborated with cross-functional teams to improve data quality."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "M.S. in Information Systems",
+            "institution": "Extracted University Name",
+            "year_of_completion": "2020"
+        },
+        {
+            "degree": "B.S. in Economics",
+            "institution": "Extracted University Name",
+            "year_of_completion": "2017"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "Oracle\",\n            \"SQL\",\n            \"SAS\",\n            \"Tableau\",\n            \"Hive\",\n            \"Python\",\n            \"JCL\",\n            \"Mainframe\",\n            \"Microsoft Office\",\n            \"Cognos\",\n            \"Datameer"
+        ],
+        "tools_and_software": [
+            ""
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

@@ -1,0 +1,75 @@
+{
+    "personal_information": {
+        "name": "Extracted Name",
+        "location": "Tamarac, FL"
+    },
+    "professional_summary": "Experienced SQL Database Administrator II with expertise in optimizing database performance, managing high-availability environments, and executing complex migrations, backups, and restorations across multiple locations including Fort Lauderdale, FL; Hollywood, FL; and San Juan, PR. Proficient in SQL Server administration, SSRS, SSIS, Hyperion Performance Suite, and various other tools and software.",
+    "work_experience": [
+        {
+            "job_title": "SQL Database Administrator II",
+            "company": "Omnicomm Systems",
+            "location": "Fort Lauderdale, FL",
+            "dates": "June 2018 - Present",
+            "key_responsibilities": [
+                "Optimizing and enhancing database performance in high-availability environments.",
+                "Executing complex database migrations and backups to ensure data integrity and availability.",
+                "Providing technical support for database-related tasks and projects."
+            ]
+        },
+        {
+            "job_title": "SQL Database Administrator II",
+            "company": "Hard Rock International",
+            "location": "Hollywood, FL",
+            "dates": "January 2018 - June 2018",
+            "key_responsibilities": [
+                "Assisting with database optimization and maintenance.",
+                "Supporting database migrations and backup processes.",
+                "Contributing to the overall database health and performance."
+            ]
+        },
+        {
+            "job_title": "SQL Database Administrator",
+            "company": "ABARCA HEALTH",
+            "location": "San Juan, PR",
+            "dates": "March 2014 - December 2017",
+            "key_responsibilities": [
+                "Managing and optimizing SQL Server databases to ensure high performance.",
+                "Overseeing database migrations and backup strategies.",
+                "Providing technical support for database-related tasks."
+            ]
+        },
+        {
+            "job_title": "SQL Database Administrator",
+            "company": "INTERACTIVE SYSTEMS, INC",
+            "location": "San Juan, PR",
+            "dates": "March 2012 - February 2014",
+            "key_responsibilities": [
+                "Administering SQL Server databases and ensuring optimal performance.",
+                "Managing database migrations and backup processes.",
+                "Contributing to the overall database health and performance."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "BS",
+            "institution": "University of Puerto Rico - Mayagüez",
+            "year_of_completion": "2009"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "DBA",
+            "SQL Dba",
+            "SQL Database Administration"
+        ],
+        "tools_and_software": [
+            "MS SQL Server (2003-2014)\",\n            \"SSRS & SSIS\",\n            \"Microsoft Exchange Server 2003\",\n            \"CheckPoint Firewall\",\n            \"Prism Microsystems' Event Tracker\",\n            \"McAfee VirusScan Enterprise\",\n            \"Citrix Presentation Server & Access Gateway\",\n            \"Sybase Central\",\n            \"Sybase Central Java Security"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

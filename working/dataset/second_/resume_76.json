@@ -1,0 +1,78 @@
+{
+    "personal_information": {
+        "name": "Extracted Name",
+        "location": "Ashburn, VA"
+    },
+    "professional_summary": "8+ years of experience in Database Development and Management with expertise in MS SQL Server and PostgreSQL.",
+    "work_experience": [
+        {
+            "job_title": "Principal Database Development Engineer",
+            "company": "REI Systems",
+            "location": "Ashburn, VA",
+            "dates": "September 2011 - Present",
+            "key_responsibilities": [
+                "Designing and implementing complex database solutions.",
+                "Optimizing database performance for high-throughput applications.",
+                "Managing large-scale data migration and integration projects."
+            ]
+        },
+        {
+            "job_title": "Database Analyst/Developer",
+            "company": "The University of Texas at Dallas",
+            "location": "Dallas, TX",
+            "dates": "January 2011 - May 2011",
+            "key_responsibilities": [
+                "Developing and maintaining relational database systems.",
+                "Collaborating with application development teams for database integration.",
+                "Performing data analysis and query optimization."
+            ]
+        },
+        {
+            "job_title": "Microsoft SQL Server Database Administrator",
+            "company": "Clover InfoTech Private Limited",
+            "location": "Mumbai, India",
+            "dates": "March 2008 - June 2009",
+            "key_responsibilities": [
+                "Installing and configuring MS SQL Server environments.",
+                "Performing regular maintenance and backup operations.",
+                "Managing database security and user access permissions."
+            ]
+        },
+        {
+            "job_title": "Database Administration Intern",
+            "company": "The Shams Group",
+            "location": "Mumbai, India",
+            "dates": "May 2011 - September 2011",
+            "key_responsibilities": [
+                "Assisting in database administration tasks.",
+                "Supporting database backup and recovery processes.",
+                "Collaborating with IT teams for database system improvements."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "M.S.",
+            "institution": "The University of Texas at Dallas",
+            "year_of_completion": "2011"
+        },
+        {
+            "degree": "B.E. in Electronics Engineering",
+            "institution": "University of Mumbai",
+            "year_of_completion": "2008"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "MS SQL Server\",\n            \"PostgreSQL\",\n            \"T-SQL\",\n            \"Database Administration\",\n            \"Data Analysis\",\n            \"Data Migration"
+        ],
+        "tools_and_software": [
+            "Visio\",\n            \"Tortoise SVN\",\n            \"JAMA Contour\",\n            \"Microsoft Visio\",\n            \"Oracle SQL Developer\",\n            \"PGAdmin\",\n            \"BIDS"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

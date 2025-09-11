@@ -1,0 +1,84 @@
+{
+    "personal_information": {
+        "name": "Extracted Name",
+        "location": "Atlanta, GA"
+    },
+    "professional_summary": "Detail oriented and result driven Database Administration professional with 5 years of hands on MS SQL knowledge.",
+    "work_experience": [
+        {
+            "job_title": "DATABASE ADMINISTRATOR",
+            "company": "Nalley (Union City, GA)",
+            "location": "Atlanta, GA",
+            "dates": "2017 - Present",
+            "key_responsibilities": [
+                "Migration from SQL Server 2008 to 2014",
+                "Proficient in SQL tools such as Enterprise Manager and Query Analyzer",
+                "Communication of technical issues to management and end-users",
+                "Backup verification",
+                "troubleshooting",
+                "and disaster recovery implementation",
+                "High availability setup and ETL operations with SSIS and BULK INSERT",
+                "Performance tuning",
+                "table compression",
+                "and automated deployment using TeamCity/Octopus",
+                "SQL Server 2016 feature preview and security management"
+            ]
+        },
+        {
+            "job_title": "24 X 7 Production Database on Call Support",
+            "company": "AutoNation (Atlanta, GA)",
+            "location": "Atlanta, GA",
+            "dates": "2015 - 2017",
+            "key_responsibilities": [
+                "Performance tuning and optimization of SQL Server databases",
+                "Troubleshooting complex SQL Server issues",
+                "Managing project databases with high accuracy and automation",
+                "Administration of 20+ SQL Servers across multiple environments",
+                "Performance monitoring using DBCC tools",
+                "Database backup",
+                "restoration",
+                "and recovery processes",
+                "Capacity planning and physical database design discussions"
+            ]
+        },
+        {
+            "job_title": "JUNIOR DATABASE ADMINISTRATOR",
+            "company": "Pacific System, Inc. (McDonough, GA)",
+            "location": "Atlanta, GA",
+            "dates": "2014 - 2015",
+            "key_responsibilities": [
+                "Collaboration with senior DBAs on complex tasks",
+                "Installation and configuration of SQL Server databases",
+                "Troubleshooting and resolving SQL Server issues",
+                "Security management within database environments",
+                "Capacity planning and performance tuning"
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Science",
+            "institution": "Georgia State University",
+            "year_of_completion": "2014"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "SQL Server 2008",
+            "SQL Server 2008R2",
+            "SQL Server 2012",
+            "SQL Server 2014",
+            "SQL Server 2016",
+            "Windows Server 2008/2008R2/2012"
+        ],
+        "tools_and_software": [
+            "Redgate SQL Monitor",
+            "Idera"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

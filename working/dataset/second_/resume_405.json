@@ -1,0 +1,70 @@
+{
+    "personal_information": {
+        "name": "Extracted Name",
+        "location": "Addis Ababa, Ethiopia"
+    },
+    "professional_summary": "Experienced Microsoft SQL Server Database Administrator with 6 years of expertise in database management, performance tuning, and high-availability solutions. Certified in administering Microsoft SQL Server 2012/2014 databases.",
+    "work_experience": [
+        {
+            "job_title": "Database Administrator",
+            "company": "IceAddis",
+            "location": "Addis Ababa, Ethiopia",
+            "dates": "February 2013 - June 2014",
+            "key_responsibilities": [
+                "Administered MS SQL Server 2008 and migrations to 2008 R2/2012.",
+                "Implemented security policies and backup/disaster recovery plans.",
+                "Monitored database performance and rebuilt indexes for optimization."
+            ]
+        },
+        {
+            "job_title": "Database Administrator",
+            "company": "Microsoft",
+            "location": "Redmond, WA, USA",
+            "dates": "July 2014 - June 2016",
+            "key_responsibilities": [
+                "Managed SQL Server 2008/2008 R2 and newer versions.",
+                "Created maintenance plans and applied patches and hotfixes.",
+                "Configured replication and disaster recovery processes."
+            ]
+        },
+        {
+            "job_title": "Database Administrator",
+            "company": "IceAddis",
+            "location": "Addis Ababa, Ethiopia",
+            "dates": "July 2016 - Present",
+            "key_responsibilities": [
+                "Administered SQL Server 2008/2008 R2 and migration tasks.",
+                "Implemented security protocols and backup plans.",
+                "Monitored database performance and optimized SSIS packages."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "B.Sc.",
+            "institution": "Addis Ababa University",
+            "year_of_completion": "2013"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "Microsoft SQL Server",
+            "SQL Programming",
+            "SSIS",
+            "ETL"
+        ],
+        "tools_and_software": [
+            "Visual Studio",
+            "SQL Server Management Studio",
+            "Transact-SQL",
+            "PowerShell",
+            "RedGate SQL Toolbelt",
+            "Excel"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

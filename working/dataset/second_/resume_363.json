@@ -1,0 +1,59 @@
+{
+    "personal_information": {
+        "name": "Extracted Name",
+        "location": "Extracted Location"
+    },
+    "professional_summary": "Experienced Oracle Database Administrator with 7+ years of expertise in managing large-scale relational databases. Proficient in RAC, ASM, DataGuard, and RMAN. Adept at optimizing database performance and ensuring high availability through tools like TKPROF, STATSPACK, and AWR. Strong focus on automation, backup/recovery strategies, and collaborative problem-solving with development teams.",
+    "work_experience": [
+        {
+            "job_title": "Database Administrator",
+            "company": "Extracted Company Name",
+            "location": "Extracted Location",
+            "dates": "2018 - Present",
+            "key_responsibilities": [
+                "Administering and optimizing Oracle RAC databases for mission-critical applications.",
+                "Troubleshooting performance bottlenecks and ensuring database uptime.",
+                "Implementing and monitoring backup strategies using RMAN",
+                "DataPump",
+                "and Export.",
+                "Managing user roles and permissions while enforcing security best practices.",
+                "Collaborating with application development teams to resolve tuning issues and implement changes.",
+                "Creating and maintaining database objects (tables",
+                "views",
+                "indexes) based on application requirements.",
+                "Monitoring database performance and ensuring high availability through alert log analysis and query optimization."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor's Degree",
+            "institution": "Extracted University Name",
+            "year_of_completion": "2017"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "Oracle Database Administration",
+            "RAC",
+            "ASM",
+            "DataGuard",
+            "RMAN",
+            "SQL",
+            "UNIX"
+        ],
+        "tools_and_software": [
+            "TOAD",
+            "Putty",
+            "NX client",
+            "Winscp",
+            "SQL*Plus",
+            "PL/SQL"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

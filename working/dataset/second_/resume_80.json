@@ -1,0 +1,65 @@
+{
+    "personal_information": {
+        "name": "SQL Database Administrator",
+        "location": "Queens, NY"
+    },
+    "professional_summary": "Certified SQL Database Administrator with over 5 years of IT experience in managing and supporting Microsoft MS SQL Server 2016, 2014, 2012, and 2008 R2 in various environments. Proficient in database administration, design, monitoring, and high availability solutions.",
+    "work_experience": [
+        {
+            "job_title": "SQL Database Administrator",
+            "company": "MetLife",
+            "location": "Queens, NY",
+            "dates": "July 2017 - Present",
+            "key_responsibilities": [
+                "Designing and optimizing complex databases for large-scale applications.",
+                "Implementing and managing database backup and recovery solutions to ensure data integrity.",
+                "Monitoring and troubleshooting database performance issues to maintain system availability."
+            ]
+        },
+        {
+            "job_title": "SQL Database Administrator",
+            "company": "African Development Foundation",
+            "location": "Washington, D.C. Area",
+            "dates": "January 2016 - June 2017",
+            "key_responsibilities": [
+                "Administering SQL Server databases to support organizational operations.",
+                "Optimizing database queries and performance using tools like Query Execution Plan and Database Tuning Advisor.",
+                "Configuring and managing replication",
+                "mirroring",
+                "and log shipping for high availability."
+            ]
+        },
+        {
+            "job_title": "SQL Database Administrator",
+            "company": "3 Bank",
+            "location": "San Diego, CA",
+            "dates": "January 2014 - December 2015",
+            "key_responsibilities": [
+                "Migrating and upgrading databases from SQL Server to MySQL and MS SQL",
+                "ensuring seamless transitions with minimal downtime.",
+                "Designing and implementing data models using tools like ERWin for new systems and enhancing existing ones.",
+                "Developing T-SQL stored procedures and functions for reporting and application integration."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor's",
+            "institution": "",
+            "year_of_completion": ""
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "ADO\",\n            \"Data Modeling\",\n            \"Database Administration\",\n            \"SQL Server\",\n            \"MySQL\",\n            \"PostgreSQL\",\n            \"Replication\",\n            \"Stored Procedures\",\n            \"SSRS\",\n            \"T-SQL\",\n            \"Clustering\",\n            \"Metadata\",\n            \"MONGODB\",\n            \"RAID\",\n            \"IIS"
+        ],
+        "tools_and_software": [
+            "Microsoft SQL Server\",\n            \"MySQL\",\n            \"PostgreSQL\",\n            \"ADO.NET\",\n            \"ODBC\",\n            \"Oracle\",\n            \"ERWin\",\n            \"Query Execution Plan\",\n            \"Database Tuning Advisor\",\n            \"Profiler\",\n            \"DBCC\",\n            \"DMV\",\n            \"Query Execution Plan"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

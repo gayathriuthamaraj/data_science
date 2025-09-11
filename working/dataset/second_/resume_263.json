@@ -1,0 +1,78 @@
+{
+    "personal_information": {
+        "name": "John Doe",
+        "location": "Salisbury, MD"
+    },
+    "professional_summary": "Technical professional seeking to leverage IT experience and continuous learning to contribute effectively in a technical role.",
+    "work_experience": [
+        {
+            "job_title": "Production Leader",
+            "company": "W. L. Gore & Associates",
+            "location": "Salisbury, MD",
+            "dates": "February 2017 - May 2019",
+            "key_responsibilities": [
+                "Assembling FDA-regulated medical devices",
+                "Following clean room procedures",
+                "Operating various machinery",
+                "Team collaboration"
+            ]
+        },
+        {
+            "job_title": "Game Advisor",
+            "company": "GameStop",
+            "location": "Newark, DE",
+            "dates": "November 2018 - February 2019",
+            "key_responsibilities": [
+                "Handling register transactions",
+                "Making sale suggestions",
+                "Stocking and maintaining store aesthetics",
+                "Promoting new products"
+            ]
+        },
+        {
+            "job_title": "Database Administrator",
+            "company": "W. L. Gore & Associates",
+            "location": "Salisbury, MD",
+            "dates": "June 2015 - August 2016",
+            "key_responsibilities": [
+                "Updating chemical databases",
+                "Creating Material Safety Data Sheets",
+                "Troubleshooting printers",
+                "Scanning chemical information"
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor's in Computer Networks and Cybersecurity",
+            "institution": "University of Maryland, University College (UMUC)",
+            "year_of_completion": "2019"
+        },
+        {
+            "degree": "Associate's in Computer Engineering",
+            "institution": "Cecil College",
+            "year_of_completion": "2016"
+        },
+        {
+            "degree": "High School Diploma",
+            "institution": "North East High School",
+            "year_of_completion": "2012"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "ANDROID",
+            "COMPUTER TROUBLESHOOTING",
+            "IOS",
+            "MICROSOFT OFFICE"
+        ],
+        "tools_and_software": [
+            ""
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

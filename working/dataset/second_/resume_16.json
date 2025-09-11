@@ -1,0 +1,66 @@
+{
+    "personal_information": {
+        "name": "SQL DBA/Database Administrator",
+        "location": "Extracted Location"
+    },
+    "professional_summary": "Experienced SQL DBA with expertise in database administration, replication, and high-availability solutions. Proficient in SSIS, SSRS, and Azure technology implementation. Strong focus on performance tuning and query optimization.",
+    "work_experience": [
+        {
+            "job_title": "SQL DBA/Database Administrator",
+            "company": "Extracted Company Name",
+            "location": "Extracted Location",
+            "dates": "2003 - 2023",
+            "key_responsibilities": [
+                "Installed",
+                "configured",
+                "and maintained SQL Server 2000/2005/2008 in Dev",
+                "Test",
+                "and Prod environments.",
+                "Managed backup/restores",
+                "Point-in-Time Recovery",
+                "and database security.",
+                "Implemented transactional and snapshot replication models."
+            ]
+        },
+        {
+            "job_title": "Database Administrator",
+            "company": "Extracted Company Name",
+            "location": "Extracted Location",
+            "dates": "1999 - 2003",
+            "key_responsibilities": [
+                "Configured and managed SQL Server databases for various applications.",
+                "Implemented high-availability solutions such as log shipping and database mirroring.",
+                "Applied service packs",
+                "patches",
+                "and cumulative updates."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor's Degree",
+            "institution": "Extracted University Name",
+            "year_of_completion": "1998"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "SQL Server Administration",
+            "Database Replication",
+            "High Availability Solutions",
+            "Performance Tuning"
+        ],
+        "tools_and_software": [
+            "SSIS",
+            "SSRS",
+            "Azure Technology",
+            "JIRA",
+            "Active Directory"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

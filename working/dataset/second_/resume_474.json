@@ -1,0 +1,54 @@
+{
+    "personal_information": {
+        "name": "Extracted Name",
+        "location": "Las Vegas, NV"
+    },
+    "professional_summary": "Database/Systems Administrator with 7 years of experience in military and aviation maintenance administration, possessing cross-platform expertise in system/database administration, troubleshooting, and security compliance.",
+    "work_experience": [
+        {
+            "job_title": "Maintenance Administration Work Center Supervisor - Database/Systems Administrator",
+            "company": "U.S. Navy - Sigonella, Sicily",
+            "location": "Las Vegas, NV",
+            "dates": "December 2016 - Present",
+            "key_responsibilities": [
+                "Supervised 12 personnel in the administration and management of two Windows Servers and 100 workstations for 160 end users",
+                "ensuring 95% security compliance through software patching",
+                "differential and incremental backups",
+                "and log analysis.",
+                "Coordinated and performed the system integration of Naval Aviation Logistics Command Management Information System (NALCOMIS) within the ONE-NET network",
+                "ensuring 100% functionality for all end users.",
+                "Performed hardware and software installations",
+                "resulting in the replacement and upgrade from Windows 2003 Application Server to Windows 2008 Application Server",
+                "while conducting regular software installs and patch updates for NALCOMIS OOMA (Optimized Organization Maintenance Activity) and McAfee endpoint protection software."
+            ]
+        },
+        {
+            "job_title": "Aviation Maintenance Administration - Systems Analyst",
+            "company": "U.S. Navy - Sigonella, Sicily",
+            "location": "Las Vegas, NV",
+            "dates": "March 2013 - September 2016",
+            "key_responsibilities": [
+                "Provided technical leadership and oversight for the maintenance administration systems",
+                "ensuring operational readiness and compliance with military standards.",
+                "Resolved complex system issues related to network security",
+                "database integrity",
+                "and application performance.",
+                "Collaborated with cross-functional teams to implement system upgrades and optimize operational efficiency."
+            ]
+        }
+    ],
+    "education": [],
+    "skills": {
+        "technical_skills": [
+            "Cross-platform expertise in Windows Server, Linux, and macOS\",\n            \"Database administration skills (SQL, NoSQL)\",\n            \"Network security protocols and compliance standards\",\n            \"System integration and optimization"
+        ],
+        "tools_and_software": [
+            "Windows Server\",\n            \"McAfee Endpoint Protection\",\n            \"Retina scanning software\",\n            \"SQL (Structured Query Language)\",\n            \"NoSQL databases"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

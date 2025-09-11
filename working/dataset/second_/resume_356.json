@@ -1,0 +1,67 @@
+{
+    "personal_information": {
+        "name": "Charlotte",
+        "location": "Charlotte, NC"
+    },
+    "professional_summary": "Certified Scrum Master with extensive experience in agile methodologies, database administration, and process optimization. Proven ability to bridge business and technology gaps through effective project management and leadership.",
+    "work_experience": [
+        {
+            "job_title": "SCRUM MASTER",
+            "company": "CHANDO GLOBAL GROUP, LLC",
+            "location": "Charlotte, NC",
+            "dates": "September 2017 - May 2019",
+            "key_responsibilities": [
+                "Facilitating Scrum ceremonies and leading agile teams.",
+                "Implementing Scrum and Kanban practices to improve workflows.",
+                "Collaborating with stakeholders to identify and resolve issues."
+            ]
+        },
+        {
+            "job_title": "SCRUM MASTER",
+            "company": "FIRST GULF BANK - ABUDHABI",
+            "location": "Abu Dhabi, UAE",
+            "dates": "February 2016 - July 2017",
+            "key_responsibilities": [
+                "Leading Scrum teams and driving agile transformation.",
+                "Adapting Scrum practices to meet organizational goals.",
+                "Providing training and mentorship to team members."
+            ]
+        },
+        {
+            "job_title": "ORACLE DATABASE ADMINISTRATOR",
+            "company": "FIRST GULF BANK - ABUDHABI",
+            "location": "Abu Dhabi, UAE",
+            "dates": "March 2013 - July 2015",
+            "key_responsibilities": [
+                "Managing and optimizing Oracle databases.",
+                "Performing database maintenance and troubleshooting.",
+                "Ensuring data integrity and security."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Arts in Banking and Finance",
+            "institution": "University of Bamenda",
+            "year_of_completion": "2013"
+        },
+        {
+            "degree": "Diploma in Computer Data Processing",
+            "institution": "It Training Institute - Dubai, AE",
+            "year_of_completion": "2013"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "Database Administration\",\n            \"Oracle\",\n            \"SQL\",\n            \"Korn Shell Scripting\",\n            \"Linux\",\n            \"Windows Operating System\",\n            \"Jira\",\n            \"Confluence\",\n            \"Rally"
+        ],
+        "tools_and_software": [
+            "Microsoft Office Suite\",\n            \"Process Documentation\",\n            \"Teaching and Coaching Ability\",\n            \"Agile Methodologies\",\n            \"Scrum\",\n            \"Kanban\",\n            \"SAFe\",\n            \"Waterfall Methodology"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

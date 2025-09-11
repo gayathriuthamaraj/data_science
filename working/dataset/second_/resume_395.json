@@ -1,0 +1,53 @@
+{
+    "personal_information": {
+        "name": "Extracted Name",
+        "location": "Extracted Location"
+    },
+    "professional_summary": "Experienced Oracle and MySQL DBA with expertise in database administration, performance tuning, and DR solutions. Proficient in RAC, Data Guard, and enterprise-level monitoring tools.",
+    "work_experience": [
+        {
+            "job_title": "Oracle Database Administrator",
+            "company": "Extracted Company Name",
+            "location": "Extracted Location",
+            "dates": "January 2023 - Present",
+            "key_responsibilities": [
+                "Administering and monitoring Oracle databases in production and development environments.",
+                "Performing regular maintenance tasks such as backup",
+                "recovery",
+                "and patching.",
+                "Optimizing database performance through tuning queries and indexing."
+            ]
+        },
+        {
+            "job_title": "Oracle DBA (Contract)",
+            "company": "Nepal Satellite Telecom",
+            "location": "Extracted Location",
+            "dates": "January 2013 - December 2013",
+            "key_responsibilities": [
+                "Troubleshooting MySQL database issues and resolving server problems.",
+                "Creating scripts for data integration and maintenance.",
+                "Designing efficient database structures for customer analysis."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master's Degree",
+            "institution": "Extracted University Name",
+            "year_of_completion": "2022"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "Oracle Database Administration\",\n            \"MySQL Database Management\",\n            \"Database Performance Tuning\",\n            \"RAC and Data Guard Configuration\",\n            \"Enterprise Monitoring Tools (OEM Grid Control)\",\n            \"SQL Query Optimization\",\n            \"Incident Handling and Problem Resolution"
+        ],
+        "tools_and_software": [
+            "Oracle Server Software\",\n            \"MySQL Server\",\n            \"WebLogic Server Administration Console\",\n            \"RMAN for Backup and Recovery\",\n            \"Shell Scripting for Automation"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "personal_information": {
+        "name": "John Doe",
+        "location": "Bristol, IN"
+    },
+    "professional_summary": "Office Manager experienced in invoicing, accounts receivable/payable, and maintaining vendor and customer records. Skilled in Quickbooks, Excel, and communication with ability to work independently or in an office setting. Bilingual in Spanish and holds a Bachelor of Arts in Sociology.",
+    "work_experience": [
+        {
+            "job_title": "Office Manager",
+            "company": "JEC Steel Company",
+            "location": "Bristol, IN",
+            "dates": "April 2018 - Present",
+            "key_responsibilities": [
+                "Responsible for basic invoicing and accounts receivable/payable via Quickbooks.",
+                "Maintains Keep Trucking account",
+                "mileage",
+                "and fuel tax for Indiana Department of Revenue.",
+                "Scans",
+                "files",
+                "and updates vendor and customer invoices."
+            ]
+        },
+        {
+            "job_title": "Breastfeeding Peer Counselor",
+            "company": "Elkhart County Health Department",
+            "location": "Elkhart, IN",
+            "dates": "October 2010 - June 2013",
+            "key_responsibilities": [
+                "Instructed breastfeeding classes weekly.",
+                "Worked hands-on with mothers to evaluate and problem-solve feeding issues.",
+                "Responsible for written documentation and communication with clients."
+            ]
+        },
+        {
+            "job_title": "Visitation Supervisor",
+            "company": "Families First Center",
+            "location": "Elkhart, IN",
+            "dates": "May 2006 - August 2008",
+            "key_responsibilities": [
+                "Supervised interactions between foster children and parents.",
+                "Encouraged parents with proper parenting techniques.",
+                "Wrote reports on visitation and communicated with case managers."
+            ]
+        },
+        {
+            "job_title": "Eligibility Administrator",
+            "company": "Community Action of Northeast Indiana",
+            "location": "Northeast, IN",
+            "dates": "August 2005 - May 2006",
+            "key_responsibilities": [
+                "Assessed eligibility for Indiana Childcare Voucher Program.",
+                "Processed paperwork and managed renewals/terminations.",
+                "Worked with case managers on referrals."
+            ]
+        },
+        {
+            "job_title": "Database Administrator",
+            "company": "YWCA of Metropolitan Chicago",
+            "location": "Chicago, IL",
+            "dates": "December 2003 - January 2006",
+            "key_responsibilities": [
+                "Assisted with the Leader Luncheon Event.",
+                "Maintained fundraising/development information.",
+                "Supported database system transitions."
+            ]
+        }
+    ],
+    "education": [],
+    "skills": {
+        "technical_skills": [],
+        "tools_and_software": []
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

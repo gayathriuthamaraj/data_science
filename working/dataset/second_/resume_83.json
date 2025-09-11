@@ -1,0 +1,97 @@
+{
+    "personal_information": {
+        "name": "Extracted Name",
+        "location": "Charlotte, NC"
+    },
+    "professional_summary": "Experienced SQL Server Administrator with expertise in database management, ETL processes, and system optimization.",
+    "work_experience": [
+        {
+            "job_title": "Sr SQL Server Support Engineer",
+            "company": "Microsoft",
+            "location": "Charlotte, NC",
+            "dates": "December 2007 - January 2009",
+            "key_responsibilities": [
+                "Provided full lifecycle support for SQL Server across Premier customers.",
+                "Managed critical issues from identification to resolution and documentation.",
+                "Developed and implemented SSIS packages for data extraction",
+                "transformation",
+                "and loading."
+            ]
+        },
+        {
+            "job_title": "Production Database Administrator",
+            "company": "Employment Security Commission",
+            "location": "Raleigh, NC",
+            "dates": "August 2009 - February 2010",
+            "key_responsibilities": [
+                "Administered SQL Server platforms from 7.0 to 2005.",
+                "Collaborated with application development groups for security management and change control procedures.",
+                "Designed SSIS packages for data migration."
+            ]
+        },
+        {
+            "job_title": "ESOC SQL Database Administrator III",
+            "company": "Science Applications International Corporation",
+            "location": "Charleston, SC",
+            "dates": "Not specified",
+            "key_responsibilities": [
+                "Administered and optimized SQL Server databases in a high-security environment.",
+                "Performed regular backups",
+                "recovery testing",
+                "and performance tuning."
+            ]
+        },
+        {
+            "job_title": "Lead Resource (Database Administration)",
+            "company": "Northrop Grumman",
+            "location": "Charleston, SC",
+            "dates": "Not specified",
+            "key_responsibilities": [
+                "Led database administration tasks for multiple systems.",
+                "Assisted with disaster recovery planning and data archiving."
+            ]
+        },
+        {
+            "job_title": "Sr SQL Server Administrator",
+            "company": "Lockheed Martin",
+            "location": "Palmdale, CA",
+            "dates": "Not specified",
+            "key_responsibilities": [
+                "Administered large-scale databases in a high-availability environment.",
+                "Monitored and resolved performance issues to maintain system uptime."
+            ]
+        },
+        {
+            "job_title": "Database Administrator",
+            "company": "BAE Systems",
+            "location": "Not specified",
+            "dates": "Not specified",
+            "key_responsibilities": [
+                "Supported database needs for multiple applications and departments.",
+                "Performed regular maintenance",
+                "backup",
+                "and recovery operations."
+            ]
+        },
+        {
+            "job_title": "Database Developer/Administrator",
+            "company": "Boeing",
+            "location": "Seattle, WA",
+            "dates": "Not specified",
+            "key_responsibilities": [
+                "Developed and maintained databases for various applications.",
+                "Collaborated with IT on database design and performance optimization."
+            ]
+        }
+    ],
+    "education": [],
+    "skills": {
+        "technical_skills": [],
+        "tools_and_software": []
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

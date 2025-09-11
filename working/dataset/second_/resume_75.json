@@ -1,0 +1,101 @@
+{
+    "personal_information": {
+        "name": "Carlos Gonzalez",
+        "location": "New York, NY"
+    },
+    "professional_summary": "Experienced professional with expertise in web development, database administration, and computer system maintenance. Skilled in various programming languages and tools, committed to continuous learning and self-organization.",
+    "work_experience": [
+        {
+            "job_title": "Web Developer",
+            "company": "Town Residential",
+            "location": "New York, NY",
+            "dates": "August 2016 - April 2018",
+            "key_responsibilities": [
+                "Designed",
+                "developed",
+                "and managed web applications using PHP",
+                "MySQL",
+                "HTML/CSS/JS",
+                "Liquidweb.",
+                "Created software for data transfer between third-party systems via databases",
+                "APIs",
+                "JSON",
+                "and XML feeds.",
+                "Built web applications using Python/Django",
+                "PostgreSQL",
+                "and Heroku for company and top performer agents' projects."
+            ]
+        },
+        {
+            "job_title": "Database Administrator",
+            "company": "Town Residential",
+            "location": "New York, NY",
+            "dates": "August 2015 - August 2016",
+            "key_responsibilities": [
+                "Developed and improved functionality for the property management system using ColdFusion and MS SQL.",
+                "Created automated periodic reports and notifications via email.",
+                "Managed planning",
+                "implementation",
+                "configuration",
+                "and administration of MS SQL relational database systems."
+            ]
+        },
+        {
+            "job_title": "Computer Specialist",
+            "company": "South Bronx Preparatory",
+            "location": "Bronx, NY",
+            "dates": "September 2010 - August 2015",
+            "key_responsibilities": [
+                "Installed",
+                "maintained",
+                "and repaired software and hardware for electronic devices.",
+                "Taught pre-calculus and calculus to top honor students.",
+                "Managed students' ID cards",
+                "email accounts",
+                "and files."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "B.E in Computer Engineering",
+            "institution": "City College of The City University of New York",
+            "year_of_completion": "2017"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "API",
+            "C++",
+            "DJANGO",
+            "FRONT-END",
+            "Git",
+            "HASKELL",
+            "JAVASCRIPT",
+            "BOOTSTRAP",
+            "WEBPACK",
+            "JSON",
+            "VS CODE",
+            "OBJECTIVE C",
+            "PHP",
+            "PYTHON",
+            "XML",
+            "MYSQL",
+            "POSTGRESQL",
+            "SQL",
+            "COLDFUSION",
+            "HTML5"
+        ],
+        "tools_and_software": [
+            "Bitbucket",
+            "Jira",
+            "Gulp",
+            "Webpack"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

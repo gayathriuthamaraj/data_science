@@ -1,0 +1,68 @@
+{
+    "personal_information": {
+        "name": "Olabisi Onabanjo University - Ikeja, Lagos",
+        "location": "Ikeja, Lagos"
+    },
+    "professional_summary": "Experienced Database Administrator with expertise in SQL Server Replication, Log Shipping, Performance Tuning, Backup/Recovery, and Security Management. Skilled in Data Modeling, Query Optimization, and Report Development using SSRS and Power BI.",
+    "work_experience": [
+        {
+            "job_title": "Database Administrator",
+            "company": "Microsoft",
+            "location": "Ikeja, Lagos",
+            "dates": "2008 - 2014",
+            "key_responsibilities": [
+                "Provided database administration and management for SQL Server environments.",
+                "Performed regular backups",
+                "recovery",
+                "and disaster recovery planning.",
+                "Monitored server performance and resolved issues related to locks",
+                "transactions",
+                "and space utilization."
+            ]
+        },
+        {
+            "job_title": "Senior Database Administrator",
+            "company": "Oracle",
+            "location": "Ikeja, Lagos",
+            "dates": "2014 - 2016",
+            "key_responsibilities": [
+                "Managed large-scale database replication and clustering solutions.",
+                "Optimized database performance using SQL Profiler and Database Tuning Advisor.",
+                "Implemented security policies and performed regular audits to meet SLA standards."
+            ]
+        },
+        {
+            "job_title": "Database Administrator",
+            "company": "SQL Services Inc.",
+            "location": "Ikeja, Lagos",
+            "dates": "2016 - Present",
+            "key_responsibilities": [
+                "Developed and maintained E-R diagrams and data models for various applications.",
+                "Performed backward and forward engineering tasks to support database migrations.",
+                "Implemented automated jobs for backup",
+                "index management",
+                "and data exports/imports."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor's Degree in Business Administration",
+            "institution": "Olabisi Onabanjo University",
+            "year_of_completion": "2010"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "SQL\",\n            \"T-SQL\",\n            \"Database Administration (DBA)\",\n            \"Data Modeling\",\n            \"Query Optimization\",\n            \"Report Development\",\n            \"Backup/Recovery\",\n            \"Security Management\",\n            \"Performance Tuning"
+        ],
+        "tools_and_software": [
+            "Toad Data Modeler\",\n            \"ERWin\",\n            \"VMware\",\n            \"Visual Studio\",\n            \"Power BI\",\n            \"SQL Profiler\",\n            \"Database Tuning Advisor\",\n            \"Activity Monitor\",\n            \"Performance Monitor"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

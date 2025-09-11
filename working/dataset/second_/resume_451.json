@@ -1,0 +1,81 @@
+{
+    "personal_information": {
+        "name": "Technical Expert Data Analytics Mentor",
+        "location": "Columbus, GA"
+    },
+    "professional_summary": "Experienced Technical Expert and Data Analytics Mentor with expertise in database administration, data integration, and advanced teaching techniques. Proven track record in developing and maintaining databases, creating integration scripts, and designing web applications. Skilled in SQL Server management, SSIS, SSRS, and providing tailored education to students.",
+    "work_experience": [
+        {
+            "job_title": "Technical Expert Data Analytics Mentor",
+            "company": "Thinkful Inc",
+            "location": "New York, NY",
+            "dates": "April 2019 - Present",
+            "key_responsibilities": [
+                "Assisted students of all ability levels to develop technical skills.",
+                "Advised students on Thinkful curriculum in 1-on-1 meetings.",
+                "Applied advanced teaching techniques to facilitate learning of programming concepts."
+            ]
+        },
+        {
+            "job_title": "Database Administrator",
+            "company": "Muscogee County School District",
+            "location": "Columbus, GA",
+            "dates": "December 2016 - Present",
+            "key_responsibilities": [
+                "Designed and maintained databases for district applications",
+                "custom reporting",
+                "and execution logging.",
+                "Managed district Operational Data Store (ODS) warehouse.",
+                "Designed and published Common Language Runtime assemblies to SQL Server containing data science models."
+            ]
+        },
+        {
+            "job_title": "Database Analyst",
+            "company": "Total System Services",
+            "location": "Columbus, GA",
+            "dates": "May 2015 - November 2016",
+            "key_responsibilities": [
+                "Optimized queries and manipulated database objects to improve SQL instance performance.",
+                "Built",
+                "debugged",
+                "and customized reporting solutions.",
+                "Scheduled database jobs using SSMS Job agent."
+            ]
+        },
+        {
+            "job_title": "Workflow Specialist",
+            "company": "Aflac Group",
+            "location": "Columbia, SC",
+            "dates": "June 2014 - June 2015",
+            "key_responsibilities": [
+                "Gathered data and created reports for department directors.",
+                "Maintained data integrity for SLA reporting."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Science in Computer Science",
+            "institution": "Columbus State University",
+            "year_of_completion": "2018"
+        },
+        {
+            "degree": "BBA in Finance",
+            "institution": "Columbus State University",
+            "year_of_completion": "2014"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "SQL Server Administration\",\n            \"Data Integration and ETL\",\n            \"Database Design and Implementation\",\n            \"SSIS (SQL Server Integration Services)\",\n            \"SSRS (SQL Server Reporting Services)\",\n            \"Advanced Teaching Techniques\",\n            \"MCSA: SQL Server"
+        ],
+        "tools_and_software": [
+            "Thinkful Curriculum\",\n            \"TFS (Team Foundation Server)\",\n            \"API Endpoints\",\n            \"Web Application Development"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

@@ -1,0 +1,63 @@
+{
+    "personal_information": {
+        "name": "Database Administrator",
+        "location": "Alexandria, VA"
+    },
+    "professional_summary": "Database Administrator with over 3 years of experience designing, implementing, and maintaining SQL Server solutions in an Enterprise environment. A detail-oriented, reliable, responsible, and self-motivated team player.",
+    "work_experience": [
+        {
+            "job_title": "Database Administrator",
+            "company": "Service Source Inc",
+            "location": "Oakton, VA",
+            "dates": "December 2017 - Present",
+            "key_responsibilities": [
+                "Configuring and monitoring AlwaysOn availability groups",
+                "Setting up and monitoring database mirroring",
+                "Migration of on premises databases to Azure",
+                "Identifying and fixing slow running queries",
+                "Working with developers",
+                "support",
+                "and QA team to maintain all database environments",
+                "Performing technical analysis and troubleshooting on complex database problems"
+            ]
+        },
+        {
+            "job_title": "SENior Quality Monitor",
+            "company": "GDIT",
+            "location": "Alexandria, VA",
+            "dates": "July 2012 - December 2017",
+            "key_responsibilities": [
+                "Collaborating with internal and external leadership to provide actionable data",
+                "Oversseeing quality plan for service center and recommending improvements",
+                "Providing quality feedback to team leaders",
+                "Preparing and analyzing reports to improve response"
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Associate of Arts in Early Childhood Development",
+            "institution": "Northern Virginia Community College",
+            "year_of_completion": ""
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "Database",
+            "SQL Server",
+            "Replication",
+            "SQL",
+            "Clustering",
+            "MySQL",
+            "T-SQL"
+        ],
+        "tools_and_software": [
+            ""
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

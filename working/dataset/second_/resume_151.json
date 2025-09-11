@@ -1,0 +1,60 @@
+{
+    "personal_information": {
+        "name": "Elizabeth Trahey",
+        "location": "Gilbert, AZ"
+    },
+    "professional_summary": "Resourceful leader with expertise in customer quality assurance, revenue generation, and cost reduction. Skilled in motivating teams, developing training programs, and implementing process improvements.",
+    "work_experience": [
+        {
+            "job_title": "Customer Quality Specialist",
+            "company": "Apria Healthcare",
+            "location": "Chandler, AZ",
+            "dates": "November 2014 - Present",
+            "key_responsibilities": [
+                "Educate patients",
+                "physicians",
+                "nurses",
+                "and hospital personnel on insurance requirements (Medicare/Medicaid) for durable medical equipment.",
+                "Participate in corporate projects to increase quality assurance",
+                "revenue",
+                "and productivity.",
+                "Develop training programs to improve procedure efficiency and implement them."
+            ]
+        },
+        {
+            "job_title": "Customer Care Supervisor",
+            "company": "Xerox Business Services, LLC",
+            "location": "Tempe, AZ",
+            "dates": "January 2014 - October 2014",
+            "key_responsibilities": [
+                "Supervise a team of 20 customer service representatives.",
+                "Institute best practices to meet quality assurance and client-specific requirements",
+                "increasing QA scores to 98%.",
+                "Update standard operating procedures",
+                "increasing customer service representative efficiency by 50%."
+            ]
+        },
+        {
+            "job_title": "Executive Assistant/Database Administrator",
+            "company": "ATG Learning Academy",
+            "location": "Warminster, PA",
+            "dates": "September 2010 - September 2013",
+            "key_responsibilities": [
+                "Represent the school at public events and presentations.",
+                "Audit accounts receivable and collect $110",
+                "000 in overdue accounts.",
+                "Configure and maintain a new database system for the entire school."
+            ]
+        }
+    ],
+    "education": [],
+    "skills": {
+        "technical_skills": [],
+        "tools_and_software": []
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

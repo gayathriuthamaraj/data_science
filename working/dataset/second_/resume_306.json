@@ -1,0 +1,69 @@
+{
+    "personal_information": {
+        "name": "Database Administrator/Legal Secretary",
+        "location": "Houston, TX"
+    },
+    "professional_summary": "Experienced Database Administrator and Legal Secretary with expertise in database management, legal support, and problem-solving.",
+    "work_experience": [
+        {
+            "job_title": "Database Administrator/Legal Secretary",
+            "company": "Daniel & Associates - Houston, TX",
+            "location": "Houston, TX",
+            "dates": "June 2019 – Present",
+            "key_responsibilities": [
+                "Working with database software to store",
+                "organize",
+                "and manage data.",
+                "Maintaining and updating databases regularly.",
+                "Designing and developing database solutions."
+            ]
+        },
+        {
+            "job_title": "Litigation Assistant",
+            "company": "Zwicker & Associates, P.C. - Sugar Land, TX",
+            "location": "Sugar Land, TX",
+            "dates": "August 2017 – July 2019",
+            "key_responsibilities": [
+                "Analyzing and processing reports to ensure proper workflow.",
+                "Utilizing Collection Software for account updates.",
+                "Drafting and filing legal documents."
+            ]
+        },
+        {
+            "job_title": "Legal Secretary",
+            "company": "The Foley Law Firm - Houston, TX",
+            "location": "Houston, TX",
+            "dates": "February 2016 – August 2017",
+            "key_responsibilities": [
+                "Updating office policies and procedures.",
+                "Maintaining office workflow and deadlines.",
+                "Training new staff on office procedures."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "High School Diploma",
+            "institution": "Lamar High School - Houston, TX",
+            "year_of_completion": "May 2014"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "Database Administration",
+            "Legal Support",
+            "Microsoft Outlook",
+            "Microsoft Office",
+            "Data Entry",
+            "Adobe"
+        ],
+        "tools_and_software": [
+            ""
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

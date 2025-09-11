@@ -1,0 +1,69 @@
+{
+    "personal_information": {
+        "name": "Extracted Name",
+        "location": "Baltimore, MD"
+    },
+    "professional_summary": "Over 4 years of experience as an Oracle Database Administrator with expertise in professional Oracle database administration support and solutions for Windows and Linux systems. A collaborative team player able to manage multiple tasks in a fast-paced environment, seeking to learn emerging technologies while exceeding expectations and company objectives.",
+    "work_experience": [
+        {
+            "job_title": "Oracle Database Administrator",
+            "company": "Legiswise Technology",
+            "location": "Baltimore, MD",
+            "dates": "July 2015 - August 2017",
+            "key_responsibilities": [
+                "Installation and administration of Oracle 10g/11g &12c databases.",
+                "System upgrades including hardware",
+                "operating system",
+                "and periodic patch upgrades.",
+                "Performance tuning using AWR",
+                "ASH",
+                "ADDM",
+                "Explain Plan",
+                "Vmstat to gather statistics.",
+                "Performing security scan remediation on database servers to reduce risks.",
+                "Providing best practice measures for applicable applications and database hardware and software troubleshooting.",
+                "Preparing documents and attending meetings to discuss remediation and exemption lists with other teams.",
+                "Setting up over 208 user/group login accounts and passwords.",
+                "Performing patching and upgrading to the most recent patches and versions for all releases",
+                "developing backup and recovery strategies for Oracle databases.",
+                "Assisting users with login issues",
+                "resolving them",
+                "and tuning up databases."
+            ]
+        },
+        {
+            "job_title": "Oracle Database Administrator",
+            "company": "NationGlobe-Tech",
+            "location": "Pikesville, MD",
+            "dates": "September 2017 - Present",
+            "key_responsibilities": [
+                "Performing data migration for Oracle 10g/11g &12c pluggable databases using Data pump/EXPDP/IMPDP.",
+                "Hand-on experience in cloning the non-multitenant container database to pluggable database in 12c using PDB Metadata clone.",
+                "Carrying out database clone and database refreshing.",
+                "Establishing key root cause analysis findings and facilitating recommendations on problem avoidance.",
+                "Performing Oracle Database installations",
+                "upgrades",
+                "and troubleshooting as needed.",
+                "Monitoring DR & Standby Database and providing critical solutions for database security.",
+                "Performing Backup and Recovery using RMAN and OEM for logical and physical backup and Hot/Cold backup.",
+                "Supporting end users and providing basic training to new users as required."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Extracted Degree",
+            "institution": "University of Dschang",
+            "year_of_completion": "Unspecified"
+        }
+    ],
+    "skills": {
+        "technical_skills": [],
+        "tools_and_software": []
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

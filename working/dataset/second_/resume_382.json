@@ -1,0 +1,76 @@
+{
+    "personal_information": {
+        "name": "Extracted Name",
+        "location": "Augusta, GA"
+    },
+    "professional_summary": "Motivated and dependable professional with experience in software development and database administration. An adaptable leader that can work independently and collaborate and communicate with team members, management, and customers to ensure productivity.",
+    "work_experience": [
+        {
+            "job_title": "Software Engineer/Database Administrator",
+            "company": "S&K Logistics - Aiken, SC",
+            "location": "Augusta, GA",
+            "dates": "October 2016 - Present",
+            "key_responsibilities": [
+                "Programmed and maintained web applications.",
+                "Achieved constant communication with the customer to ensure satisfaction.",
+                "Collaborated regularly with team members and customer on delivery of web applications.",
+                "Administered daily meetings to ensure working in an agile workplace.",
+                "Attained statistical reports using SQL",
+                "Excel",
+                "and SSRS for customers to enhance productivity.",
+                "Formulated T-SQL queries to inquire the correct data from our databases to embed into developed applications and reports.",
+                "Constructed and implemented failover clusters using SQL Server to implement zero downtime for our SharePoint system.",
+                "Scheduled SQL jobs of the databases to perform transactional",
+                "log",
+                "and differential backups.",
+                "Assisted the Cyber team on the upkeep of the SQL Servers to be in compliance with the SQL STIG."
+            ]
+        },
+        {
+            "job_title": "Software Engineer",
+            "company": "Areva - Aiken, SC",
+            "location": "Augusta, GA",
+            "dates": "May 2015 - October 2016",
+            "key_responsibilities": [
+                "Development and review of software life cycle documents such as software requirements specifications",
+                "software design descriptions",
+                "hazards analysis",
+                "trace matrix",
+                "etc.",
+                "Implementation of software design with SCADA systems into source code.",
+                "Develop and migrate SCADA systems by using WinCC OA.",
+                "Maintenance of software and documents to implement changes resulting from either control system changes or correction of test deficiencies;",
+                "Assure functional deliveries are properly placed under software configuration management.",
+                "Interpret I synthesize process control system design into written requirements based on upstream engineering documents and technical specifications."
+            ]
+        },
+        {
+            "job_title": "Mathematics Teacher",
+            "company": "Thomson High School - Thomson, GA",
+            "location": "Augusta, GA",
+            "dates": "August 2014 - May 2015",
+            "key_responsibilities": [
+                "Taught mathematics to students at the high school level.",
+                "Developed and implemented lesson plans and teaching strategies aligned with curriculum goals.",
+                "Managed classroom operations including attendance",
+                "grading",
+                "and parent communication.",
+                "Provided additional academic support for struggling students through tutorials and one-on-one sessions."
+            ]
+        }
+    ],
+    "education": [],
+    "skills": {
+        "technical_skills": [
+            "Software Development\",\n            \"Database Administration\",\n            \"Web Application Maintenance\",\n            \"SCADA Systems Implementation\",\n            \"SQL Programming\",\n            \"Statistical Reporting\",\n            \"Failover Cluster Implementation\",\n            \"SQL Server Management\",\n            \"Process Control System Design"
+        ],
+        "tools_and_software": [
+            "Microsoft SQL Server 2016\",\n            \"Excel\",\n            \"SSRS\",\n            \"WinCC OA\",\n            \"Other Relevant Tools and Software"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

@@ -1,0 +1,73 @@
+{
+    "personal_information": {
+        "name": "Extracted Name",
+        "location": "Washington, DC"
+    },
+    "professional_summary": "Experienced Database Administrator with expertise in SQL Server and Oracle databases. Skilled in data management, performance optimization, troubleshooting, and network monitoring.",
+    "work_experience": [
+        {
+            "job_title": "Database Administrator",
+            "company": "SRA International",
+            "location": "Washington, DC",
+            "dates": "May 2014 - Present",
+            "key_responsibilities": [
+                "Transfers and replicates data accurately and quickly.",
+                "Maintains distributed SQL Server database and ensures its availability to global users of the WRAPS system.",
+                "Monitors database performance using tools like Ignite or SQL Diagnostics Manager/Spotlight on SQL Server and resolves issues related to load and processing."
+            ]
+        },
+        {
+            "job_title": "Oracle DBA",
+            "company": "APEX Inc.",
+            "location": "Washington, DC",
+            "dates": "April 2014 - May 2014",
+            "key_responsibilities": [
+                "Develops data import/export routines and creates windows/screens for system requirements.",
+                "Maintains databases and upgrades Oracle versions (e.g.",
+                "from 11g to 12c).",
+                "Performs code maintenance and supports systems handling sensitive data."
+            ]
+        },
+        {
+            "job_title": "STIP Operations Engineer",
+            "company": "Blue Water Federal Solutions",
+            "location": "Washington, DC",
+            "dates": "August 2010 - April 2014",
+            "key_responsibilities": [
+                "Monitors and manages network devices and systems for TSA.",
+                "Creates queries for TSA database and maintains Solar Winds configuration.",
+                "Installs and configures airport communication systems and supports custom applications."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "M.S in Database Administration",
+            "institution": "University of Maryland University College (UMUC)",
+            "year_of_completion": "2014"
+        },
+        {
+            "degree": "Graduate Certificate in Database Administration",
+            "institution": "University of Maryland University College (UMUC)",
+            "year_of_completion": "2012"
+        },
+        {
+            "degree": "B.S in Management Information Systems",
+            "institution": "Saint Francis University",
+            "year_of_completion": "2009"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "SQL Server Administration\",\n            \"Oracle Database Administration\",\n            \"Database Performance Optimization\",\n            \"Network Monitoring and Maintenance\",\n            \"Data Management and ETL Processes\",\n            \"System Configuration and Support"
+        ],
+        "tools_and_software": [
+            "Solar Winds Network Performance Software\",\n            \"Putty Terminal Emulator\",\n            \"Microsoft Office Suite\",\n            \"Red Gate SQL Tool\",\n            \"Oracle SQL Developer\",\n            \"Apache Tomcat Web Server"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

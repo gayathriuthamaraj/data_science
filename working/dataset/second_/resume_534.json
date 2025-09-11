@@ -1,0 +1,56 @@
+{
+    "personal_information": {
+        "name": "Oracle Database Administrator",
+        "location": "Hyattsville, MD"
+    },
+    "professional_summary": "Experienced Oracle Database Administrator with expertise in database management and administration across various platforms.",
+    "work_experience": [
+        {
+            "job_title": "Oracle Database Administrator",
+            "company": "LUXOTTICA",
+            "location": "Hyattsville, MD",
+            "dates": "April 2016 - Present",
+            "key_responsibilities": [
+                "Administering Oracle databases across multiple platforms including HP-UX",
+                "Sun Solaris",
+                "AIX",
+                "and Linux.",
+                "Performing daily production problem resolution and change requests using SQL*Plus and OEM Grid Control.",
+                "Conducting physical and logical backups as well as logical exports/imports."
+            ]
+        },
+        {
+            "job_title": "Oracle Database Administrator",
+            "company": "COMPAQ (CUMMINS)",
+            "location": "Columbus, IN",
+            "dates": "April 2013 - March 2016",
+            "key_responsibilities": [
+                "Implementing and managing Oracle Real Application Clusters (RAC) and Oracle Enterprise Manager.",
+                "Handling physical and logical failover/Switchover operations with zero downtime using Data Guard.",
+                "Performing regular maintenance tasks including transportable tablespaces",
+                "tablespace migrations",
+                "and schema changes."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor's Degree",
+            "institution": "University of Dschang",
+            "year_of_completion": "2012"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "Database Administration\",\n            \"Oracle DBA\",\n            \"SQL Server\",\n            \"OLTP\",\n            \"DBA"
+        ],
+        "tools_and_software": [
+            "Toad\",\n            \"Putty\",\n            \"NX client\",\n            \"VNC\",\n            \"Team Viewer\",\n            \"Cisco VPN\",\n            \"SQL*Plus\",\n            \"Oracle Enterprise Manager\",\n            \"Real Application Cluster\",\n            \"ASM\",\n            \"Transportable Tablespaces\",\n            \"SQL*Loader\",\n            \"RMAN\",\n            \"Data Pump Export/Import\",\n            \"EMLab Grid Control"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

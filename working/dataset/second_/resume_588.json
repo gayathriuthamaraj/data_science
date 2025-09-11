@@ -1,0 +1,59 @@
+{
+    "personal_information": {
+        "name": "Extracted Name",
+        "location": "Extracted Location"
+    },
+    "professional_summary": "Experienced Oracle Database Administrator with expertise in RAC, Data Guard, RMAN, GoldenGate, and VM configurations. Skilled in database installation, configuration, patching, backup/recovery, replication, performance tuning, and capacity planning.",
+    "work_experience": [
+        {
+            "job_title": "Senior Oracle DBA",
+            "company": "Extracted Company Name",
+            "location": "Extracted Location",
+            "dates": "Start Date - End Date",
+            "key_responsibilities": [
+                "Installation",
+                "configuration",
+                "and administration of Oracle databases in production",
+                "development",
+                "and test environments.",
+                "Database upgrades",
+                "patches",
+                "and maintenance.",
+                "Backup and recovery strategies using RMAN and DataGuard."
+            ]
+        },
+        {
+            "job_title": "Oracle Database Administrator",
+            "company": "Extracted Company Name",
+            "location": "Extracted Location",
+            "dates": "Start Date - End Date",
+            "key_responsibilities": [
+                "Configuration of high-availability and disaster recovery solutions using RAC and DataGuard.",
+                "Implementation of replication and data movement using GoldenGate.",
+                "Performance tuning using AWR",
+                "ASH",
+                "and ADDM."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science in Computer Science",
+            "institution": "Arizona State University",
+            "year_of_completion": "2015"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "Oracle DBA\",\n            \"RAC (Real Application Cluster)\",\n            \"Data Guard\",\n            \"RMAN\",\n            \"GoldenGate\",\n            \"VM Configuration\",\n            \"Container Databases (CDBs)\",\n            \"Pluggable Databases (PDBs)\",\n            \"Linux, Solaris, HP-UX, AIX\",\n            \"Backup/Recovery Strategies\",\n            \"Performance Tuning\",\n            \"Capacity Planning"
+        ],
+        "tools_and_software": [
+            "Oracle OEM Grid Control\",\n            \"Veritas Clustering Services\",\n            \"Shell Scripting\",\n            \"AWR (Automatic Workload Repository)\",\n            \"ASH (Active Session History)\",\n            \"ADDM (Advanced Database Diagnostic Monitor)"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

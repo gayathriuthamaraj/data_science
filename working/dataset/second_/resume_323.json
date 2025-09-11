@@ -1,0 +1,64 @@
+{
+    "personal_information": {
+        "name": "Extracted Name",
+        "location": "Manila"
+    },
+    "professional_summary": "Experienced Database and Application Administrator with expertise in monitoring data flows, supporting users, and resolving IT issues. Proficient in AS400, VB.Net, SQL, MySQL, Oracle DBA, and Microsoft Office tools.",
+    "work_experience": [
+        {
+            "job_title": "Database and Application Administrator",
+            "company": "ACCENTURE",
+            "location": "Manila",
+            "dates": "October 2017 to Present",
+            "key_responsibilities": [
+                "Handling monitoring of day-to-day data flows.",
+                "Supporting users by investigating and fixing specific issues.",
+                "Ensuring quality assurance in application development."
+            ]
+        },
+        {
+            "job_title": "IT Consultant",
+            "company": "Teligent System Inc.",
+            "location": "Manila",
+            "dates": "Reference",
+            "key_responsibilities": [
+                "Providing technical support and troubleshooting services.",
+                "Using tools such as Shell",
+                "Java",
+                "C#",
+                "ASP.Net",
+                "and PHP."
+            ]
+        },
+        {
+            "job_title": "Software Engineer",
+            "company": "ACCENTURE",
+            "location": "Manila",
+            "dates": "Reference",
+            "key_responsibilities": [
+                "Developing applications using Netbeans and SQL.",
+                "Ensuring high-quality technical documentation."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science in Information Technology",
+            "institution": "Adamson University - Manila",
+            "year_of_completion": "2017"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "DBA\",\n            \"Oracle Database\",\n            \"SQL\",\n            \"MySQL"
+        ],
+        "tools_and_software": [
+            "Microsoft Office (PowerPoint, Access, Word, Excel)\",\n            \"Adobe Photoshop\",\n            \"Adobe Flash/Animate"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

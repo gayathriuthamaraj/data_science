@@ -1,0 +1,83 @@
+{
+    "personal_information": {
+        "name": "Extracted Name",
+        "location": " Walnut, CA"
+    },
+    "professional_summary": "Experienced professional with expertise in account management, e-commerce operations, database administration, and education. Proven track record in driving sales growth, managing client relationships, and leveraging technical skills for business efficiency.",
+    "work_experience": [
+        {
+            "job_title": "Account Manager",
+            "company": "Sunny Shower USA, Inc",
+            "location": "Walnut, CA",
+            "dates": "February 2018 - Present",
+            "key_responsibilities": [
+                "Traveled to clients and vendor meetings.",
+                "Led and maximized sales",
+                "achieving monthly and annual sales goals.",
+                "Managed sales forecasts and grew revenue for the business."
+            ]
+        },
+        {
+            "job_title": "E-Commerce Manager / Customer Service Representative",
+            "company": "Sunny Shower USA, Inc",
+            "location": "Sel Monte, CA",
+            "dates": "January 2017 - February 2018",
+            "key_responsibilities": [
+                "Managed e-commerce accounts on platforms such as Amazon.com",
+                "eBay.com",
+                "Houzz.com",
+                "Walmart.com",
+                "WooCommerce",
+                "and Shopify.",
+                "Handled order entry",
+                "returns",
+                "refunds",
+                "cancellations",
+                "shipping",
+                "and customer service issues.",
+                "Worked with technical teams to ensure customer satisfaction."
+            ]
+        },
+        {
+            "job_title": "Database Administrator - Intern",
+            "company": "Lien Hua Industrial Corp",
+            "location": "Taipei, TW",
+            "dates": "May 2016 - September 2016",
+            "key_responsibilities": [
+                "Assisted Senior Analysts in maintaining the company's database using SQL.",
+                "Created data analysis reports to improve business efficiency.",
+                "Communicated with Senior Developer about application bugs."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Applied and Computational Mathematics",
+            "institution": "Florida State University",
+            "year_of_completion": "2016"
+        },
+        {
+            "degree": "Bachelor of Science in Mathematics",
+            "institution": "Tamkang University",
+            "year_of_completion": "2011"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "SQL",
+            "C++",
+            "Fortran",
+            "SAS",
+            "Linux"
+        ],
+        "tools_and_software": [
+            "Microsoft Office Suite",
+            "QuickBooks"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

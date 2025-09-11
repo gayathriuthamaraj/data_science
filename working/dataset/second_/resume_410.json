@@ -1,0 +1,90 @@
+{
+    "personal_information": {
+        "name": "John Doe",
+        "location": "Dallas, TX"
+    },
+    "professional_summary": "Experienced professional with expertise in Oracle database administration, software development, and Agile Scrum methodologies. Skilled in system migrations, testing, and process optimization.",
+    "work_experience": [
+        {
+            "job_title": "Scrum Master/Agile Coach",
+            "company": "Company Name",
+            "location": "Dallas, TX",
+            "dates": "2020 - Present",
+            "key_responsibilities": [
+                "Leading Agile transformations and coaching teams.",
+                "Optimizing workflows and managing project lifecycles with Jira.",
+                "Facilitating Agile ceremonies and implementing best practices.",
+                "Migrating systems and integrating new technologies."
+            ]
+        },
+        {
+            "job_title": "Database Administrator",
+            "company": "North Star Financial Services",
+            "location": "Dallas, TX",
+            "dates": "February 2012 - December 2013",
+            "key_responsibilities": [
+                "Administering Oracle databases across PROD",
+                "DEV",
+                "and TEST environments.",
+                "Configuring and maintaining database backup and recovery processes.",
+                "Monitoring database performance using AWR",
+                "ASH",
+                "ADDM",
+                "and OEM tools.",
+                "Assisting IT analysts with technical issues."
+            ]
+        },
+        {
+            "job_title": "Systems Analyst/Developer",
+            "company": "Company Name",
+            "location": "Dallas, TX",
+            "dates": "2010 - 2011",
+            "key_responsibilities": [
+                "Performing database administration tasks.",
+                "Conducting system migrations and integrations.",
+                "Testing software using various frameworks and tools.",
+                "Developing PL/SQL functions and procedures."
+            ]
+        },
+        {
+            "job_title": "Oracle Database Administrator",
+            "company": "Company Name",
+            "location": "Dallas, TX",
+            "dates": "2008 - 2011",
+            "key_responsibilities": [
+                "Installing and configuring Oracle RDBMs across PROD",
+                "DEV",
+                "and TEST environments.",
+                "Setting up high availability and disaster recovery solutions using ASM and RAC.",
+                "Tuning database performance through index optimization and query analysis.",
+                "Managing user permissions and security configurations."
+            ]
+        },
+        {
+            "job_title": "Systems Developer/Analyst",
+            "company": "Company Name",
+            "location": "Dallas, TX",
+            "dates": "2006 - 2008",
+            "key_responsibilities": [
+                "Developing custom PL/SQL functions and scripts for data import/export.",
+                "Designing efficient database schemas and creating indexes.",
+                "Integrating third-party systems and applications.",
+                "Writing shell scripts for automated backup processes."
+            ]
+        }
+    ],
+    "education": [],
+    "skills": {
+        "technical_skills": [
+            "Software Development\",\n            \"Frameworks\",\n            \"Migrations\",\n            \"Estimation\",\n            \"Mitigation\",\n            \"System Testing\",\n            \"QA Analysis\",\n            \"Capacity Planning\",\n            \"Agile Scrum"
+        ],
+        "tools_and_software": [
+            "Jira\",\n            \"Oracle (11g, 12c, 18c)\",\n            \"BMC Remedy\",\n            \"Citrix\",\n            \"TOAD\",\n            \"TDE\",\n            \"Shell Scripting"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

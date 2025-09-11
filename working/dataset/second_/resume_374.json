@@ -1,0 +1,89 @@
+{
+    "personal_information": {
+        "name": "Extracted Name",
+        "location": "Extracted Location"
+    },
+    "professional_summary": "Experienced Database Administrator with expertise in database management, system configuration, and technical support.",
+    "work_experience": [
+        {
+            "job_title": "Database Administrator",
+            "company": "Busha Limited",
+            "location": "Extracted Location",
+            "dates": "January 2019 - March 2019",
+            "key_responsibilities": [
+                "Installed and configured database server and application tools.",
+                "Built a database system for the company's website.",
+                "Created backup and recovery processes for the server."
+            ]
+        },
+        {
+            "job_title": "Graduate Assistant",
+            "company": "Texas State University Computing Services",
+            "location": "Extracted Location",
+            "dates": "January 2016 - December 2018",
+            "key_responsibilities": [
+                "Provided hands-on support for computer hardware and software.",
+                "Assisted students with programming assignments and projects.",
+                "Setup and maintained LAN and WAN networks."
+            ]
+        },
+        {
+            "job_title": "Software Developer",
+            "company": "Globacom Limited",
+            "location": "Extracted Location",
+            "dates": "January 2013 - November 2015",
+            "key_responsibilities": [
+                "Wrote quality maintainable JavaScript backend code.",
+                "Developed RESTful APIs that cross multiple platforms.",
+                "Created a tool to generate HTML templates."
+            ]
+        },
+        {
+            "job_title": "Technical Support Specialist",
+            "company": "Geoid Telecommunications LLC",
+            "location": "Extracted Location",
+            "dates": "June 2013 - December 2013",
+            "key_responsibilities": [
+                "Configured radio frequency and satellite parameters for satellite modems.",
+                "Installed",
+                "monitored",
+                "and performed routine maintenance on network products.",
+                "Troubleshoot to identify network issues."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Science in Computer Science",
+            "institution": "Texas State University - San Marcos, TX",
+            "year_of_completion": "December 2018"
+        },
+        {
+            "degree": "Bachelor of Science in Computer Science",
+            "institution": "University of Ilorin",
+            "year_of_completion": "August 2013"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "SQL Server",
+            "C++",
+            "JavaScript",
+            "Metasploit",
+            "Nmap",
+            "Wireshark",
+            "Linux",
+            "Unix"
+        ],
+        "tools_and_software": [
+            "Firewall",
+            "Cisco",
+            "VM"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

@@ -1,0 +1,85 @@
+{
+    "personal_information": {
+        "name": "Database Administrator",
+        "location": ""
+    },
+    "professional_summary": "Experienced IT engineer with Oracle Database, Application Server (Apache Tomcat), and Content Management systems expertise. Proven ability to lead technical projects and support implementation in production environments managing large volumes of business critical data. A self-motivated team player with strong communication skills.",
+    "work_experience": [
+        {
+            "job_title": "Database Administrator",
+            "company": "Cybernet LLC & Caspian Development Bank Baku",
+            "location": "",
+            "dates": "January 2016 - Present",
+            "key_responsibilities": [
+                "Installing",
+                "configuring and maintaining Oracle RAC",
+                "Standby",
+                "and Single databases (development and production)",
+                "Implementing backup solutions for the database (logical and image copy)",
+                "Maintaining application servers (JBOS)",
+                "Supporting multiple products in a demanding production environment"
+            ]
+        },
+        {
+            "job_title": "Database Administrator",
+            "company": "Sinam LLC",
+            "location": "",
+            "dates": "July 2012 - January 2016",
+            "key_responsibilities": [
+                "Installing",
+                "configuring and maintaining Oracle databases for development and production environments",
+                "Database design and implementation",
+                "Implementing backup solutions for the Oracle database",
+                "Migrating other databases to Oracle (e.g.",
+                "MS SQL)",
+                "Configuring and deploying Apache Tomcat",
+                "Maintaining database security (users",
+                "roles",
+                "privileges)",
+                "Administering EMC Documentum Content Server",
+                "Configuring EMC Documentum xPlore server"
+            ]
+        },
+        {
+            "job_title": "IT Support Specialist",
+            "company": "Komtec LLC",
+            "location": "",
+            "dates": "October 2011 - July 2012",
+            "key_responsibilities": [
+                "Supporting software and hardware",
+                "Technical troubleshooting",
+                "Configuring hardware and network connectivity (LAN/WAN",
+                "TCP/IP)",
+                "Project and Position: Automatic Workflow Information System - Electronic Document Management for Azerbaijan Republic Ministry of High Technology",
+                "Azerbaijan Republic National Archive",
+                "Azerbaijan Republic Special State Protection Service",
+                "Central Bank of Azerbaijan Republic"
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "MBA",
+            "institution": "Azerbaijan State Economic University",
+            "year_of_completion": "2013"
+        },
+        {
+            "degree": "Bachelor's Degree",
+            "institution": "Azerbaijan State Economic University",
+            "year_of_completion": "2010"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "Oracle Database 10g, 11g, 12c Administration\",\n            \"Application Server Administration (Apache Tomcat)\",\n            \"Content Management Systems (EMC Documentum Content Server)\",\n            \"Backup & Recovery (RMAN)\",\n            \"Disaster Recovery (Physical and Logical Standby)\",\n            \"Performance Tuning (AWR, Snapshot)\",\n            \"SQL\",\n            \"Data Pump\",\n            \"OEM\",\n            \"Linux/Unix (RHEL, OEL, AIX)\",\n            \"Windows\",\n            \"Shell Scripting"
+        ],
+        "tools_and_software": [
+            "Oracle RAC\",\n            \"JBOS\",\n            \"Apache Tomcat\",\n            \"EMC Documentum xPlore\",\n            \"Backup Solutions\",\n            \"Database Migration Tools"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

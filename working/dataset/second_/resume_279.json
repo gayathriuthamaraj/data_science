@@ -1,0 +1,53 @@
+{
+    "personal_information": {
+        "name": "Production SQL Server Database Administrator",
+        "location": "Lake Jackson, TX; Lagos, NG"
+    },
+    "professional_summary": "Experienced SQL Server administrator with expertise in performance tuning, maintenance, disaster recovery, and high-availability solutions. Proficient in ETL processes, data analytics, and database optimization.",
+    "work_experience": [
+        {
+            "job_title": "Production SQL Server Database Administrator",
+            "company": "Modaj Pro IT Solutions",
+            "location": "Lake Jackson, TX",
+            "dates": "May 2015 - Present",
+            "key_responsibilities": [
+                "Designing and implementing high-availability solutions using AlwaysOn",
+                "Log Shipping",
+                "and Database Mirroring.",
+                "Optimizing database performance through regular maintenance and tuning.",
+                "Implementing and managing disaster recovery strategies for mission-critical systems."
+            ]
+        },
+        {
+            "job_title": "SQL Server Administrator",
+            "company": "Teknokleen Group",
+            "location": "Lagos, NG",
+            "dates": "March 2011 - November 2013",
+            "key_responsibilities": [
+                "Managing server security and maintaining database roles.",
+                "Implementing disaster prevention and recovery strategies.",
+                "Ensuring high availability through clustering and replication."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science in Mathematics",
+            "institution": "Nnamdi Azikiwe University",
+            "year_of_completion": "2009"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "SQL Server Administration\",\n            \"Database Performance Tuning\",\n            \"Disaster Recovery Implementation\",\n            \"High-Availability Solutions\",\n            \"ETL Processes\",\n            \"Data Analytics\",\n            \"Database Optimization"
+        ],
+        "tools_and_software": [
+            "SSIS (SQL Server Integration Services)\",\n            \"SSRS (SQL Server Reporting Services)\",\n            \"Azure Virtualization\",\n            \"VMware\",\n            \"Power BI\",\n            \"Query Store\",\n            \"Extended Events\",\n            \"Windows PowerShell"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

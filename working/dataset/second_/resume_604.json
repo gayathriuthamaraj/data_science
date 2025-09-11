@@ -1,0 +1,60 @@
+{
+    "personal_information": {
+        "name": "Oracle Database Administrator",
+        "location": "Bowie, MD"
+    },
+    "professional_summary": "Eight years' experience as an Oracle Database Administrator with expertise in database administration, installations, configuration, upgrades, migration, performance tuning, backup and recovery, cloning, space management, patching, security, fine-grained auditing, capacity planning, and designing databases. Proficient in OLTP and OLAP database design.",
+    "work_experience": [
+        {
+            "job_title": "Oracle Database Administrator",
+            "company": "Priority One Services - Alexandria, VA",
+            "location": "Alexandria, VA",
+            "dates": "August 2015 - Present",
+            "key_responsibilities": [
+                "Planned",
+                "installed",
+                "configured",
+                "managed",
+                "and troubleshoot Oracle 12c and 11g databases on Linux and Windows OS.",
+                "Managed and maintained Oracle 12c and 11g database servers across multiple environments.",
+                "Created and managed Oracle Enterprise Manager for database administration."
+            ]
+        },
+        {
+            "job_title": "Oracle Database Administrator",
+            "company": "Priority One Services - Bowie, MD",
+            "location": "Bowie, MD",
+            "dates": "July 2011 - August 2015",
+            "key_responsibilities": [
+                "Performed database migrations and upgrades.",
+                "Conducted performance tuning and capacity planning.",
+                "Managed backup and recovery processes."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Higher National Diploma",
+            "institution": "Ogun State Polytechnic",
+            "year_of_completion": "2011"
+        },
+        {
+            "degree": "National Diploma",
+            "institution": "The Polytechnic",
+            "year_of_completion": "2009"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "Oracle Database Administration\",\n            \"Database Design (OLTP and OLAP)\",\n            \"Performance Tuning\",\n            \"Backup and Recovery\",\n            \"Capacity Planning\",\n            \"Security Management\",\n            \"Fine-Grained Auditing\",\n            \"Cloning and Space Management\",\n            \"Patch Management"
+        ],
+        "tools_and_software": [
+            "Oracle Enterprise Manager (OEM)\",\n            \"Oracle Data Pump\",\n            \"Oracle Export/Import Utilities\",\n            \"RMAN (Oracle Recovery Manager)\",\n            \"SQL Loader\",\n            \"Linux/Unix Systems"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

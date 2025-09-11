@@ -1,0 +1,79 @@
+{
+    "personal_information": {
+        "name": "Extracted Name",
+        "location": "Duarte, CA"
+    },
+    "professional_summary": "Experienced Programmer and Database Administrator with expertise in managing and developing databases, websites, and Unix systems. Currently pursuing an MBA with a focus on finance and investment specialization.",
+    "work_experience": [
+        {
+            "job_title": "Programmer & Database Administrator",
+            "company": "Bucheon University - Bucheon",
+            "location": "Bucheon, KR",
+            "dates": "January 2011 to May 2015",
+            "key_responsibilities": [
+                "Management and Development of databases",
+                "portals",
+                "websites",
+                "and Unix systems.",
+                "Design and implementation of web applications and database solutions.",
+                "Optimization of server-side applications."
+            ]
+        },
+        {
+            "job_title": "Web Application Programmer & Database Administrator",
+            "company": "AJU IT - Seoul",
+            "location": "Seoul, KR",
+            "dates": "May 2010 to December 2010",
+            "key_responsibilities": [
+                "Management and development of databases",
+                "websites",
+                "groupware",
+                "and knowledge management systems.",
+                "Design and implementation of server-side applications."
+            ]
+        },
+        {
+            "job_title": "Server-side Programmer",
+            "company": "Point I - Seoul",
+            "location": "Seoul, KR",
+            "dates": "December 2008 to April 2010",
+            "key_responsibilities": [
+                "Development of device synchronization systems for websites and server-side applications.",
+                "Implementation of robust server-side applications."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master's in Business Administration & Finance",
+            "institution": "WESTCLIFF University - Cerritos, CA",
+            "year_of_completion": "Present"
+        },
+        {
+            "degree": "Master's in Business Administration",
+            "institution": "California University of Management & Sciences - Anaheim, CA",
+            "year_of_completion": "January 2018 to June 2018"
+        },
+        {
+            "degree": "Bachelor's in Electronic & Telecommunication Engineering",
+            "institution": "Kangwon National University - Chuncheon",
+            "year_of_completion": "March 2001 to February 2009"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "Oracle",
+            "MySQL",
+            "MS-SQL",
+            "Java"
+        ],
+        "tools_and_software": [
+            "Microsoft Office"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

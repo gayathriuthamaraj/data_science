@@ -1,0 +1,71 @@
+{
+    "personal_information": {
+        "name": "SQL Server Database Administrator",
+        "location": "Houston, TX; London"
+    },
+    "professional_summary": "Experienced SQL Server Database Administrator with expertise in performance tuning, replication, backup/restore, disaster recovery, and high availability solutions. Proficient in using SSRS and SSIS for data management and ETL processes.",
+    "work_experience": [
+        {
+            "job_title": "SQL Server Database Administrator",
+            "company": "Zhill Systems",
+            "location": "Houston, TX",
+            "dates": "November 2017 - Present",
+            "key_responsibilities": [
+                "Installation",
+                "configuration",
+                "and upgrading of SQL Server 2014",
+                "2016 with service packs.",
+                "Experience with AlwaysOn (2&3 Replicas) and cluster building for 2-node and 3-node configurations.",
+                "Application development life cycle methodologies",
+                "database",
+                "and application performance tuning."
+            ]
+        },
+        {
+            "job_title": "SQL Server Database Administrator",
+            "company": "ProServe Marketing LLC",
+            "location": "TX",
+            "dates": "April 2015 - October 2017",
+            "key_responsibilities": [
+                "Installation",
+                "configuration",
+                "and upgrading of SQL Server 2008/2008R2.",
+                "On-call support for database issues and system monitoring.",
+                "Experience with SQL Server replication and mirroring."
+            ]
+        },
+        {
+            "job_title": "SQL Server Database Administrator",
+            "company": "MacQuarie Group",
+            "location": "London",
+            "dates": "October 2013 - February 2015",
+            "key_responsibilities": [
+                "Database migrations and support for development/testing environments.",
+                "Experience with high availability solutions like AlwaysOn.",
+                "Performance optimization and query tuning."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Science",
+            "institution": "University of Greenwich",
+            "year_of_completion": "Not provided"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "SQL DBA",
+            "DBA",
+            "SQL Server"
+        ],
+        "tools_and_software": [
+            "SQL Profiler\",\n            \"Data Transformation Services (DTS)\",\n            \"AlwaysOn\",\n            \"Availability Groups\",\n            \"SQL Server Reporting Services (SSRS)\",\n            \"SQL Server Integration Services (SSIS)"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

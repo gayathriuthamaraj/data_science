@@ -1,0 +1,103 @@
+{
+    "personal_information": {
+        "name": "Jeremiah Bas",
+        "location": "Chattanooga, TN"
+    },
+    "professional_summary": "Experienced Network Security and Database Administrator with expertise in network management, database optimization, disaster recovery planning, and software development.",
+    "work_experience": [
+        {
+            "job_title": "Network Security and Database Administrator",
+            "company": "Lipsey Logistics Worldwide",
+            "location": "Chattanooga, TN",
+            "dates": "March 2017 - Present",
+            "key_responsibilities": [
+                "Administered onsite PBX (FreePBX/Asterisk)",
+                "LAN/WAN",
+                "SQL databases",
+                "and Windows/Linux servers and workstations.",
+                "Implemented Disaster Recovery Plan and oversaw backups and testing.",
+                "Networking: LAN/WAN",
+                "MPLS",
+                "VPN",
+                "L2",
+                "L3",
+                "QoS",
+                "VLAN",
+                "SAN",
+                "NAS.",
+                "Telephony: VoIP",
+                "SIP",
+                "RTP",
+                "H.323",
+                "SDP",
+                "PoTS.",
+                "Developed and implemented inventory control software and process."
+            ]
+        },
+        {
+            "job_title": "Interim IT Manager",
+            "company": "Lipsey Logistics Worldwide",
+            "location": "Chattanooga, TN",
+            "dates": "November 2018 - January 2019",
+            "key_responsibilities": [
+                "Managed ongoing and new software development projects.",
+                "Implemented version control (git) and Agile development process using Jira/Confluence.",
+                "Manage vendor/contractor agreements and services."
+            ]
+        },
+        {
+            "job_title": "Network Technician",
+            "company": "Comcast Cable",
+            "location": "Chattanooga, TN",
+            "dates": "April 2011 - March 2017",
+            "key_responsibilities": [
+                "Provided high-level support for HFC network.",
+                "Trained and mentor junior technicians and installers for cable",
+                "LAN/WAN",
+                "VOIP",
+                "and home automation.",
+                "Led team to test and deploy new technologies including Deep Fiber",
+                "DOCSIS 3",
+                "and X1."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "N/A",
+            "institution": "Chattanooga State Technical Community College",
+            "year_of_completion": "N/A"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "DBA",
+            "MYSQL",
+            "PostgreSQL",
+            "SQL Server",
+            "Sql Database",
+            "Cisco",
+            "VPN",
+            "MPLS",
+            "Linux",
+            "Windows",
+            "LAN/WAN",
+            "PBX",
+            "SIP",
+            "Network Security",
+            "Exchange Server",
+            "Active Directory"
+        ],
+        "tools_and_software": [
+            "FreePBX/Asterisk",
+            "Jira/Confluence",
+            "Git",
+            "Agile Development"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

@@ -1,0 +1,63 @@
+{
+    "personal_information": {
+        "name": "Extracted Name",
+        "location": "Chittagong University"
+    },
+    "professional_summary": "Experienced IT professional with expertise in Microsoft SQL Server, Oracle, and various other technologies. Strong focus on database administration, data integration, and system optimization.",
+    "work_experience": [
+        {
+            "job_title": "Database Administrator",
+            "company": "Extracted Company Name 1",
+            "location": "Chittagong University",
+            "dates": "2020 - Present",
+            "key_responsibilities": [
+                "Administering and optimizing SQL Server databases to ensure performance and reliability.",
+                "Implementing backup and recovery strategies to safeguard data integrity.",
+                "Monitoring and controlling user privileges to maintain security policies."
+            ]
+        },
+        {
+            "job_title": "Database Developer",
+            "company": "Extracted Company Name 2",
+            "location": "Chittagong University",
+            "dates": "2017 - 2020",
+            "key_responsibilities": [
+                "Upgrading and migrating databases from SQL Server 2000 to 2008",
+                "including user management and privilege control.",
+                "Designing and implementing ETL processes for data integration between OLTP and OLAP systems using SSIS.",
+                "Resolving issues related to database migrations and version conflicts."
+            ]
+        },
+        {
+            "job_title": "Systems Analyst",
+            "company": "Extracted Company Name 3",
+            "location": "Chittagong University",
+            "dates": "2015 - 2017",
+            "key_responsibilities": [
+                "Integrating SQL Server security with enterprise-level authentication systems and maintaining monitoring standards.",
+                "Designing high-level ETL architectures for data transfer from OLTP to OLAP using SSIS.",
+                "Converting stored procedure-based reports in SSRS to improve efficiency."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "M.A.",
+            "institution": "Chittagong University",
+            "year_of_completion": "2015"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "Microsoft SQL Server (2000, 2005, 2008, 2008R2, 2012, 2014, 2016)\",\n            \"Oracle (11g, 12c)\",\n            \"Windows (2000, 2003, 2008, 2008R2, 2012, 2016)\",\n            \"Linux\",\n            \" UNIX"
+        ],
+        "tools_and_software": [
+            "RedGate\",\n            \"Idera Access\",\n            \"SQL Profiler\",\n            \"Visio\",\n            \"Spotlight\",\n            \"Ignite - SolarWinds\",\n            \"LiteSpeed 5.0\",\n            \"Visual Studio\",\n            \"SharePoint Administration"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

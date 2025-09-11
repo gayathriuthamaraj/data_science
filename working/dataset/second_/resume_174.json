@@ -1,0 +1,83 @@
+{
+    "personal_information": {
+        "name": "Extracted Name",
+        "location": "Portland, OR"
+    },
+    "professional_summary": "Experienced Technical Representative with expertise in technical consulting, product applications, and client training. Proven track record in market research, strategy development, and collaboration with R&D teams.",
+    "work_experience": [
+        {
+            "job_title": "Technical Representative",
+            "company": "Extracted Company Name",
+            "location": "Portland, OR",
+            "dates": "September 2018 - Present",
+            "key_responsibilities": [
+                "Manage 110 accounts across 14 western states to provide technical consulting",
+                "product applications",
+                "and client training.",
+                "Facilitate client meetings",
+                "relations",
+                "and devise plans for increased profitability.",
+                "Create demand via product marketing & positioning",
+                "market infiltration strategies",
+                "tradeshows & presentations",
+                "and B2B sales."
+            ]
+        },
+        {
+            "job_title": "R&D Manager, IPM Specialist, Database Administrator",
+            "company": "Terra Nova Nurseries",
+            "location": "Portland, OR",
+            "dates": "January 2017 - September 2018",
+            "key_responsibilities": [
+                "Perpetuate new cultivar ideas & development to final patented products.",
+                "Track data",
+                "provide photography",
+                "and write product descriptions.",
+                "Maintain plant health by developing fertilizer",
+                "lighting",
+                "pesticide",
+                "and beneficial insect regiments.",
+                "Propagate plants via cuttings and pollination."
+            ]
+        },
+        {
+            "job_title": "Program Coordinator",
+            "company": "School Gardening for South Carolina Educators",
+            "location": "South Carolina",
+            "dates": "May 2015 - November 2016",
+            "key_responsibilities": [
+                "Created and managed online horticulture workshops and courses.",
+                "Conducted meta-analyses for preliminary environmental reports.",
+                "Devised follow-up research to measure program's impact.",
+                "Coordinated volunteer and internship programs."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science in Marie Biology",
+            "institution": "College of Charleston - Charleston, SC",
+            "year_of_completion": "May 2015"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "Data analytics",
+            "SPSS",
+            "SAP",
+            "SRM"
+        ],
+        "tools_and_software": [
+            "Written and verbal communication",
+            "Tissue culture",
+            "Excel",
+            "Microsoft Excel",
+            "Budgeting"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

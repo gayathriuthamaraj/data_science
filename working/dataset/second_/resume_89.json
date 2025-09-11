@@ -1,0 +1,59 @@
+{
+    "personal_information": {
+        "name": "Joshua Poland",
+        "location": "Hillsboro, OR"
+    },
+    "professional_summary": "Information technology professional with seven years of experience in database administration and building web applications. Expertise in implementing AWS services, database migration, ETL processes, and web application development.",
+    "work_experience": [
+        {
+            "job_title": "Database Architect",
+            "company": "Finity Communications, Inc.",
+            "location": "Portland, OR",
+            "dates": "April 2015 - November 2018",
+            "key_responsibilities": [
+                "Led the data team's direction for processing and storage of data.",
+                "Migrated multiple MySQL databases to Amazon Aurora with multi-region HA deployment.",
+                "Developed BASH and PHP scripts to automate data feeds and ran ETL processes."
+            ]
+        },
+        {
+            "job_title": "Developer",
+            "company": "VACASA",
+            "location": "Portland, OR",
+            "dates": "September 2013 - January 2015",
+            "key_responsibilities": [
+                "Developed modules for in-house web applications using PHP",
+                "HTML",
+                "CSS",
+                "and jQuery.",
+                "Built and maintained a mobile application for employees.",
+                "Managed EC2 instances using AWS SDK for PHP."
+            ]
+        },
+        {
+            "job_title": "Database and Reporting Administrator",
+            "company": "LinkTech Worldwide",
+            "location": "Beaverton, OR",
+            "dates": "August 2012 - September 2013",
+            "key_responsibilities": [
+                "Managed MySQL databases for the Customer Relationship Manager.",
+                "Provided business intelligence reports to managers.",
+                "Implemented SpagoBI and converted reports to BIRT format."
+            ]
+        }
+    ],
+    "education": [],
+    "skills": {
+        "technical_skills": [
+            "Amazon Web Services (IAM, VPC, EC2, S3, RDS/Aurora, Redshift, DynamoDB, Lambda, CloudFormation, API Gateway)\",\n            \"MySQL\",\n            \"BASH Scripting\",\n            \"Python\",\n            \"HTML\",\n            \"CSS\",\n            \"JavaScript\",\n            \"Git\",\n            \" JetBrains IDEs\",\n            \"Atlassian Tools\",\n            \"ASC X12 EDI\",\n            \"MapForce\",\n            \"MapForce Server\",\n            \"Mailgun API\",\n            \"Twilio\",\n            \"Red Hat (RHEL)"
+        ],
+        "tools_and_software": [
+            "Linux\",\n            \"jQuery\",\n            \"Symfony\",\n            \"PhoneGap\",\n            \"SpagoBI\",\n            \"BIRT\",\n            \"AWS SDK for PHP\",\n            \"EC2\",\n            \"S3\",\n            \"RDS/Aurora\",\n            \"Redshift\",\n            \"DynamoDB\",\n            \"Lambda\",\n            \"CloudFormation\",\n            \"API Gateway"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

@@ -1,0 +1,68 @@
+{
+    "personal_information": {
+        "name": "Michael F.",
+        "location": "Houston, TX"
+    },
+    "professional_summary": "Research Database Administrator with experience in maintaining candidate databases for executive recruiting firms, utilizing Oracle and MySQL. Provides IT support and training, with prior roles in IT management and pastoral services.",
+    "work_experience": [
+        {
+            "job_title": "Research Database Administrator",
+            "company": "THE ALEXANDER GROUP",
+            "location": "Houston, TX",
+            "dates": "April 2018 - Present",
+            "key_responsibilities": [
+                "Maintains database of candidates for executive recruiting firm.",
+                "Researches details for searches and marketing targets.",
+                "Instructs associates and research team on database usage."
+            ]
+        },
+        {
+            "job_title": "IT Manager",
+            "company": "VOLUNTEERS OF AMERICA OF GREATER BATON ROUGE",
+            "location": "Baton Rouge, LA",
+            "dates": "August 2016 - February 2018",
+            "key_responsibilities": [
+                "Performs IT troubleshooting and support for social work professionals.",
+                "Supports various software applications including Microsoft Office",
+                "ADP",
+                "MySQL",
+                "Oracle",
+                "etc."
+            ]
+        },
+        {
+            "job_title": "Pastor",
+            "company": "ANTIOCHIAN ARCHDIOCESE OF NORTH AMERICA",
+            "location": "Unknown",
+            "dates": "November 2011 - October 2016",
+            "key_responsibilities": [
+                "Oversees church operations and community outreach programs.",
+                "Liaises with international clergy and congregants."
+            ]
+        },
+        {
+            "job_title": "Help Desk Analyst",
+            "company": "ANTIOCHIAN ARCHDIOCESE OF NORTH AMERICA",
+            "location": "Unknown",
+            "dates": "June 2014 - September 2015",
+            "key_responsibilities": [
+                "Provides IT support for healthcare professionals.",
+                "Manages database systems including Meditech."
+            ]
+        }
+    ],
+    "education": [],
+    "skills": {
+        "technical_skills": [
+            "Oracle\",\n            \"MySQL\",\n            \"Microsoft Office Suite\",\n            \"Active Directory\",\n            \"Meditech\",\n            \"Windows\",\n            \"Cisco Call Manager\",\n            \"Virtual Desktops"
+        ],
+        "tools_and_software": [
+            "HER\",\n            \"ADP\",\n            \"Netsmart\",\n            \"Help Desk Solutions"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

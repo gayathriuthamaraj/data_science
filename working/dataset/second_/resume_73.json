@@ -1,0 +1,93 @@
+{
+    "personal_information": {
+        "name": "Extracted Name",
+        "location": "Madison, NJ"
+    },
+    "professional_summary": "IT professional with expertise in managing highly sensitive information. Eight years of experience in database administration, network implementation, server setup, and hardware/software support.",
+    "work_experience": [
+        {
+            "job_title": "Database Administrator (Oracle)",
+            "company": "Netlinks",
+            "location": "Madison, NJ",
+            "dates": "May 2016 - May 2019",
+            "key_responsibilities": [
+                "Maintained sensitive military information and obtained top security clearance from Ministry of Defense.",
+                "Created users for US military and local Army to access the database and granted access rights.",
+                "Generated reports using scripting languages (Bash",
+                "Python) and performed data replication with SharePlex.",
+                "Optimized SQL statements",
+                "managed RAC",
+                "Clusterware",
+                "and ASM",
+                "and backed up/recovered databases using RMAN.",
+                "Developed training for users and configured Linux/Unix systems."
+            ]
+        },
+        {
+            "job_title": "Oracle Database Administrator",
+            "company": "Afghan Wireless Communication Company (AWCC)",
+            "location": "Afghanistan",
+            "dates": "November 2013 - April 2016",
+            "key_responsibilities": [
+                "Engineered and administered Oracle databases",
+                "configured RAC",
+                "Clusterware",
+                "Grid Infrastructure",
+                "and ASM.",
+                "Automated data loading using SQL Loader and Data Pump with shell scripts and CRONTAB jobs.",
+                "Optimized SQL statements",
+                "performed monitoring",
+                "tuning",
+                "and recovery with RMAN.",
+                "Created new database systems and recommended improvements for performance and efficiency.",
+                "Ensured a stable and secure environment using Data Guard."
+            ]
+        },
+        {
+            "job_title": "IT Officer",
+            "company": "Brac Bank",
+            "location": "Afghanistan",
+            "dates": "January 2007 - July 2008",
+            "key_responsibilities": [
+                "Set up user accounts",
+                "managed passwords",
+                "and monitored/maintained bank computer systems.",
+                "Installed hardware",
+                "configured operating systems",
+                "and troubleshooted system/network issues."
+            ]
+        },
+        {
+            "job_title": "IT Technician",
+            "company": "Future Tech",
+            "location": "Afghanistan",
+            "dates": "June 2004 - October 2006",
+            "key_responsibilities": [
+                "Implemented physical network connections for government and non-government organizations.",
+                "Configured CISCO switches/routers",
+                "installed hardware/os/applications",
+                "and performed system/network troubleshooting."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science in Computer Science",
+            "institution": "Pune University/Fergusson College",
+            "year_of_completion": "2013"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "Database administration\",\n            \"Oracle\",\n            \"PostgreSQL\",\n            \"SQL\",\n            \"Linux/Unix\",\n            \"CISCO\",\n            \"Python\",\n            \"Bash\",\n            \"ERPs\",\n            \"Data analysis"
+        ],
+        "tools_and_software": [
+            "SharePlex\",\n            \"RMAN\",\n            \"CRONTAB\",\n            \"Access Control Lists (ACLs)\",\n            \"Data Guard"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

@@ -1,0 +1,70 @@
+{
+    "personal_information": {
+        "name": "Extracted Name",
+        "location": "Not explicitly mentioned"
+    },
+    "professional_summary": "Experienced SQL Server DBA with expertise in high-availability solutions, including mirroring and log-shipping. Proficient in database performance tuning, query optimization, and automated maintenance tasks.",
+    "work_experience": [
+        {
+            "job_title": "SQL Server Database Administrator",
+            "company": "Bridgewater Associates",
+            "location": "Westport, CT",
+            "dates": "August 2012 - February 2013",
+            "key_responsibilities": [
+                "Installed and configured SQL Server 2008 Enterprise edition on an Active/Passive Cluster environment.",
+                "Migrated databases from SQL Server 2005 to 2008 across development",
+                "testing",
+                "and production environments.",
+                "Applied patches and hotfixes on production servers."
+            ]
+        },
+        {
+            "job_title": "SQL Server Database Administrator",
+            "company": "GSS InfoTech\\InfoVision",
+            "location": "Westport, CT",
+            "dates": "August 2012 - February 2013",
+            "key_responsibilities": [
+                "Implemented Resource Governor for better performance.",
+                "Applied Page and Row Compression to optimize database space.",
+                "Developed automated maintenance tasks including backups",
+                "mirroring",
+                "and indexing."
+            ]
+        },
+        {
+            "job_title": "SQL Server Database Administrator",
+            "company": "GSS InfoTech\\InfoVision",
+            "location": "Not explicitly mentioned",
+            "dates": "August 2012 - February 2013",
+            "key_responsibilities": [
+                "Monitored database performance and implemented efficiency improvements.",
+                "Reduced deadlocks using SQL Server Profiler and Trace flags."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Science in Information Systems Engineering and Management",
+            "institution": "Harrisburg University",
+            "year_of_completion": "Not explicitly mentioned"
+        },
+        {
+            "degree": "Bachelor of Science in Mechanical Engineering",
+            "institution": "New York Institute of Technology",
+            "year_of_completion": "Not explicitly mentioned"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "SQL Server\",\n            \"Redgate SQL Compare\",\n            \"Idera SQL Diagnostic Manager\",\n            \"SQLIOsim\",\n            \"Query Tuning\",\n            \"Database Performance Monitoring"
+        ],
+        "tools_and_software": [
+            "Microsoft Certified Professional\",\n            \"Oracle Certified Professional"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

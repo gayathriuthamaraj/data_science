@@ -1,0 +1,90 @@
+{
+    "personal_information": {
+        "name": "Extracted Name",
+        "location": "Ocala, FL"
+    },
+    "professional_summary": "Competent and efficient Legal Assistant providing excellent administrative support to multiple attorneys with experience in case management, personal injury, and office administration.",
+    "work_experience": [
+        {
+            "job_title": "Case Manager",
+            "company": "Allen Law Firm",
+            "location": "Ocala, FL",
+            "dates": "January 2019 - Present",
+            "key_responsibilities": [
+                "Case management of clients' files.",
+                "Prepare demands and mediations.",
+                "Maintain client contact."
+            ]
+        },
+        {
+            "job_title": "Case Manager/Legal Assistant",
+            "company": "Bogin, Munns & Munns, P.A",
+            "location": "Ocala, FL",
+            "dates": "September 2017 - January 2019",
+            "key_responsibilities": [
+                "Assist PI Attorney with client files.",
+                "Open new files using Client Profiles.",
+                "Answer multi-line phone",
+                "fax",
+                "email",
+                "and perform basic office duties."
+            ]
+        },
+        {
+            "job_title": "Office Administrator",
+            "company": "Alico Citrus Nursery, LLC",
+            "location": "Gainesville, FL",
+            "dates": "September 2014 - December 2016",
+            "key_responsibilities": [
+                "Handle all office duties.",
+                "Conduct new hire orientations and safety training.",
+                "Prepare monthly expense reports and inventory."
+            ]
+        },
+        {
+            "job_title": "Claims Representative",
+            "company": "Geico",
+            "location": "Lakeland, FL",
+            "dates": "August 2013 - October 2013",
+            "key_responsibilities": [
+                "Handle auto accident claims.",
+                "Determine liability and provide customer service."
+            ]
+        },
+        {
+            "job_title": "Information and Database Specialist",
+            "company": "Redlands Christian Migrant Association",
+            "location": "Ocala, FL",
+            "dates": "April 2008 - June 2013",
+            "key_responsibilities": [
+                "Assist the Center Director with administrative duties.",
+                "Obtain personal and financial information from families applying to the program.",
+                "Maintain files up-to-date and submit monthly reports."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "GED in General Studies",
+            "institution": "Auburndale, FL GED course",
+            "year_of_completion": "2000 - 2001"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "Case Management",
+            "Personal Injury",
+            "Microsoft Office",
+            "Documentation",
+            "Problem Solving"
+        ],
+        "tools_and_software": [
+            ""
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "personal_information": {
+        "name": "Extracted Name",
+        "location": "Douala University"
+    },
+    "professional_summary": "Skilled Oracle DBA with expertise in database administration, migration, disaster recovery, and data guard configuration. Proficient in various tools and databases, aiming to leverage technical skills for effective IT solutions.",
+    "work_experience": [
+        {
+            "job_title": "IT Support Specialist & Oracle DBA",
+            "company": "Douala University",
+            "location": "Douala",
+            "dates": "2020 - Present",
+            "key_responsibilities": [
+                "Installed",
+                "configured",
+                "and maintained Oracle databases (10g",
+                "11g",
+                "12c).",
+                "Performed troubleshooting and resolved issues impacting database performance and availability.",
+                "Migrated and upgraded databases from legacy systems to current versions with minimal downtime.",
+                "Implemented disaster recovery solutions using RMAN and Data Guard for physical and logical standby databases.",
+                "Configured Oracle Streams and Materialized Views for data replication."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master's in Chemistry",
+            "institution": "Douala University",
+            "year_of_completion": "2020"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "Oracle Databases (10g, 11g, 12c)",
+            "Database Administration",
+            "Troubleshooting"
+        ],
+        "tools_and_software": [
+            "Toad",
+            "OEM Grid",
+            "RMAN",
+            "SQL*",
+            "Log Miner",
+            "Statspack/AWR"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

@@ -1,0 +1,88 @@
+{
+    "personal_information": {
+        "name": "",
+        "location": ""
+    },
+    "professional_summary": "Oracle Database Administrator with extensive experience in Oracle database administration, including RMAN, ASM, OEM, SQL*Plus, PL/SQL, and other related tools. Expertise in database migration, backup and recovery, performance tuning, and capacity planning.",
+    "work_experience": [
+        {
+            "job_title": "Oracle DBA",
+            "company": "Capital One",
+            "location": "Chicago, IL",
+            "dates": "May 2010 - December 2012",
+            "key_responsibilities": [
+                "Configured standby database for DR setup using OEM.",
+                "Resolved various database issues involving export/import",
+                "backup and recovery procedures",
+                "and RMAN.",
+                "Migrated 10g/11g databases to 12c using export/import and RMAN methods.",
+                "Implemented backup and recovery procedures including cold/hot backups and incremental backups.",
+                "Built numerous 12c databases in RAC and standalone environments.",
+                "Created database links and materialized views.",
+                "Performed daily performance tuning",
+                "SQL tuning",
+                "and memory tuning.",
+                "Monitored and analyzed AWR/ADDM reports for expensive SQLs and provided recommendations.",
+                "Designed and planned database configurations",
+                "roles",
+                "and privileges."
+            ]
+        },
+        {
+            "job_title": "Oracle DBA",
+            "company": "Capital One - Chicago, IL",
+            "location": "Chicago, IL",
+            "dates": "May 2010 - December 2012",
+            "key_responsibilities": [
+                "Configured standby database for DR setup using OEM.",
+                "Resolved various database issues involving export/import",
+                "backup and recovery procedures",
+                "and RMAN.",
+                "Migrated 10g/11g databases to 12c using export/import and RMAN methods.",
+                "Implemented backup and recovery procedures including cold/hot backups and incremental backups.",
+                "Built numerous 12c databases in RAC and standalone environments.",
+                "Created database links and materialized views.",
+                "Performed daily performance tuning",
+                "SQL tuning",
+                "and memory tuning.",
+                "Monitored and analyzed AWR/ADDM reports for expensive SQLs and provided recommendations.",
+                "Designed and planned database configurations",
+                "roles",
+                "and privileges."
+            ]
+        },
+        {
+            "job_title": "Oracle DBA",
+            "company": "Capital One - Chicago, IL",
+            "location": "Chicago, IL",
+            "dates": "May 2010 - December 2012",
+            "key_responsibilities": [
+                "Configured standby database for DR setup using OEM.",
+                "Resolved various database issues involving export/import",
+                "backup and recovery procedures",
+                "and RMAN.",
+                "Migrated 10g/11g databases to 12c using export/import and RMAN methods.",
+                "Implemented backup and recovery procedures including cold/hot backups and incremental backups.",
+                "Built numerous 12c databases in RAC and standalone environments.",
+                "Created database links and materialized views.",
+                "Performed daily performance tuning",
+                "SQL tuning",
+                "and memory tuning.",
+                "Monitored and analyzed AWR/ADDM reports for expensive SQLs and provided recommendations.",
+                "Designed and planned database configurations",
+                "roles",
+                "and privileges."
+            ]
+        }
+    ],
+    "education": [],
+    "skills": {
+        "technical_skills": [],
+        "tools_and_software": []
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

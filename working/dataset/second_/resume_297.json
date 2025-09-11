@@ -1,0 +1,66 @@
+{
+    "personal_information": {
+        "name": "Extracted Name",
+        "location": "New Carrollton, MD"
+    },
+    "professional_summary": "Experienced Security Operation Center (SOC) Analyst with expertise in incident response, network monitoring, and security strategy. Proven ability to analyze logs, create SOPs, and develop action plans. Skilled Database Administrator with background in database support, performance tuning, and compliance.",
+    "work_experience": [
+        {
+            "job_title": "Security Operation Center (SOC) Analyst",
+            "company": "Datalogic Solutions Inc",
+            "location": "New Carrollton, MD",
+            "dates": "March 2017 - Present",
+            "key_responsibilities": [
+                "Perform incident response to investigate & resolve network and system security incidents.",
+                "Monitor & analyze network traffic using Splunk Express and Cisco Sourcefire.",
+                "Analyze network and host-based security appliance logs for remediation actions and escalation paths.",
+                "Review Accidental Disclosure requests following SOPs.",
+                "Create SOPs for SIEM tools and event monitoring.",
+                "Compose security alert notifications and communications.",
+                "Prioritize potential intrusion attempts vs. false positives.",
+                "Develop and implement incident action plans.",
+                "Create and maintain incident tickets and documentation.",
+                "Contribute to overall security strategy and process improvement."
+            ]
+        },
+        {
+            "job_title": "Operational Support Database Administrator",
+            "company": "Think Tech Consulting",
+            "location": "New Carrollton, MD",
+            "dates": "March 2015 - March 2018",
+            "key_responsibilities": [
+                "Provide database support and maintenance.",
+                "Assess and implement database design considerations.",
+                "Resolve complex issues and lead problem-solving efforts.",
+                "Liaise with vendors for software/hardware installations.",
+                "Coordinate with cross-functional teams on database needs.",
+                "Perform database performance tuning and optimization.",
+                "Ensure compliance with data security policies.",
+                "Generate detailed reports and documentation.",
+                "Develop and maintain database monitoring scripts.",
+                "Participate in root cause analysis for production issues.",
+                "Document findings and implement solutions."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor's",
+            "institution": "University Of Yaoundé",
+            "year_of_completion": "Unspecified"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "Firewalls\",\n            \"Networking\",\n            \"Incident Response\",\n            \"Network Monitoring\",\n            \"Log Analysis\",\n            \"Database Administration\",\n            \"Process Improvement\",\n            \"Compliance"
+        ],
+        "tools_and_software": [
+            "Splunk Express\",\n            \"Cisco Sourcefire\",\n            \"Jira\",\n            \"Microsoft Office Suite\",\n            \"Symantec\",\n            \"Excel"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

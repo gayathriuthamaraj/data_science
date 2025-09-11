@@ -1,0 +1,61 @@
+{
+    "personal_information": {
+        "name": "SQL Server Database Administrator",
+        "location": "Lawrenceville, GA"
+    },
+    "professional_summary": "4 years of experience as a Microsoft SQL database administrator (DBA) responsible for the configuration, administration, monitoring and maintenance of SQL Server databases. Skilled in data migration, database mirroring, disaster recovery, integration services, performance tuning, reporting services, troubleshooting performance issues, database upgrades, patching, backup and restore, disaster recovery, database security, and high availability solutions. Experience with third-party tools like Lite Speed, Spotlight, and Idera.",
+    "work_experience": [
+        {
+            "job_title": "SQL Server Database Administrator",
+            "company": "Next Media Inc",
+            "location": "Atlanta, GA",
+            "dates": "2014 - Present",
+            "key_responsibilities": [
+                "Performing database administration activities including installation",
+                "configuration",
+                "and space management.",
+                "Troubleshooting slow-running queries and resolving concurrency issues (blocking",
+                "locking",
+                "and deadlocks).",
+                "Developing backup strategies and recovery solutions."
+            ]
+        },
+        {
+            "job_title": "Junior Database Administrator",
+            "company": "GENCO Inc",
+            "location": "Braselton, GA",
+            "dates": "2012 - 2014",
+            "key_responsibilities": [
+                "Developing backup strategies and recovery solutions.",
+                "Performing database administration tasks including installation",
+                "configuration",
+                "upgrades",
+                "capacity planning",
+                "performance tuning",
+                "backup",
+                "and recovery.",
+                "Handling ETL processes using SQL Server Integration Services (SSIS)."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Management Information Systems",
+            "institution": "Florida International University",
+            "year_of_completion": "2015"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "Microsoft SQL Server Administration\",\n            \"Database Configuration and Maintenance\",\n            \"Performance Tuning\",\n            \"Disaster Recovery\",\n            \"High Availability Solutions\",\n            \"Data Migration\",\n            \"SQL Server Reporting Services\",\n            \"Third-party tools: Lite Speed, Spotlight, Idera"
+        ],
+        "tools_and_software": [
+            "SQL Server 2005, 2008, 2008R2, 2012, and Access Database\",\n            \"Windows Server 2008/2012\",\n            \"T-SQL Certification\",\n            \"High Availability Solutions Certification"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

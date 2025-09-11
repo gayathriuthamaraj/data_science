@@ -1,0 +1,104 @@
+{
+    "personal_information": {
+        "name": "",
+        "location": "Prospect, CT"
+    },
+    "professional_summary": "Experienced SQL Database Engineer with expertise across various SQL Server versions, specializing in ETL processes and SSIS packages. Proficient in troubleshooting, collaboration with offshore teams, and Agile methodologies.",
+    "work_experience": [
+        {
+            "job_title": "SQL Database Engineer",
+            "company": "HAI Group",
+            "location": "Cheshire, CT",
+            "dates": "2012 - 2015",
+            "key_responsibilities": [
+                "Developed and optimized SSIS packages for data integration.",
+                "Managed ETL processes for large-scale data extraction and transformation.",
+                "Collaborated with development teams to integrate database solutions."
+            ]
+        },
+        {
+            "job_title": "Database Administrator",
+            "company": "Fortegra Financial",
+            "location": "Jacksonville, FL",
+            "dates": "2015 - 2017",
+            "key_responsibilities": [
+                "Monitored and maintained SQL Server databases across multiple environments.",
+                "Implemented backup and recovery strategies to ensure data integrity.",
+                "Resolved performance issues through tuning and optimization."
+            ]
+        },
+        {
+            "job_title": "Database Developer",
+            "company": "Well Point",
+            "location": "Atlanta, GA",
+            "dates": "2017 - 2019",
+            "key_responsibilities": [
+                "Developed complex T-SQL queries for data processing and analysis.",
+                "Designed and deployed SSRS reports for business intelligence purposes.",
+                "Collaborated with analysts to meet reporting requirements."
+            ]
+        },
+        {
+            "job_title": "SQL Server Administrator",
+            "company": "Bealls Inc.",
+            "location": "Marietta, GA",
+            "dates": "2019 - 2021",
+            "key_responsibilities": [
+                "Managed SQL Server instances across multiple platforms.",
+                "Implemented high-availability and disaster-recovery solutions.",
+                "Provided technical support for database-related issues."
+            ]
+        },
+        {
+            "job_title": "Database Engineer",
+            "company": "CUNA Mutual Group",
+            "location": "Madison, WI",
+            "dates": "2021 - 2023",
+            "key_responsibilities": [
+                "Designed and deployed ETL solutions for data migration.",
+                "Optimized SSIS packages for performance and scalability.",
+                "Collaborated with data engineers on large-scale data projects."
+            ]
+        },
+        {
+            "job_title": "Database Engineer",
+            "company": "Citygroup",
+            "location": "New York, NY",
+            "dates": "2023 - Present",
+            "key_responsibilities": [
+                "Works on various SQL Server versions for database administration.",
+                "Handles ETL and SSIS package development tasks.",
+                "Conducts regular maintenance and optimization activities."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor's Degree",
+            "institution": "Southern Polytechnic State University",
+            "year_of_completion": "2010"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "SQL Database",
+            "Microsoft SQL Server",
+            "T-SQL",
+            "SSRS",
+            "ETL",
+            "SSIS"
+        ],
+        "tools_and_software": [
+            "Visual Studio .NET",
+            "CozyRoc",
+            "Profiler",
+            "JIRA",
+            "SAFe Agile"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

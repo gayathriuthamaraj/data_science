@@ -1,0 +1,83 @@
+{
+    "personal_information": {
+        "name": "John Doe",
+        "location": "Vienna, VA"
+    },
+    "professional_summary": "Experienced SharePoint Developer with expertise in software development lifecycle, portal design, configuration, migration, and automation. Skilled in SQL Server administration, database management, and testing processes.",
+    "work_experience": [
+        {
+            "job_title": "SharePoint Developer",
+            "company": "Harmony Tech, Inc.",
+            "location": "Vienna, VA",
+            "dates": "July 2017 - Present",
+            "key_responsibilities": [
+                "Involving in all phases of Software Development Life Cycle including requirements gathering",
+                "design",
+                "development",
+                "testing",
+                "implementation and postproduction support.",
+                "Designing and developing new SharePoint Portal Site to improve collaboration among employees.",
+                "Configuring web applications",
+                "creating site collections",
+                "sites",
+                "lists",
+                "document libraries",
+                "pages",
+                "views",
+                "and maintaining a unique look and feel using Master Pages",
+                "CSS",
+                "and JavaScript."
+            ]
+        },
+        {
+            "job_title": "SharePoint Developer",
+            "company": "Pragmatics Inc.",
+            "location": "Reston, VA",
+            "dates": "January 2015 - June 2017",
+            "key_responsibilities": [
+                "Designing and configuring SharePoint solutions for multiple departments.",
+                "Automating workflows and data migration processes.",
+                "Troubleshooting and resolving issues related to SharePoint performance."
+            ]
+        },
+        {
+            "job_title": "SQL Database Administrator/DBA",
+            "company": "Alexandria, VA",
+            "location": "Alexandria, VA",
+            "dates": "May 2013 - December 2014",
+            "key_responsibilities": [
+                "Maintaining and optimizing SQL Server databases.",
+                "Implementing backup and recovery strategies.",
+                "Resolving performance issues and ensuring database integrity."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "B.S. in Computer Science",
+            "institution": "Addis Ababa University",
+            "year_of_completion": "2008"
+        },
+        {
+            "degree": "Associate Degree in Accounting",
+            "institution": "Addis Ababa University Commercial College",
+            "year_of_completion": "2005"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "JIRA",
+            "SSRS",
+            "SSIS"
+        ],
+        "tools_and_software": [
+            "Sharegate",
+            "Metalogix"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

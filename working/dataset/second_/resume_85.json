@@ -1,0 +1,67 @@
+{
+    "personal_information": {
+        "name": "Database Administrator",
+        "location": "Smyrna, GA"
+    },
+    "professional_summary": "Experienced Database Administrator with expertise in SQL Server 2012/2008 R2, disaster recovery planning, security management, performance tuning, and database configuration.",
+    "work_experience": [
+        {
+            "job_title": "Database Administrator",
+            "company": "Posh Lane Freight",
+            "location": "Smyrna, GA",
+            "dates": "January 2018 - Present",
+            "key_responsibilities": [
+                "Administering SQL Server databases and ensuring optimal performance.",
+                "Implementing disaster recovery and backup strategies.",
+                "Managing security protocols to safeguard database assets."
+            ]
+        },
+        {
+            "job_title": "Database Administrator",
+            "company": "Apolinari Taxes & Multi-Services",
+            "location": "Smyrna, GA",
+            "dates": "October 2015 - December 2017",
+            "key_responsibilities": [
+                "Overseeing database maintenance and performance optimization.",
+                "Designing and implementing backup solutions.",
+                "Ensuring compliance with data security standards."
+            ]
+        },
+        {
+            "job_title": "Network Technician",
+            "company": "Intown Suites",
+            "location": "Marietta, GA",
+            "dates": "N/A",
+            "key_responsibilities": [
+                "Providing IT support and network troubleshooting.",
+                "Configuring network infrastructure and hardware.",
+                "Assisting with system upgrades and security enhancements."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Diploma in Databases",
+            "institution": "COIN Consultancy and Training Institute - Dunwoody, GA",
+            "year_of_completion": "N/A"
+        },
+        {
+            "degree": "Bachelor's Degree",
+            "institution": "Southern State Polytechnic University - Marietta, GA",
+            "year_of_completion": "N/A"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "Disaster Recovery Planning\",\n            \"SQL Server Administration\",\n            \"Performance Tuning\",\n            \"Database Configuration\",\n            \"Data Security Management\",\n            \"Backup Solutions"
+        ],
+        "tools_and_software": [
+            "SQL Server Profiler\",\n            \"Database Tuning Advisor\",\n            \"Transaction Replication\",\n            \"Virus Protection Software\",\n            \"Spyware Removal Tools\",\n            \"Firewall Protection Software"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

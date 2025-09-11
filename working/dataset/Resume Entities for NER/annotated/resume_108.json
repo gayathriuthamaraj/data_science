@@ -1,0 +1,26 @@
+{
+    "id": 108,
+    "text": "Gaurav Soni\nNew Delhi, Delhi - Email me on Indeed: indeed.com/r/Gaurav-Soni/d492b5b1697f7f66\n\nWORK EXPERIENCE\n\nSoftware Developer\n\nION Trading -\n\nJune 2016 to Present\n\nAs part of ION Trading, I have been working as a core product developer on a Repurchase\nAgreements(REPO) Trading Solution, called Anvil 9 Trading Solution. Currently I am working on\nOrder Management System, which is a component/service that enable the traders to capture\norders from emails and chats. I have also worked on Apache CoreNLP to leverage its Named\nEntity Recognition feature to extracting business keywords from a given text.\n\nIntern\n\nMicrosoft -  Hyderabad, Telangana -\n\nJune 2015 to August 2015\n\nI was part of the Microsoft Service Global Delivery Internship for two months in Hyderabad. On\nmy internship, I got an opportunity to develop a Windows 10 application.\n\nEDUCATION\n\nB.Tech(Computer Science) in CSE\n\nGGSIPU\n\n2012 to 2016\n\nSKILLS\n\nC# (Less than 1 year), Java, OOPs, Guice, Microservice architecture, Software Development,\nXAML, ATDD, SOLID, SOA, Scrum, Robot Framework, TDD\n\nADDITIONAL INFORMATION\n\nSkills: JAVA, C#, WPF, XAML, Robot Framework, Scrum, Guice, ATDD, SOA, Fixed Income, CoreNLP,\nSOLID\nprogramming, OOPs, NLP, Microservice architecture.\n\nhttps://www.indeed.com/r/Gaurav-Soni/d492b5b1697f7f66?isid=rex-download&ikw=download-top&co=IN",
+    "skills": [
+        "Guice",
+        "Software Development",
+        "TDD",
+        "C#",
+        "Robot Framework",
+        "ATDD",
+        "SOLID",
+        "OOPs",
+        "Windows 10 application development",
+        "Fixed Income",
+        "SOLID programming",
+        "NLP",
+        "CoreNLP",
+        "Microservice architecture",
+        "Named Entity Recognition",
+        "Java",
+        "XAML",
+        "Scrum",
+        "SOA",
+        "WPF"
+    ]
+}

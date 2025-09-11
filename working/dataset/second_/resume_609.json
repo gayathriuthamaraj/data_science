@@ -1,0 +1,28 @@
+{
+    "personal_information": {
+        "name": "John Doe",
+        "location": "Albuquerque, NM"
+    },
+    "professional_summary": "Experienced IT professional with expertise in system engineering, disaster recovery, and infrastructure management. Proficient in UNIX/Linux systems, Oracle databases, and VMware virtualization.",
+    "work_experience": [],
+    "education": [
+        {
+            "degree": "Bachelor of Science in Accounting",
+            "institution": "The College at Old Westbury, State University of New York",
+            "year_of_completion": "2010"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "UNIX/Linux Systems Administration\",\n            \"Oracle Database Management\",\n            \"Veritas Volume Manager\",\n            \"SAN/NAS Infrastructure Configuration\",\n            \"VMware Virtualization\",\n            \"Shell Scripting\",\n            \"RPM Packaging\",\n            \"IP Tables\",\n            \"Disaster Recovery Planning"
+        ],
+        "tools_and_software": [
+            "VMware ESXi/ESX\",\n            \"Oracle RAC 10g\",\n            \"Apache Web Server\",\n            \"Samba File Sharing\",\n            \"NFS/CIFS/iSCSI Protocols\",\n            \"iptables\",\n            \"NetApp SAN Solutions\",\n            \"Veritas Volume Manager"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

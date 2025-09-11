@@ -1,0 +1,59 @@
+{
+    "personal_information": {
+        "name": "Oracle DBA",
+        "location": "Multiple Locations"
+    },
+    "professional_summary": "Experienced Oracle DBA with expertise in RAC, database installation, performance tuning, and backup/recovery processes. Proficient in PL/SQL development and DBA tasks in a 24x7 support environment.",
+    "work_experience": [
+        {
+            "job_title": "Senior Oracle Database Administrator",
+            "company": "Spectrum Health",
+            "location": "Grand Rapids, MI",
+            "dates": "September 2009 - May 2010",
+            "key_responsibilities": [
+                "Supported production",
+                "development",
+                "and testing databases of Multi-Terabyte sizes.",
+                "Installed Oracle 9i",
+                "10g",
+                "and 11g clients/databases on Solaris and Linux.",
+                "Migrated 10g database to 11g R2 and performed complete build of 2-node 10g RAC Cluster."
+            ]
+        },
+        {
+            "job_title": "Oracle Database Administrator",
+            "company": "IBM",
+            "location": "Multiple Locations",
+            "dates": "May 2008 - September 2009",
+            "key_responsibilities": [
+                "Supported production",
+                "development",
+                "and testing databases in a 24x7 environment.",
+                "Installed and configured Oracle 9i",
+                "10g",
+                "and 11g clients/databases on UNIX and Windows.",
+                "Performed database cloning for test and development environments."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor's Degree in Commerce",
+            "institution": "OSMANIA UNIVERSITY",
+            "year_of_completion": "2009"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "Oracle DBA\",\n            \"PL/SQL Development\",\n            \"Database Performance Tuning\",\n            \"RAC Configuration and Management\",\n            \"Database Backup and Recovery (RMAN)\",\n            \"Index Management\",\n            \"Security Management (Oracle Database Vault)\",\n            \"EMLS (Enterprise Manager for Oracle)"
+        ],
+        "tools_and_software": [
+            "ORACLE\",\n            \"TOAD\",\n            \"RMAN\",\n            \"AWR\",\n            \"AddM\",\n            \"SQL Server\",\n            \"EMLab\",\n            \"Putty"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

@@ -1,0 +1,59 @@
+{
+    "personal_information": {
+        "name": "Extracted Name",
+        "location": "India"
+    },
+    "professional_summary": "Experienced Applications Database Administrator with expertise in Oracle Applications (R12/11i), RAC databases, and database management tools. Skilled in database cloning, patching, performance monitoring, and cross-team collaboration.",
+    "work_experience": [
+        {
+            "job_title": "Applications Database Administrator",
+            "company": "AT&T Global Business Services (India) Pvt. Ltd",
+            "location": "India",
+            "dates": "September 2010 - December 2012",
+            "key_responsibilities": [
+                "Administering Oracle Applications R12/11i in single and multi-node environments.",
+                "Managing production databases on RAC systems with configurations including 2-node and 3-node setups.",
+                "Cloning APPS databases using RMAN technology",
+                "including cloning of RAC-RAC and RAC-Non RAC instances."
+            ]
+        },
+        {
+            "job_title": "Applications Database Administrator",
+            "company": "HP Quality Center",
+            "location": "India",
+            "dates": "January 2008 - August 2010",
+            "key_responsibilities": [
+                "Managing Oracle Applications version 11.5.9",
+                "11.5.10",
+                "and R12 on LINUX.",
+                "Administering production databases in a multi-node RAC system with Database versions 9i",
+                "10g",
+                "and 11g.",
+                "Cloning Oracle Applications databases using methods like cold",
+                "hot refresh",
+                "exp/imp",
+                "and RMAN."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor's",
+            "institution": "Extracted University Name",
+            "year_of_completion": "Extracted Year"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "Oracle Database\",\n            \"Oracle Applications\",\n            \"RAC (Real Application Cluster)\",\n            \"RMAN (Database Backup and Recovery Tool)\",\n            \"AWR (Application Workload Reporter)\",\n            \"ADDM (Alerts for DBDAs)\",\n            \"TKPROF (Toolkit Profiler)\",\n            \"Informatica\",\n            \"Linux\",\n            \"Solaris\",\n            \"HP-UX\",\n            \"Shell Programming\",\n            \"C++\",\n            \"EBS (Enterprise Business Suite)\",\n            \"Loader"
+        ],
+        "tools_and_software": [
+            "Oracle Applications\",\n            \"RAC\",\n            \"RMAN\",\n            \"AWR\",\n            \"ADDM\",\n            \"TKPROF\",\n            \"Informatica\",\n            \"HP Quality Center"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

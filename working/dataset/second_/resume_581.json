@@ -1,0 +1,94 @@
+{
+    "personal_information": {
+        "name": "Database Consultant",
+        "location": "Brooklyn, NY"
+    },
+    "professional_summary": "Proven experience in database management and integration with various tools and platforms, focusing on CRM systems like Salesforce.",
+    "work_experience": [
+        {
+            "job_title": "Database Consultant",
+            "company": "Project Sunshine",
+            "location": "New York, NY",
+            "dates": "November 2018 to Present",
+            "key_responsibilities": [
+                "Integrated and maintained APIs such as FormAssembly",
+                "Pardot",
+                "and iMessenger.",
+                "Designed and maintained Salesforce standard objects",
+                "custom objects",
+                "and junction objects."
+            ]
+        },
+        {
+            "job_title": "Database Consultant",
+            "company": "Children of Promise",
+            "location": "Brooklyn, NY",
+            "dates": "June 2019 to August 2019",
+            "key_responsibilities": [
+                "Integrated new APIs such as SyncApps",
+                "DonorBox",
+                "and FormAssembly.",
+                "Performed user & administration training sessions for clients."
+            ]
+        },
+        {
+            "job_title": "Development and Salesforce Consultant",
+            "company": "Free Arts",
+            "location": "New York, NY",
+            "dates": "February 2018 to January 2019",
+            "key_responsibilities": [
+                "Migrated data from E-Tapestry to Salesforce while integrating APIs such as Classy and MailChimp.",
+                "Manipulated data using DataLoader for fiscal reconciliation."
+            ]
+        },
+        {
+            "job_title": "Administrative Coordinator",
+            "company": "New York Zen Center for Contemplative Care",
+            "location": "New York, NY",
+            "dates": "July 2017 to February 2018",
+            "key_responsibilities": [
+                "Created user lists",
+                "reports",
+                "and dashboards for management visibility.",
+                "Integrated applications such as SoapBox and Apsona with Salesforce."
+            ]
+        },
+        {
+            "job_title": "Development Associate",
+            "company": "Boys and Girls Harbor",
+            "location": "New York, NY",
+            "dates": "2015 to 2017",
+            "key_responsibilities": [
+                "Built and ran unique queries",
+                "exports",
+                "analysis reports",
+                "appeal lists",
+                "and mass mailing lists using Raiser's Edge."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of the Arts in Sociology",
+            "institution": "Rutgers University - New Brunswick, NJ",
+            "year_of_completion": "2010"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "CRM",
+            "Salesforce",
+            "Raiser's Edge",
+            "E-Tapestry",
+            "DonorSearch"
+        ],
+        "tools_and_software": [
+            "FormAssembly\",\n            \"Pardot\",\n            \"iMessenger\",\n            \"SyncApps\",\n            \"DonorBox"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

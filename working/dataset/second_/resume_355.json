@@ -1,0 +1,97 @@
+{
+    "personal_information": {
+        "name": "Extracted Name",
+        "location": "Alexandria, VA"
+    },
+    "professional_summary": "IT Consultant with over nine years of experience in database management and IT solutions. Expertise in SQL Server, Oracle, and other database systems. Proven skills in data migration, backup/restoration, performance tuning, and process optimization.",
+    "work_experience": [
+        {
+            "job_title": "Senior IT Consultant",
+            "company": "Leadiant Bioscience",
+            "location": "Alexandria, VA",
+            "dates": "September 2016 - Present",
+            "key_responsibilities": [
+                "Collaborated with technical teams to document database requirements and implement solutions.",
+                "Installed and maintained SQL Server and Oracle databases across multiple environments.",
+                "Monitored database services and ensured high availability through regular maintenance and optimization."
+            ]
+        },
+        {
+            "job_title": "Data Migration Specialist",
+            "company": "SunTrust Bank",
+            "location": "Atlanta, GA",
+            "dates": "August 2016 - October 2016",
+            "key_responsibilities": [
+                "Conducted data migration activities for large-scale systems.",
+                "Performed backup and restoration operations on remote servers.",
+                "Ensured data integrity during migration processes."
+            ]
+        },
+        {
+            "job_title": "SQL Server Database Administrator",
+            "company": "Sql Server",
+            "location": "Remote",
+            "dates": "November 2015 - June 2016",
+            "key_responsibilities": [
+                "Developed and maintained SQL Server databases for multiple applications.",
+                "Monitored database performance and resolved issues related to disk space",
+                "query optimization",
+                "and backup processes.",
+                "Collaborated with application development teams to resolve production issues."
+            ]
+        },
+        {
+            "job_title": "Oracle Database Administrator",
+            "company": "Boston Consulting Group",
+            "location": "Boston, MA",
+            "dates": "July 2015 - September 2015",
+            "key_responsibilities": [
+                "Planned and implemented new tablespaces to support business requirements.",
+                "Optimized database performance by tuning queries and indexes.",
+                "Performed regular backups and recovery operations using Oracle tools."
+            ]
+        },
+        {
+            "job_title": "General Manager",
+            "company": "B.A. Wholesale Trading",
+            "location": "Charlotte, NC",
+            "dates": "April 2012 - March 2015",
+            "key_responsibilities": [
+                "Sold and distributed IT products and solutions to clients.",
+                "Provided personalized service to meet client-specific needs.",
+                "Managed inventory and ensured compliance with company standards."
+            ]
+        },
+        {
+            "job_title": "Network/Database Administrator",
+            "company": "Pioneer Diagnostic Center & Boston Consulting Group",
+            "location": "Dallas, TX",
+            "dates": "January 2010 - February 2012",
+            "key_responsibilities": [
+                "Generated daily reports for network and database operations.",
+                "Installed and configured Oracle databases to support business applications.",
+                "Established backup and disaster recovery procedures."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor's Degree",
+            "institution": "Extracted University Name",
+            "year_of_completion": "2010"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "Database Administration (SQL Server, Oracle)\",\n      \"Data Migration and Integration\",\n      \"Backup/Restore Processes\",\n      \"Performance Tuning and Optimization\",\n      \"IT Consultancy Services"
+        ],
+        "tools_and_software": [
+            "Microsoft SQL Server\",\n      \"Oracle Database\",\n      \"Extract, Transform, Load (ETL) Tools\",\n      \"VMware\",\n      \"Active Directory\",\n      \"Symantec Endpoint Protection\",\n      \"HP Servers\",\n      \"Red Hat Linux 7.x\",\n      \"Windows Server"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

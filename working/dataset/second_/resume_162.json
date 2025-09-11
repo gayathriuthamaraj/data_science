@@ -1,0 +1,65 @@
+{
+    "personal_information": {
+        "name": "Lead Analyst/Product Owner",
+        "location": "Dallas, TX"
+    },
+    "professional_summary": "Experienced Lead Analyst and Product Owner with expertise in automation testing, product backlog management, and cross-functional collaboration.",
+    "work_experience": [
+        {
+            "job_title": "Lead Analyst/Product Owner",
+            "company": "Texas Instruments",
+            "location": "Dallas, TX",
+            "dates": "January 2019 - Present",
+            "key_responsibilities": [
+                "Automated Testing: Lead team in converting over 500+ manual test cases to automated cases using Selenium framework.",
+                "Process Flow Design: Developed and designed a standard process flow for automation testing deployment across multiple teams.",
+                "Debugging & Troubleshooting: Addressed issues within the organization through systematic debugging."
+            ]
+        },
+        {
+            "job_title": "Product Owner",
+            "company": "Texas Instruments",
+            "location": "Dallas, TX",
+            "dates": "May 2017 - January 2019",
+            "key_responsibilities": [
+                "Onboarding Process: Developed an onboarding process for new hires and contractors using Confluence",
+                "reducing downtime from two months to two days.",
+                "Excel Upload Tool: Created a tool using Spring Framework and PL/SQL to reduce dependency on manual inputs.",
+                "GUI Implementation: Conceptualized and executed GUI implementation for international clients."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "M.S. Information Technology",
+            "institution": "University of Texas at Dallas",
+            "year_of_completion": "August 2017"
+        },
+        {
+            "degree": "B.S. Information Technology",
+            "institution": "University of Texas at Dallas",
+            "year_of_completion": "December 2016"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "Java",
+            "Spring",
+            "SQL",
+            "PL/SQL",
+            "Selenium"
+        ],
+        "tools_and_software": [
+            "MS Office Suite (Word, Excel, PowerPoint, Outlook)",
+            "Oracle",
+            "Tableau",
+            "SAP",
+            "Confluence"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "personal_information": {
+        "name": "Extracted Name",
+        "location": "Extracted Location"
+    },
+    "professional_summary": "Experienced Database Administrator with expertise in Oracle and Microsoft SQL Server, specializing in data migration, ETL processes, replication, and database administration.",
+    "work_experience": [
+        {
+            "job_title": "Database Operator/Technician (DOS)",
+            "company": "NT Concepts",
+            "location": "VA",
+            "dates": "March 2018 - Present",
+            "key_responsibilities": [
+                "Performing database operations and maintenance on Oracle systems.",
+                "Conducting data migration and replication processes.",
+                "Administering ETL (Extract",
+                "Transform",
+                "Load) processes to ensure data integrity."
+            ]
+        },
+        {
+            "job_title": "Database Administrator",
+            "company": "Mythics, Inc.",
+            "location": "VA",
+            "dates": "2015 - 2018",
+            "key_responsibilities": [
+                "Managing and optimizing Microsoft SQL Server instances.",
+                "Executing RMAN backups and recovery processes.",
+                "Troubleshooting database connectivity and performance issues."
+            ]
+        },
+        {
+            "job_title": "Oracle DBA",
+            "company": "AINET Consulting Group, Inc.",
+            "location": "VA",
+            "dates": "2014 - 2015",
+            "key_responsibilities": [
+                "Configuring and maintaining Oracle 11g databases.",
+                "Implementing Data Guard and physical standby solutions.",
+                "Providing 24/7 support for production environments."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "B.S",
+            "institution": "Towson University - Baltimore, MD",
+            "year_of_completion": "2014"
+        }
+    ],
+    "skills": {
+        "technical_skills": [],
+        "tools_and_software": []
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

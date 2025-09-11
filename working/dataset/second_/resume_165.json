@@ -1,0 +1,63 @@
+{
+    "personal_information": {
+        "name": "John Doe",
+        "location": "Norfolk, VA"
+    },
+    "professional_summary": "Relational database administrator with expertise in SharePoint, data analysis, and process optimization. Proven track record in managing large-scale database projects and streamlining business operations through efficient data management strategies.",
+    "work_experience": [
+        {
+            "job_title": "Database Administrator III",
+            "company": "Chipton Ross - Newport News, VA",
+            "location": "Norfolk, VA",
+            "dates": "March 2016 - October 2016",
+            "key_responsibilities": [
+                "Production planning and control as a leased programmer on-site.",
+                "Management of SharePoint portal",
+                "MS Access databases",
+                "and other Microsoft Office tools.",
+                "Data warehouse optimization and SAP integration."
+            ]
+        },
+        {
+            "job_title": "Customer Service Representative",
+            "company": "Alorica - Norfolk, VA",
+            "location": "Norfolk, VA",
+            "dates": "May 2015 - May 2016",
+            "key_responsibilities": [
+                "Providing exceptional customer service and resolving billing questions.",
+                "Analyzing accounts to make recommendations and processing device upgrades.",
+                "Troubleshooting tier 1 technical support issues."
+            ]
+        },
+        {
+            "job_title": "Database Administrator",
+            "company": "Snelling Services - Virginia Beach, VA",
+            "location": "Chesapeake, VA",
+            "dates": "April 2014 - June 2014",
+            "key_responsibilities": [
+                "Consolidating business processes into a single repository for real-time data sharing.",
+                "Integrating and syncing data across various platforms and departments."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "B.S. in Accounting",
+            "institution": "Norfolk State University",
+            "year_of_completion": "2010"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "Database Administration\",\n            \"Data Warehousing\",\n            \"Financial Reporting\",\n            \"Business Management\",\n            \"Program Management\",\n            \"Business Analysis\",\n            \"Web Development\",\n            \"Data Interchange (EDI)\",\n            \"Data Analysis\",\n            \"Report Design"
+        ],
+        "tools_and_software": [
+            "MS Access\",\n            \"Excel\",\n            \"Outlook\",\n            \"SharePoint\",\n            \"VPN\",\n            \"FaceTime\",\n            \"Adobe Acrobat\",\n            \"Windows 10"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

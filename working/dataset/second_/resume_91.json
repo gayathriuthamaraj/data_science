@@ -1,0 +1,54 @@
+{
+    "personal_information": {
+        "name": "Extracted Name",
+        "location": "Expanse"
+    },
+    "professional_summary": "Highly skilled Oracle Database Administrator with 8+ years of experience in managing and optimizing enterprise-level databases. Proficient in database design, performance tuning, backup/restore processes, and compliance management. Expertise in Oracle Cloud Infrastructure, automation scripting, and cross-platform database administration.",
+    "work_experience": [
+        {
+            "job_title": "Senior Oracle DBA",
+            "company": "XYZ Tech Solutions",
+            "location": "Expanse",
+            "dates": "2018 - Present",
+            "key_responsibilities": [
+                "Administering and managing Oracle databases across multiple cloud platforms.",
+                "Performing database performance tuning and optimization to enhance system efficiency.",
+                "Implementing and maintaining backup and recovery solutions for critical applications."
+            ]
+        },
+        {
+            "job_title": "Oracle DBA",
+            "company": "ABC Software Solutions",
+            "location": "Expanse",
+            "dates": "2015 - 2021",
+            "key_responsibilities": [
+                "Installing",
+                "configuring",
+                "and maintaining Oracle databases to meet business requirements.",
+                "Utilizing tools like SQL*Loader",
+                "Datapump for data migration and replication.",
+                "Performing regular database maintenance activities such as schema optimization and index management."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor's Degree",
+            "institution": "University of Technology",
+            "year_of_completion": "2014"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "Database Administration\",\n            \"Oracle Databases\",\n            \"Database Performance Tuning\",\n            \"Backup/Restore Processes\",\n            \"Compliance Management\",\n            \"Cloud Infrastructure\",\n            \"Automation Scripting\",\n            \"Cross-Platform Database Administration"
+        ],
+        "tools_and_software": [
+            "Oracle Enterprise Manager (OEM)\",\n            \"SQL*Plus\",\n            \"RMAN\",\n            \"Datapump\",\n            \"Log Miner\",\n            \"Statspack/AWR\",\n            \"Toad\",\n            \"Erwin\",\n            \"QDesigner\",\n            \"Remedy"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

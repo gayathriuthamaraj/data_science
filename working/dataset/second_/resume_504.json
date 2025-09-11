@@ -1,0 +1,67 @@
+{
+    "personal_information": {
+        "name": "John Doe",
+        "location": "Chicago, IL"
+    },
+    "professional_summary": "Cloud Architect with a Master's in Information Systems and Bachelor's in Computer Science. Experienced in cloud solutions, data analysis, database management, and software development.",
+    "work_experience": [
+        {
+            "job_title": "IT Database Consultant",
+            "company": "Evidence Exchange",
+            "location": "New York, NY",
+            "dates": "May 2011 - October 2012",
+            "key_responsibilities": [
+                "Upgraded Data Hosting Platform from version 6.10 to 7.4.",
+                "Developed custom SQL functions for client reports.",
+                "Maintained and created new reports using SQL."
+            ]
+        },
+        {
+            "job_title": "Data Analyst",
+            "company": "RVM Inc",
+            "location": "New York, NY",
+            "dates": "July 2010 - April 2011",
+            "key_responsibilities": [
+                "Defined best practices for data processing and filtering.",
+                "Analyzed data using SQL queries to meet case requirements.",
+                "Ensured data quality through validation and quality assurance."
+            ]
+        },
+        {
+            "job_title": "IT Database Administrator/Developer",
+            "company": "Evidence Exchange & ITT Systems",
+            "location": "New York, NY & Houston, TX\",\n            \"dates\": [\n                \"May 2009 - May 2011\",\n                \"January 2008 - April 2009\"\n            ],\n            \"key_responsibilities\": [\n                \"Upgraded and maintained SQL Server 2008.\",\n                \"Created users, permissions, and database objects.\",\n                \"Designed and migrated databases.\"\n            ]\n        },\n        {\n            \"job_title\": \"Cloud Solutions Architect\",\n            \"company\": \"Evalueserve\",\n            \"location\": \"Chicago, IL",
+            "dates": "August 2018 - Present",
+            "key_responsibilities": [
+                "Designed cloud solutions using AWS and Google Cloud platforms.",
+                "Provided architecture and deployment strategies for cloud applications.",
+                "Collaborated with cross-functional teams to deliver scalable solutions."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Science in Information Systems",
+            "institution": "Pace University",
+            "year_of_completion": "2010"
+        },
+        {
+            "degree": "Bachelor of Engineering in Computer Science",
+            "institution": "Osmania University",
+            "year_of_completion": "2007"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "Cloud Computing\",\n            \"SQL\",\n            \"Python\",\n            \"Hadoop\",\n            \"NoSQL\",\n            \"Kubernetes\",\n            \"Docker"
+        ],
+        "tools_and_software": [
+            "Ms Access\",\n            \"Linux\",\n            \"SharePoint\",\n            \"SSRS\",\n            \"HTML\",\n            \"XML"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

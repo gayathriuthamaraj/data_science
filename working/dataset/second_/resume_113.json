@@ -1,0 +1,68 @@
+{
+    "personal_information": {
+        "name": "Database Administrator",
+        "location": "San Antonio, TX"
+    },
+    "professional_summary": "Experienced Database Administrator with expertise in SQL Server Management, SQL queries, and report building. Proficient in network infrastructure management, Windows Server, and VOIP services. Skilled in C# programming and deployment of custom software applications with SQL backends. Project management experience with database solutions for AT&T U-Verse.",
+    "work_experience": [
+        {
+            "job_title": "Database Administrator",
+            "company": "Ultrafryer",
+            "location": "San Antonio, TX",
+            "dates": "June 2017 - Present",
+            "key_responsibilities": [
+                "Implemented and managed MS SQL Server 2016",
+                "including data migration from previous databases.",
+                "Developed and deployed SQL Server reports",
+                "stored procedures",
+                "and views.",
+                "Managed SQL Server 2008 R2 data for CRM upgrades."
+            ]
+        },
+        {
+            "job_title": "Content Operations Project Manager",
+            "company": "AT&T",
+            "location": "San Antonio, TX",
+            "dates": "June 2010 - August 2016",
+            "key_responsibilities": [
+                "Created VSDA system for channel creation on AT&T U-Verse.",
+                "Managed special event projects like the Masters Golf tournament.",
+                "Implemented sports scheduling via VSDA."
+            ]
+        },
+        {
+            "job_title": "IT Manager",
+            "company": "Aria Medical Equipment",
+            "location": "San Antonio, TX",
+            "dates": "August 2008 - September 2009",
+            "key_responsibilities": [
+                "Built and maintained Red Hat Servers",
+                "WinXP",
+                "Fedora",
+                "and VOIP systems.",
+                "Developed various tools in C++ and PHP."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Electrical Engineering",
+            "institution": "University of Texas San Antonio",
+            "year_of_completion": "2006"
+        },
+        {
+            "degree": "Mathematics and Physics",
+            "institution": "San Antonio College",
+            "year_of_completion": "2010"
+        }
+    ],
+    "skills": {
+        "technical_skills": [],
+        "tools_and_software": []
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

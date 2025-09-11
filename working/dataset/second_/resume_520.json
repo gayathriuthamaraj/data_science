@@ -1,0 +1,39 @@
+{
+    "personal_information": {
+        "name": "Cyber Security Analyst",
+        "location": "Beltsville, MD"
+    },
+    "professional_summary": "Experienced Cyber Security Analyst with expertise in Risk Management Framework (RMF), Security Life Cycle, and Systems Development Life Cycle (SDLC). Skilled in vulnerability management using FISMA and NIST standards. Proficient in Nessus, Wire shark, Nmap, Web Inspect, App Scan, Metasploit, and Oracle/MySQL Database Administration.",
+    "work_experience": [],
+    "education": [
+        {
+            "degree": "Bachelor's Degree",
+            "institution": "University for Development Studies",
+            "year_of_completion": "2023"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "Risk Management Framework (RMF)",
+            "Security Life Cycle",
+            "Systems Development Life Cycle (SDLC)",
+            "Vulnerability Management (FISMA, NIST)",
+            "SQL",
+            "Oracle Database Administration",
+            "Microsoft Office Suite"
+        ],
+        "tools_and_software": [
+            "Nessus",
+            "Wire shark",
+            "Nmap",
+            "Web Inspect",
+            "App Scan",
+            "Metasploit"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

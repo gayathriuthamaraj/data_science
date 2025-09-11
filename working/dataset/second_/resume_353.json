@@ -1,0 +1,104 @@
+{
+    "personal_information": {
+        "name": "Extracted Name",
+        "location": "Charlotte, NC; Hyderabad, India"
+    },
+    "professional_summary": "Experienced Oracle DBA with expertise in Oracle 10g, SQL Server, RMAN, ASM, and Oracle Grid Control. Proven track record across multiple financial institutions with responsibilities including installation, configuration, and administration of Oracle RAC environments, data warehousing, schema replication using Streams, and monitoring database performance.",
+    "work_experience": [
+        {
+            "job_title": "Senior Oracle DBA",
+            "company": "Bank of America",
+            "location": "Charlotte, NC",
+            "dates": "December 2009 - May 2011",
+            "key_responsibilities": [
+                "Installed and configured Oracle 10g RAC on Sun Solaris 10 in multiple environments (SIT",
+                "DIT",
+                "UAT",
+                "BDI",
+                "BSI",
+                "LT",
+                "PROD",
+                "PROD2) following Bank of America standards.",
+                "Administered ASM on RAC instances and applied CPU patches",
+                "Opatch",
+                "CRS patches",
+                "and interim patches.",
+                "Converted single-node Oracle 10g databases to two-node RAC using rconfig and resolved post-conversion errors."
+            ]
+        },
+        {
+            "job_title": "Oracle DBA",
+            "company": "JPMorgan Chase & Co.",
+            "location": "Charlotte, NC",
+            "dates": "June 2008 - November 2009",
+            "key_responsibilities": [
+                "Configured Oracle 10g Grid Control for SQL Server performance monitoring.",
+                "Assisted Spectrum and PLS development teams with database administration tasks.",
+                "Performed regular backups and recovery using export and import dumps."
+            ]
+        },
+        {
+            "job_title": "Database Administrator",
+            "company": "BNY Mellon",
+            "location": "Charlotte, NC",
+            "dates": "February 2007 - May 2008",
+            "key_responsibilities": [
+                "Configured Oracle 10g Grid Control and monitored database performance using AWR",
+                "ADDM",
+                "tkprof",
+                "and alert logs.",
+                "Planned and implemented schema-level Streams for data replication across multiple environments.",
+                "Resolved errors encountered during rconfig conversions."
+            ]
+        },
+        {
+            "job_title": "Oracle DBA",
+            "company": "Citibank",
+            "location": "Charlotte, NC",
+            "dates": "September 2005 - January 2007",
+            "key_responsibilities": [
+                "Installed and configured Oracle 10g RAC on Red Hat Linux.",
+                "Administered ASM on RAC instances and applied patch sets including Jan CPU10 and Oct CPU09.",
+                "Developed monitoring and maintenance scripts for replicated cluster databases using Oracle Grid Control."
+            ]
+        },
+        {
+            "job_title": "Database Administrator",
+            "company": "Morgan Stanley",
+            "location": "Charlotte, NC",
+            "dates": "January 2004 - August 2005",
+            "key_responsibilities": [
+                "Configured Oracle 10g with RMAN for backup and recovery solutions.",
+                "Administered multiple databases across various environments using PL/SQL and SQL Server.",
+                "Performed database optimization tasks to improve query performance."
+            ]
+        },
+        {
+            "job_title": "Oracle DBA",
+            "company": "State Street Corporation",
+            "location": "Hyderabad, India",
+            "dates": "June 2002 - December 2003",
+            "key_responsibilities": [
+                "Configured and administered Oracle 10g databases in high-traffic environments.",
+                "Assisted application development teams with database schema design and optimization.",
+                "Performed regular maintenance tasks including user management",
+                "grant permissions",
+                "and backup strategies."
+            ]
+        }
+    ],
+    "education": [],
+    "skills": {
+        "technical_skills": [
+            "Oracle DBA\",\n            \"Oracle 10g Administration\",\n            \"SQL Server Administration\",\n            \"RMAN for Backup & Recovery\",\n            \"ASM Administration\",\n            \"Oracle Grid Control\",\n            \"PL/SQL\",\n            \"Database Optimization\",\n            \"DBA Monitoring"
+        ],
+        "tools_and_software": [
+            "BMC Remedy\",\n            \"TOAD\",\n            \"Solaris 10\",\n            \"Red Hat Linux\",\n            \"Patch Management (CPU, Opatch, CRS)\",\n            \"Query Performance Tuning"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

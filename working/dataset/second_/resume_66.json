@@ -1,0 +1,66 @@
+{
+    "personal_information": {
+        "name": "Senior Database Administrator",
+        "location": "Edison, NJ"
+    },
+    "professional_summary": "Experienced Senior Database Administrator with expertise in DB2 UDB, Oracle, and various database management tools. Proven track record in database administration, migration, performance tuning, and high-availability cluster configuration.",
+    "work_experience": [
+        {
+            "job_title": "Senior Database Administrator",
+            "company": "AppLab Systems Inc.",
+            "location": "Edison, NJ",
+            "dates": "October 2015 - Present",
+            "key_responsibilities": [
+                "Installation and configuration of DB2 environments",
+                "Upgrading and migrating databases from v9.x to v10.1",
+                "Designing and configuring HADR-TSA/HADR-VCS clusters",
+                "Applying db2 patches with zero down-time maintenance",
+                "Setting up Q-Replication for data synchronization",
+                "Managing tablespaces",
+                "indexes",
+                "and triggers",
+                "Performance tuning and optimization of database systems",
+                "Monitoring and maintaining high-availability environments",
+                "Ensuring security compliance and disaster recovery planning",
+                "Creating/maintaining DB2 UDB instances on AIX and Linux platforms",
+                "Implementing data compression techniques to reduce storage costs"
+            ]
+        },
+        {
+            "job_title": "Senior Database Administrator",
+            "company": "Infinite Computer Solutions",
+            "location": "Edison, NJ",
+            "dates": "July 2013 - October 2014",
+            "key_responsibilities": [
+                "Stabilizing and optimizing database environments post-migration",
+                "Upgrading databases to v9.7 fp7 and higher versions",
+                "Configuring HADR and HACMP for high-availability solutions",
+                "Implementing IBM OPM tool for proactive monitoring",
+                "Fine-tuning SQL queries for performance optimization",
+                "Loading large-scale data using efficient methods",
+                "Developing comprehensive backup and recovery strategies",
+                "Granting and revoking database user privileges",
+                "Capturing and analyzing database explain plans",
+                "Managing system and object level roles for security",
+                "Conducting regular health checks and performance assessments",
+                "Assisting application development teams during database integration",
+                "Coordinating with data modelers for schema optimization",
+                "Maintaining detailed documentation of all database configurations"
+            ]
+        }
+    ],
+    "education": [],
+    "skills": {
+        "technical_skills": [
+            "DB2 UDB Administration\",\n      \"Oracle Database Management\",\n      \"AIX and Linux System Administration\",\n      \"Database Migration and Upgradation\",\n      \"Performance Tuning and Optimization\",\n      \"High-Availability Cluster Configuration\",\n      \"Security Compliance and Auditing\",\n      \"Disaster Recovery Planning"
+        ],
+        "tools_and_software": [
+            "Manage Now\",\n      \"Maximo\",\n      \"Remedy Tool\",\n      \"IBM OPM\",\n      \"db2patch\",\n      \"Q-Replication"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

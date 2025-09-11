@@ -1,0 +1,65 @@
+{
+    "personal_information": {
+        "name": "Extracted Name",
+        "location": "Extracted Location"
+    },
+    "professional_summary": "Experienced Database Administrator with expertise in MS SQL Server, database design, performance tuning, and disaster recovery. Proficient in ETL tools, reporting services, and cloud platforms like Microsoft Azure and AWS.",
+    "work_experience": [
+        {
+            "job_title": "SQL Database Administrator",
+            "company": "Cisco Systems",
+            "location": "Lagos, NG",
+            "dates": "March 2010 - September 2013",
+            "key_responsibilities": [
+                "Designed backup and recovery strategies for SQL Server databases to meet SLA requirements.",
+                "Managed and maintained production Microsoft SQL Server 2008R2 environments.",
+                "Recommended and implemented best practices for SQL architecture.",
+                "Conducted database optimization and resource allocation for optimum performance."
+            ]
+        },
+        {
+            "job_title": "SQL Database Administrator",
+            "company": "Cisco Systems",
+            "location": "Lagos, NG",
+            "dates": "March 2010 - September 2013",
+            "key_responsibilities": [
+                "Designed backup and recovery strategies for SQL Server databases to meet SLA requirements.",
+                "Managed and maintained production Microsoft SQL Server 2008R2 environments.",
+                "Recommended and implemented best practices for SQL architecture.",
+                "Conducted database optimization and resource allocation for optimum performance."
+            ]
+        },
+        {
+            "job_title": "SQL Database Administrator",
+            "company": "Cisco Systems",
+            "location": "Lagos, NG",
+            "dates": "March 2010 - September 2013",
+            "key_responsibilities": [
+                "Designed backup and recovery strategies for SQL Server databases to meet SLA requirements.",
+                "Managed and maintained production Microsoft SQL Server 2008R2 environments.",
+                "Recommended and implemented best practices for SQL architecture.",
+                "Conducted database optimization and resource allocation for optimum performance."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science in Economics",
+            "institution": "University of Uyo",
+            "year_of_completion": "2012"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "Database Administration\",\n            \"SQL Server Management\",\n            \"Database Design\",\n            \"ETL Tools\",\n            \"Disaster Recovery\",\n            \"Performance Tuning\",\n            \"Security Policies\",\n            \"System Analysis\",\n            \"Problem Solving"
+        ],
+        "tools_and_software": [
+            "Microsoft SQL Server\",\n            \"SQL Profiler\",\n            \"System Monitor\",\n            \"Performance Monitor\",\n            \"Database Tuning Advisor\",\n            \"Index Tuning Wizard\",\n            \"Idera SQL Diagnostic Manager\",\n            \"SSMA\",\n            \"SSIS\",\n            \"Visual Studio\",\n            \"AWS\",\n            \"Microsoft Azure Cloud"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

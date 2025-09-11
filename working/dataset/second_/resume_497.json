@@ -1,0 +1,77 @@
+{
+    "personal_information": {
+        "name": "Database Administrator",
+        "location": "Chesterfield, VA"
+    },
+    "professional_summary": "Over 15 years of document control/management experience. USAF Veteran with expertise in handling highly sensitive government documents and nuclear construction documentation.",
+    "work_experience": [
+        {
+            "job_title": "Database Administrator",
+            "company": "BCP Engineers & Consultants",
+            "location": "Waynesboro, GA",
+            "dates": "October 2014 - June 2016",
+            "key_responsibilities": [
+                "Develop and maintain department's collaborative workspace and manage SharePoint and Quickbase sites.",
+                "Manage electronic filing and submission of QA records into Documentum.",
+                "Coordinate department workflow and deadlines to ensure items stay on schedule.",
+                "Prepare presentations for Manager or department personnel.",
+                "Assist with department reporting and metrics; collect data",
+                "create spreadsheets",
+                "etc."
+            ]
+        },
+        {
+            "job_title": "Project Information Specialist II/Document Control",
+            "company": "URS Corporation",
+            "location": "Aiken, SC",
+            "dates": "July 2011 - April 2014",
+            "key_responsibilities": [
+                "Perform data entry and maintain and organize project and engineering information into eRoom database system and IDDEAL Data Management.",
+                "Support nuclear outage by maintaining personnel certifications and produce NDT method reports.",
+                "Identify and extract reports and perform queries from eRoom database system.",
+                "Oversee internal and external document review process.",
+                "Maintain proper information configuration management in support of engineering and construction."
+            ]
+        },
+        {
+            "job_title": "Document Control Administrator",
+            "company": "Progress Energy Florida",
+            "location": "Crystal River, FL",
+            "dates": "April 2009 - November 2010",
+            "key_responsibilities": [
+                "Involved in analysis for business decisions.",
+                "Handled records for auditors.",
+                "Liaised between finance and staff."
+            ]
+        },
+        {
+            "job_title": "Document Control Administrator",
+            "company": "Midrex Technologies",
+            "location": "Charlotte, NC",
+            "dates": "May 2005 - October 2008",
+            "key_responsibilities": [
+                "Supervised projects and controlled documents according to procedures.",
+                "Handled transmittal of documents."
+            ]
+        },
+        {
+            "job_title": "Document Control Technician-Contractor",
+            "company": "Duke Energy Corporation",
+            "location": "Charlotte, NC",
+            "dates": "February 2005 - May 2005\"\n        },\n        {\n            \"job_title\": \"EDMS Support Technician\",\n            \"company\": \"MOX Services\",\n            \"location\": \"Charlotte, NC\",\n            \"dates\": \"November 1999 - July 2003",
+            "key_responsibilities": [
+                "Supported MOX Fuel Project."
+            ]
+        }
+    ],
+    "education": [],
+    "skills": {
+        "technical_skills": [],
+        "tools_and_software": []
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

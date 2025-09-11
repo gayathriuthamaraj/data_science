@@ -1,0 +1,75 @@
+{
+    "personal_information": {
+        "name": "Extracted Name",
+        "location": "Memphis, TN"
+    },
+    "professional_summary": "Experienced Oracle Database Administrator with extensive expertise in database management, migrations, and optimization. Proficient in using RMAN, Data Pump, SQL*Plus, and various tools for database administration and troubleshooting.",
+    "work_experience": [
+        {
+            "job_title": "Oracle Database Administrator",
+            "company": "AutoZone - Memphis, TN",
+            "location": "Memphis, TN",
+            "dates": "March 2013 - April 2014",
+            "key_responsibilities": [
+                "Installed Oracle 11.2.0.4 on Linux VMware servers",
+                "Migrated databases from 9i/10g to 11gR2 RAC",
+                "Implemented logical and physical standby databases using Data Guard"
+            ]
+        },
+        {
+            "job_title": "Oracle Database Administrator",
+            "company": "Oracle Database Administrator AutoZone",
+            "location": "Memphis, TN",
+            "dates": "June 2011 - March 2013",
+            "key_responsibilities": [
+                "Migrated databases from 9i/10g to 11gR2 RAC",
+                "Implemented Data Guard for a 4-node RAC on Sun Solaris",
+                "Scheduled physical backups using CRON with RMAN"
+            ]
+        },
+        {
+            "job_title": "Oracle Database Administrator",
+            "company": "Oracle Grid",
+            "location": "Brussels, Belgium",
+            "dates": "August 2008 - March 2013",
+            "key_responsibilities": [
+                "Performed database administration and data migration",
+                "Implemented recovery strategies using RMAN and Data Pump",
+                "Optimized SQL queries with Explain Plan",
+                "Maintained database security and integrity"
+            ]
+        },
+        {
+            "job_title": "Oracle Database Administrator",
+            "company": "Oracle America",
+            "location": "Redwood City, CA",
+            "dates": "July 2006 - July 2008",
+            "key_responsibilities": [
+                "Developed Oracle solutions for various applications",
+                "Migrated databases using RMAN and Data Pump",
+                "Supported application development teams with database tools"
+            ]
+        },
+        {
+            "job_title": "Oracle Database Administrator",
+            "company": "Oracle Solutions",
+            "location": "Brussels, Belgium",
+            "dates": "May 2004 - July 2006",
+            "key_responsibilities": [
+                "Managed a 24x7 Oracle database environment",
+                "Implemented high-availability solutions with Data Guard",
+                "Optimized database performance and regulatory compliance"
+            ]
+        }
+    ],
+    "education": [],
+    "skills": {
+        "technical_skills": [],
+        "tools_and_software": []
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

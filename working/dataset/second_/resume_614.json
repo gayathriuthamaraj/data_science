@@ -1,0 +1,62 @@
+{
+    "personal_information": {
+        "name": "Database Administrator",
+        "location": "Broken Arrow, OK"
+    },
+    "professional_summary": "IT professional with several years of experience in database administration and management. Skilled in performance tuning, high availability, disaster recovery, and large-scale enterprise solutions. Prior experience includes customer service, cash handling, and general office tasks. Seeking a fulfilling employment opportunity as a long-term team member.",
+    "work_experience": [
+        {
+            "job_title": "Database Administrator",
+            "company": "HireRight",
+            "location": "Tulsa, OK",
+            "dates": "June 2008 - December 2011",
+            "key_responsibilities": [
+                "Worked extensively with large-scale enterprise solutions including VLDB environments.",
+                "Demonstrated skill in performance tuning and optimization using Clustering",
+                "SAN",
+                "VMWare",
+                "and data replication techniques.",
+                "Supported a complex strategy for automatically refreshing stage environments using custom log shipping and SAN snapshots from replicated production servers."
+            ]
+        },
+        {
+            "job_title": "Database Administrator (Internship)",
+            "company": "TV Guide",
+            "location": "Tulsa, OK",
+            "dates": "February 2008 - June 2008",
+            "key_responsibilities": [
+                "Installed and configured SQL Server 2000 and 2005.",
+                "Performed standard SQL Server configuration activities including transfer logins",
+                "restore databases",
+                "setup Full Text Search",
+                "nightly maintenance",
+                "linked servers",
+                "jobs",
+                "permissions",
+                "and notifications.",
+                "Worked extensively on the rollout of SQL Server 2005 for core Online server complexes in a 7x24 environment."
+            ]
+        },
+        {
+            "job_title": "Branch Sales Associate",
+            "company": "International Bank of Commerce",
+            "location": "Tulsa, OK",
+            "dates": "October 2005 - February 2008",
+            "key_responsibilities": [
+                "Sold financial services products and achieved high sales targets.",
+                "Supervised vault activities and managed cash transactions.",
+                "Overseered teller operations and ensured compliance with banking regulations."
+            ]
+        }
+    ],
+    "education": [],
+    "skills": {
+        "technical_skills": [],
+        "tools_and_software": []
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

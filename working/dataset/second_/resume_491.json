@@ -1,0 +1,40 @@
+{
+    "personal_information": {
+        "name": "Jr. Database Administrator",
+        "location": "Edison, NJ"
+    },
+    "professional_summary": "Experienced Oracle DBA with 2 years of expertise in database management, including tasks such as installation, configuration, and optimization.",
+    "work_experience": [],
+    "education": [
+        {
+            "degree": "Master of Science in Computer and Information Sciences",
+            "institution": "Kent State University",
+            "year_of_completion": "December 2016"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "Oracle",
+            "PL/SQL",
+            "SQL",
+            "UNIX",
+            "RMAN"
+        ],
+        "tools_and_software": [
+            "Export/Import",
+            "expdp/impdp",
+            "RMAN",
+            "Oracle Enterprise Manager",
+            "Real Applications Cluster (RAC)",
+            "ASM",
+            "TKPROF",
+            "DBCA",
+            "Tableau"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

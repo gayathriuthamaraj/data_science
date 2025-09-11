@@ -1,0 +1,55 @@
+{
+    "personal_information": {
+        "name": "Extracted Name",
+        "location": "Fort Worth, TX"
+    },
+    "professional_summary": "Experienced SQL Database Administrator with expertise in performance tuning, backup/recovery strategies, and high-availability environments. Skilled in administering MS SQL Server databases across production and non-production environments, with a focus on security management and capacity planning.",
+    "work_experience": [
+        {
+            "job_title": "SQL Database Administrator",
+            "company": "NCR - Fort Worth, TX",
+            "location": "Fort Worth, TX",
+            "dates": "2012 - 2013",
+            "key_responsibilities": [
+                "Administering MS SQL Server databases in an enterprise production environment.",
+                "Performing database performance tuning and query optimization.",
+                "Implementing backup and recovery strategies."
+            ]
+        },
+        {
+            "job_title": "SQL Database Administrator",
+            "company": "Secure IP Telecom - Dallas, TX",
+            "location": "Dallas, TX",
+            "dates": "2009 - 2012",
+            "key_responsibilities": [
+                "Administering SQL Server databases in production",
+                "pre-production",
+                "and non-production environments.",
+                "Creating maintenance plans",
+                "linked servers",
+                "and operators.",
+                "Monitoring and analyzing database performance."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Database Administration",
+            "institution": "University of Texas at Arlington",
+            "year_of_completion": "201X"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "Database Administration\",\n            \"Performance Tuning\",\n            \"Query Optimization\",\n            \"Backup/Recovery Strategies\",\n            \"High-Availability Environments\",\n            \"Security Management\",\n            \"Capacity Planning\",\n            \"Disaster Recovery Planning\",\n            \"Implementation of Snapshot and Transactional Replications"
+        ],
+        "tools_and_software": [
+            "SQL Server Management Studio\",\n            \"Vision App\",\n            \"SQL LiteSpeed\",\n            \"Quest Spotlight\",\n            \"RedGate\",\n            \"Windows 2000 Advanced Server\",\n            \"Windows NT\",\n            \"Windows XP\",\n            \"Windows Server 2003/2008"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

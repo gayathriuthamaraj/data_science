@@ -1,0 +1,41 @@
+{
+    "personal_information": {
+        "name": "Database Administrator",
+        "location": "Chesapeake Bay Program Office, Columbia, MD"
+    },
+    "professional_summary": "Experienced Database Administrator with expertise in MS SQL Server, ETL, and data-driven technical solutions. Proficient in SCRUM and Kanban methodologies, with a focus on database administration, performance monitoring, and optimization.",
+    "work_experience": [
+        {
+            "job_title": "Database Administrator",
+            "company": "Chesapeake Bay Program Office",
+            "location": "Columbia, MD",
+            "dates": "2015 - Present",
+            "key_responsibilities": [
+                "Developing ETL tools for large data loads.",
+                "Implementing DBA maintenance plans and scheduled task scripts.",
+                "Migrating databases from SQL 2008R2 to SQL 2014.",
+                "Documenting MS SQL Server database designs",
+                "implementations",
+                "and configurations.",
+                "Reviewing and deploying SSIS packages with large datasets.",
+                "Creating database design and development standards.",
+                "Designing and creating workflow diagrams for business processes.",
+                "Generating multiple Database Dictionaries and Entity Relationship Diagrams using Navicat."
+            ]
+        }
+    ],
+    "education": [],
+    "skills": {
+        "technical_skills": [
+            "DATABASE\",\n            \"ETL\",\n            \"EXTRACT, TRANSFORM, AND LOAD\",\n            \"MS SQL SERVER\",\n            \"SQL\",\n            \"SCRUM and Kanban methodologies"
+        ],
+        "tools_and_software": [
+            "SSIS/DTS\",\n            \"BCP\",\n            \"SSRS\",\n            \"Microsoft SQL Server certifications (2008, 2012, 2014)"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "personal_information": {
+        "name": "Extracted Name",
+        "location": "Extracted Location"
+    },
+    "professional_summary": "Experienced Oracle and SQL Server Database Administrator with expertise in RMAN, disaster recovery, and performance tuning. Career goal includes advancing into senior or principal DBA roles.",
+    "work_experience": [
+        {
+            "job_title": "Jr. Oracle Database Administrator",
+            "company": "Verizon LLC",
+            "location": "Baltimore, MD",
+            "dates": "September 2017 - August 2018",
+            "key_responsibilities": [
+                "User Management",
+                "Space Management",
+                "SQL Tuning",
+                "RMAN Backup & Recovery"
+            ]
+        },
+        {
+            "job_title": "Oracle Database Administrator Intern",
+            "company": "NBC BANK",
+            "location": "Bamenda, Cameroon",
+            "dates": "September 2015 - July 2017",
+            "key_responsibilities": [
+                "Database Support",
+                "Export/Import Schemas",
+                "Database Structure Management",
+                "Security Maintenance",
+                "Capacity Planning"
+            ]
+        }
+    ],
+    "education": [],
+    "skills": {
+        "technical_skills": [],
+        "tools_and_software": []
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

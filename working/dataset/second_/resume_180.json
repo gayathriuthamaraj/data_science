@@ -1,0 +1,28 @@
+{
+    "personal_information": {
+        "name": "Extracted Name",
+        "location": "Bangalore, Karnataka, India"
+    },
+    "professional_summary": "2+ years of experience in Oracle Golden Gate, proficient in programming languages and tools, with a focus on problem-solving and adaptability.",
+    "work_experience": [],
+    "education": [],
+    "skills": {
+        "technical_skills": [
+            "Oracle",
+            "SQL",
+            "PL/SQL",
+            "Perl",
+            "Python basics"
+        ],
+        "tools_and_software": [
+            "Remedy Ticketing Tool",
+            "Windows XP/8/10",
+            "UNIX"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

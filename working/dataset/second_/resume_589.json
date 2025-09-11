@@ -1,0 +1,89 @@
+{
+    "personal_information": {
+        "name": "Help Desk Administrator",
+        "location": "Sunrise, FL"
+    },
+    "professional_summary": "Seeking a position as a Network/Systems Administrator with a technological progressive company. Offers a unique combination of creative and technical talents, excelling in leadership roles.",
+    "work_experience": [
+        {
+            "job_title": "Help Desk Administrator",
+            "company": "Wicker, Smith, O'Hara, Et Al",
+            "location": "Miami, FL",
+            "dates": "2009 - 2012",
+            "key_responsibilities": [
+                "Acted as second-level support for Help Desk functions.",
+                "Handled problem escalation and resolution processes.",
+                "Provided technical support to network systems including servers",
+                "laptops",
+                "desktops",
+                "routers",
+                "switches",
+                "printers",
+                "scanners",
+                "copiers",
+                "fax machines",
+                "and BlackBerry devices.",
+                "Responded to telephone calls",
+                "emails",
+                "and personnel requests for technical support."
+            ]
+        },
+        {
+            "job_title": "IT Administrator",
+            "company": "Micro Pneumatic Logic Inc",
+            "location": "Pompano Beach, FL",
+            "dates": "2007 - 2009",
+            "key_responsibilities": [
+                "Configured and deployed Active Directory.",
+                "Administered LAN",
+                "WAN",
+                "and remote networks.",
+                "Managed land and mobile phone communications.",
+                "Installed and configured hardware and software.",
+                "Monitored and backed up SQL databases.",
+                "Performed system upgrades and deployment of patches.",
+                "Troubleshoot network outages and provided solutions."
+            ]
+        },
+        {
+            "job_title": "Database/System Administrator",
+            "company": "Beacon Industries",
+            "location": "Pompano Beach, FL",
+            "dates": "2006 - 2007",
+            "key_responsibilities": [
+                "Developed and maintained Transact-SQL scripts.",
+                "Utilized DTS packages and stored procedures.",
+                "Executed data queries with Crystal Reports",
+                "MS Access",
+                "and Excel.",
+                "Redesigned web pages using ColdFusion.",
+                "Handled all technical-related items."
+            ]
+        },
+        {
+            "job_title": "Academic Program Director",
+            "company": "Florida Metropolitan University",
+            "location": "Pompano Beach, FL",
+            "dates": "2004 - 2006",
+            "key_responsibilities": [
+                "Instructed computer courses.",
+                "Hired and evaluated instructors.",
+                "Created academic schedules."
+            ]
+        }
+    ],
+    "education": [],
+    "skills": {
+        "technical_skills": [
+            "Tech Support\",\n            \"Help Desk\",\n            \"Desktop Support\",\n            \"Active Directory\",\n            \"Service Desk Assessments\",\n            \"Customer Focus\",\n            \"Orientation"
+        ],
+        "tools_and_software": [
+            "Microsoft Tools\",\n            \"Citrix\",\n            \"BlackBerry\",\n            \"Symantec\",\n            \"Trend Micro\",\n            \"HP\",\n            \"Cisco"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

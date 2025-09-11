@@ -1,0 +1,86 @@
+{
+    "personal_information": {
+        "name": "Kruneet Patel",
+        "location": "Chicago, IL"
+    },
+    "professional_summary": "Systems Engineer/Database Administrator with expertise in database management, application development, and integration of various technologies to deliver scalable and efficient solutions.",
+    "work_experience": [
+        {
+            "job_title": "Systems Engineer/Database Administrator",
+            "company": "Infosys - Pune, Maharashtra",
+            "location": "Pune, India",
+            "dates": "June 2015 - May 2017",
+            "key_responsibilities": [
+                "Developed and implemented SQL queries to resolve data discrepancies for the Union Bank of Switzerland project.",
+                "Assisted in mass data changes using SQL to optimize business operations.",
+                "Designed",
+                "developed",
+                "and tested commercial applications using C#",
+                "VB.NET",
+                "ASP.NET",
+                "ADO.NET",
+                "SOAP",
+                "Web Services",
+                "WCF Services",
+                "UML",
+                "and SQL Server 2000/2005/2008."
+            ]
+        },
+        {
+            "job_title": "Software Engineer Intern",
+            "company": "Reliance Industries Limited",
+            "location": "Mumbai, India",
+            "dates": "June 2014 - July 2014",
+            "key_responsibilities": [
+                "Designed a 'Library Management Portal' using HTML",
+                "JavaScript",
+                "and SQL to manage inventory",
+                "issues",
+                "and returns.",
+                "Developed stored procedures using SQL Server 2000.",
+                "Coded web forms using ASP.NET",
+                "C#",
+                "and JavaScript."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Science in Computer Science",
+            "institution": "University of Illinois at Chicago",
+            "year_of_completion": "2019"
+        },
+        {
+            "degree": "Bachelor of Technology in Computer Engineering",
+            "institution": "Sardar Vallabhbhai National Institute of Technology",
+            "year_of_completion": "2015"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            ".NET",
+            "C#",
+            "Docker",
+            "Git",
+            "Hadoop\", \n            \"SQL",
+            "Python",
+            "Java",
+            "R",
+            "TensorFlow"
+        ],
+        "tools_and_software": [
+            "Toad",
+            "Citrix",
+            "Git",
+            "Selenium\",\n            \"Jenkins",
+            "SonarQube",
+            "AWS",
+            "Azure"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

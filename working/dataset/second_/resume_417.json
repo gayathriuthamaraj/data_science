@@ -1,0 +1,68 @@
+{
+    "personal_information": {
+        "name": "Database Administrator",
+        "location": "Woodbridge, VA"
+    },
+    "professional_summary": "Expert in MS SQL Server administration, database migration, high availability solutions, and disaster recovery mechanisms with extensive experience in database security and customer support.",
+    "work_experience": [
+        {
+            "job_title": "Database Administrator",
+            "company": "Adilas Tech LLC",
+            "location": "Woodbridge, VA",
+            "dates": "February 2017 - Present",
+            "key_responsibilities": [
+                "Configuring SQL Server Agent-Events",
+                "Jobs",
+                "Alerts",
+                "Administering large databases across SQL Server versions (2000",
+                "2005",
+                "2008",
+                "2008 R2",
+                "2012",
+                "2014",
+                "2016)",
+                "Automating routine DBA tasks like backups",
+                "restores",
+                "integrity checks",
+                "configuring DB Mail",
+                "and assigning roles/permissions",
+                "Configuring SQL Server in Azure",
+                "managing SQL databases and virtual machines",
+                "Creating and managing databases",
+                "schema objects (tables",
+                "views",
+                "indexes)",
+                "Configuring SQL Server Agent-Events",
+                "Jobs",
+                "Alerts",
+                "maintenance plans",
+                "Database Mail",
+                "and Operators",
+                "Managing High Availability solutions (Database Mirroring",
+                "Log Shipping)",
+                "Implementing SQL Server Security",
+                "object permissions",
+                "user creation",
+                "role assignments",
+                "and authentication modes",
+                "Setting up backup and recovery plans with proper documentation for data security",
+                "Creating and managing databases across Development and Production instances using SQL Management Studio",
+                "Setting up Database Mirroring in SQL Server 2012",
+                "Monitoring and managing databases in mirroring configurations",
+                "Migrating SQL Server 2008/2012 to 2014/2016",
+                "Rebuilding and reorganizing indexes",
+                "Providing customer support and assistance"
+            ]
+        }
+    ],
+    "education": [],
+    "skills": {
+        "technical_skills": [],
+        "tools_and_software": []
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

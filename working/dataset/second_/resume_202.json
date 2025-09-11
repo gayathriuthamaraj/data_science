@@ -1,0 +1,66 @@
+{
+    "personal_information": {
+        "name": "John Doe",
+        "location": "Geneva, IL"
+    },
+    "professional_summary": "No summary provided.",
+    "work_experience": [
+        {
+            "job_title": "Corporate Buying Data Assistant",
+            "company": "ALDI",
+            "location": "Batavia, IL",
+            "dates": "July 2018 - Present",
+            "key_responsibilities": [
+                "Compile weekly data from divisions into an overall company workbook with pricing trends and comparisons.",
+                "Maintain a competitive price model for the dairy buyers. Run reports weekly to stay ahead of the competition.",
+                "Complete ad-hoc requests for various buying departments."
+            ]
+        },
+        {
+            "job_title": "Database Administrator Intern",
+            "company": "United Cerebral Palsy Seguin of Greater Chicago",
+            "location": "Cicero, IL",
+            "dates": "August 2017 - December 2017",
+            "key_responsibilities": [
+                "Designed and implemented a new database in Microsoft Access for the Children's Foster Care Department.",
+                "Met with employees to understand business processes",
+                "designed an Entity Relationship Diagram",
+                "and created related tables in Access.",
+                "Presented a functional database enabling multi-user access."
+            ]
+        },
+        {
+            "job_title": "Sales Intern",
+            "company": "SmartWitness",
+            "location": "Schaumburg, IL",
+            "dates": "June 2017 - August 2017",
+            "key_responsibilities": [
+                "Learned extensive information on security cameras for commercial vehicles and their liabilities.",
+                "Contacted potential clients to educate them on the benefits of security camera installation.",
+                "Scheduled demonstrations to target individual client needs."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science in Information & Decision Sciences",
+            "institution": "University of Illinois at Chicago",
+            "year_of_completion": "2017"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "Microsoft Office",
+            "SQL",
+            "VBA"
+        ],
+        "tools_and_software": [
+            "Microsoft Office"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

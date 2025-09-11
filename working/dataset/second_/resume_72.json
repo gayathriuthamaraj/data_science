@@ -1,0 +1,66 @@
+{
+    "personal_information": {
+        "name": "J.Salle",
+        "location": "Buea"
+    },
+    "professional_summary": "Experienced Oracle Database Administrator with expertise in DevOps and high-availability solutions, skilled in database management, query tuning, and backup strategies.",
+    "work_experience": [
+        {
+            "job_title": "Database Administrator/DevOps Engineer",
+            "company": "XYZ Tech Solutions",
+            "location": "Buea",
+            "dates": "2017-04-01 - 2020-03-01",
+            "key_responsibilities": [
+                "Administered Oracle databases and implemented DevOps practices.",
+                "Monitored and tuned long-running jobs using AWR and SQL Trace.",
+                "Implemented backup strategies with RMAN and data pump utilities."
+            ]
+        },
+        {
+            "job_title": "Oracle Database Administrator",
+            "company": "ABC Software Solutions",
+            "location": "Buea",
+            "dates": "2014-03-01 - 2016-02-01",
+            "key_responsibilities": [
+                "Implemented transportable tablespaces and data refreshes.",
+                "Applied security patches and high-availability setups with ASM and RAC.",
+                "Administered Oracle databases using TOAD and SQL Trace."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor's",
+            "institution": "University of Buea",
+            "year_of_completion": "2013"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "Oracle",
+            "SQL",
+            "AIX",
+            "Linux",
+            "Red Hat",
+            "Solaris",
+            "Sun",
+            "Unix",
+            "Rman",
+            "Swift",
+            "OEM"
+        ],
+        "tools_and_software": [
+            "TOAD",
+            "AWR",
+            "RMAN",
+            "Data pump",
+            "SQL Trace",
+            "OEM Grid Control"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

@@ -1,0 +1,101 @@
+{
+    "personal_information": {
+        "name": "Background Verification Specialist",
+        "location": "Indianapolis, IN"
+    },
+    "professional_summary": "Detail-oriented professional with years of experience in background verification and recruitment, authorized to work in the US for any employer.",
+    "work_experience": [
+        {
+            "job_title": "Background Verification Specialist",
+            "company": "Indiana State Personnel Department",
+            "location": "Indianapolis, IN",
+            "dates": "December 2018 - May 2019",
+            "key_responsibilities": [
+                "Handled applicant files and verified employment and education details for applicants.",
+                "Contacted professional references and initiated background investigations using Barada software.",
+                "Utilized Peoplesoft take access applications and collaborated with state agencies."
+            ]
+        },
+        {
+            "job_title": "Recruiter",
+            "company": "Express Employment Professionals",
+            "location": "Indianapolis, IN",
+            "dates": "August 2018 - October 2018",
+            "key_responsibilities": [
+                "Developed partnerships with hiring managers and recruitment sources.",
+                "Posted job openings",
+                "reviewed resumes",
+                "and conducted interviews.",
+                "Screened candidates and assigned employees to roles.",
+                "Maintained positive relationships with applicants and clients."
+            ]
+        },
+        {
+            "job_title": "Human Resources Assistant/Receptionist",
+            "company": "Data Recognition Corporation",
+            "location": "Indianapolis, IN",
+            "dates": "April 2018 - July 2018",
+            "key_responsibilities": [
+                "Maintained employee records and participated in recruiting events.",
+                "Updated HR databases and assisted with payroll processing.",
+                "Prepared documentation for policy implementations and orientations."
+            ]
+        },
+        {
+            "job_title": "General Cleaner",
+            "company": "Kimco Facility Services",
+            "location": "Indianapolis, IN",
+            "dates": "July 2017 - March 2018",
+            "key_responsibilities": [
+                "Maintained facilities and used cleaning materials to remove waste.",
+                "Managed chemical inventory and utilized LIMS database systems."
+            ]
+        },
+        {
+            "job_title": "LIMS Database Administrator",
+            "company": "Sure-tech Laboratories",
+            "location": "Indianapolis, IN",
+            "dates": "May 2016 - May 2017",
+            "key_responsibilities": [
+                "Inspected samples and identified missing information in databases.",
+                "Entered data into LIMS systems and ensured accuracy of reports."
+            ]
+        },
+        {
+            "job_title": "Inside Sales Support",
+            "company": "Fastenal Company",
+            "location": "Indianapolis, IN",
+            "dates": "September 2014 - May 2016",
+            "key_responsibilities": [
+                "Managed customer database and processed purchase orders.",
+                "Delivered supplies and maintained company vehicles and store locations."
+            ]
+        },
+        {
+            "job_title": "Certified Front Desk Receptionist",
+            "company": "Fastenal Company",
+            "location": "Indianapolis, IN",
+            "dates": "2014 - Present",
+            "key_responsibilities": [
+                "Processed purchase orders and maintained company vehicles.",
+                "Operated forklifts and managed store locations."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Liberal Studies in Healthcare Administration",
+            "institution": "Indiana University",
+            "year_of_completion": "2021"
+        }
+    ],
+    "skills": {
+        "technical_skills": [],
+        "tools_and_software": []
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

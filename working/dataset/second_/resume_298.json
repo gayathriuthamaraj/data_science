@@ -1,0 +1,59 @@
+{
+    "personal_information": {
+        "name": "Extracted Name",
+        "location": "Los Angeles, CA"
+    },
+    "professional_summary": "Database Administrator with expertise in managing client data, ensuring system accuracy, generating reports, and coordinating inter-departmental communications.",
+    "work_experience": [
+        {
+            "job_title": "Database Administrator",
+            "company": "The Midnight Mission - Los Angeles, CA",
+            "location": "Los Angeles, CA",
+            "dates": "April 2017 - Present",
+            "key_responsibilities": [
+                "Manage client data and ensure accuracy between multiple systems.",
+                "Generate daily status reports and review compliance reports for government contracts.",
+                "Create dashboards for submission to the board and coordinate communications between departments.",
+                "Write policies and procedures for data processes and assist with clerical tasks (filing",
+                "printing",
+                "form distribution)."
+            ]
+        },
+        {
+            "job_title": "Data Entry",
+            "company": "The Midnight Mission - Los Angeles, CA",
+            "location": "Los Angeles, CA",
+            "dates": "November 2016 - April 2017",
+            "key_responsibilities": [
+                "Enter data into Raiser's Edge"
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Diploma",
+            "institution": "Los Alamitos High School - Los Alamitos, CA",
+            "year_of_completion": "2009"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "ACCESS (2 years)",
+            "DATABASE (2 years)",
+            "EXCEL (3 years)",
+            "MICROSOFT WORD (8 years)",
+            "POWERPOINT (8 years)"
+        ],
+        "tools_and_software": [
+            "10 key",
+            "Database Entry",
+            "Raiser's Edge",
+            "Clarity/HMIS"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

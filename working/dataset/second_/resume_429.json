@@ -1,0 +1,82 @@
+{
+    "personal_information": {
+        "name": "Ryan Hanlin",
+        "location": "Nashville, TN"
+    },
+    "professional_summary": "Database Administrator with 7+ years of IT experience, including over 2 years in database administration. Expertise in cross-functional collaboration, data initiatives, and strong communication, leadership, and customer service skills.",
+    "work_experience": [
+        {
+            "job_title": "Database Administrator",
+            "company": "PESG Educational Staffing Solutions",
+            "location": "Nashville, TN",
+            "dates": "January 2017 - Present",
+            "key_responsibilities": [
+                "Developed and debugged Transact-SQL queries",
+                "views",
+                "stored procedures",
+                "functions",
+                "and reports.",
+                "Established new databases",
+                "monitoring performance and synchronization",
+                "and tuning as needed.",
+                "Provided Tier 3 back-end software support."
+            ]
+        },
+        {
+            "job_title": "Tier II Software Support Analyst",
+            "company": "Common Cents Systems",
+            "location": "Nashville, TN",
+            "dates": "December 2015 - October 2016",
+            "key_responsibilities": [
+                "Fielded and resolved customers' support tickets within the laboratory information management system.",
+                "Captured processes to resolve issues in Knowledge Base articles.",
+                "Gathered customer report requirements and created reports based on those criteria."
+            ]
+        },
+        {
+            "job_title": "Software Support Analyst",
+            "company": "GeoConex Corporation",
+            "location": "Knoxville, TN",
+            "dates": "September 2013 - December 2015",
+            "key_responsibilities": [
+                "Collected and converted customer GIS vector data and features using Python and ArcGIS server.",
+                "Defined quality standards for upgrading software and managing database schema changes.",
+                "Created and maintained complex ad hoc reports with stored procedures and views in SQL Server.",
+                "Provided remote and on-site technical assistance for hardware",
+                "network",
+                "and software issues.",
+                "Analyzed software issues",
+                "documenting bugs for escalation and testing/verifying fixes."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "A.A.S. in Computer Programming Technology",
+            "institution": "Meridian Community College",
+            "year_of_completion": "2012"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "SQL Server",
+            "MySQL",
+            "DB2",
+            "Transact-SQL",
+            "Visual Studio",
+            "SSRS",
+            "Python",
+            "ArcGIS server"
+        ],
+        "tools_and_software": [
+            "Knowledge Base",
+            "SQL queries",
+            "ETL processes"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

@@ -1,0 +1,57 @@
+{
+    "personal_information": {
+        "name": "[Name]",
+        "location": "Jackson, MS"
+    },
+    "professional_summary": "Database Administrator with expertise in Oracle and Microsoft SQL Server databases, experienced in database management, migrations, backups, security, and data transfers using various tools and software.",
+    "work_experience": [
+        {
+            "job_title": "Database Administrator I",
+            "company": "C Spire",
+            "location": "Jackson, MS",
+            "dates": "October 2016 - Present",
+            "key_responsibilities": [
+                "Installed and maintained Oracle 11g/12c clustered RAC databases using UNIX(AIX).",
+                "Created database homes",
+                "clones",
+                "and performed Oracle software installation.",
+                "Created standby databases using Data Guard and upgraded databases to 12c."
+            ]
+        },
+        {
+            "job_title": "IT Intern",
+            "company": "County of Mobile",
+            "location": "Mobile, AL",
+            "dates": "January 2015 - August 2015",
+            "key_responsibilities": [
+                "Performed software testing and installation.",
+                "Conducted basic queries in Microsoft SQL Server."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Science in Computer Information Sciences",
+            "institution": "University of South Alabama",
+            "year_of_completion": "2016"
+        },
+        {
+            "degree": "Bachelor of Science in International Business",
+            "institution": "University of South Alabama",
+            "year_of_completion": "2009"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "Oracle RDBMS 11g-12c, RAC, OEM, Toad\",\n            \"Data Pump, Data Guard, UNIX(AIX), Fastclone, RMAN, Data Domain\",\n            \"Microsoft SQL Server, T-SQL, PowerShell, Rubrik\",\n            \"SAP - Data Services Designer, Dbeaver"
+        ],
+        "tools_and_software": [
+            "AIX, UNIX, Toad, Rubrik, PowerShell, SAP-Data Services Designer, Dbeaver"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "personal_information": {
+        "name": "Extracted Name",
+        "location": "Oklahoma City, OK"
+    },
+    "professional_summary": "Enthusiastic IT Professional with Overall 7+ years of IT Industry Experience and 3+ years as a Scrum Master. Expertise in Agile/Scrum methodologies, coaching, mentoring, and project management.",
+    "work_experience": [
+        {
+            "job_title": "Scrum Master",
+            "company": "Salazar Inc",
+            "location": "Oklahoma City, OK",
+            "dates": "January 2019 - Present",
+            "key_responsibilities": [
+                "Leading Agile/Scrum practices within the organization.",
+                "Coaching teams to enhance collaboration and productivity.",
+                "Ensuring effective use of Scrum tools and techniques."
+            ]
+        },
+        {
+            "job_title": "Scrum Master",
+            "company": "Geico Insurance",
+            "location": "Foster City, CA",
+            "dates": "June 2017 - January 2019",
+            "key_responsibilities": [
+                "Implementing Scrum methodologies to streamline operations.",
+                "Providing training and mentorship to team members.",
+                "Optimizing workflows using Jira and Rally."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor's Degree",
+            "institution": "University of Buea",
+            "year_of_completion": "2009"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "Coaching and Mentoring\",\n            \"Agile Scrum\",\n            \"Project Management"
+        ],
+        "tools_and_software": [
+            "Microsoft Office Suite\",\n            \"Jira\",\n            \"Rally\",\n            \"Scrum Tools\",\n            \"Professional Scrum Master (PSM I)\",\n            \"Certified ScrumMaster (CSM)"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

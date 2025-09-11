@@ -1,0 +1,77 @@
+{
+    "personal_information": {
+        "name": "Extracted Name",
+        "location": "Auburn, GA"
+    },
+    "professional_summary": "Experienced SQL Server Database Administrator with over 6 years of expertise in Data Migration, Performance Tuning, Backup/Recovery, Security, and various database management tasks. Seeking to further develop skills in a dynamic environment.",
+    "work_experience": [
+        {
+            "job_title": "SQL Server Database Administrator",
+            "company": "Ricoh Global",
+            "location": "Auburn, GA",
+            "dates": "August 2015 - Present",
+            "key_responsibilities": [
+                "Developed Backup strategies and Recovery solutions.",
+                "Analyzed physical model and applied best practices for schema design.",
+                "Performed Performance Tuning using SQL Profiler and Database Engine tuning advisor.",
+                "Installed and configured SQL Server 2008R2",
+                "2012",
+                "and 2014 in various environments.",
+                "Assisted with capacity planning and storage space management.",
+                "Developed and wrote TSQL",
+                "Views",
+                "Stored Procedures",
+                "Functions.",
+                "Provided 24x7 support for production environments (on-call).",
+                "Created and Implemented Databases",
+                "Tables",
+                "Schemas",
+                "Indexes",
+                "and Constraints.",
+                "Provided database Development support including query analysis and optimization.",
+                "Performed Data Import and Export Operations using SSIS.",
+                "Monitored and maintained database performance using System monitor",
+                "event viewer",
+                "SQL profiler",
+                "database tuning adviser.",
+                "Configured and monitored Replication (transactional",
+                "snapshot",
+                "and merge).",
+                "Configured database mirroring (synchronous and asynchronous)",
+                "Migrated On-premises databases to SQL Server Azure.",
+                "Implemented Security Management policy including creating and managing roles",
+                "users",
+                "logins",
+                "and granting rights.",
+                "Troubleshooting agent job failures",
+                "Detecting and resolving blocking issues",
+                "Configuring and monitoring AlwaysOn availability groups",
+                "Responsible for 24/7 database operations"
+            ]
+        },
+        {
+            "job_title": "Inventory Control",
+            "company": "Carter's DC",
+            "location": "Auburn, GA",
+            "dates": "January 2014 - December 2014",
+            "key_responsibilities": [
+                "Tracking and managing inventory records for Carter's DC.",
+                "Assisting with product movement and stock replenishment.",
+                "Overseeing damage control and minimizing stock loss.",
+                "Assisting in order fulfillment and warehouse operations.",
+                "Verifying product location accuracy using scanners.",
+                "Ensuring a safe working environment by maintaining compliance with safety protocols."
+            ]
+        }
+    ],
+    "education": [],
+    "skills": {
+        "technical_skills": [],
+        "tools_and_software": []
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

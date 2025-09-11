@@ -1,0 +1,94 @@
+{
+    "personal_information": {
+        "name": "Not specified",
+        "location": "Not specified"
+    },
+    "professional_summary": "Experienced professional with expertise in IT support, database administration, and healthcare administration.",
+    "work_experience": [
+        {
+            "job_title": "Crystal Reports Technical Support Analyst",
+            "company": "Tek Systems",
+            "location": "Not specified",
+            "dates": "September 2009 - March 2011",
+            "key_responsibilities": [
+                "Supported Microsoft Office 2007/2013/2016",
+                "Supported Microsoft Windows 7/8/10",
+                "Supported standard networking protocols",
+                "Provided medical staff services support for Surgical",
+                "Clinical",
+                "and Billing systems",
+                "Supported hardware and VMware systems",
+                "Supported Active Directory",
+                "Supported email systems"
+            ]
+        },
+        {
+            "job_title": "Technical Support Analyst",
+            "company": "Tek Systems",
+            "location": "Not specified",
+            "dates": "April 2011 - April 2012",
+            "key_responsibilities": [
+                "Supported Microsoft Office 2007/2013/2016",
+                "Supported Microsoft Windows 7/8/10",
+                "Supported standard networking protocols",
+                "Provided medical staff services support for Surgical",
+                "Clinical",
+                "and Billing systems",
+                "Supported hardware and VMware systems",
+                "Supported Active Directory",
+                "Supported email systems"
+            ]
+        },
+        {
+            "job_title": "Application Analyst - Cerner/PeopleSoft",
+            "company": "Not specified",
+            "location": "Not specified",
+            "dates": "Not specified",
+            "key_responsibilities": [
+                "Developed and maintained Oracle databases for Cerner and PeopleSoft applications",
+                "Configured and supported Cerner and PeopleSoft environments",
+                "Supported Allscripts",
+                "Cerner Surgical",
+                "and PeopleSoft Financials",
+                "Built",
+                "modified",
+                "and maintained Crystal Reports",
+                "Provided SIS",
+                "hardware",
+                "and software training"
+            ]
+        },
+        {
+            "job_title": "Database Administrator (DBA) - Oracle/SQL Server",
+            "company": "Not specified",
+            "location": "Not specified",
+            "dates": "Not specified",
+            "key_responsibilities": [
+                "Administered and maintained Oracle and SQL Server databases",
+                "Supported database migrations and performance optimization",
+                "Performed regular backups and disaster recovery procedures"
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Masters in Healthcare Administration",
+            "institution": "Jack Welch University",
+            "year_of_completion": "Not specified"
+        },
+        {
+            "degree": "Associate's Degree in Business Administration",
+            "institution": "California Coast University",
+            "year_of_completion": "Not specified"
+        }
+    ],
+    "skills": {
+        "technical_skills": [],
+        "tools_and_software": []
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

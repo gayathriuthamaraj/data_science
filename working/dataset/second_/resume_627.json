@@ -1,0 +1,67 @@
+{
+    "personal_information": {
+        "name": "Database Administrator",
+        "location": "Young Marines National Headquarters"
+    },
+    "professional_summary": "To utilize my leadership training, hard work ethic, and motivation in a challenging/ rewarding work environment.",
+    "work_experience": [
+        {
+            "job_title": "Database Administrator",
+            "company": "Young Marines National Headquarters",
+            "location": "Young Marines National Headquarters",
+            "dates": "October 2016 to Present",
+            "key_responsibilities": [
+                "Customer service and administration",
+                "Data entry and statistical analysis",
+                "Assisting with advancing database system capabilities",
+                "Document revision and problem solving",
+                "Organizing nationwide events"
+            ]
+        },
+        {
+            "job_title": "Office Assistant",
+            "company": "Mary Baldwin College",
+            "location": "Mary Baldwin College - Staunton, VA",
+            "dates": "2013 to 2016",
+            "key_responsibilities": [
+                "Customer service and office organization",
+                "Student orientation and various projects for the cadet corps"
+            ]
+        },
+        {
+            "job_title": "Shift Manager",
+            "company": "McDonald's",
+            "location": "Richland High School",
+            "dates": "September 2011 to June 2012",
+            "key_responsibilities": [
+                "Shift management and customer service",
+                "Working as part of a team"
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master in Arts in Applied Psychology",
+            "institution": "Liberty University Online",
+            "year_of_completion": "2017 to Present"
+        },
+        {
+            "degree": "Bachelors of Science in Psychology",
+            "institution": "Mary Baldwin College - Staunton, VA",
+            "year_of_completion": "2012 to 2016"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "Database Administration\",\n            \"Data Entry\",\n            \"Statistical Analysis\",\n            \"Document revision\",\n            \"Problem Solving\",\n            \"Event Organization"
+        ],
+        "tools_and_software": [
+            "Microsoft Office Suite\",\n            \"SQL Server\",\n            \"SPSS"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

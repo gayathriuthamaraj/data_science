@@ -1,0 +1,70 @@
+{
+    "personal_information": {
+        "name": "SQL DBA",
+        "location": "Woodbridge, VA"
+    },
+    "professional_summary": "Experienced SQL Database Administrator with expertise in database management, performance tuning, security, and high availability solutions. Skilled in data integration and ETL processes.",
+    "work_experience": [
+        {
+            "job_title": "SQL DBA",
+            "company": "SalientCRGT, Inc",
+            "location": "Fairfax, VA",
+            "dates": "December 2012 to Present",
+            "key_responsibilities": [
+                "Provided full database support for the Department of Education (DOE) contract on production and development environments.",
+                "Supported critical ED.gov site and maintained MS SQL 2012",
+                "2014",
+                "and 2016 servers with performance tuning",
+                "backup",
+                "security",
+                "and migration.",
+                "Remediated security findings from FISMA and monthly scans",
+                "overseeing 30 vendor patch installations/reconfigurations per year."
+            ]
+        },
+        {
+            "job_title": "SQL DBA",
+            "company": "Innovative Data Solutions",
+            "location": "Alexandria, VA",
+            "dates": "January 2010 to November 2012",
+            "key_responsibilities": [
+                "Installed",
+                "configured",
+                "upgraded",
+                "and managed SQL Server 2008R2",
+                "2005 & 2000 in development",
+                "test",
+                "and production environments.",
+                "Configured fail-over clustering using SQL Server 2008/2005 and log shipping for reporting purposes.",
+                "Developed and deployed ETL packages using SSIS",
+                "configured replication (Transactional and merge)",
+                "and administered Reporting Services (SSRS)."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor in Computer Science",
+            "institution": "The American International University",
+            "year_of_completion": "N/A"
+        },
+        {
+            "degree": "Associate in Information Technology",
+            "institution": "Strayer University - Woodbridge, VA",
+            "year_of_completion": "N/A"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "SQL Database Administration\",\n            \"Database Modeling\",\n            \"Data Integration\",\n            \"ETL\",\n            \"Data Analysis\",\n            \"Database Management\",\n            \"Requirements Analysis\",\n            \"Documentation\",\n            \"Client Relations"
+        ],
+        "tools_and_software": [
+            "Microsoft SQL Server (2008R2, 2012, 2014)\",\n            \"SQL Server Management Studio (SSMS)\",\n            \"Service Control Manager (SCM)\",\n            \"Backup copies (BCP)\",\n            \"Data Transformation Tools\",\n            \"Reporting Services"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

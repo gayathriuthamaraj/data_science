@@ -1,0 +1,67 @@
+{
+    "personal_information": {
+        "name": "Extracted Name",
+        "location": "Selden, NY"
+    },
+    "professional_summary": "Systems Administrator with expertise in SolarWinds, database management, and multi-location rollouts.",
+    "work_experience": [
+        {
+            "job_title": "Systems Administrator",
+            "company": "Star Gas Partners",
+            "location": "Woodbury, NY",
+            "dates": "March 2017 - Present",
+            "key_responsibilities": [
+                "Deployed and configured SolarWinds LEM",
+                "SAM",
+                "and NPM agents across organization servers and network devices.",
+                "Acted as support staff for multi-location Salesforce rollouts.",
+                "Performed daily server backups and addressed hardware",
+                "OS",
+                "and application errors."
+            ]
+        },
+        {
+            "job_title": "Database Administrator",
+            "company": "Overseas Military Sales Corp",
+            "location": "Woodbury, NY",
+            "dates": "June 2013 - March 2017",
+            "key_responsibilities": [
+                "Maintained 80 servers and 8 database servers",
+                "including hardware upgrades and diagnostics.",
+                "Implemented automation tasks using open-source tools across multiple server environments.",
+                "Authored technical documentation for both technical and non-technical use."
+            ]
+        },
+        {
+            "job_title": "Freelance Database Engineer",
+            "company": "Sisters of St. Joseph",
+            "location": "Brentwood, NY",
+            "dates": "July 2014 - November 2016",
+            "key_responsibilities": [
+                "Designed and engineered an Access database for medical records.",
+                "Created a front-end GUI using VBA coding for data input and viewing.",
+                "Utilized specific tools and methodologies for database management."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Computer Information System",
+            "institution": "St. Joseph's College",
+            "year_of_completion": "2017"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "SolarWinds\",\n            \"ArcServe\",\n            \"BASH\",\n            \"C++\",\n            \"Clustering\",\n            \"Unix Bash, Batch and Powershell Scripting\",\n            \"RPG Free Form (minimal)\",\n            \"SQL\",\n            \"Visual Basic\",\n            \"Java\",\n            \"C++\",\n            \"RegEx"
+        ],
+        "tools_and_software": [
+            "Arcserve\",\n            \"CommVault\",\n            \"BackupExec\",\n            \"Nagios XI\",\n            \"SolarWinds Orion\",\n            \"Samba 4\",\n            \"MySQL (original, MariaDB, and Percona)\",\n            \"IBM DB2\",\n            \"MSSQL\",\n            \"Galera Clustering\",\n            \"HAProxy Load Balancing\",\n            \"SEA ABSmessage Monitoring\",\n            \"MONyog MySQL Monitoring\",\n            \"ELK Log Monitoring"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

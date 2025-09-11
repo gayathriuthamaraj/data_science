@@ -1,0 +1,67 @@
+{
+    "personal_information": {
+        "name": "Extracted Name",
+        "location": "Adelphi, MD"
+    },
+    "professional_summary": "Cybersecurity graduate passionate about computer technology and security. Brings a hands-on approach to learning and problem-solving. Eager to expand technical knowledge and gain experience. Excellent analytical and critical thinking skills; a skilled communicator who can meet goals under deadlines.",
+    "work_experience": [
+        {
+            "job_title": "Help Desk Technician",
+            "company": "PowerTrain Inc.",
+            "location": "Adelphi, MD",
+            "dates": "March 2019 - Present",
+            "key_responsibilities": [
+                "Provides secure hosting for thousands of sites for our Federal Government and commercial clients.",
+                "Provides information and assistance to troubleshoot and solve problems accessing training and information.",
+                "Be the first point of contact for all customer inquiries; escalate concerns of a complex nature to the Helpdesk Supervisor for advice and guidance."
+            ]
+        },
+        {
+            "job_title": "Database Administrator Intern",
+            "company": "KCW Engineering Technologies - Glen Burnie, MD",
+            "location": "Glen Burnie, MD",
+            "dates": "2018 - Present",
+            "key_responsibilities": [
+                "Responsible for maintaining the integrity and performance of company databases and guarantee that data is stored securely and optimally.",
+                "Ensure security of company data",
+                "Install updates",
+                "Backup and restore data",
+                "Install database software.",
+                "Troubleshooting issues on behalf of the users",
+                "Troubleshoot Database Errors."
+            ]
+        },
+        {
+            "job_title": "Assistant Deli Manager",
+            "company": "Safeway Inc.",
+            "location": "Not explicitly mentioned in the provided text",
+            "dates": "Not explicitly mentioned in the provided text",
+            "key_responsibilities": [
+                "Manages and supervises deli operations",
+                "ensuring quality and safety standards.",
+                "Monitors inventory levels and orders to meet customer demand."
+            ]
+        }
+    ],
+    "education": [],
+    "skills": {
+        "technical_skills": [
+            "Database Administration",
+            "Help Desk Support",
+            "Cybersecurity",
+            "Data Management"
+        ],
+        "tools_and_software": [
+            "AutoCAD",
+            "Database (DB)",
+            "Excel",
+            "File Management",
+            "Security Tools"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

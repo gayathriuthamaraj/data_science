@@ -1,0 +1,51 @@
+{
+    "personal_information": {
+        "name": "Database Administrator",
+        "location": "Charlotte, NC"
+    },
+    "professional_summary": "Database professional with 6+ years of experience in Oracle and PostgreSQL administration, AWS migration expertise, and advanced database management skills.",
+    "work_experience": [
+        {
+            "job_title": "Senior Database Administrator",
+            "company": "First Tennessee Bank",
+            "location": "Charlotte, NC",
+            "dates": "2017 - Present",
+            "key_responsibilities": [
+                "Performing regular database backups and recovery operations.",
+                "Optimizing database performance using tuning tools like AWR and ASH.",
+                "Implementing high-availability solutions using Oracle Primary and Standby databases."
+            ]
+        },
+        {
+            "job_title": "Oracle Database Administrator",
+            "company": "XYZ Company",
+            "location": "Chicago, IL",
+            "dates": "2020 - 2022",
+            "key_responsibilities": [
+                "Managing database migrations using Toad Data Pump.",
+                "Configuring Goldengate for real-time replication.",
+                "Performing disaster recovery testing with RMAN."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor's Degree",
+            "institution": "University of Yaoundé II",
+            "year_of_completion": "N/A"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "Database Administration\",\n            \"Oracle DBA\",\n            \"PostgreSQL Administration\",\n            \"AWS Migration\",\n            \"Linux System Administration\",\n            \"Shell Scripting\",\n            \"Crontab Scheduling\",\n            \"SQL Tuning"
+        ],
+        "tools_and_software": [
+            "RMAN\",\n            \"Goldengate\",\n            \"Toad Data Pump\",\n            \"Explain Plan\",\n            \"STATSPACK\",\n            \"TKPROF\",\n            \"AWR\",\n            \"ASH\",\n            \"OEM Grid Control\",\n            \"ASM\",\n            \"Dataguard"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

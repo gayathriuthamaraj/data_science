@@ -1,0 +1,73 @@
+{
+    "personal_information": {
+        "name": "Nate Hicks",
+        "location": "Dallas, TX"
+    },
+    "professional_summary": "Experienced Database Administrator with expertise in Informix and PostgreSQL. Skilled in database management, administration, and development. Proven track record in troubleshooting, system optimization, and project implementation.",
+    "work_experience": [
+        {
+            "job_title": "Database Administrator",
+            "company": "Hewlett Packard Enterprise",
+            "location": "Dallas, TX",
+            "dates": "April 2016 - Present",
+            "key_responsibilities": [
+                "Maintain and administrate numerous Informix instances containing production and development databases.",
+                "Work with a third-party help desk to troubleshoot and correct database issues.",
+                "Collaborate with System Administrators to ensure storage and replication needs are met."
+            ]
+        },
+        {
+            "job_title": "IT Consultant",
+            "company": "Custom Maintenance Solutions",
+            "location": "Fort Wayne, IN",
+            "dates": "December 2015 - Present",
+            "key_responsibilities": [
+                "Setup and manage a small office of PCs and peripherals.",
+                "Work with vendors to manage phone and network capabilities.",
+                "Assist staff in troubleshooting and teaching new technologies."
+            ]
+        },
+        {
+            "job_title": "Database Administrator",
+            "company": "I Transworks",
+            "location": "Fort Wayne, IN",
+            "dates": "February 2012 - Present",
+            "key_responsibilities": [
+                "Maintain and administrate 42 Informix instances with 1-5 databases each.",
+                "Maintain and administrate 6 PostgreSQL databases with multiple schemas within each.",
+                "Upgrade databases to UTF-8 compliance."
+            ]
+        },
+        {
+            "job_title": "Counter Intelligence Agent",
+            "company": "Best Buy",
+            "location": "Fort Wayne, IN",
+            "dates": "September 2008 - November 2012",
+            "key_responsibilities": [
+                "Diagnose and repair computers and consumer electronics.",
+                "Establish data protection systems for customer privacy.",
+                "Develop procedures to increase customer satisfaction."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "B.A. in Computer Networking",
+            "institution": "Indiana Tech",
+            "year_of_completion": "2011"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "Database Administration\",\n            \"Database Management\",\n            \"Informix\",\n            \"PostgreSQL\",\n            \"SQL"
+        ],
+        "tools_and_software": [
+            "Windows\",\n            \"Mac OS X\",\n            \"Linux\",\n            \"Oracle\",\n            \"Microsoft Office Suite"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

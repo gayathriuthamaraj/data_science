@@ -1,0 +1,70 @@
+{
+    "personal_information": {
+        "name": "John Doe",
+        "location": "Marietta, GA"
+    },
+    "professional_summary": "Professional with extensive experience in used truck sales, benefit support specialist, IT administrator, and database management. Skilled in customer relationship management, insurance processing, and technical troubleshooting.",
+    "work_experience": [
+        {
+            "job_title": "Used Truck Sales",
+            "company": "MHC Kenworth - Marietta, GA",
+            "location": "Marietta, GA",
+            "dates": "June 2018 - Present",
+            "key_responsibilities": [
+                "Facilitates the purchasing and selling of equipment up to a quarter million dollars per unit.",
+                "Fosters and maintains quality customer relationships with prospects and clients.",
+                "Develops industry knowledge to assist in constructing client business models."
+            ]
+        },
+        {
+            "job_title": "Benefit Support Specialist / Tech Support",
+            "company": "BenefitMall - Alpharetta, GA",
+            "location": "Alpharetta, GA",
+            "dates": "May 2017 - May 2018",
+            "key_responsibilities": [
+                "Assists in processing insurance quotes and registrations in a fast-paced",
+                "high-volume office environment.",
+                "Uses multiple web platforms to generate insurance quotes for small to medium-sized businesses.",
+                "Ensures accurate and consistent information throughout the quote/enrollment process."
+            ]
+        },
+        {
+            "job_title": "IT Administrator/Database Management Specialist",
+            "company": "Transport Enterprise Leasing - Chattanooga, TN",
+            "location": "Chattanooga, TN",
+            "dates": "February 2015 - May 2017",
+            "key_responsibilities": [
+                "Performs daily management and allocation of escrow funds over hundreds of accounts",
+                "totaling over one million dollars.",
+                "Maintains high attention to detail while adhering to security and confidentiality standards.",
+                "Redesigns and streamlines database systems for monitoring debits and credits to company and employee accounts."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor's in Business Administration",
+            "institution": "Kennesaw State University - Kennesaw, GA",
+            "year_of_completion": "2016"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "HTML",
+            "Data Entry",
+            "Microsoft Excel",
+            "Microsoft PowerPoint"
+        ],
+        "tools_and_software": [
+            "Microsoft Word",
+            "Microsoft Project",
+            "Photoshop",
+            "Data Entry Software"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

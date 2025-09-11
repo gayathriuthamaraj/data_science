@@ -1,0 +1,103 @@
+{
+    "personal_information": {
+        "name": "Not extracted",
+        "location": "Not specified"
+    },
+    "professional_summary": "Not extracted",
+    "work_experience": [
+        {
+            "job_title": "Oracle Database Administrator",
+            "company": "Motorola Solutions",
+            "location": "Not specified",
+            "dates": "November 2013 - December 2014",
+            "key_responsibilities": [
+                "Installation and administration of Oracle 11g and 10g databases in RAC environment",
+                "Maintenance of database backup and recovery using RMAN and logical backups",
+                "Implementation of GoldenGate technology for data replication across databases",
+                "Database upgrades from 10g to 11g on Linux platforms",
+                "Management of password files",
+                "shared server architecture",
+                "and memory management with SGA and PGA parameters",
+                "Creation of materialized views in a warehouse environment and setup of their refresh schedules",
+                "Enhancement of application performance through table partitioning",
+                "Implementation of DataGuard for creating standby databases on an OLTP environment",
+                "Tuning of time-consuming SQL queries using EXPLAIN PLAN",
+                "statistics gathering",
+                "and plan optimization with SQL baseline and profiles",
+                "Development of shell scripts for automation of backups using Crontab",
+                "Management of user security with privileges",
+                "roles",
+                "and auditing",
+                "Application of bug-fix and PSU patches"
+            ]
+        },
+        {
+            "job_title": "Oracle Database Administrator",
+            "company": "Cummins India Ltd",
+            "location": "Not specified",
+            "dates": "June 2011 - October 2013",
+            "key_responsibilities": [
+                "Creation and administration of Oracle 10g RAC databases on Linux platforms",
+                "Upgrade of databases from Oracle 9i to Oracle 10g",
+                "Management of tablespaces",
+                "datafiles",
+                "temp files",
+                "and undo areas",
+                "Regular database administration activities including backup using RMAN",
+                "user access issues",
+                "monitoring disk usage",
+                "etc.",
+                "Maintenance of database security through user creation",
+                "role management",
+                "privilege granting",
+                "profile settings",
+                "and password policies",
+                "Creation of tables",
+                "indexes",
+                "primary keys",
+                "foreign keys",
+                "and data integrity checks",
+                "Implementation of views to restrict access for security reasons",
+                "Establishment of remote connections using network configuration files",
+                "Loading of data into Oracle databases from external files using SQL*Loader",
+                "Index creation to enhance query performance",
+                "Reorganization of tables using Expdp and Impdp for defragmentation",
+                "Generation of AWR and STATSPACK reports for database health monitoring"
+            ]
+        },
+        {
+            "job_title": "Oracle Database Administrator",
+            "company": "Motorola Solutions",
+            "location": "Not specified",
+            "dates": "November 2013 - December 2014",
+            "key_responsibilities": [
+                "Installation and administration of Oracle 12C/11g databases in RAC environment",
+                "Implementation of GoldenGate technology for data replication across databases",
+                "Enhancement of performance through table partitioning and use of materialized views",
+                "DataGuard implementation for disaster recovery on OLTP environments",
+                "Tuning of SQL queries using EXPLAIN PLAN",
+                "statistics gathering",
+                "and plan optimization with SQL baseline and profiles",
+                "Development of shell scripts for automation of database tasks",
+                "Management of user security and privileges",
+                "role management",
+                "and auditing",
+                "Application of bug-fix and PSU patches to ensure database stability"
+            ]
+        }
+    ],
+    "education": [],
+    "skills": {
+        "technical_skills": [
+            "Oracle Databases\",\n            \"RAC (Real Application Clusters)\",\n            \"Shell Scripting\",\n            \"SQL\",\n            \"PL/SQL\",\n            \"AWR\",\n            \"DataGuard\",\n            \"GoldenGate\",\n            \"Database Administration\",\n            \"Troubleshooting\",\n            \"Performance Tuning"
+        ],
+        "tools_and_software": [
+            "Oracle Database\",\n            \"Linux\",\n            \"Shell Scripting\",\n            \"SQL*Loader\",\n            \"Expdp\",\n            \"Impdp\",\n            \"AWR\",\n            \"STATSPACK\",\n            \"DataGuard\",\n            \"GoldenGate\",\n            \"Crontab"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

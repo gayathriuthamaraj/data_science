@@ -1,0 +1,96 @@
+{
+    "personal_information": {
+        "name": "Zimmerman, MN",
+        "location": "Manager Donor and Data Management"
+    },
+    "professional_summary": "Results-oriented, hands-on professional with a successful record in nonprofit database administration and management.",
+    "work_experience": [
+        {
+            "job_title": "Database and Campaign Administrator",
+            "company": "Westminster Presbyterian Church",
+            "location": "Saint Louis Park, MN",
+            "dates": "September 2016 - January 2017",
+            "key_responsibilities": [
+                "Built the Raiser's Edge database for this organization.",
+                "Created Policies and Procedures for use of Raiser's Edge.",
+                "Created meaningful reports",
+                "exports and queries for Development",
+                "Finance",
+                "Board",
+                "and Executive level staff."
+            ]
+        },
+        {
+            "job_title": "Database Manager",
+            "company": "Benilde St. Margaret's Catholic School - Saint Louis Park, MN",
+            "location": "Saint Louis Park, MN",
+            "dates": "May 2016 - September 2016",
+            "key_responsibilities": [
+                "Data Entry of gifts",
+                "new students",
+                "parents",
+                "and alumni.",
+                "Pull mailing lists and reports for Development staff.",
+                "Work with Finance to reconcile and resolve coding issues."
+            ]
+        },
+        {
+            "job_title": "Database and Systems Senior Manager",
+            "company": "Alzheimer's Association - Edina, MN",
+            "location": "Edina, MN",
+            "dates": "March 2015 - May 2016",
+            "key_responsibilities": [
+                "Update and Maintain databases (Raiser's Edge and Convio).",
+                "Oversee daily data processing by staff.",
+                "Create Donor Stewardship procedures and policies."
+            ]
+        },
+        {
+            "job_title": "Development Operations Manager",
+            "company": "Scholarship America - Bloomington, MN",
+            "location": "Bloomington, MN",
+            "dates": "July 2012 - March 2015",
+            "key_responsibilities": [
+                "Mine database for potential high-impact stories.",
+                "Research and write articles for publication.",
+                "Collaborate with communications team on content strategy."
+            ]
+        },
+        {
+            "job_title": "Manager Donor and Data Management",
+            "company": "Zimmerman, MN",
+            "location": "Zimmerman, MN",
+            "dates": "Present",
+            "key_responsibilities": [
+                "Oversee donor data management and integrity.",
+                "Develop and implement data collection strategies.",
+                "Provide reports and analysis for decision-making."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Associate in Liberal Arts",
+            "institution": "Central Lakes College-Brainerd",
+            "year_of_completion": "2010"
+        },
+        {
+            "degree": "Bachelor of Science",
+            "institution": "Northland College",
+            "year_of_completion": "2008"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "Database Administration\",\n            \"Data Management\",\n            \"Data Analysis\",\n            \"Report Writing\",\n            \"Nonprofit Operations"
+        ],
+        "tools_and_software": [
+            "Microsoft Office Suite\",\n            \"Raiser's Edge\",\n            \"NetCommunity\",\n            \"Convio"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

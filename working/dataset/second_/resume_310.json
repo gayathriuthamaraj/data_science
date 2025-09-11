@@ -1,0 +1,85 @@
+{
+    "personal_information": {
+        "name": "BI Developer",
+        "location": "San Francisco, CA"
+    },
+    "professional_summary": "BI Developer with 4+ years of experience in developing Database Objects, Reporting, ETL Processes, and Data Modelling. Expertise in advanced and dynamic SQL querying, procedures, cursors, triggers, functions, views, performance tuning, and query optimization. Proficient in Power BI and Tableau for Data Visualization development. Experienced in Backup/Recovery, Client/Server Connectivity, Database Replication (differential, log backup files), problem-solving, debugging, analyzing runtime errors, and validating data.",
+    "work_experience": [
+        {
+            "job_title": "BI Developer",
+            "company": "In2IT Technologies",
+            "location": "Johannesburg, Gauteng",
+            "dates": "September 2016 - November 2017",
+            "key_responsibilities": [
+                "Worked with Database Configuration",
+                "Data Modelling",
+                "ETL Processes",
+                "Reporting",
+                "Aggregate Functions (e.g.",
+                "SUM",
+                "COUNT)",
+                "SSIS Optimization",
+                "Creating Reports in SSRS",
+                "Generating various types of reports",
+                "ETL Design Specifications",
+                "Handling multiple tasks under high pressure."
+            ]
+        },
+        {
+            "job_title": "Database Administrator",
+            "company": "IPSOS",
+            "location": "Johannesburg, Gauteng",
+            "dates": "January 2013 - October 2014",
+            "key_responsibilities": [
+                "Converted data into usable forms using SQL scripts for market research companies (e.g.",
+                "Toyota",
+                "Standard Bank)",
+                "Designed Data Transformation Packages",
+                "Performed Unit Testing",
+                "Created Backup Files (differential",
+                "log)",
+                "Worked with Client/Server Connectivity."
+            ]
+        },
+        {
+            "job_title": "Assistant Systems Engineer",
+            "company": "TATA Consultancy Services",
+            "location": "Bengaluru, Karnataka",
+            "dates": "October 2011 - July 2012",
+            "key_responsibilities": [
+                "Designed LIC Application using Team Foundation Server",
+                "Exported reports to Excel",
+                "Implemented Agile Methodology",
+                "Used C#",
+                "ADO.Net",
+                "ASP.Net",
+                "XML",
+                "VB Script",
+                "MS Access",
+                "Excel",
+                "SharePoint",
+                "TFS."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor's Degree",
+            "institution": "Bapatla Engineering College",
+            "year_of_completion": "2011"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "SQL Scripting\",\n            \"BI Development (SSIS, SSRS)\",\n            \"React JS\",\n            \"Physical and Logical Data Modelling"
+        ],
+        "tools_and_software": [
+            "SQL Server 2012/2008 R2\",\n            \"Oracle 11g/10g\",\n            \"Toad\",\n            \"Business Intelligence Studio\",\n            \"Tableau\",\n            \"Visual Studio 2010\",\n            \"Power BI"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

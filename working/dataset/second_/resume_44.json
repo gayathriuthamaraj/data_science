@@ -1,0 +1,64 @@
+{
+    "personal_information": {
+        "name": "Extracted Name",
+        "location": "Alexandria, VA"
+    },
+    "professional_summary": "Database Administrator with expertise in Oracle 9i, 10g, 11g Administration; experienced in database security, backup/recovery procedures; highly organized and analytical; strong focus on delivering results under deadlines.",
+    "work_experience": [
+        {
+            "job_title": "Database Administrator (contractor)",
+            "company": "ISHGLO-ONE Corporation",
+            "location": "Frederick, MD",
+            "dates": "February 2010 - Present",
+            "key_responsibilities": [
+                "Performs regular health checkup of production and test databases.",
+                "Performs backup and recovery using RMAN",
+                "Flashback Technology",
+                "and user managed backups.",
+                "Applies Oracle Critical Patch Updates (CPU) on databases every quarter."
+            ]
+        },
+        {
+            "job_title": "Junior Database Administrator",
+            "company": "The Kidz Docs",
+            "location": "Alexandria, VA",
+            "dates": "January 2009 - February 2010",
+            "key_responsibilities": [
+                "Documents migration process",
+                "database creation",
+                "and load scripts.",
+                "Modifies and creates tables",
+                "views",
+                "sequences",
+                "and users with privileges.",
+                "Exports data using expdp and impdp",
+                "and modifies table spaces."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science in Business Information Systems",
+            "institution": "HOWARD UNIVERSITY",
+            "year_of_completion": "2006"
+        },
+        {
+            "degree": "Additional Information",
+            "institution": "UNIVERSITY OF PHOENIX",
+            "year_of_completion": "Not provided"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "Oracle Database Administration\",\n            \"Database Security and Backup/Recovery\",\n            \"Analytical Problem Solving\",\n            \"Detail Specificity\",\n            \"Writing and Organizational Skills\",\n            \"Team-Oriented Approach"
+        ],
+        "tools_and_software": [
+            "Microsoft Windows Applications (Word, Excel, PowerPoint)\",\n            \"Visio\",\n            \"Oracle 10/11g\",\n            \"Enterprise Linux\",\n            \"UNIX"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

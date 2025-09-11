@@ -1,0 +1,73 @@
+{
+    "personal_information": {
+        "name": "Eric Stavenjord",
+        "location": "Falls Church, VA"
+    },
+    "professional_summary": "Experienced professional with expertise in project management, SharePoint development, data analysis, and social media marketing. Proven track record of driving efficiency and collaboration across diverse teams and organizations.",
+    "work_experience": [
+        {
+            "job_title": "Consultant",
+            "company": "Enterprise Resource Performance Inc",
+            "location": "Falls Church, VA",
+            "dates": "October 2018 - Present",
+            "key_responsibilities": [
+                "Provides project management support to the Bureau of Navy Medicine (BUMED's) Capabilities Integration leadership.",
+                "Supports clients by prioritizing and completing deliverables such as curating meeting minutes",
+                "completing comment review matrixes",
+                "meeting coordination",
+                "data analysis projects",
+                "managing tasker distribution systems",
+                "and creating and routing action packages.",
+                "Designed",
+                "presented",
+                "and implemented a framework for creating an intuitive SharePoint site to replace outdated applications and act as a repository for storing data",
+                "documents",
+                "and workflows. Directly managed SharePoint development and fostered collaboration between IT Department and client."
+            ]
+        },
+        {
+            "job_title": "Team Lead & Social Media Ambassador",
+            "company": "Barstool Sports",
+            "location": "Falls Church, VA",
+            "dates": "October 2017 - May 2018",
+            "key_responsibilities": [
+                "Promoted company and products using social media platforms.",
+                "Managed team of content creators to engage VCU students on social media accounts.",
+                "Expanded Barstool VCU followers from 400 to 3",
+                "400 in six months on Instagram account."
+            ]
+        },
+        {
+            "job_title": "Database Administrator & IT Assistant",
+            "company": "American Medical Group Association",
+            "location": "Falls Church, VA",
+            "dates": "June 2015 - August 2017",
+            "key_responsibilities": [
+                "Managed databases and administered software updates company-wide.",
+                "Updated websites and set up products with PDFs.",
+                "Performed data analysis and reporting."
+            ]
+        },
+        {
+            "job_title": "Business Analyst & Consultant",
+            "company": "VCU International Consulting Program",
+            "location": "Falls Church, VA",
+            "dates": "May 2017 - June 2017",
+            "key_responsibilities": [
+                "Identified issues and made recommendations for clients.",
+                "Conducted market analysis and supported the entrepreneurship academy.",
+                "Assisted in exploring export capabilities for avocados."
+            ]
+        }
+    ],
+    "education": [],
+    "skills": {
+        "technical_skills": [],
+        "tools_and_software": []
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "personal_information": {
+        "name": "Extracted Name",
+        "location": "Columbia, MD"
+    },
+    "professional_summary": "Seasoned Risk Management Framework (RMF) Specialist with expertise in Oracle database administration and NIST compliance. Proven track record in high-pressure environments with a focus on cyber security and IT infrastructure.",
+    "work_experience": [
+        {
+            "job_title": "Cyber Security Analyst/RMF Specialist",
+            "company": "Tech Global Solutions",
+            "location": "Columbia, MD",
+            "dates": "2016 - Present",
+            "key_responsibilities": [
+                "Implementing RMF processes and ensuring compliance with NIST standards.",
+                "Providing technical leadership for IT security initiatives and tools development.",
+                "Managing Oracle database environments with focus on performance optimization."
+            ]
+        },
+        {
+            "job_title": "Oracle Database Administrator",
+            "company": "Disys - McLean, VA",
+            "location": "McLean, VA",
+            "dates": "2013 - 2014",
+            "key_responsibilities": [
+                "Supporting Oracle installations on VM Virtual Box for development purposes.",
+                "Managing database security and user access controls.",
+                "Coordinating space management with UNIX/LINUX administrators."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "BS in Computer Science",
+            "institution": "University of Science and Technology",
+            "year_of_completion": "Not explicitly mentioned"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "Nist\",\n            \"Cyber Security\",\n            \"IT Security\",\n            \"Information Assurance\",\n            \"Information Security"
+        ],
+        "tools_and_software": [
+            "Oracle\",\n            \"SQL\",\n            \"VM Virtual Box\",\n            \"RMAN\",\n            \"AWR\",\n            \"ASH\",\n            \"ADDM\",\n            \"OEM\",\n            \"Partitioning"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

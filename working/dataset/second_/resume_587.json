@@ -1,0 +1,61 @@
+{
+    "personal_information": {
+        "name": "Extracted Name",
+        "location": "New York, NY"
+    },
+    "professional_summary": "Experienced SQL Server Database Administrator with expertise in database administration, high availability, disaster recovery, data transformation services (ETL), and security management. Skilled in working with SQL Server 2008-2014 versions, Always-On Availability Groups, linked servers, monitoring tools, and robust backup strategies.",
+    "work_experience": [
+        {
+            "job_title": "Senior SQL Server Database Administrator",
+            "company": "Delta Air Lines, Inc.",
+            "location": "New York, NY",
+            "dates": "March 2014 - Present",
+            "key_responsibilities": [
+                "Installed and maintained SQL Server 2008/2008 R2 in dev",
+                "test",
+                "and prod environments.",
+                "Performed database physical design and upgrades with application/client requirements.",
+                "Administered high availability and disaster recovery strategies using log shipping and mirroring.",
+                "Configured linked servers and data transformation services (SSIS) for ETL processes.",
+                "Customized applications to maintain database objects like tables",
+                "indexes",
+                "views",
+                "triggers",
+                "functions",
+                "and procedures.",
+                "Implemented SQL Server 2012 features such as data compression",
+                "online indexing",
+                "and Contained Databases.",
+                "Optimized database performance using DMV queries and tuned SQL objects for high efficiency.",
+                "Worked extensively on clustering and server consolidation issues.",
+                "Expanded disaster recovery strategies with additional replication and backup solutions.",
+                "Secured SQL Server access with minimum privileges and maintained security configurations."
+            ]
+        },
+        {
+            "job_title": "SQL Server Database Administrator",
+            "company": "JetBlue Airways Corporation",
+            "location": "New York, NY",
+            "dates": "May 2012 - March 2014",
+            "key_responsibilities": [
+                "Installed and configured SQL Server 2008/2008 R2 in production environments.",
+                "Performed database design and upgrades to meet business requirements.",
+                "Administered high availability and disaster recovery strategies using log shipping and mirroring.",
+                "Configured linked servers for data integration with other systems.",
+                "Implemented data transformation services (SSIS) for ETL processes.",
+                "Customized applications to maintain and optimize database performance.",
+                "Managed security policies and access controls for SQL Server environments."
+            ]
+        }
+    ],
+    "education": [],
+    "skills": {
+        "technical_skills": [],
+        "tools_and_software": []
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

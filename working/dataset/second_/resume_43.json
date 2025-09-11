@@ -1,0 +1,56 @@
+{
+    "personal_information": {
+        "name": "Not specified",
+        "location": "Cincinnati, OH"
+    },
+    "professional_summary": "Database Administrator with over 5 years of experience in Oracle database management, including SQL, RMAN, and performance tuning. Expertise in Linux/Unix systems and database tools like Toad and OEM.",
+    "work_experience": [
+        {
+            "job_title": "Oracle Database Administrator",
+            "company": "Extracted Company Name",
+            "location": "Cincinnati, OH",
+            "dates": "2017 - Present",
+            "key_responsibilities": [
+                "Installed and configured Oracle databases on various platforms.",
+                "Performed regular maintenance and tuning for optimal performance.",
+                "Developed and implemented backup strategies using RMAN."
+            ]
+        },
+        {
+            "job_title": "Senior Database Administrator",
+            "company": "Extracted Company Name",
+            "location": "Cincinnati, OH",
+            "dates": "2015 - 2016",
+            "key_responsibilities": [
+                "Provided comprehensive database support for large-scale applications.",
+                "Monitored and analyzed performance metrics to optimize database operations.",
+                "Resolved complex issues related to database crashes and corruption."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science in Science of Education",
+            "institution": "University of Buea",
+            "year_of_completion": "2010"
+        },
+        {
+            "degree": "Additional Training",
+            "institution": "OLNC Training Center",
+            "year_of_completion": "2012"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "Oracle Database Administration\",\n            \"SQL\",\n            \"RMAN\",\n            \"Database Performance Tuning\",\n            \"Linux/Unix Systems\",\n            \"Shell Scripting\",\n            \"Troubleshooting\",\n            \"Database Backup Strategies"
+        ],
+        "tools_and_software": [
+            "Toad\",\n            \"Oracle Enterprise Manager (OEM)\",\n            \"SQL*Plus\",\n            \"PL/SQL\",\n            \"Red Hat Linux\",\n            \"Solaris\",\n            \"AIX\",\n            \"HP-UX"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

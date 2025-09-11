@@ -1,0 +1,95 @@
+{
+    "personal_information": {
+        "name": "",
+        "location": ""
+    },
+    "professional_summary": "Data Analyst with expertise in file cleanups, database administration, and customer service.",
+    "work_experience": [
+        {
+            "job_title": "Data Analyst",
+            "company": "Peach State Health Plan - Smyrna, GA",
+            "location": "Smyrna, GA",
+            "dates": "June 2019 - Present",
+            "key_responsibilities": [
+                "Expedite File Cleanups",
+                "Accurately save provider files",
+                "Accept incoming/outgoing calls to providers"
+            ]
+        },
+        {
+            "job_title": "Database Administrator",
+            "company": "Global Employment Solutions - Chicago, IL",
+            "location": "Chicago, IL",
+            "dates": "July 2016 - Present",
+            "key_responsibilities": [
+                "Put information into Microsoft Word spreadsheets",
+                "Transferred data from spreadsheets into company database"
+            ]
+        },
+        {
+            "job_title": "Hostess/Server Assistant/Prep Cook",
+            "company": "Iberian Pig - Decatur, GA",
+            "location": "Decatur, GA",
+            "dates": "July 2018 - June 2019",
+            "key_responsibilities": [
+                "Ensure customer satisfaction during incoming/outgoing calls",
+                "Book reservations via Open Table",
+                "Escort customers to their seats",
+                "the restroom",
+                "etc."
+            ]
+        },
+        {
+            "job_title": "Hostess/Server Assistant/Prep Cook",
+            "company": "Iberian Pig - Decatur, GA",
+            "location": "Decatur, GA",
+            "dates": "July 2018 - June 2019",
+            "key_responsibilities": [
+                "Create a warm and welcoming environment for guests",
+                "Make meaningful conversations with patrons",
+                "Learn cutting techniques from The julienne to chiffonade"
+            ]
+        },
+        {
+            "job_title": "Prep Cook",
+            "company": "Iberian Pig - Decatur, GA",
+            "location": "Decatur, GA",
+            "dates": "July 2018 - June 2019",
+            "key_responsibilities": [
+                "Memorized recipes",
+                "Exceeded par numbers each week"
+            ]
+        },
+        {
+            "job_title": "Receptionist for Admissions Department",
+            "company": "Oxford College - Oxford, GA",
+            "location": "Oxford, GA",
+            "dates": "January 2016 - May 2017",
+            "key_responsibilities": [
+                "Answer phone/work switchboard",
+                "Mingle with prospective students and families",
+                "Running errands around campus"
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor's in Psychology and Philosophy",
+            "institution": "Emory University - Atlanta, GA",
+            "year_of_completion": "2019"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "Customer Service Skills (2 years)\",\n            \"Microsoft Word (10+ years)\",\n            \"Google Drive (6 years)\",\n            \"R Commander (Less than 1 year)\",\n            \"Oracle DBA\",\n            \"Oracle Database\",\n            \"Excel\",\n            \"MS Office\",\n            \"PowerPoint"
+        ],
+        "tools_and_software": [
+            "Microsoft Office Suite\",\n            \"Google Drive\",\n            \"Oracle Databases"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

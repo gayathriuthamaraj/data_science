@@ -1,0 +1,56 @@
+{
+    "personal_information": {
+        "name": "Extracted Name",
+        "location": "Extracted Location"
+    },
+    "professional_summary": "Experienced Database Administrator with expertise in Oracle 11g/12c, RAC, ASM, and DataGuard. Proficient in SQL, PL/SQL, and shell scripting. Strong focus on performance tuning, disaster recovery, and database security.",
+    "work_experience": [
+        {
+            "job_title": "Database Administrator",
+            "company": "ABC Company",
+            "location": "Extracted Location",
+            "dates": "2020 - Present",
+            "key_responsibilities": [
+                "Administering Oracle 11g/12c databases",
+                "including RAC and DataGuard.",
+                "Performing database migrations to ASM and managing disk groups for high availability.",
+                "Implementing backup and recovery strategies using RMAN and Data Pump."
+            ]
+        },
+        {
+            "job_title": "Database Analyst",
+            "company": "XYZ Company",
+            "location": "Extracted Location",
+            "dates": "2017 - 2020",
+            "key_responsibilities": [
+                "Designing and optimizing database schemas",
+                "tables",
+                "and indexes.",
+                "Troubleshooting performance issues using AWR",
+                "ADDM",
+                "and STATPACK.",
+                "Managing user permissions and implementing security best practices."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science in Criminal Justice",
+            "institution": "University of North Texas",
+            "year_of_completion": "2017"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "Oracle Database Administration\",\n            \"Database Performance Tuning\",\n            \"Disaster Recovery and Backup Strategies\",\n            \"Database Security and Compliance\",\n            \"Shell Scripting for Automation"
+        ],
+        "tools_and_software": [
+            "Oracle Enterprise Manager Grid Control\",\n            \"Toad\",\n            \"SQL*Plus\",\n            \"AWR\",\n            \"STATPACK\",\n            \"TKPROF\",\n            \"Putty\",\n            \"Winscp\",\n            \"Remote Desktop Connection\",\n            \"VNC\",\n            \"Team Viewer\",\n            \"Logrotate"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

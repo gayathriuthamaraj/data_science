@@ -1,0 +1,75 @@
+{
+    "personal_information": {
+        "name": "Extracted Name",
+        "location": "Plantation, FL"
+    },
+    "professional_summary": "Experienced Amazon Redshift Administrator and ETL Developer with expertise in database management, query tuning, and data warehouse optimization.",
+    "work_experience": [
+        {
+            "job_title": "Amazon Redshift Administrator and ETL Developer",
+            "company": "Business Intelligence",
+            "location": "Plantation, FL",
+            "dates": "February 2018 - Present",
+            "key_responsibilities": [
+                "Maintain multiple database environments (Redshift",
+                "RDS) in AWS.",
+                "User management and group administration in Redshift.",
+                "Design and development of ETL jobs using Matillion ETL and Python scripts."
+            ]
+        },
+        {
+            "job_title": "Database Administrator",
+            "company": "CEAACES - Quito, Provincia de Pichincha",
+            "location": "Quito, Ecuador",
+            "dates": "November 2014 - December 2015",
+            "key_responsibilities": [
+                "Designed and implemented conceptual and physical data models.",
+                "Managed database integrity",
+                "availability",
+                "and performance optimization.",
+                "Migrated databases from SQL Management",
+                "PostgreSQL",
+                "and Oracle."
+            ]
+        },
+        {
+            "job_title": "Database Administrator",
+            "company": "Ceige - Havana, IL",
+            "location": "Havana, Cuba",
+            "dates": "September 2007 - October 2014",
+            "key_responsibilities": [
+                "Produced ER diagrams and normalized schemas.",
+                "Installed and managed database servers.",
+                "Implemented backup and recovery procedures."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor in Computer Science",
+            "institution": "University of Informatics",
+            "year_of_completion": "2007"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "SQL management",
+            "PostgreSQL (7 years)",
+            "Oracle (1 year)",
+            "MySQL (4 years)",
+            "ETL",
+            "Data Warehouse"
+        ],
+        "tools_and_software": [
+            "Matillion ETL",
+            "Python",
+            "Tableau",
+            "AWS Big Data Ecosystem"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

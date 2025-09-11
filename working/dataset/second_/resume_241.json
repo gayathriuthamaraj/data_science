@@ -1,0 +1,63 @@
+{
+    "personal_information": {
+        "name": "Extracted Name",
+        "location": "Hyderabad, Telangana"
+    },
+    "professional_summary": "Experienced professional with expertise in database management, software development, and project leadership. Proven track record in managing complex projects and delivering high-quality solutions.",
+    "work_experience": [
+        {
+            "job_title": "SQL Server Database Administrator",
+            "company": "Ozone Hospital - Hyderabad, Telangana",
+            "location": "Hyderabad, Telangana",
+            "dates": "September 2013 - February 2014",
+            "key_responsibilities": [
+                "Monitored contract services and maintained equipment logs.",
+                "Programmed medical equipment and resolved technical issues.",
+                "Designed test protocols and conducted research for medical devices."
+            ]
+        },
+        {
+            "job_title": "SQL Server Administrator",
+            "company": "Bio Medical Equipment Ozone Hospital - Hyderabad, Telangana",
+            "location": "Hyderabad, Telangana",
+            "dates": "September 2013 - February 2014",
+            "key_responsibilities": [
+                "Monitored contract services and ensured equipment maintenance.",
+                "Programmed and tested medical devices for emergencies.",
+                "Designed and implemented engineering solutions."
+            ]
+        },
+        {
+            "job_title": "SQL Server Developer",
+            "company": "Your Company Name - Hyderabad, Telangana",
+            "location": "Hyderabad, Telangana",
+            "dates": "March 2014 - Present",
+            "key_responsibilities": [
+                "Developed and maintained SQL databases for various applications.",
+                "Optimized database performance using PL/SQL and T-SQL.",
+                "Collaborated with cross-functional teams to deliver projects on time."
+            ]
+        },
+        {
+            "job_title": "Software Engineer",
+            "company": "Your Company Name - Hyderabad, Telangana",
+            "location": "Hyderabad, Telangana",
+            "dates": "March 2014 - Present",
+            "key_responsibilities": [
+                "Developed and debugged software applications using C# and VBScript.",
+                "Integrated third-party tools like MicroStrategy and Tableau for data visualization.",
+                "Performed quality assurance testing on developed software."
+            ]
+        }
+    ],
+    "education": [],
+    "skills": {
+        "technical_skills": [],
+        "tools_and_software": []
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

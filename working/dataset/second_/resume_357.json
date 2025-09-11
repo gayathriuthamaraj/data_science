@@ -1,0 +1,70 @@
+{
+    "personal_information": {
+        "name": "[Extracted Name]",
+        "location": "Atlanta, GA"
+    },
+    "professional_summary": "SQL Server Developer with database administration skills and Business Intelligence Developer experience using SQL Server Management Studio and Microsoft Business Intelligence Development Studio. Expertise in ETL solutions, data validation, SSRS report generation, and database design.",
+    "work_experience": [
+        {
+            "job_title": "Business Intelligence Developer",
+            "company": "OldCastle Materials Incorporated",
+            "location": "Atlanta, GA",
+            "dates": "May 2017 - Present",
+            "key_responsibilities": [
+                "Created an ETL solution for Product",
+                "Vendor",
+                "and Order data.",
+                "Developed SSRS reports using Tablix control for automatic delivery.",
+                "Designed and developed enterprise BI",
+                "data warehousing solutions."
+            ]
+        },
+        {
+            "job_title": "Database Analyst",
+            "company": "AAA Parking/Selig Enterprises",
+            "location": "Atlanta, GA",
+            "dates": "2016 - 2019",
+            "key_responsibilities": [
+                "Supported daily database operations and data testing.",
+                "Maintained Access and SQL Server databases for monthly dashboard reports.",
+                "Extracted expense data from SAP for various report versions."
+            ]
+        },
+        {
+            "job_title": "Jr. SQL Server Database Administrator/Engineer",
+            "company": "Voya",
+            "location": "Atlanta, GA",
+            "dates": "2013 - 2016",
+            "key_responsibilities": [
+                "Created and maintained relational databases for testing and production.",
+                "Solved database access and permission issues.",
+                "Assisted in backup and recovery of databases."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Science in Information Technology",
+            "institution": "Kennesaw State University - Marietta, GA",
+            "year_of_completion": "2016"
+        },
+        {
+            "degree": "Bachelor of Business Administration in Risk Management/Information Systems",
+            "institution": "Georgia State University - Atlanta, GA",
+            "year_of_completion": "2006"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "MS SQL Server 2005+\",\n            \"Integration Services (SSIS)\",\n            \"Reporting Services (SSRS)\",\n            \"Windows OS (95+)\",\n            \"Windows Server 2003/2008\",\n            \"T-SQL\",\n            \"XML\",\n            \"PL/SQL\",\n            \"Java"
+        ],
+        "tools_and_software": [
+            "SQL Server Management Studio\",\n            \"Microsoft Business Intelligence Development Studio\",\n            \"SQL Developer Work Experience\",\n            \"Visual Studio\",\n            \"PUTTY\",\n            \"Microsoft Office Suite"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

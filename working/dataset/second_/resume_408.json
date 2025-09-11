@@ -1,0 +1,76 @@
+{
+    "personal_information": {
+        "name": "Extracted Name",
+        "location": "Extracted Location"
+    },
+    "professional_summary": "Experienced Oracle and SQL DBA with expertise in RAC, DataGuard, and disaster recovery. Skilled in database administration, performance tuning, and data management using tools like AWR and ADDM.",
+    "work_experience": [
+        {
+            "job_title": "Oracle/SQL DBA",
+            "company": "Extracted Company Name",
+            "location": "Extracted Location",
+            "dates": "2008 - 2012",
+            "key_responsibilities": [
+                "Administered and maintained Oracle 10g",
+                "11g",
+                "12c RAC clusters for high availability.",
+                "Monitored and optimized database performance using AWR and ADDM reports.",
+                "Performed regular backups",
+                "archiving",
+                "and recovery operations."
+            ]
+        },
+        {
+            "job_title": "Database Administrator",
+            "company": "Extracted Company Name",
+            "location": "Extracted Location",
+            "dates": "2013 - 2018",
+            "key_responsibilities": [
+                "Implemented DataGuard for physical and logical standby databases.",
+                "Automated monitoring using CRON jobs and custom scripts for backup/recovery activities.",
+                "Provided technical support for application development teams in performance tuning."
+            ]
+        },
+        {
+            "job_title": "ExaData Administrator",
+            "company": "Extracted Company Name",
+            "location": "Extracted Location",
+            "dates": "2019 - 2022",
+            "key_responsibilities": [
+                "Administered ExaData solutions in multi-node RAC clusters.",
+                "Monitored storage and network configurations for optimal performance.",
+                "Applied security patches",
+                "including CPU and PSU updates."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Computer Science",
+            "institution": "Abia State University",
+            "year_of_completion": "2008"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "Oracle",
+            "PL/SQL",
+            "SQL",
+            "RAC",
+            "DataGuard",
+            "ExaData"
+        ],
+        "tools_and_software": [
+            "Linux",
+            "MYSQL",
+            "SQL Server",
+            "AWR",
+            "ADDM"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

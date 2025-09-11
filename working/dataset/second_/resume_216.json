@@ -1,0 +1,68 @@
+{
+    "personal_information": {
+        "name": "Md. Shamsur Rahman",
+        "location": "Chittagong, Bangladesh"
+    },
+    "professional_summary": "Expertise in SQL Server, MySQL, Oracle Database Administration, Data Migration, ETL (Extract, Transform, Load) processes, and database performance optimization.",
+    "work_experience": [
+        {
+            "job_title": "SQL Server Database Administrator",
+            "company": "Islamic University of Chittagong",
+            "location": "Chittagong, Bangladesh",
+            "dates": "2017 - Present",
+            "key_responsibilities": [
+                "Administering and optimizing SQL Server databases for academic and research operations.",
+                "Performing routine database maintenance",
+                "including backup",
+                "recovery",
+                "and disaster recovery strategies.",
+                "Migrating large-scale datasets from one database structure to another using SSIS tools."
+            ]
+        },
+        {
+            "job_title": "Database Administrator",
+            "company": "Islamic University of Chittagong",
+            "location": "Chittagong, Bangladesh",
+            "dates": "2012 - 2017",
+            "key_responsibilities": [
+                "Managing and optimizing MySQL databases for university applications.",
+                "Collaborating with developers to resolve database performance issues and optimize T-SQL queries.",
+                "Implementing database maintenance plans and ensuring database consistency."
+            ]
+        },
+        {
+            "job_title": "Database Analyst",
+            "company": "Islamic University of Chittagong",
+            "location": "Chittagong, Bangladesh",
+            "dates": "2008 - 2012",
+            "key_responsibilities": [
+                "Analyzing and solving complex database performance issues using tools like SQL Profiler and PerfMon.",
+                "Designing efficient database schemas and optimizing queries for university applications.",
+                "Migrating legacy systems to modern database platforms."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor's in Computer Science and Engineering",
+            "institution": "International Islamic University of Chittagong",
+            "year_of_completion": "2008"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "SQL",
+            "SQL Server",
+            "MySQL",
+            "Oracle"
+        ],
+        "tools_and_software": [
+            "SSIS\",\n            \"SSRS\",\n            \"BCP\",\n            \"SQL Profiler\",\n            \"PerfMon\",\n            \"Log Shipping\",\n            \"Mirroring"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

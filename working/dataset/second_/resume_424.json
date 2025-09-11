@@ -1,0 +1,59 @@
+{
+    "personal_information": {
+        "name": "Oracle Database Administrator",
+        "location": "Phoenix, AZ"
+    },
+    "professional_summary": "Experienced Oracle Database Administrator with expertise in database administration, system development, and maintenance. Proficient in Oracle 10g and 11g databases, DataGuard/Standby configurations, RMAN, and Grid Control. Strong skills in database capacity planning, user management, and application tuning.",
+    "work_experience": [
+        {
+            "job_title": "Oracle Database Administrator",
+            "company": "State Farm - Phoenix, AZ",
+            "location": "Phoenix, AZ",
+            "dates": "December 2014 - May 2016",
+            "key_responsibilities": [
+                "Monitored database growth and provided capacity planning.",
+                "Performed user and role administration",
+                "schema management",
+                "and space management.",
+                "Administered Oracle 10g and 11g databases on multiple platforms.",
+                "Executed traditional cold backups using OS commands and logical exports.",
+                "Converted single-node instances to RAC with ASM and added instances to existing RAC configurations."
+            ]
+        },
+        {
+            "job_title": "Oracle Database Administrator",
+            "company": "State Farm",
+            "location": "Phoenix, AZ",
+            "dates": "December 2014 - May 2016",
+            "key_responsibilities": [
+                "Monitored ETL jobs and resolved long-running database queries.",
+                "Performed up-gradation from 10g to 11g.",
+                "Administered SQL Server databases for development",
+                "testing",
+                "and production environments.",
+                "Provided assistance to application teams during SQL tuning.",
+                "Automated routine DBA tasks such as backups and stats using Grid Control jobs."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor's Degree",
+            "institution": "Arizona State University",
+            "year_of_completion": "2012"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "Oracle Database Administration\",\n            \"RMAN\",\n            \"SQL\",\n            \"Oracle Grid Control\",\n            \"DataGuard/Standby\",\n            \"RAC Configuration\",\n            \"Database Capacity Planning\",\n            \"User and Role Management\",\n            \"Application Tuning"
+        ],
+        "tools_and_software": [
+            "AIX\",\n            \"Cisco\",\n            \"HP-UX\",\n            \"Linux\",\n            \"Solaris\",\n            \"Unix"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

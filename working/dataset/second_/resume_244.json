@@ -1,0 +1,58 @@
+{
+    "personal_information": {
+        "name": "Oracle Database Administrator/Consultant",
+        "location": "Austell, GA"
+    },
+    "professional_summary": "Reliable, Responsible, Trusted & Proactive Oracle Database Administrator with expertise in crisis management, performance tuning, and high availability to increase reliability, maximize productivity and ensure system efficiencies. Adept at all stages of project lifecycle, from business requirements and technical definitions to testing, documentation, production support, training and completion.",
+    "work_experience": [
+        {
+            "job_title": "Oracle Database Administrator/Consultant",
+            "company": "Pishon Technologies Inc",
+            "location": "Austell, GA",
+            "dates": "April 2012 - May 2013",
+            "key_responsibilities": [
+                "Set up new databases and provided all database related support for the production environment.",
+                "Performed application installation",
+                "space estimation",
+                "performance/memory tuning",
+                "24/7 server/database monitoring",
+                "configuration and troubleshooting.",
+                "Installed required operating systems",
+                "Oracle grid infrastructures & Oracle database software."
+            ]
+        },
+        {
+            "job_title": "Oracle Database Administrator",
+            "company": "Optum Technologies",
+            "location": "Atlanta, GA",
+            "dates": "August 2008 - April 2012",
+            "key_responsibilities": [
+                "Performed all user requirements and troubleshooting activities.",
+                "Implemented",
+                "administrated",
+                "and maintained daily backup and archived data on tape.",
+                "Created user accounts & system/user-level database objects managed user privileges."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science in Geography",
+            "institution": "University of ADO",
+            "year_of_completion": "2001"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "DBA\",\n            \"RMAN\",\n            \"RAC\",\n            \"UNIX\",\n            \"WINDOWS\",\n            \"ASM\",\n            \"GRID CONTROL\",\n            \"BACKUP AND RECOVERY\",\n            \"GOLDEN GATE"
+        ],
+        "tools_and_software": [
+            "SQL*Plus\",\n            \"Enterprise Manager\",\n            \"Grid Control\",\n            \"SQL Loader\",\n            \"ERwin\",\n            \"RMAN\",\n            \"AWR\",\n            \"Scheduler\",\n            \"Data Pump\",\n            \"RAC\",\n            \"Partitioning\",\n            \"Active Data Guard\",\n            \"Unix Shell Scripting\",\n            \"ASM\",\n            \"Data Archiving\",\n            \"TOAD\",\n            \"MobaxTerm\",\n            \"SecureCRT"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

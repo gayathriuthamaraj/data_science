@@ -1,0 +1,71 @@
+{
+    "personal_information": {
+        "name": "Extracted Name",
+        "location": "Springfield, IL"
+    },
+    "professional_summary": "Experienced Database Administrator with expertise in Oracle, SQL Server, and MySQL, skilled in database administration, performance tuning, and security.",
+    "work_experience": [
+        {
+            "job_title": "Database Administrator",
+            "company": "Illinois Department of Public Health",
+            "location": "Springfield, IL",
+            "dates": "June 2014 - December 2015",
+            "key_responsibilities": [
+                "Recommended database solutions for stakeholders.",
+                "Troubleshot database issues and improved query performance.",
+                "Performed daily user requests and schema migrations."
+            ]
+        },
+        {
+            "job_title": "Deployment Technician and Computer Science Tutor",
+            "company": "Scott Community College",
+            "location": "Springfield, IL",
+            "dates": "January 2013 - June 2013",
+            "key_responsibilities": [
+                "Assisted students with database projects in SQL Server",
+                "MySQL",
+                "Oracle",
+                "and MS Access.",
+                "Taught students SQL statements",
+                "database objects",
+                "and normalization concepts."
+            ]
+        },
+        {
+            "job_title": "Database Administrator",
+            "company": "Illinois Department of Public Health",
+            "location": "Springfield, IL",
+            "dates": "June 2014 - December 2015",
+            "key_responsibilities": [
+                "Recommended database solutions for stakeholders.",
+                "Troubleshot database issues and improved query performance.",
+                "Performed daily user requests and schema migrations."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Applied Science in Management Information Systems",
+            "institution": "University of Illinois at Springfield",
+            "year_of_completion": "2015 - 2016"
+        },
+        {
+            "degree": "Associate of Applied Science in Applied Science",
+            "institution": "Eastern Iowa Community College",
+            "year_of_completion": "2013 - 2014"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "Database administration\",\n            \"SQL Server, Oracle, MySQL\",\n            \"PL/SQL, DBA, DB2\",\n            \"Performance tuning, database security\",\n            \"Data architect, SQL development\",\n            \"Oracle E-Business Suite Training"
+        ],
+        "tools_and_software": [
+            "AWS RDS, VMware Service Manager\",\n            \"ServiceNow Ticketing System\",\n            \"Microsoft Office Suite (Word, Excel, Outlook, Access, PowerPoint)\",\n            \"VMware, ServiceNow"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

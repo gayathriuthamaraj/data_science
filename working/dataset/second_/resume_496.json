@@ -1,0 +1,77 @@
+{
+    "personal_information": {
+        "name": "Extracted Name",
+        "location": "Extracted Location"
+    },
+    "professional_summary": "Expertise in SQL Server administration, data transformation, and business intelligence solutions. Proficient in T-SQL, SSIS, SSRS, and database optimization.",
+    "work_experience": [
+        {
+            "job_title": "SQL Server Developer",
+            "company": "Samyak Techno Solutions Pvt Ltd",
+            "location": "Extracted Location",
+            "dates": "May 2012 - March 2013",
+            "key_responsibilities": [
+                "Designed and developed new databases to meet business requirements.",
+                "Created database objects including tables",
+                "indexes",
+                "views",
+                "triggers",
+                "and constraints.",
+                "Implemented stored procedures",
+                "functions",
+                "and triggers to enforce business rules."
+            ]
+        },
+        {
+            "job_title": "SQL Server Administrator",
+            "company": "Samyak Techno Solutions Pvt Ltd",
+            "location": "Extracted Location",
+            "dates": "March 2013 - May 2012",
+            "key_responsibilities": [
+                "Performed database tuning and optimization to reduce I/O and memory contention.",
+                "Optimized complex SQL queries for efficiency.",
+                "Configured and maintained DR environments using Log Shipping and Mirroring."
+            ]
+        },
+        {
+            "job_title": "SQL Server Developer",
+            "company": "Extracted Company Name",
+            "location": "Extracted Location",
+            "dates": "May 2012 - March 2013",
+            "key_responsibilities": [
+                "Performed requirements gathering",
+                "analysis",
+                "and design for database solutions.",
+                "Developed complex SQL queries including inner and outer joins.",
+                "Rebuilt indexes to reduce fragmentation."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master's",
+            "institution": "Extracted University Name",
+            "year_of_completion": "2012"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "SQL",
+            "T-SQL",
+            "C#",
+            "Java",
+            "Python"
+        ],
+        "tools_and_software": [
+            "SSIS",
+            "SSRS",
+            "PL/SQL",
+            "DBA"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

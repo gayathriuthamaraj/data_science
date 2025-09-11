@@ -1,0 +1,76 @@
+{
+    "personal_information": {
+        "name": "MS SQL Server Database Administrator",
+        "location": "Fair Oaks, CA"
+    },
+    "professional_summary": "Seeking a challenging role to expand knowledge and skills in database administration.",
+    "work_experience": [
+        {
+            "job_title": "MS SQL Server Database Administrator",
+            "company": "INFOSYS - Hyderabad, Telangana",
+            "location": "Hyderabad, Telangana",
+            "dates": "March 2014 - September 2016",
+            "key_responsibilities": [
+                "Provided first-level support to users using ticketing tools such as ITSM and Techease.",
+                "Identified incident severity and logged information into tracking systems with correct categorization and prioritization.",
+                "Monitored",
+                "maintained",
+                "and followed up on all tickets for accurate work completion."
+            ]
+        },
+        {
+            "job_title": "Customer Process Associate",
+            "company": "AMAZON - Hyderabad, Telangana",
+            "location": "Hyderabad, Telangana",
+            "dates": "July 2013 - December 2013",
+            "key_responsibilities": [
+                "Determined customer needs and provided solutions.",
+                "Responded to customer issues via email with grammatically correct",
+                "concise",
+                "and accurate written responses.",
+                "Supported customers with online billing and account issues."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor's",
+            "institution": "Extracted University Name",
+            "year_of_completion": "Not specified"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "SQL",
+            "DNS",
+            "TCP/IP",
+            "SHARK",
+            "BGP",
+            "Sql Server",
+            "Sql Dba"
+        ],
+        "tools_and_software": [
+            "Word",
+            "Excel",
+            "PowerPoint",
+            "Outlook",
+            "NAT/PAT",
+            "VPNs",
+            "IPSec",
+            "TCP/IP",
+            "UDP",
+            "RIP",
+            "BGP",
+            "SSH",
+            "DHCP",
+            "DNS",
+            "FTP",
+            "HTTP"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

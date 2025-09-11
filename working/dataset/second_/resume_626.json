@@ -1,0 +1,73 @@
+{
+    "personal_information": {
+        "name": "AutoMatStore.com Developer and Database Administrator",
+        "location": "Columbia, MO"
+    },
+    "professional_summary": "Experienced Developer and Database Administrator with expertise in database design, API integration, front-end development, SEO optimization, and IT support.",
+    "work_experience": [
+        {
+            "job_title": "Developer and Database Administrator",
+            "company": "AutoMatStore.com",
+            "location": "Columbia, MO",
+            "dates": "May 2014 to Present",
+            "key_responsibilities": [
+                "Designed databases based on manufacturer data files.",
+                "Created JSON APIs to connect databases to website and eBay.",
+                "Managed linux machines that hosted APIs.",
+                "Created \\\"configurators\\\" to help customers customize and complete orders.",
+                "Worked with SEO professionals to increase website traffic.",
+                "Managed relationships with marketing companies to optimize landing pages.",
+                "Ran custom reports and queries for company owner.",
+                "Wrote scripts to output files to facilitate new eBay listings.",
+                "Managed virtual development machines used by programmers."
+            ]
+        },
+        {
+            "job_title": "IT Technician",
+            "company": "Women's and Children's Hospital",
+            "location": "Columbia, MO",
+            "dates": "September 2011 to May 2013",
+            "key_responsibilities": [
+                "Provided general tech support such as installing peripherals and setting up new computers/technology.",
+                "Resolved user challenges and troubleshoot issues.",
+                "Worked with supervisor to prioritize tasks."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "B.S. in Information Technology",
+            "institution": "University of Missouri - Columbia, MO",
+            "year_of_completion": "2014"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "C++",
+            "HTML",
+            "JavaScript",
+            "Perl",
+            "PostgreSQL",
+            "jQuery",
+            "PHP",
+            "Python",
+            "SQL",
+            "Node.js",
+            "Java"
+        ],
+        "tools_and_software": [
+            "ExpressJS",
+            "KnexJS",
+            "HAWK",
+            "JQuery",
+            "Vagrant",
+            "VirtualBox",
+            "SourceTree"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

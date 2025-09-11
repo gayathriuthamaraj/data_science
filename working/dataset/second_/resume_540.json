@@ -1,0 +1,60 @@
+{
+    "personal_information": {
+        "name": "Mason Pruitt",
+        "location": "Arlington, VA"
+    },
+    "professional_summary": "Analytics professional with over six years of experience driving data-driven insights and supporting decision-making through cost analysis, pricing restructuring, and database management.",
+    "work_experience": [
+        {
+            "job_title": "Pricing Database Administrator",
+            "company": "Dominion Electric Supply",
+            "location": "Arlington, VA",
+            "dates": "November 2017 - June 2018",
+            "key_responsibilities": [
+                "Streamlined cost structure for $500M inventory.",
+                "Analyzed and implemented cost and pricing data through ETL.",
+                "Implemented margin recommendations to drive gross profit margin by two points.",
+                "Conducted competitor product line analysis to save $70",
+                "000.",
+                "Maintained web catalog database using SQL extracts.",
+                "Performed quantitative analysis for pricing adjustments.",
+                "Supported sales team with margin optimization best practices."
+            ]
+        },
+        {
+            "job_title": "Pricing Manager & Data Analyst",
+            "company": "Crescent Electric Supply Company",
+            "location": "Arlington, VA",
+            "dates": "March 2013 - June 2017",
+            "key_responsibilities": [
+                "Maintained and developed sell pricing structures.",
+                "Provided technical advice to purchasing personnel on data analysis.",
+                "Analyzed vendor SPA pricing for strategic recommendations.",
+                "Prepared monthly reports for senior management.",
+                "Created dashboards and GIS maps for market insights.",
+                "Conducted reviews of process improvement initiatives."
+            ]
+        },
+        {
+            "job_title": "Marketing Intern",
+            "company": "Danville Regional Foundation",
+            "location": "Danville, VA",
+            "dates": "December 2011 - June 2012",
+            "key_responsibilities": [
+                "Supported marketing projects with cross-functional teams.",
+                "Coordinated logistics and budget planning for events.",
+                "Developed marketing strategies for initiatives."
+            ]
+        }
+    ],
+    "education": [],
+    "skills": {
+        "technical_skills": [],
+        "tools_and_software": []
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

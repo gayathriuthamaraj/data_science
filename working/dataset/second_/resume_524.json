@@ -1,0 +1,55 @@
+{
+    "personal_information": {
+        "name": "Oracle Database Administrator",
+        "location": "Pittsburgh, PA"
+    },
+    "professional_summary": "Oracle Database Administrator with 7+ years of experience in database administration, performance tuning, and disaster recovery.",
+    "work_experience": [
+        {
+            "job_title": "Oracle Database Administrator",
+            "company": "Bank Of New York Mellon / Eagle Investment Systems",
+            "location": "Pittsburgh, PA",
+            "dates": "2016 - 2018",
+            "key_responsibilities": [
+                "Took lead in disaster recovery and business continuity exercises.",
+                "Upgraded databases to version 12c from 11g and 10g and applied patches on Linux servers.",
+                "Performed Database Refresh",
+                "User Acceptance Testing (UAT)",
+                "and Development database implementation.",
+                "Implemented Backup & Recovery using RMAN and user-managed backups.",
+                "Troubleshot and tuned database performance issues to reduce resolution time."
+            ]
+        },
+        {
+            "job_title": "Oracle Database Administrator",
+            "company": "Fidelity Investments",
+            "location": "Boston, MA",
+            "dates": "2013 - 2016",
+            "key_responsibilities": [
+                "Upgraded and maintained databases.",
+                "Implemented 11g RAC for high availability.",
+                "Used AWR",
+                "ADDM",
+                "and explain plan for performance tuning.",
+                "Implemented Data pump for re-organizing databases",
+                "schemas",
+                "and tables.",
+                "Configured Data Guard sites."
+            ]
+        }
+    ],
+    "education": [],
+    "skills": {
+        "technical_skills": [
+            "Oracle\",\n            \"RMAN\",\n            \"Linux\",\n            \"Performance Tuning\",\n            \"Disaster Recovery\",\n            \"Database Administration"
+        ],
+        "tools_and_software": [
+            "AWR\",\n            \"ADMM\",\n            \"Toad\",\n            \"Putty\",\n            \"Remedy\",\n            \"RHEL\",\n            \"WinSCP\",\n            \"Service Now\",\n            \"Geirs\",\n            \"Oracle 10g, 11g, 12c\",\n            \"SQL Server Sqlplus\",\n            \"Oracle Grid Control\",\n            \"UNIX Shell Scripting\",\n            \"PL/SQL\",\n            \"SQL"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

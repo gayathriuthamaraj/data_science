@@ -1,0 +1,98 @@
+{
+    "personal_information": {
+        "name": "Application Developer",
+        "location": "Charlotte, NC"
+    },
+    "professional_summary": "Software developer with nine years of experience in software development seeking a position to apply technical expertise.",
+    "work_experience": [
+        {
+            "job_title": "Application Developer",
+            "company": "UNIVERSITY OF NORTH CAROLINA AT CHARLOTTE",
+            "location": "Charlotte, NC",
+            "dates": "March 2019 - Present",
+            "key_responsibilities": [
+                "Developed applications in JavaScript",
+                "SQL",
+                "and HTML5 for Perceptive Content.",
+                "Provided support for the university's imaging and workflow solution Perceptive Content."
+            ]
+        },
+        {
+            "job_title": "Blackboard Administrator/Systems Programmer",
+            "company": "WINSTHROP UNIVERSITY",
+            "location": "Charlotte, NC",
+            "dates": "August 2017 - March 2019",
+            "key_responsibilities": [
+                "Developed web applications using PHP",
+                "SQL Server",
+                "Oracle",
+                "JavaScript",
+                "jQuery",
+                "HTML5",
+                "and CSS3.",
+                "Provided support for Blackboard products including Blackboard Learn",
+                "Blackboard Collaborate",
+                "and Blackboard Analytics.",
+                "Completed updates",
+                "backups",
+                "and administrative tasks for Blackboard products."
+            ]
+        },
+        {
+            "job_title": "Database/Security Analyst",
+            "company": "SC GOVERNOR'S SCHOOL FOR SCIENCE & MATHEMATICS",
+            "location": "Charlotte, NC",
+            "dates": "August 2015 - July 2017",
+            "key_responsibilities": [
+                "Developed responsive web applications",
+                "reports",
+                "and forms using PHP",
+                "MySQL",
+                "JavaScript",
+                "jQuery",
+                "HTML5",
+                "and CSS3.",
+                "Maintained data in MySQL databases and performed routine imports into third-party systems.",
+                "Analyzed and developed security procedures and performed routine security checks."
+            ]
+        },
+        {
+            "job_title": "Programmer",
+            "company": "STINGRAY BOAT COMPANY",
+            "location": "Charlotte, NC",
+            "dates": "November 2010 - July 2015",
+            "key_responsibilities": [
+                "Developed web applications using PHP",
+                "MySQL",
+                "JavaScript",
+                "jQuery",
+                "HTML5",
+                "and CSS3.",
+                "Maintained data and performed backups of MySQL databases.",
+                "Provided general IT support on computers and hardware.",
+                "Developed and maintained iPhone and iPad applications for internal use.",
+                "Created Facebook and Twitter applications for boat shows and tracking."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Arts in Computer Science",
+            "institution": "Coker College",
+            "year_of_completion": "2010"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "JavaScript (9 years)\",\n            \"Objective c (4 years)\",\n            \"PHP (9 years)\",\n            \"HTML5 (9 years)\",\n            \"jquery (9 years)\",\n            \"HTML (9 years)\",\n            \"SQL (9 years)\",\n            \"Sql Server (2 years)\",\n            \"Oracle\",\n            \"LAMP"
+        ],
+        "tools_and_software": [
+            "MySQL\",\n            \"HTML5\",\n            \"jQuery\",\n            \"CSS3\",\n            \"SQL\",\n            \"SQL Server\",\n            \"Oracle\",\n            \"Objective C\",\n            \"LAMP\",\n            \"Canvas\",\n            \"Blackboard\",\n            \"Perceptive Content"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

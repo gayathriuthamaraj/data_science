@@ -1,0 +1,84 @@
+{
+    "personal_information": {
+        "name": "Extracted Name",
+        "location": "Extracted Location"
+    },
+    "professional_summary": "Database Administrator with expertise in Oracle, MySQL, SQL, and PL/SQL. Skilled in database design, optimization, and administration. Experienced in front-end development using HTML, CSS, JavaScript, and jQuery.",
+    "work_experience": [
+        {
+            "job_title": "Database Administrator",
+            "company": "J.Crew Group, Inc",
+            "location": "Dallas, TX",
+            "dates": "June 2008 - February 2010",
+            "key_responsibilities": [
+                "Review and optimize SQL and PL/SQL code for production and sub-environments.",
+                "Monitor database availability and performance metrics daily.",
+                "Log review and analysis for significant events in overnight and batch processes."
+            ]
+        },
+        {
+            "job_title": "Database Administrator",
+            "company": "J.Crew Group, Inc",
+            "location": "Dallas, TX",
+            "dates": "June 2008 - February 2010",
+            "key_responsibilities": [
+                "Create database tables",
+                "views",
+                "and indexes.",
+                "Develop functions using PL/SQL and create DML",
+                "DDL",
+                "DRL",
+                "TCL",
+                "DCL using SQL.",
+                "Invoices imported from Excel sheets to the Oracle Database using SQL*Loader."
+            ]
+        },
+        {
+            "job_title": "Database Administrator",
+            "company": "J.Crew Group, Inc",
+            "location": "Dallas, TX",
+            "dates": "June 2008 - February 2010",
+            "key_responsibilities": [
+                "Create HTML and CSS from Photoshop mockups.",
+                "Define and develop the application's presentation layer using HTML",
+                "CSS",
+                "JavaScript",
+                "and jQuery scripting."
+            ]
+        },
+        {
+            "job_title": "Database Administrator (DBA)",
+            "company": "J.Crew Group, Inc",
+            "location": "Dallas, TX",
+            "dates": "June 2008 - February 2010",
+            "key_responsibilities": [
+                "Ensure data integrity and detect errors in data misuse.",
+                "Administer MySQL database installations and upgrades",
+                "performance monitoring",
+                "and tuning."
+            ]
+        },
+        {
+            "job_title": "Senior Database Administrator",
+            "company": "Extracted Company Name",
+            "location": "Extracted Location",
+            "dates": "Extracted Dates",
+            "key_responsibilities": [
+                "Full responsibility for database design",
+                "optimization",
+                "and administration.",
+                "Implementation of process improvement initiatives."
+            ]
+        }
+    ],
+    "education": [],
+    "skills": {
+        "technical_skills": [],
+        "tools_and_software": []
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

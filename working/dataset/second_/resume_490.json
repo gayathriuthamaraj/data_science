@@ -1,0 +1,67 @@
+{
+    "personal_information": {
+        "name": "BI/SSRS Developer",
+        "location": "Ellenwood, GA"
+    },
+    "professional_summary": "Diligent SQL Server Reporting developer, business analyst, website developer, database administrator with over seven years of experience in related fields. Proficient in developing SQL Server reports, specializing in website design templates and database connection implementation. Seeking to apply development and database management skills while continuing learning.",
+    "work_experience": [
+        {
+            "job_title": "BI/SSRS Developer",
+            "company": "EXAMWORKs",
+            "location": "Ellenwood, GA",
+            "dates": "Not explicitly provided",
+            "key_responsibilities": [
+                "Developing and optimizing SQL Server reports",
+                "Analyzing business requirements and data needs",
+                "Collaborating with cross-functional teams to deliver solutions"
+            ]
+        },
+        {
+            "job_title": "Website Developer",
+            "company": "Independent Consultancy",
+            "location": "Ellenwood, GA",
+            "dates": "Not explicitly provided",
+            "key_responsibilities": [
+                "Designing and developing websites and web applications",
+                "Ensuring compliance with technical specifications and business requirements",
+                "Performing testing and quality assurance"
+            ]
+        },
+        {
+            "job_title": "Database Administrator",
+            "company": "EDITEC LOTTERIES UK",
+            "location": "Ellenwood, GA",
+            "dates": "Not explicitly provided",
+            "key_responsibilities": [
+                "Managing and optimizing databases to support organizational needs",
+                "Ensuring data integrity and security",
+                "Providing technical support for database queries and issues"
+            ]
+        },
+        {
+            "job_title": "Website Developer",
+            "company": "PERSOL SYSTEMS LIMITED",
+            "location": "Ellenwood, GA",
+            "dates": "June 2003 - May 2005",
+            "key_responsibilities": [
+                "Developing websites and web applications as assigned by project managers",
+                "Testing projects to meet business requirements and technical specifications",
+                "Collaborating with clients to understand their website development needs"
+            ]
+        }
+    ],
+    "education": [],
+    "skills": {
+        "technical_skills": [
+            "SQL Server\",\n            \"Microsoft SQL Server\",\n            \"Database Administration\",\n            \"Web Development\",\n            \"Report Development\",\n            \"Data Analysis"
+        ],
+        "tools_and_software": [
+            "MS Access\",\n            \"MySQL\",\n            \"Analysis Services\",\n            \"HTML\",\n            \"PHP\",\n            \"Reporting Tools\",\n            \"MicroStrategy\",\n            \"Tableau\",\n            \"ASP\",\n            \"CSS\",\n            \"DHTML\",\n            \"Flash\",\n            \"MS Office\",\n            \"SOAP\",\n            \"UI\",\n            \"JIRA\",\n            \"Java\",\n            \"Excel\",\n            \"SSRS\",\n            \"Data Warehouse\",\n            \"SQL Server"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

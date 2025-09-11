@@ -1,0 +1,64 @@
+{
+    "personal_information": {
+        "name": "Extracted Name",
+        "location": "Jacksonville, FL"
+    },
+    "professional_summary": "Experienced SQL Server Database Administrator and Developer with expertise in database design, administration, and development. Proficient in T-SQL, SQL Server Integration Services (SSIS), and performance tuning. Strong skills in data modeling, disaster recovery, and business continuity.",
+    "work_experience": [
+        {
+            "job_title": "SQL Server Agent",
+            "company": "SQL Server Agent",
+            "location": "Jacksonville, FL",
+            "dates": "August 2011 - December 2011",
+            "key_responsibilities": [
+                "Database planning and design using conceptual",
+                "logical",
+                "and physical models.",
+                "Routine system checks",
+                "maintenance",
+                "backups",
+                "and restorations using SQL Server Management Studio and Profiler.",
+                "Troubleshooting to improve database performance and concurrency."
+            ]
+        },
+        {
+            "job_title": "SQL Server Database Administrator/Developer",
+            "company": "CHI Health Insurance",
+            "location": "Jacksonville, FL",
+            "dates": "August 2011 - December 2011",
+            "key_responsibilities": [
+                "Data migration",
+                "backup",
+                "and restoration using SQL Server 2012 tools.",
+                "Design and development of SSIS packages for data extraction and loading.",
+                "Performance optimization through analysis of long-running queries."
+            ]
+        },
+        {
+            "job_title": "SQL Server Database Agent",
+            "company": "SQL Server Agent",
+            "location": "Jacksonville, FL",
+            "dates": "August 2011 - December 2011",
+            "key_responsibilities": [
+                "Database planning and design using conceptual",
+                "logical",
+                "and physical models.",
+                "Routine system checks",
+                "maintenance",
+                "backups",
+                "and restorations using SQL Server Management Studio and Profiler.",
+                "Troubleshooting to improve database performance and concurrency."
+            ]
+        }
+    ],
+    "education": [],
+    "skills": {
+        "technical_skills": [],
+        "tools_and_software": []
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "personal_information": {
+        "name": "Extracted Name",
+        "location": "Lagos, NG"
+    },
+    "professional_summary": "Experienced Oracle Database Administrator with over 15 years of expertise in managing and optimizing large-scale database systems. Proficient in RAC cluster management, database security, performance tuning, and advanced SQL scripting. Strong technical skills across multiple platforms and tools.",
+    "work_experience": [
+        {
+            "job_title": "Oracle Database Administrator",
+            "company": "Mastec Advanced Technologies",
+            "location": "Lagos, NG",
+            "dates": "September 2012 - October 2015",
+            "key_responsibilities": [
+                "Configured and managed Oracle databases across development",
+                "test",
+                "training",
+                "and production environments.",
+                "Performed database upgrades and health checks to ensure optimal performance.",
+                "Enhanced SQL statements using Explain Plan and Oracle optimizer hints."
+            ]
+        },
+        {
+            "job_title": "Oracle Database Administrator",
+            "company": "Extracted Company Name",
+            "location": "Lagos, NG",
+            "dates": "October 2015 - Present",
+            "key_responsibilities": [
+                "Managed Linux and Solaris systems for Oracle database operations.",
+                "Configured and maintained RAC clusters to ensure high availability.",
+                "Implemented security best practices by creating users",
+                "roles",
+                "and profiles."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science in Civil and Environmental Engineering",
+            "institution": "University of Lagos - Lagos, NG",
+            "year_of_completion": "2012"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "Oracle\",\n            \"PL/SQL\",\n            \"SQL\",\n            \"RMAN\",\n            \"Linux\",\n            \"Shell Scripting\",\n            \"Solaris\",\n            \"Unix\",\n            \"HP-UX\",\n            \"Cisco\",\n            \"VMs"
+        ],
+        "tools_and_software": [
+            "DBCA\",\n            \"DBUA\",\n            \"WinSCP\",\n            \"Oracle Data Guard\",\n            \"RAC\",\n            \"RMAN\",\n            \"ASM\",\n            \"VCS\",\n            \"SQL*PLUS\",\n            \"SQL*LOADER\",\n            \"SQL Developer EXP\",\n            \"IMP\",\n            \"Data Pump (expdp, impdp)\",\n            \"TOAD\",\n            \"Erwin\",\n            \"Data Modeler\",\n            \"SQL*QueryAnalyzer"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

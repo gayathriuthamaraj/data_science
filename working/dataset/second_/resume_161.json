@@ -1,0 +1,53 @@
+{
+    "personal_information": {
+        "name": "Extracted Name",
+        "location": "Not specified"
+    },
+    "professional_summary": "Experienced Oracle Database Administrator with expertise in backup recovery, performance tuning, and high availability solutions. Skilled in designing and implementing backup strategies using RMAN, Data Pump, and conventional methods.",
+    "work_experience": [
+        {
+            "job_title": "Senior Oracle Database Administrator",
+            "company": "Oracle Corporation",
+            "location": "Not specified",
+            "dates": "2010 - 2023",
+            "key_responsibilities": [
+                "Administered large-scale Oracle databases for enterprise applications.",
+                "Designed and implemented backup and recovery strategies using RMAN and Data Pump.",
+                "Performed regular database maintenance",
+                "performance tuning",
+                "and optimization."
+            ]
+        },
+        {
+            "job_title": "Oracle DBA Consultant",
+            "company": "Cognizant Technology Solutions",
+            "location": "Not specified",
+            "dates": "2008 - 2010",
+            "key_responsibilities": [
+                "Provided Oracle database consulting services for multiple clients.",
+                "Configured and maintained Oracle RAC environments for high availability.",
+                "Implemented Transportable Tablespace (TTS) and Flash-Back Recovery solutions."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Not specified",
+            "institution": "Not specified",
+            "year_of_completion": "Not specified"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "Oracle Database Administration\",\n            \"Backup and Recovery Solutions\",\n            \"Performance Tuning and Optimization\",\n            \"High Availability Solutions (RAC)\",\n            \"Data Pump, Export/Import, RMAN\",\n            \"Flash-Back Recovery, PITR, TSPITR"
+        ],
+        "tools_and_software": [
+            "Oracle SQL Developer\",\n            \"Oracle Enterprise Manager (OEM)\",\n            \"TOAD (Toast and Dialect)\",\n            \"SQL*Loader\",\n            \"EXP/IMP Tools\",\n            \"Perl Scripting for Patch Management"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

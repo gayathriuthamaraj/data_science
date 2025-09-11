@@ -1,0 +1,81 @@
+{
+    "personal_information": {
+        "name": "Meghana",
+        "location": "Dallas, TX"
+    },
+    "professional_summary": "Data Engineer pursuing M.S. in Analytics with a focus on Data Science and Marketing at the University of Texas at Dallas. Experienced in deriving business insights from data using analytics and data-driven methods, expected to graduate in December 2019.",
+    "work_experience": [
+        {
+            "job_title": "Data Engineer",
+            "company": "Hewlett Packard Enterprise",
+            "location": "Dallas, TX",
+            "dates": "September 2016 - May 2018",
+            "key_responsibilities": [
+                "Developed visualizations",
+                "interactive reports",
+                "and dashboards using Tableau/PowerBI to track company performance and KPI metrics.",
+                "Implemented a Business Name Swap model using Naive Bayes Algorithm to resolve issues with misclassification of business names.",
+                "Modeled probability of attrition using Logistic Regression and Random Forest with an accuracy of 80%."
+            ]
+        },
+        {
+            "job_title": "Internship",
+            "company": "IIM Lucknow",
+            "location": "Lucknow, India",
+            "dates": "June 2017 - August 2017",
+            "key_responsibilities": [
+                "Applied statistical concepts to analyze business cases published by Harvard Business School.",
+                "Used Linear Regression and RStudio to predict factors affecting the difference in pricing for premium economic tickets."
+            ]
+        },
+        {
+            "job_title": "Database Management",
+            "company": "University of Texas at Dallas",
+            "location": "Dallas, TX",
+            "dates": "November 2018 - December 2018",
+            "key_responsibilities": [
+                "Performed data cleaning and normalization.",
+                "Designed data flow diagrams and schema mapping on Oracle database."
+            ]
+        },
+        {
+            "job_title": "Machine Learning",
+            "company": "University of Texas at Dallas",
+            "location": "Dallas, TX",
+            "dates": "February 2019 - March 2019",
+            "key_responsibilities": [
+                "Implemented Linear Regression using Gradient Descent and Machine Learning classification algorithms (SVM",
+                "Decision Tree",
+                "Boosting) on UCI Facebook Comment Dataset."
+            ]
+        },
+        {
+            "job_title": "Service Information Developer",
+            "company": "Internal BI Projects",
+            "location": "Dallas, TX",
+            "dates": "February 2015 - August 2016",
+            "key_responsibilities": [
+                "Developed solutions for service information management."
+            ]
+        },
+        {
+            "job_title": "Database Administrator",
+            "company": "Previous Role",
+            "location": "Dallas, TX",
+            "dates": "September 2014 - February 2015",
+            "key_responsibilities": [
+                "Supported database operations and maintenance."
+            ]
+        }
+    ],
+    "education": [],
+    "skills": {
+        "technical_skills": [],
+        "tools_and_software": []
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

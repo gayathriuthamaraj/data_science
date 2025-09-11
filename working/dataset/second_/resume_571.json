@@ -1,0 +1,51 @@
+{
+    "personal_information": {
+        "name": "Ankitha Sethi",
+        "location": "Redmond, WA and Tampa, FL"
+    },
+    "professional_summary": "Cloud Network Engineer with expertise in network infrastructure management, database administration, and cloud solutions architecture. Proficient in AWS, VMware vSphere, and various networking tools.",
+    "work_experience": [
+        {
+            "job_title": "Cloud Network Engineer",
+            "company": "Tech Mahindra",
+            "location": "Redmond, WA",
+            "dates": "2018 - Present",
+            "key_responsibilities": [
+                "Designing and implementing network infrastructure solutions.",
+                "Configuring and optimizing F5 BIG-IP LTM/GTM devices.",
+                "Managing Juniper SRX and vSRX firewalls."
+            ]
+        },
+        {
+            "job_title": "Database Administrator",
+            "company": "ABC Technologies",
+            "location": "Tampa, FL",
+            "dates": "2016 - 2018",
+            "key_responsibilities": [
+                "Overseeing database operations and maintenance.",
+                "Implementing Apache Cassandra for scalable database solutions.",
+                "Troubleshooting and optimizing database performance."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "M.S. in Computer Science",
+            "institution": "Florida State University",
+            "year_of_completion": "2014"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "Networking\",\n            \"Cloud Solutions\",\n            \"Database Administration\",\n            \"Programming Languages (Python, Bash)\",\n            \"Apache Cassandra"
+        ],
+        "tools_and_software": [
+            "F5 BIG-IP LTM/GTM\",\n            \"Juniper SRX and vSRX\",\n            \"AWS Certified Solutions Architect – Associate\",\n            \"VMware vSphere\",\n            \"Wireshark\",\n            \"IXIA, Splinter, Splunk"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

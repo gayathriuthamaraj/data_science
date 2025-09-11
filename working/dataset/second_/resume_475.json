@@ -1,0 +1,61 @@
+{
+    "personal_information": {
+        "name": "Junior AWS Cloud Solutions Architect",
+        "location": "Atlanta, GA"
+    },
+    "professional_summary": "Experienced in building scalable and fault-tolerant cloud solutions using AWS, with expertise in automation, DevOps, security, and migration strategies.",
+    "work_experience": [
+        {
+            "job_title": "Junior AWS Cloud Solutions Architect",
+            "company": "EddyBerry Systems Technology",
+            "location": "Kennesaw, GA",
+            "dates": "May 2017 - Present",
+            "key_responsibilities": [
+                "Exposing and utilizing AWS core services (EC2",
+                "VPC",
+                "IAM",
+                "S3",
+                "etc.)",
+                "Creating custom IAM policies for system administrators and developers",
+                "Monitoring applications with CloudWatch",
+                "CloudTrail",
+                "and SNS",
+                "Developing and deploying CloudFormation templates and lambda functions across multiple regions",
+                "Automating on-premises application migration to AWS using SMS"
+            ]
+        },
+        {
+            "job_title": "Oracle Database Administrator",
+            "company": "Shiloh Industries, Inc",
+            "location": "Gainesville, GA",
+            "dates": "February 2014 - November 2016",
+            "key_responsibilities": [
+                "Installing and managing Oracle RAC and single instance installations",
+                "Resolving customer issues using a ticket tracking system",
+                "Performing storage management with ASM and performance tuning",
+                "Participating in Oracle version upgrades and patch set installation",
+                "Managing high-severity incidents from identification to resolution"
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor's in Computer Engineering",
+            "institution": "University of Buea",
+            "year_of_completion": ""
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "AWS Solution Architect (2 years)\",\n            \"Cloud Formation\",\n            \"Cloud Monitoring\",\n            \"Automation and deployment\",\n            \"Cloud Assessment and Migration\",\n            \"Continuous Integration, Delivery, and Testing with Jenkins"
+        ],
+        "tools_and_software": [
+            "CodeDeploy\",\n            \"CodePipeline\",\n            \"CloudFormation\",\n            \"CloudWatch\",\n            \"Lambda\",\n            \"SMS\",\n            \"RMAN\",\n            \"Jenkins\",\n            \"Jira\",\n            \"Splunk\",\n            \"DataDog\",\n            \"ELB\",\n            \"VPC\",\n            \"IAM\",\n            \"S3\",\n            \"RDS\",\n            \"EC2\",\n            \"EBS\",\n            \"AutoScaling\",\n            \"Elasticache"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

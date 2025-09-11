@@ -1,0 +1,55 @@
+{
+    "personal_information": {
+        "name": "Extracted Name",
+        "location": "Bowie, MD"
+    },
+    "professional_summary": "Database Administrator/Developer Lead with 8+ years of experience in database administration and development. Expertise in Oracle, SQL Server, Sybase systems, and cloud migrations. Proven track record in improving operational efficiency and reducing downtime.",
+    "work_experience": [
+        {
+            "job_title": "Lead Database Administrator/Developer",
+            "company": "Department of Housing and Urban Development",
+            "location": "Bowie, MD",
+            "dates": "2017 - Present",
+            "key_responsibilities": [
+                "Collaborating with a team to manage Oracle",
+                "SQL",
+                "and Sybase systems.",
+                "Gathering requirements for business and technical design.",
+                "Performing database monitoring and tuning."
+            ]
+        },
+        {
+            "job_title": "Production Support Database Administrator",
+            "company": "Citi Group",
+            "location": "Bowie, MD",
+            "dates": "2016 - 2017",
+            "key_responsibilities": [
+                "Overseeing a team of six production support analysts.",
+                "Ensuring SLAs are met through process and job corrections."
+            ]
+        },
+        {
+            "job_title": "Oracle Database Administrator",
+            "company": "Citi Group",
+            "location": "Bowie, MD",
+            "dates": "2015 - 2017",
+            "key_responsibilities": [
+                "Administering Oracle systems for high performance."
+            ]
+        }
+    ],
+    "education": [],
+    "skills": {
+        "technical_skills": [
+            "Databases (8+ years)\",\n            \"Database Administration (8+ years)\",\n            \"Database Development\",\n            \"Oracle DBA\",\n            \"SQL Server\",\n            \"Sybase Systems\",\n            \"Cloud Migration"
+        ],
+        "tools_and_software": [
+            "Oracle\",\n            \"SQL Server\",\n            \"Sybase\",\n            \"Microsoft SQL Server\",\n            \"Python\",\n            \"Shell Scripting"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

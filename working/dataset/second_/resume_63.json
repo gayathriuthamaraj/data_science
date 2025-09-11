@@ -1,0 +1,63 @@
+{
+    "personal_information": {
+        "name": "Extracted Name",
+        "location": "Waterloo, WI"
+    },
+    "professional_summary": "Experienced Business Intelligence Database Administrator with expertise in data warehouse implementation, database management, and advanced analytics tools.",
+    "work_experience": [
+        {
+            "job_title": "Business Intelligence Database Administrator",
+            "company": "American Family Insurance",
+            "location": "Waterloo, WI",
+            "dates": "June 2014 - Present",
+            "key_responsibilities": [
+                "Implementing mission-critical custom applications into the data warehouse.",
+                "Providing leadership in logical and physical design of custom applications.",
+                "Managing relationships with various teams throughout SDLC.",
+                "Supporting infrastructure",
+                "development",
+                "end users",
+                "and business contacts.",
+                "Creating a writeback environment in Greenplum for advanced analytics."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Library and Information Science",
+            "institution": "University of Wisconsin - Milwaukee",
+            "year_of_completion": "May 2017"
+        },
+        {
+            "degree": "Bachelor of Science in Information Science and Technology",
+            "institution": "University of Wisconsin - Milwaukee",
+            "year_of_completion": "May 2014"
+        },
+        {
+            "degree": "Bachelor of Arts in History",
+            "institution": "University of Wisconsin - Whitewater",
+            "year_of_completion": "August 2008"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "Oracle Database",
+            "MySQL",
+            "Greenplum",
+            "SQL Server"
+        ],
+        "tools_and_software": [
+            "Informatica",
+            "Attunity",
+            "Oracle Golden Gate",
+            "GPText",
+            "MadLIB",
+            "PostGIS"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

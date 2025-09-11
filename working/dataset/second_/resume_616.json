@@ -1,0 +1,74 @@
+{
+    "personal_information": {
+        "name": "Extracted Name",
+        "location": "Extracted Location"
+    },
+    "professional_summary": "Experienced professional with expertise in IT infrastructure, database management, system administration, and data integration. Skilled in SQL Server, Oracle, Active Directory, and system-wide optimization.",
+    "work_experience": [
+        {
+            "job_title": "SQL Database Administrator",
+            "company": "Globalsign.in - Hyderabad, Telangana",
+            "location": "Hyderabad, Telangana",
+            "dates": "June 2013 - June 2015",
+            "key_responsibilities": [
+                "Created and managed databases",
+                "optimized performance",
+                "and implemented high availability solutions.",
+                "Developed and maintained database objects such as procedures",
+                "functions",
+                "triggers",
+                "and indexes using T-SQL.",
+                "Optimized T-SQL queries and used SQL Profiler to improve query efficiency."
+            ]
+        },
+        {
+            "job_title": "SQL Database Developer",
+            "company": "Globalsign.in - Hyderabad, Telangana",
+            "location": "Hyderabad, Telangana",
+            "dates": "June 2013 - June 2015",
+            "key_responsibilities": [
+                "Designed and developed databases for various applications.",
+                "Implemented data integration and migration strategies.",
+                "Performed performance tuning and monitoring of T-SQL queries."
+            ]
+        },
+        {
+            "job_title": "System Administrator",
+            "company": "Bengaluru, Karnataka",
+            "location": "Bengaluru, Karnataka",
+            "dates": "August 2011 - February 2013",
+            "key_responsibilities": [
+                "Provided first-level support for Active Directory users and applications.",
+                "Managed network infrastructure and client setup.",
+                "Performed daily backups and system maintenance."
+            ]
+        },
+        {
+            "job_title": "SQL Server Administrator",
+            "company": "Globalsign.in - Hyderabad, Telangana",
+            "location": "Hyderabad, Telangana",
+            "dates": "June 2013 - June 2015",
+            "key_responsibilities": [
+                "Monitored and optimized SQL Server performance.",
+                "Managed schema objects and database integrity.",
+                "Performed regular maintenance tasks like index optimization and deadlock prevention."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor's Degree",
+            "institution": "Jawaharlal Nehru Technological University",
+            "year_of_completion": "2009"
+        }
+    ],
+    "skills": {
+        "technical_skills": [],
+        "tools_and_software": []
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

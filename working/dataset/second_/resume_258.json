@@ -1,0 +1,84 @@
+{
+    "personal_information": {
+        "name": "John Doe",
+        "location": "Somerville, MA"
+    },
+    "professional_summary": "Experienced Programmer Analyst with expertise in analyzing business and system needs, formulating integration needs, and creating comprehensive documentation using SDLC methodology. Proficient in database design, RPLSQL code review, and providing technical support.",
+    "work_experience": [
+        {
+            "job_title": "Programmer Analyst",
+            "company": "Chicago Transit Authority - Chicago, IL",
+            "location": "Chicago, IL",
+            "dates": "July 2002 - January 2004",
+            "key_responsibilities": [
+                "Worked with clients to analyze business and system needs.",
+                "Formulated and defined integration needs.",
+                "Created plan requirements",
+                "system functionalities",
+                "system testing",
+                "code changes",
+                "implementation support",
+                "ongoing customer support with weekly updates and documentation for the wireless project using SDLC methodology."
+            ]
+        },
+        {
+            "job_title": "Database Administrator",
+            "company": "Skokie, IL",
+            "location": "Skokie, IL",
+            "dates": "October 1999 - February 2001",
+            "key_responsibilities": [
+                "Designed Oracle databases for clinical trials processed in-house or contracted-out.",
+                "Interacted with graphics designers and other DBA teams to validate databases.",
+                "Performed RPLSQL Code Review of other DBA consistency checks."
+            ]
+        },
+        {
+            "job_title": "Help Desk Support",
+            "company": "Loyola University Law Computing Center - Chicago, IL",
+            "location": "Chicago, IL",
+            "dates": "January 1998 - June 1999",
+            "key_responsibilities": [
+                "Performed computer",
+                "software",
+                "and network troubleshooting to identify and diagnose problems.",
+                "Assisted with training and ongoing support on a variety of computer softwares and printers via phone and in person.",
+                "Documented all computer software issues and resolved them by the end of the day."
+            ]
+        },
+        {
+            "job_title": "Computer Operator",
+            "company": "CIBC Oppenheimer - Chicago, IL",
+            "location": "Chicago, IL",
+            "dates": "March 1997 - January 1998",
+            "key_responsibilities": [
+                "Coordinated with staff members on creating a database system that helped with the company's marketing campaign with mass mailings.",
+                "Assisted with data entries for the created databases and troubleshot software issues.",
+                "Provided ongoing help desk support internally and externally via phone and in person."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science in Business Administration in Information Systems and Systems Analysis and Design",
+            "institution": "Loyola University - Chicago, IL",
+            "year_of_completion": "1999"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "Ms Access",
+            "SQL",
+            "Epic",
+            "Excel",
+            "Outlook"
+        ],
+        "tools_and_software": [
+            ""
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

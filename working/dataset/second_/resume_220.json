@@ -1,0 +1,56 @@
+{
+    "personal_information": {
+        "name": "Extracted Name",
+        "location": "Erbil, Iraq"
+    },
+    "professional_summary": "Experienced Project Leader with seven years of successful experience meeting project objectives and goals. Possesses strong leadership, communication, and problem-solving skills. Holds a Bachelor's Degree in Project Management and is certified as a Lean Six Sigma Black Belt and PMP.",
+    "work_experience": [
+        {
+            "job_title": "Project Leader",
+            "company": "Kellogg, Brown & Root",
+            "location": "Erbil, Iraq",
+            "dates": "June 2018 - Present",
+            "key_responsibilities": [
+                "Leading multi-disciplined teams to meet client-focused and impactful objectives.",
+                "Effective team leadership with a focus on cultural differences and maximizing team contributions.",
+                "Strong communication skills that foster confidence in others to complete tasks safely and on schedule."
+            ]
+        },
+        {
+            "job_title": "Project Leader",
+            "company": "Michael Baker International",
+            "location": "Balad, Iraq",
+            "dates": "August 2015 - November 2016",
+            "key_responsibilities": [
+                "Assembling project teams and assigning responsibilities.",
+                "Standardizing material item descriptions using a logical sequence.",
+                "Preparing catalog spreadsheets and loading data into Maximo 7.6."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science in Business Administration",
+            "institution": "Purdue University",
+            "year_of_completion": "2018"
+        },
+        {
+            "degree": "Doctorate of Behavioral Health",
+            "institution": "Arizona State University",
+            "year_of_completion": "Not specified"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "Project Management\",\n            \"Lean Six Sigma Black Belt\",\n            \"PMP\",\n            \"Communication\",\n            \"Team Leadership"
+        ],
+        "tools_and_software": [
+            "Maximo 7.6\",\n            \"Barcoding Software\",\n            \"Microsoft Excel"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

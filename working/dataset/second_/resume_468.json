@@ -1,0 +1,91 @@
+{
+    "personal_information": {
+        "name": "Extracted Name",
+        "location": "Extracted Location"
+    },
+    "professional_summary": "Database Administrator with expertise in Oracle databases, experienced in database migrations, recovery strategies, installations, and performance monitoring across multiple organizations.",
+    "work_experience": [
+        {
+            "job_title": "Oracle Production Support Database Administrator",
+            "company": "FINISHLINE, Inc - Indianapolis, IN",
+            "location": "Indianapolis, IN",
+            "dates": "March 2013 - April 2016",
+            "key_responsibilities": [
+                "Cloned/Migrated databases using RMAN and traditional Datapump export/import utilities in Oracle 10gR2.",
+                "Implemented recovery strategies and successfully recovered databases in case of crashes",
+                "media/disk failures using RMAN.",
+                "Scheduled Physical backups (hot & cold) in CRON tab using RMAN utility and monitored scheduled jobs.",
+                "Installed and maintained Oracle 11g",
+                "12C RAC databases including Golden gate",
+                "ASM",
+                "and CRS.",
+                "Created Users",
+                "Groups",
+                "Roles",
+                "Profiles",
+                "and assigned privileges to users in the relevant groups.",
+                "Used SQL TRACE",
+                "TKPROF",
+                "EXPLAIN PLAN utilities for optimizing and tuning SQL queries.",
+                "Maintained data integrity and security using integrity constraints and database triggers.",
+                "Provided 24X7 support for all production and development databases.",
+                "Applied security patches (Patch set",
+                "Critical Patch Updates (CPU)",
+                "One-off Patch) using 'runInstaller' and perl-based utility 'opatch'.",
+                "Implemented Oracle's Transportable Tablespace (TTS) feature using Datapump Export/Import for quick user tablespace movement between databases."
+            ]
+        },
+        {
+            "job_title": "Database Administrator",
+            "company": "FINISHLINE, Inc - Indianapolis, IN",
+            "location": "Indianapolis, IN",
+            "dates": "March 2013 - April 2016",
+            "key_responsibilities": [
+                "Cloned/Migrated databases using RMAN and traditional Datapump export/import utilities in Oracle 10gR2.",
+                "Implemented recovery strategies and successfully recovered databases in case of crashes",
+                "media/disk failures using RMAN.",
+                "Scheduled Physical backups (hot & cold) in CRON tab using RMAN utility and monitored scheduled jobs.",
+                "Installed and maintained Oracle 11g",
+                "12C RAC databases including Golden gate",
+                "ASM",
+                "and CRS.",
+                "Created Users",
+                "Groups",
+                "Roles",
+                "Profiles",
+                "and assigned privileges to users in the relevant groups.",
+                "Used SQL TRACE",
+                "TKPROF",
+                "EXPLAIN PLAN utilities for optimizing and tuning SQL queries.",
+                "Maintained data integrity and security using integrity constraints and database triggers.",
+                "Provided 24X7 support for all production and development databases.",
+                "Applied security patches (Patch set",
+                "Critical Patch Updates (CPU)",
+                "One-off Patch) using 'runInstaller' and perl-based utility 'opatch'.",
+                "Implemented Oracle's Transportable Tablespace (TTS) feature using Datapump Export/Import for quick user tablespace movement between databases."
+            ]
+        },
+        {
+            "job_title": "Database Administrator",
+            "company": "Extracted Company Name - Extracted Location",
+            "location": "Extracted Location",
+            "dates": "Extracted Dates",
+            "key_responsibilities": [
+                "Responsible for database migrations and upgrades across multiple environments.",
+                "Developed and implemented complex database queries to support business operations.",
+                "Monitored and analyzed database performance metrics to ensure optimal system functionality.",
+                "Collaborated with IT teams to resolve application performance issues related to database configuration."
+            ]
+        }
+    ],
+    "education": [],
+    "skills": {
+        "technical_skills": [],
+        "tools_and_software": []
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

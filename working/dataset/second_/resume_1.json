@@ -1,0 +1,63 @@
+{
+    "personal_information": {
+        "name": "Extracted Name",
+        "location": "Roswell, GA"
+    },
+    "professional_summary": "Experienced Database Administrator with expertise in SQL Server across multiple versions. Proven track record in high availability solutions, backup/recovery processes, and database security configuration.",
+    "work_experience": [
+        {
+            "job_title": "Database Administrator",
+            "company": "Family Private Care LLC",
+            "location": "Roswell, GA",
+            "dates": "July 2013 - Present",
+            "key_responsibilities": [
+                "Install and configure SQL Server",
+                "Manage database backups and recovery processes",
+                "Optimize SQL Server performance and capacity planning",
+                "Collaborate with application teams for database management and troubleshooting",
+                "Ensure database security and compliance"
+            ]
+        },
+        {
+            "job_title": "Database Administrator",
+            "company": "Incomm Alpharetta",
+            "location": "Alpharetta, GA",
+            "dates": "July 2009 - June 2013",
+            "key_responsibilities": [
+                "Migrate/decommission over 500 databases within a 4-month project window",
+                "Review and enhance database security",
+                "performance",
+                "and disk space management",
+                "Assist application teams in creating databases",
+                "queries",
+                "and troubleshooting data issues",
+                "Monitor servers for resource utilization (disk space",
+                "memory",
+                "CPU)",
+                "Implement high availability solutions including mirroring",
+                "replication",
+                "log shipping"
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science",
+            "institution": "Lead City University",
+            "year_of_completion": "2013"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "Database Administration\",\n            \"SQL Server\",\n            \"SQL Server 2005, 2008 R2, 2012, 2014\",\n            \"Stored Procedures\",\n            \"Clustering\",\n            \"Backups\",\n            \"T-SQL Queries\",\n            \"Virtualization\",\n            \"Maintenance\",\n            \"Problem Solving\",\n            \"High Availability\",\n            \"Database Security\",\n            \"Mirroring\",\n            \"Replication\",\n            \"Log Shipping\",\n            \"Always On Availability Group"
+        ],
+        "tools_and_software": [
+            "SQL Profiler\",\n            \"Visual Studio\",\n            \"PowerBuilder\",\n            \"Toad Data Analyzer\",\n            \"Others"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

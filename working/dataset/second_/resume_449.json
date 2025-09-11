@@ -1,0 +1,53 @@
+{
+    "personal_information": {
+        "name": "Extracted Name",
+        "location": "Reading, PA"
+    },
+    "professional_summary": "Database Administrator with expertise in SQL Server optimization and database management.",
+    "work_experience": [
+        {
+            "job_title": "Database Administrator",
+            "company": "Webstaurant Store - Lititz, PA",
+            "location": "Lititz, PA",
+            "dates": "2016 to 2018",
+            "key_responsibilities": [
+                "Developed against databases to drive business solutions.",
+                "Collaborated with developers to identify opportunities for data structure improvement.",
+                "Wrote database queries and SQL utilities to perform data extract",
+                "data tuning",
+                "and analysis.",
+                "Generated reports to validate assumptions and recommend solutions.",
+                "Established and implemented best practices; optimized existing queries to perform better against servers.",
+                "Mastered SQL Server in less than one year.",
+                "Recognized for exemplary work as lead DBA on multiple projects; managed databases for cross-functional teams."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science in Business Administration in Management Information Systems",
+            "institution": "Shippensburg University of Pennsylvania - Shippensburg, PA",
+            "year_of_completion": "2015"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "DBA",
+            "SQL Dba",
+            "SQL Server",
+            "Microsoft Office",
+            "T-Sql",
+            "Time Management",
+            "Requirements Gathering",
+            "Sql Database"
+        ],
+        "tools_and_software": [
+            ""
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

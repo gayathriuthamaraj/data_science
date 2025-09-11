@@ -1,0 +1,53 @@
+{
+    "personal_information": {
+        "name": "Extracted Name",
+        "location": "Extracted Location"
+    },
+    "professional_summary": "Experienced Oracle Database Administrator with expertise in database migrations, performance tuning, and high-availability solutions using Golden Gate and Data Guard. Skilled in cloud migrations and proficient with tools like TOAD, Commvault, Idera, Jira, OEM, Azure, and SolarWinds.",
+    "work_experience": [
+        {
+            "job_title": "Extracted Job Title",
+            "company": "Extracted Company Name",
+            "location": "Extracted Location",
+            "dates": "2020 - 2023",
+            "key_responsibilities": [
+                "Performed Oracle database migrations and upgrades from on-premises to cloud environments.",
+                "Optimized database performance by resolving memory issues and tuning SGA/PGA settings.",
+                "Configured Golden Gate for unidirectional replication and ensured data synchronization."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Extracted Degree",
+            "institution": "Extracted University Name",
+            "year_of_completion": "Unknown"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "Oracle",
+            "SQL",
+            "Linux",
+            "Red Hat",
+            "RMAN",
+            "HTML",
+            "XML"
+        ],
+        "tools_and_software": [
+            "TOAD",
+            "Commvault",
+            "Idera Diagnostic Manager",
+            "Jira Service Desk",
+            "EOM",
+            "Golden Gate",
+            "Azure",
+            "SolarWinds"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

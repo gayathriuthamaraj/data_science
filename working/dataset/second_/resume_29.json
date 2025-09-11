@@ -1,0 +1,88 @@
+{
+    "personal_information": {
+        "name": "Not specified",
+        "location": "Greenbelt, MD"
+    },
+    "professional_summary": "Oracle Database Administrator with over seven years of experience in database design, monitoring, performance tuning, and security implementations. Possess strong analytical, verbal, written, and organizational abilities; experienced in managing large-scale databases, optimizing system performance, and implementing robust security measures. Proactive learner with a focus on staying updated on emerging technologies and best practices in database management.",
+    "work_experience": [
+        {
+            "job_title": "Oracle Database Administrator",
+            "company": "Uber Technologies Inc",
+            "location": "Greenbelt, MD",
+            "dates": "November 2017 - Present",
+            "key_responsibilities": [
+                "Constructing and implementing database security policies using passwords",
+                "privileges",
+                "and user profiles.",
+                "Designing and optimizing backup strategies for physical and logical backups using RMAN and Datapump utilities; reducing backup times with Block Change Tracking (BCT).",
+                "Resolving database space issues through optimization techniques.",
+                "Upgrading and migrating databases from 11g to 12c",
+                "ensuring seamless transitions and minimal downtime.",
+                "Monitoring database performance using AWR",
+                "ADDM",
+                "ASH",
+                "and other tools for proactive troubleshooting and performance tuning.",
+                "Implementing database partitioning",
+                "archiving",
+                "and cloning strategies to enhance efficiency and scalability.",
+                "Applying routine patches and updates while minimizing impact on production systems.",
+                "Utilizing Oracle Enterprise Manager (OEM) for centralized monitoring and management of database environments.",
+                "Performing capacity planning to ensure infrastructure scalability based on workload demands.",
+                "Improving user satisfaction by reducing downtime through efficient problem resolution and proactive maintenance."
+            ]
+        },
+        {
+            "job_title": "Database Administrator/Developer",
+            "company": "SYSCO",
+            "location": "Greenbelt, MD",
+            "dates": "March 2015 - October 2017",
+            "key_responsibilities": [
+                "Installing and configuring Oracle databases on both Windows and Linux platforms using the Oracle Configuration Architecture (OCA).",
+                "Using DataPump and RMAN utilities for database refreshes",
+                "backups",
+                "and migrations.",
+                "Implementing security policies including Transparent Data Encryption (TDE)",
+                "triple-A authentication (AAA)",
+                "and auditing policies to protect sensitive data.",
+                "Managing roles",
+                "privileges",
+                "and user access based on activity and audit requirements.",
+                "Supporting a 24x7 remote environment with on-call rotation to address critical issues promptly.",
+                "Contributing to the development of ETL processes using Informatica and other tools for data extraction and transformation."
+            ]
+        },
+        {
+            "job_title": "Junior DBA",
+            "company": "NFI",
+            "location": "Greenbelt, MD",
+            "dates": "March 2012 - January 2015",
+            "key_responsibilities": [
+                "Assisting in database migrations from 10g to 11g using DataPump and DBUA utilities.",
+                "Performing database refreshes and copies using Data Pump IMP/EXP and RMAN duplicate technology.",
+                "Installing and administering Oracle and SQL Server software on Windows and Linux platforms",
+                "adhering to the Oracle File Architecture (OFA).",
+                "Developing and implementing backup strategies that meet company Service Level Agreements (SLAs); optimizing backups with Block Change Tracking (BCT) to reduce time.",
+                "Deploying security policies including Transparent Data Encryption (TDE)",
+                "triple-A authentication (AAA)",
+                "and auditing policies; managing roles",
+                "privileges",
+                "and user access.",
+                "Contributing to the resolution of complex performance issues through tuning and optimization techniques."
+            ]
+        }
+    ],
+    "education": [],
+    "skills": {
+        "technical_skills": [
+            "DATABASE\",\n            \"ORACLE\",\n            \"PL/SQL\",\n            \"SQL\",\n            \"ENCRYPTION\",\n            \"RMAN\",\n            \"LINUX\",\n            \"SHELL SCRIPTING\",\n            \"UNIX\",\n            \"ETL\",\n            \"INFORMATICA\",\n            \"BASH\",\n            \"SECURITY"
+        ],
+        "tools_and_software": [
+            "Oracle Dba\",\n            \"SQL Server Links (LinkedIn)\",\n            \"OCA Certification\",\n            \"OCP in Progress"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

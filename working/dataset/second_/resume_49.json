@@ -1,0 +1,53 @@
+{
+    "personal_information": {
+        "name": "Extracted Name",
+        "location": "Bengaluru"
+    },
+    "professional_summary": "Experienced Oracle Database Administrator with expertise in database management, performance tuning, backups, security patches, and troubleshooting. Proficient in managing production, development, and test databases, leveraging tools like Toad and Data Pump for efficient operations.",
+    "work_experience": [
+        {
+            "job_title": "Oracle Database Administrator, Operations - Data Management",
+            "company": "Ameriprise Financials",
+            "location": "Bengaluru",
+            "dates": "March 2010 - February 2014",
+            "key_responsibilities": [
+                "Managing production",
+                "development",
+                "and test databases.",
+                "Monitoring database performance and optimizing databases to improve efficiency.",
+                "Applying database security patches and upgrades as needed.",
+                "Handling daily backups and disaster recovery processes.",
+                "Maintaining partitioned tables and cloning databases for testing purposes.",
+                "Responding to application requests and resolving ORA errors.",
+                "Generating performance reports and collaborating with DevOps teams on database deployments.",
+                "Replicating data using Oracle GoldenGate for high availability."
+            ]
+        },
+        {
+            "job_title": "Oracle Database Administrator, Operations - Data Management",
+            "company": "Ameriprise Financials",
+            "location": "Bengaluru",
+            "dates": "Present",
+            "key_responsibilities": [
+                "Continuing responsibilities from previous role with expanded focus on database replication and scalability.",
+                "Implementing advanced database tuning techniques to improve query performance.",
+                "Overseeing database migrations and ensuring smooth transitions during system upgrades.",
+                "Collaborating with cross-functional teams to resolve complex database issues."
+            ]
+        }
+    ],
+    "education": [],
+    "skills": {
+        "technical_skills": [
+            "Oracle Database Administration\",\n            \"SQL Server Management\",\n            \"PL/SQL Programming\",\n            \"Linux and Unix System Administration\",\n            \"Shell Scripting\",\n            \"Database Performance Tuning\",\n            \"Data Backup and Recovery\",\n            \"Security Patch Application\",\n            \"Database Partitioning and Cloning\",\n            \"Application Request Handling\",\n            \"ORA Error Resolution\",\n            \"Oracle GoldenGate Replication"
+        ],
+        "tools_and_software": [
+            "Toad\",\n            \"Putty\",\n            \"PL/SQL Developer\",\n            \"WinSCP\",\n            \"RMAN\",\n            \"Data Pump\",\n            \"SQL Loader\",\n            \"BMC Remedy\",\n            \"ManageNow\",\n            \"ServiceNow\",\n            \"Oracle Support Tools"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

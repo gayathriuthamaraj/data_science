@@ -1,0 +1,80 @@
+{
+    "personal_information": {
+        "name": "John Doe",
+        "location": "Niantic, CT"
+    },
+    "professional_summary": "Financial Analyst with expertise in accounting, forecasting, budgeting, and financial reporting. Proficient in Microsoft Word and Excel. Experienced in creating dashboards, analyzing reports, and managing budgets.",
+    "work_experience": [
+        {
+            "job_title": "Financial Analyst",
+            "company": "Goodwin College - East Hartford, CT",
+            "location": "East Hartford, CT",
+            "dates": "2017-Present",
+            "key_responsibilities": [
+                "Create new automated and interactive dashboards to assess the college's financial status.",
+                "Analyze monthly expense reports and identify sources of unfavorable variances from budget.",
+                "Communicate between administrative",
+                "programmatic",
+                "and financial departments to develop the college's annual budget."
+            ]
+        },
+        {
+            "job_title": "Accounting Assistant",
+            "company": "4AllPromos/4AllGifts - Essex, CT",
+            "location": "Essex, CT",
+            "dates": "2016-2017",
+            "key_responsibilities": [
+                "Manage incoming/outgoing payments for a multi-million dollar company.",
+                "Create sales and expense reports.",
+                "Generate aging reports and initiate efforts to secure payment from delinquent customers."
+            ]
+        },
+        {
+            "job_title": "Database Administrator",
+            "company": "Saybrook Country Barn",
+            "location": "Saybrook, CT",
+            "dates": "2015-2016",
+            "key_responsibilities": [
+                "Generate purchase orders and invoices.",
+                "Manage a team of 3-4 product receiving employees and create procedures that reduced discrepancies during annual inventory count."
+            ]
+        },
+        {
+            "job_title": "Substitute Teacher",
+            "company": "East Lyme Public Schools",
+            "location": "East Lyme, CT",
+            "dates": "2011-2013",
+            "key_responsibilities": [
+                "Manage K-12 classrooms.",
+                "Tutor the town's MathCounts team",
+                "finishing second place in state competition and sending one student to national competition."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor's in Mathematics",
+            "institution": "University of Connecticut - Storrs, CT",
+            "year_of_completion": "2011"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "Accounting",
+            "Forecasting",
+            "Budgeting",
+            "Financial Reporting",
+            "Pivot Tables",
+            "Financial Analysis"
+        ],
+        "tools_and_software": [
+            "Microsoft Word",
+            "Excel"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

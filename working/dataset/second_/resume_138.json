@@ -1,0 +1,71 @@
+{
+    "personal_information": {
+        "name": "Extracted Name",
+        "location": "Extracted Location"
+    },
+    "professional_summary": "Experienced Database Administrator with expertise in Oracle databases and ERP systems, providing technical support to federal institutions.",
+    "work_experience": [
+        {
+            "job_title": "Senior Software Developer",
+            "company": "RELIABLE GOVERNMENT SOLUTIONS INC",
+            "location": "Bel Air, MD",
+            "dates": "June 2014 - Present",
+            "key_responsibilities": [
+                "Providing technical support to federal institutions such as the United States Naval Academy (USNA) Information Engineering Department.",
+                "Developing SQL scripts and PL/SQL stored procedures",
+                "functions",
+                "and triggers.",
+                "Analyzing requirements for business processes and system documentation."
+            ]
+        },
+        {
+            "job_title": "Database Administrator",
+            "company": "INDEPENDENT SOFTWARE INC",
+            "location": "Columbia, MD",
+            "dates": "February 2013 - September 2013",
+            "key_responsibilities": [
+                "Managing Oracle databases supporting IAD requirements.",
+                "Migrating databases from Oracle 10g to 11.2.0.3 and configuring a new database sandbox.",
+                "Monitoring and maintaining packages",
+                "stored procedures",
+                "functions",
+                "and backups."
+            ]
+        },
+        {
+            "job_title": "Database Administrator",
+            "company": "TANAGER INC",
+            "location": "Annapolis Junction, MD",
+            "dates": "October 2011 - November 2012",
+            "key_responsibilities": [
+                "Supporting database operations and maintaining data integrity.",
+                "Assisting in database migrations and performance optimization."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor's Degree",
+            "institution": "Strayer University",
+            "year_of_completion": "2011"
+        },
+        {
+            "degree": "Master's Degree",
+            "institution": "Strayer University",
+            "year_of_completion": "2013"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "Database Administration\",\n            \"Oracle Database Management\",\n            \"ERP Systems\",\n            \"SQL Development\",\n            \"Data Analysis"
+        ],
+        "tools_and_software": [
+            "Oracle\",\n            \"Microsoft SQL Server\",\n            \"MySQL\",\n            \"Java\",\n            \"Python"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

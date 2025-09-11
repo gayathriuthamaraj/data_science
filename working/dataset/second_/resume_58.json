@@ -1,0 +1,57 @@
+{
+    "personal_information": {
+        "name": "Extracted Name",
+        "location": "Austin, TX"
+    },
+    "professional_summary": "Experienced Oracle Database Administrator with expertise in RAC, ASM, Data Guard, Golden Gate Replication, Performance Tuning, and TDE Implementation.",
+    "work_experience": [
+        {
+            "job_title": "Oracle DBA",
+            "company": "Admiral Insurance Company",
+            "location": "Austin, TX",
+            "dates": "November 2012 - September 2015",
+            "key_responsibilities": [
+                "Maintained and optimized Oracle databases",
+                "including RAC/ASM configuration on RedHat systems.",
+                "Implemented Data Guard solutions with DG Broker and Active Data Guard.",
+                "Configured Golden Gate replication for bidirectional data transfer.",
+                "Performed database performance monitoring and tuning using AWR and Explain Plan.",
+                "Managed database growth and optimized storage allocation."
+            ]
+        },
+        {
+            "job_title": "Oracle DBA",
+            "company": "Insurance Company",
+            "location": "Austin, TX",
+            "dates": "November 2012 - September 2015",
+            "key_responsibilities": [
+                "Migrated databases to ASM and configured RAC/ASM on RedHat Enterprise Linux.",
+                "Implemented Data Pump for database reorganization and migration between Oracle versions.",
+                "Defined backup strategies with daily hot backups and weekly cold backups.",
+                "Monitored database performance using AWR",
+                "STATSPACK",
+                "and TKPROF tools."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Extracted Degree",
+            "institution": "Extracted University Name",
+            "year_of_completion": "Extracted Year"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "Oracle Database Administration\",\n            \"RAC/ASM Configuration\",\n            \"Data Guard Implementation\",\n            \"Golden Gate Replication\",\n            \"Database Performance Tuning\",\n            \"Transparent Data Encryption (TDE)\",\n            \"Database Migration and Optimization"
+        ],
+        "tools_and_software": [
+            "AWR\",\n            \"STATSPACK\",\n            \"Data Pump\",\n            \"TKPROF\",\n            \"EXPLAIN PLAN\",\n            \"TOAD\",\n            \"Oracle Support"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "personal_information": {
+        "name": "John Doe",
+        "location": "Brentwood Services Administrators - Brentwood, TN"
+    },
+    "professional_summary": "Database Administrator and Sysadmin with expertise in database maintenance, software deployment, and IT support. Experience includes leading large-scale projects like Windows 10 upgrades and working closely with vendors for hardware procurement.",
+    "work_experience": [
+        {
+            "job_title": "Database Administrator I/Sysadmin",
+            "company": "Brentwood Services Administrators",
+            "location": "Brentwood, TN",
+            "dates": "June 2016 - Present",
+            "key_responsibilities": [
+                "Assists in database maintenance and job creation.",
+                "Upgrades databases from Windows Server 2008R2 to 2016.",
+                "Maintains WSUS environment",
+                "MDT",
+                "and WDS deployment applications."
+            ]
+        },
+        {
+            "job_title": "IT Support",
+            "company": "Brentwood Services Administrators",
+            "location": "Brentwood, TN",
+            "dates": "May 2016 - Present",
+            "key_responsibilities": [
+                "Resolves Tier 1 and 2 support tickets.",
+                "Installs",
+                "configures",
+                "and maintains computers",
+                "phones",
+                "printers",
+                "and projectors.",
+                "Explainst technical issues to end-users in an easy-to-understand manner."
+            ]
+        },
+        {
+            "job_title": "Private Contractor",
+            "company": "Nashville, TN",
+            "location": "Private Contract",
+            "dates": "August 2012 - Present",
+            "key_responsibilities": [
+                "Provides computer repair and network installation/configuration.",
+                "Orders and constructs high-performance computer hardware and servers."
+            ]
+        },
+        {
+            "job_title": "IT Intern",
+            "company": "Brentwood Services Administrators",
+            "location": "Brentwood, TN",
+            "dates": "December 2014 - May 2015",
+            "key_responsibilities": [
+                "Assists with server relocation and setup.",
+                "Experience in networking and physical network drops."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "B.A. in English",
+            "institution": "Aquinas College - Nashville, TN",
+            "year_of_completion": "2016"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "SQL\",\n            \"T-SQL\",\n            \"Windows OS\",\n            \"Windows Server\",\n            \"Database Administration\",\n            \"DBA\",\n            \"Computer Hardware\",\n            \"Troubleshooting"
+        ],
+        "tools_and_software": [
+            "MDT\",\n            \"WDS\",\n            \"WSUS\",\n            \"SCCM\",\n            \"Azure"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

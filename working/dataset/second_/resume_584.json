@@ -1,0 +1,45 @@
+{
+    "personal_information": {
+        "name": "Extracted Name",
+        "location": "Gaithersburg, MD"
+    },
+    "professional_summary": "Proven experience in delivering Oracle Database Administration strategies leading to improved business performance through technical solutions.",
+    "work_experience": [
+        {
+            "job_title": "Oracle Database Administrator",
+            "company": "K & K Consulting",
+            "location": "Gaithersburg, MD",
+            "dates": "January 2017 - Present",
+            "key_responsibilities": [
+                "Installing Oracle on Linux and Windows machines and creating databases.",
+                "Creating users & Roles",
+                "assigning roles and granting/revoking privileges.",
+                "Creating and Managing tablespaces",
+                "data files",
+                "and performing regular growth checks."
+            ]
+        },
+        {
+            "job_title": "Oracle Database Administrator",
+            "company": "TFS group Inc",
+            "location": "Washington, DC",
+            "dates": "September 2015 - January 2017",
+            "key_responsibilities": [
+                "Installing Oracle and managing databases with similar responsibilities as above.",
+                "Conducting database backups",
+                "recovery activities using RMAN",
+                "and cloning processes."
+            ]
+        }
+    ],
+    "education": [],
+    "skills": {
+        "technical_skills": [],
+        "tools_and_software": []
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

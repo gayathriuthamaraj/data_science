@@ -1,0 +1,82 @@
+{
+    "personal_information": {
+        "name": "Erik Burton",
+        "location": "Saint George, UT"
+    },
+    "professional_summary": "QA Engineer with extensive experience in software development and testing, including performance, functional, integration, system, regression, and user acceptance testing. Proficient in Ruby on Rails, PHP, Python, Scrum, Agile methodologies, Selenium, Jenkins, Test Automation, and TestRail. Committed to process improvement and streamlining project issues.",
+    "work_experience": [
+        {
+            "job_title": "QA Engineer",
+            "company": "PrinterLogic",
+            "location": "Saint George, UT",
+            "dates": "October 2016 - Present",
+            "key_responsibilities": [
+                "Conducting performance",
+                "functional",
+                "integration",
+                "system",
+                "regression",
+                "and user acceptance testing.",
+                "Utilizing Selenium",
+                "Jenkins",
+                "TestRail",
+                "and Ruby on Rails for test automation.",
+                "Collaborating with cross-functional teams to resolve project issues and streamline processes."
+            ]
+        },
+        {
+            "job_title": "Software Developer",
+            "company": "Franklin Covey",
+            "location": "Saint George, UT",
+            "dates": "September 2015 - Present",
+            "key_responsibilities": [
+                "Adjusting customer-requested code for the loyalty program.",
+                "Revising code to update customer locations.",
+                "Assisting QA with acceptance testing and system documentation."
+            ]
+        },
+        {
+            "job_title": "Database Administrator",
+            "company": "Franklin Covey",
+            "location": "Saint George, UT",
+            "dates": "December 2014 - September 2015",
+            "key_responsibilities": [
+                "Setting up and configuring new assessments using MySQL and DBVisualizer.",
+                "Managing and pushing SOAP feed updates monthly.",
+                "Assisting QA with acceptance testing."
+            ]
+        },
+        {
+            "job_title": "Fulfillment Specialist",
+            "company": "Boart Longyear",
+            "location": "Saint George, UT",
+            "dates": "July 2011 - May 2014",
+            "key_responsibilities": [
+                "Maintaining over 1",
+                "000 SKU's of diamond bits across 13 global distribution centers.",
+                "Optimizing inventory levels using statistical models to reduce on-hand inventory by approximately $4 million.",
+                "Applying lean manufacturing to reduce lead times from three weeks to seven days."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "B.S. in Software Development",
+            "institution": "Western Governor's University",
+            "year_of_completion": "2021"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "Ruby on Rails (4 years)\",\n            \"HTML 5 (4 years)\",\n            \"CSS (4 years)\",\n            \"Github (4 years)\",\n            \"JavaScript (4 years)\",\n            \"MySQL (4 years)\",\n            \"Python (4 years)\",\n            \"Selenium (4 years)\",\n            \"Jenkins (4 years)\",\n            \"TestRail (4 years)\",\n            \"Atlassian Confluence (4 years)\",\n            \"Microsoft Office Suite (4 years)\",\n            \"VMware (4 years)\",\n            \"PostgreSQL (4 years)\",\n            \"Citrix (4 years)\",\n            \"VLANs/LANS/WANS (4 years)\",\n            \"Python (4 years)"
+        ],
+        "tools_and_software": [
+            "Selenium\",\n            \"Jenkins\",\n            \"TestRail\",\n            \"Atlassian Confluence\",\n            \"Microsoft Office Suite\",\n            \"VMware\",\n            \"PostgreSQL\",\n            \"Citrix\",\n            \"VLANs/LANS/WANS"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

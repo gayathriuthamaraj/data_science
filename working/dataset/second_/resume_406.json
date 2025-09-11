@@ -1,0 +1,50 @@
+{
+    "personal_information": {
+        "name": "Sam2Walt@gmail.com",
+        "location": "Suwanee, GA"
+    },
+    "professional_summary": "Experienced SQL Database Administrator with over 4 years of expertise in database management, backup strategies, disaster recovery, and performance optimization.",
+    "work_experience": [
+        {
+            "job_title": "SQL Database Administrator",
+            "company": "MIMAKI USA INC",
+            "location": "Suwanee, GA",
+            "dates": "2008 to Present",
+            "key_responsibilities": [
+                "Installed",
+                "configured",
+                "and maintained databases in production",
+                "development",
+                "and quality assurance environments.",
+                "Monitored databases for performance and tuning.",
+                "Developed and implemented backup and disaster recovery procedures.",
+                "Assessed new technologies' impact on database consistency and reliability.",
+                "Assisted in partitioning schemas",
+                "tables",
+                "and indexes.",
+                "Scheduled Full/Differential and Transactional log backups using Maintenance Plan Wizard and T-SQL.",
+                "Monitored and administered clustering periodically."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "B.Sc",
+            "institution": "KNUST GHANA - Kumasi",
+            "year_of_completion": "Not explicitly mentioned"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "Database Mirroring, Log Shipping, and Replication Configurations\",\n            \"Backup strategies\",\n            \"Restore and Recovery Options\",\n            \"Performance Monitoring, Query Troubleshooting & Tuning\",\n            \"DB Engine Tuning Advisor, DMV's, SQL Profiler\",\n            \"Monitoring Cluster (Active/Active and Active/Passive)\",\n            \"T-SQL, Database Design Techniques, Partitioning Strategy\",\n            \"SSRS and SSIS (ETL) Packages, Import - Export, Data Migration\",\n            \"SQL Code and design (stored procedures, functions, tables, views, triggers, indexes, constraints)\",\n            \"ERP Systems (Microsoft Dynamic AX 4.0, 2009 & 2012)"
+        ],
+        "tools_and_software": [
+            "Microsoft SQL Server 2005/2008, 2008R2 & 2012\",\n            \"Database Maintenance Plan Wizard\",\n            \"T-SQL"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}

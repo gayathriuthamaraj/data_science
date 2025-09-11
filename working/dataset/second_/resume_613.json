@@ -1,0 +1,60 @@
+{
+    "personal_information": {
+        "name": "Kevin",
+        "location": "Wilmington, DE"
+    },
+    "professional_summary": "Database Administrator/Developer with expertise in database management, automation tool development, and DevOps practices. Experienced in creating batch clients, developing WebUI applications, and implementing API systems for efficient server management.",
+    "work_experience": [
+        {
+            "job_title": "Database Administrator/Developer",
+            "company": "BlackRock Inc",
+            "location": "Wilmington, DE",
+            "dates": "December 2014 - July 2019",
+            "key_responsibilities": [
+                "Developed and implemented automation tools for database health and consistency.",
+                "Created batch clients to manage new client data servers efficiently.",
+                "Built three WebUI applications for managing dataservers in bulk."
+            ]
+        },
+        {
+            "job_title": "Software Engineer/Support Escalation",
+            "company": "SevOne Inc",
+            "location": "Wilmington, DE",
+            "dates": "June 2014 - August 2014",
+            "key_responsibilities": [
+                "Contributed to NetFlow monitor development.",
+                "Created an automated performance testing tool using LXC for OS distribution testing."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor's in Computer Science",
+            "institution": "University of Delaware",
+            "year_of_completion": "2015"
+        },
+        {
+            "degree": "Associate",
+            "institution": "University of Delaware",
+            "year_of_completion": "2013"
+        },
+        {
+            "degree": "High school or equivalent",
+            "institution": "Charter School of Wilmington",
+            "year_of_completion": "2011"
+        }
+    ],
+    "skills": {
+        "technical_skills": [
+            "MYSQL, REPLICATION, SQL, SQLITE, SYBASE, C#, C/C++\",\n            \"Git, Perl, PHP, Python, Scripting, SVN, Linux, UNIX, GNU, LUA, JIRA, VMWARE, DBA, Postgresql"
+        ],
+        "tools_and_software": [
+            "Jira, Fisheye, Crucible, Git, SVN, LXC, Openstack"
+        ]
+    },
+    "additional_information": {
+        "certifications": [],
+        "languages": [],
+        "achievements": []
+    }
+}
